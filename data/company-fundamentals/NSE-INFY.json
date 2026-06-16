@@ -1,0 +1,152 @@
+{
+  "company": "INFY",
+  "symbol": "INFY",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-07T07:59:05+00:00",
+  "valuation": {
+    "lastPrice": 1197.5,
+    "issuedShares": 4150000000,
+    "marketCapCrore": 496962.5,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "14.38",
+      "publicPercent": "85.38",
+      "employeeTrustPercent": "0.23",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1652323_16042026045034_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "LIFE INSURANCE CORPORATION OF INDIA - ULIF00220091",
+          "percent": 11.54,
+          "shares": 432782872
+        },
+        {
+          "name": "ICICI PRUDENTIAL MUTUAL FUND",
+          "percent": 4.74,
+          "shares": 177653879
+        },
+        {
+          "name": "SBI MUTUAL FUND",
+          "percent": 4.66,
+          "shares": 174628701
+        },
+        {
+          "name": "National Pension System Trust",
+          "percent": 2.99,
+          "shares": 112180175
+        },
+        {
+          "name": "SUDHA GOPALAKRISHNAN",
+          "percent": 2.54,
+          "shares": 95357000
+        },
+        {
+          "name": "NIPPON LIFE INDIA TRUSTEE",
+          "percent": 2.24,
+          "shares": 84066207
+        },
+        {
+          "name": "HDFC MUTUAL FUND",
+          "percent": 2.04,
+          "shares": 76375295
+        },
+        {
+          "name": "UTI MUTUAL FUND",
+          "percent": 1.77,
+          "shares": 66441623
+        },
+        {
+          "name": "ROHAN MURTY",
+          "percent": 1.62,
+          "shares": 60812892
+        },
+        {
+          "name": "SBI LIFE INSURANCE CO. LTD",
+          "percent": 1.41,
+          "shares": 52826814
+        },
+        {
+          "name": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+          "percent": 1.34,
+          "shares": 50243818
+        },
+        {
+          "name": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+          "percent": 1.27,
+          "shares": 47583216
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 37933.0,
+      "profitLossCrore": 5945.0,
+      "issuedShares": 4140000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_94298_895038_20072023043507.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 32629.0,
+      "profitLossCrore": 6245.0,
+      "issuedShares": 4150000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_97546_949346_12102023044350.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 32491.0,
+      "profitLossCrore": 6552.0,
+      "issuedShares": 4150000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_101014_1017148_11012024062854.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 37923.0,
+      "profitLossCrore": 7975.0,
+      "issuedShares": 4142000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104589_1099938_19042024112830.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 39315.0,
+      "profitLossCrore": 6374.0,
+      "issuedShares": 4144000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_109110_1192961_18072024074507.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 40986.0,
+      "profitLossCrore": 6516.0,
+      "issuedShares": 4144000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_112851_1276022_17102024074550.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 34915.0,
+      "profitLossCrore": 6358.0,
+      "issuedShares": 4150000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_117294_1348219_16012025074210.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=INFY: HTTP Error 403: Forbidden"
+  ]
+}

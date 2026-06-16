@@ -1,0 +1,117 @@
+{
+  "company": "TCS",
+  "symbol": "TCS",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-07T07:53:45+00:00",
+  "valuation": {
+    "lastPrice": 2198.9,
+    "issuedShares": 3620000000,
+    "marketCapCrore": 796001.76,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "71.77",
+      "publicPercent": "28.23",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1656226_21042026035436_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "Tata Sons Private Limited",
+          "percent": 71.74,
+          "shares": 2595499419
+        },
+        {
+          "name": "LIC of India",
+          "percent": 5.52,
+          "shares": 199553451
+        },
+        {
+          "name": "Sbi Nifty 50 Etf",
+          "percent": 1.25,
+          "shares": 45239395
+        },
+        {
+          "name": "ICICI Prudential Value Fund",
+          "percent": 1.06,
+          "shares": 38172688
+        },
+        {
+          "name": "Tata Investment Corporation Limited",
+          "percent": 0.03,
+          "shares": 1004425
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 49862.0,
+      "profitLossCrore": 10484.0,
+      "issuedShares": 3660000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_94157_882124_12072023084721.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 59692.0,
+      "profitLossCrore": 11380.0,
+      "issuedShares": 3660000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_97534_948104_11102023102856.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 50844.0,
+      "profitLossCrore": 10753.0,
+      "issuedShares": 3620000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_101017_1017396_11012024084148.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 51488.0,
+      "profitLossCrore": 11393.0,
+      "issuedShares": 3620000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104550_1090534_12042024090438.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 62613.0,
+      "profitLossCrore": 12105.0,
+      "issuedShares": 3620000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_108962_1181103_11072024081006.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 64259.0,
+      "profitLossCrore": 11955.0,
+      "issuedShares": 3620000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_112733_1265368_10102024065944.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 63973.0,
+      "profitLossCrore": 12444.0,
+      "issuedShares": 3620000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_117182_1341298_09012025093940.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=TCS: HTTP Error 403: Forbidden"
+  ]
+}

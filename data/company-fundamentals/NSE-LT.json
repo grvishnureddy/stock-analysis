@@ -1,0 +1,152 @@
+{
+  "company": "LT",
+  "symbol": "LT",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-07T08:00:14+00:00",
+  "valuation": {
+    "lastPrice": 3953.2,
+    "issuedShares": 1375150000,
+    "marketCapCrore": 543624.29,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "0",
+      "publicPercent": "100",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1652548_16042026061922_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "L&T EMPLOYEES TRUST",
+          "percent": 14.6,
+          "shares": 198679507
+        },
+        {
+          "name": "LIFE INSURANCE CORPORATION OF INDIA",
+          "percent": 12.51,
+          "shares": 170327420
+        },
+        {
+          "name": "SBI MUTUAL FUND",
+          "percent": 4.54,
+          "shares": 61778496
+        },
+        {
+          "name": "ICICI PRUDENTIAL MUTUAL FUND",
+          "percent": 3.91,
+          "shares": 53251701
+        },
+        {
+          "name": "NPS TRUST A/C - SBI PENSION FUND - UPS - CG  SCHEM",
+          "percent": 3.29,
+          "shares": 44828833
+        },
+        {
+          "name": "HDFC MUTUAL FUND",
+          "percent": 2.05,
+          "shares": 27955760
+        },
+        {
+          "name": "NIPPON LIFE INDIA TRUSTEE LTD",
+          "percent": 1.67,
+          "shares": 22769781
+        },
+        {
+          "name": "GOVERNMENT OF SINGAPORE",
+          "percent": 1.59,
+          "shares": 21592388
+        },
+        {
+          "name": "UTI MUTUAL FUND",
+          "percent": 1.55,
+          "shares": 21147408
+        },
+        {
+          "name": "GENERAL INSURANCE CORPORATION OF INDIA",
+          "percent": 1.49,
+          "shares": 20310650
+        },
+        {
+          "name": "SBI LIFE INSURANCE CO. LTD",
+          "percent": 1.12,
+          "shares": 15246344
+        },
+        {
+          "name": "ICICI PRUDENTIAL LIFE INSURANCE COMPANY LIMITED",
+          "percent": 1.07,
+          "shares": 14561355
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 26930.54,
+      "profitLossCrore": 1792.36,
+      "issuedShares": 1405550000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_94555_900393_26072023024804.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 28151.12,
+      "profitLossCrore": 2709.72,
+      "issuedShares": 1374400000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_98381_973029_01112023123527.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 31600.92,
+      "profitLossCrore": 2136.18,
+      "issuedShares": 1374550000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_101843_1040031_31012024025716.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 39553.27,
+      "profitLossCrore": 2666.07,
+      "issuedShares": 1374650000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105518_1118922_09052024035805.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 30278.75,
+      "profitLossCrore": 2961.34,
+      "issuedShares": 1374850000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_109441_1202074_25072024014806.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 34918.36,
+      "profitLossCrore": 1993.11,
+      "issuedShares": 1375000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_114074_1295179_31102024032410.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 34984.28,
+      "profitLossCrore": 2419.38,
+      "issuedShares": 1375150000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_118261_1367033_31012025015753.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=LT: HTTP Error 403: Forbidden"
+  ]
+}

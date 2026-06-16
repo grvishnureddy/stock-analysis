@@ -1,0 +1,147 @@
+{
+  "company": "Ganga Forging Limited",
+  "symbol": "GANGAFORGE",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-12T09:12:10+00:00",
+  "valuation": {
+    "lastPrice": 2.57,
+    "issuedShares": 134802000,
+    "marketCapCrore": 34.64,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "35.51",
+      "publicPercent": "64.49",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1648228_09042026055341_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "Hiralal Mahidas Tilva",
+          "percent": 10.01,
+          "shares": 13495411
+        },
+        {
+          "name": "Rakesh Chhaganlal Patel",
+          "percent": 4.58,
+          "shares": 6172240
+        },
+        {
+          "name": "Harsh Manishbhai Nar",
+          "percent": 3.87,
+          "shares": 5212820
+        },
+        {
+          "name": "Hetal Mayurkumar Kalaria",
+          "percent": 2.77,
+          "shares": 3733330
+        },
+        {
+          "name": "Sheetal Sanjivkumar Chaniara",
+          "percent": 2.77,
+          "shares": 3733330
+        },
+        {
+          "name": "Shitalben Manishkumar Nar",
+          "percent": 2.57,
+          "shares": 3470140
+        },
+        {
+          "name": "Daxaben Hiralal Tilva",
+          "percent": 2.06,
+          "shares": 2772215
+        },
+        {
+          "name": "Avni Nileshkumar Dadhaniya",
+          "percent": 2.03,
+          "shares": 2733330
+        },
+        {
+          "name": "Parulben Rakeshbhai Patel",
+          "percent": 1.95,
+          "shares": 2625696
+        },
+        {
+          "name": "Manishkumar Chhaganbhai Nar",
+          "percent": 1.92,
+          "shares": 2587840
+        },
+        {
+          "name": "Sanjiv V V",
+          "percent": 0.99,
+          "shares": 1337000
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 9.86,
+      "profitLossCrore": 0.12,
+      "issuedShares": 105964000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_96149_913391_10082023052433.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 8.57,
+      "profitLossCrore": 0.22,
+      "issuedShares": 105964000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_97576_952494_14102023055034.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 8.55,
+      "profitLossCrore": 0.23,
+      "issuedShares": 119384000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_102006_1041684_01022024052509.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 10.24,
+      "profitLossCrore": -0.02,
+      "issuedShares": 134177000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_108025_1146077_29052024093607.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 8.51,
+      "profitLossCrore": 0.2,
+      "issuedShares": 134802000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_110305_1211749_03082024043511.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 11.51,
+      "profitLossCrore": 0.28,
+      "issuedShares": 134802000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_113916_1293414_30102024103438.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 11.67,
+      "profitLossCrore": 0.27,
+      "issuedShares": 134802000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_120626_1384584_14022025052625.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=GANGAFORGE: HTTP Error 403: Forbidden"
+  ]
+}

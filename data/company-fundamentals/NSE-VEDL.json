@@ -1,0 +1,137 @@
+{
+  "company": "Vedanta Limited",
+  "symbol": "VEDL",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-12T13:09:34+00:00",
+  "valuation": {
+    "lastPrice": 309.65,
+    "issuedShares": 3910000000,
+    "marketCapCrore": 121073.15,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "56.38",
+      "publicPercent": "43.47",
+      "employeeTrustPercent": "0.14",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1652799_17042026103831_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "TWIN STAR HOLDINGS LTD",
+          "percent": 40.02,
+          "shares": 1564805858
+        },
+        {
+          "name": "VEDANTA HOLDINGS MAURITIUS II LIMITED",
+          "percent": 12.6,
+          "shares": 492820420
+        },
+        {
+          "name": "LIFE INSURANCE CORPORATION OF INDIA",
+          "percent": 4.73,
+          "shares": 184926447
+        },
+        {
+          "name": "VEDANTA HOLDINGS MAURITIUS LIMITED",
+          "percent": 2.75,
+          "shares": 107342705
+        },
+        {
+          "name": "PTC CABLES PRIVATE LIMITED",
+          "percent": 1.91,
+          "shares": 74639083
+        },
+        {
+          "name": "ICICI PRUDENTIAL BALANCED ADVANTAGE FUND",
+          "percent": 1.9,
+          "shares": 74331835
+        },
+        {
+          "name": "SBI ARBITRAGE OPPORTUNITIES FUND",
+          "percent": 1.04,
+          "shares": 40489824
+        },
+        {
+          "name": "WELTER TRADING LIMITED",
+          "percent": 0.98,
+          "shares": 38241056
+        },
+        {
+          "name": "VEDANTA NETHERLANDS INVESTMENTS B.V.",
+          "percent": 0.04,
+          "shares": 1514714
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 33733.0,
+      "profitLossCrore": 3308.0,
+      "issuedShares": 3720000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_94375_898131_21072023073808.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 38945.0,
+      "profitLossCrore": -915.0,
+      "issuedShares": 3720000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_98931_977533_06112023042528.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 35541.0,
+      "profitLossCrore": 2868.0,
+      "issuedShares": 3720000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_101627_1037336_29012024111853.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 35509.0,
+      "profitLossCrore": 2273.0,
+      "issuedShares": 3720000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104756_1108880_26042024020025.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 16715.0,
+      "profitLossCrore": 4183.0,
+      "issuedShares": 3720000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_110537_1214550_06082024072854.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 37634.0,
+      "profitLossCrore": 5603.0,
+      "issuedShares": 3910000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_114687_1302558_09112024102722.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 39115.0,
+      "profitLossCrore": 4876.0,
+      "issuedShares": 3910000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_118337_1367620_31012025060335.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=VEDL: HTTP Error 403: Forbidden"
+  ]
+}

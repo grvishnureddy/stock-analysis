@@ -1,0 +1,152 @@
+{
+  "company": "Avenue Supermarts Limited",
+  "symbol": "DMART",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-08T13:28:33+00:00",
+  "valuation": {
+    "lastPrice": 4063.3,
+    "issuedShares": 650730000,
+    "marketCapCrore": 264411.12,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "74.51",
+      "publicPercent": "25.49",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1656717_21042026072904_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "Radhakishan Shivkishan Damani",
+          "percent": 22.98,
+          "shares": 149848238
+        },
+        {
+          "name": "Bright Star Investments Private Limited",
+          "percent": 13.61,
+          "shares": 88750000
+        },
+        {
+          "name": "Gopikishan Shivkishan Damani",
+          "percent": 5.59,
+          "shares": 36469012
+        },
+        {
+          "name": "Gopikishan S. Damani And Radhakishan S. Damani (On behalf of Gulmohar Pvt Beneficiary Trust)",
+          "percent": 4.75,
+          "shares": 30955494
+        },
+        {
+          "name": "Gopikishan S. Damani And Radhakishan S. Damani (On behalf of Karnikar Pvt Beneficiary Trust)",
+          "percent": 4.75,
+          "shares": 30955494
+        },
+        {
+          "name": "Radhakishan S. Damani And Shrikantadevi Damani  (On behalf of Bottle Palm Pvt Beneficiary Trust)",
+          "percent": 4.75,
+          "shares": 30955494
+        },
+        {
+          "name": "Radhakishan S. Damani And Shrikantadevi Damani  (On behalf of Royal Palm Pvt Beneficiary Trust)",
+          "percent": 4.75,
+          "shares": 30955494
+        },
+        {
+          "name": "Radhakishan S. Damani And Shrikantadevi Damani (On behalf of Mountain Glory Pvt Beneficiary Trust)",
+          "percent": 4.75,
+          "shares": 30955494
+        },
+        {
+          "name": "ICICI Prudential Fund",
+          "percent": 2.64,
+          "shares": 17233956
+        },
+        {
+          "name": "Jyoti Varun Kabra",
+          "percent": 2.47,
+          "shares": 16114812
+        },
+        {
+          "name": "Manjri Chandak",
+          "percent": 2.46,
+          "shares": 16064812
+        },
+        {
+          "name": "Madhu Abhay Chandak",
+          "percent": 2.46,
+          "shares": 16064812
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 11865.44,
+      "profitLossCrore": 658.71,
+      "issuedShares": 650733000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_94205_886545_15072023045716.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 12624.37,
+      "profitLossCrore": 623.35,
+      "issuedShares": null,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_97573_952310_14102023030510.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 13572.47,
+      "profitLossCrore": 690.41,
+      "issuedShares": 650730000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_101043_1020156_13012024060346.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 12726.55,
+      "profitLossCrore": 563.14,
+      "issuedShares": 650730000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105298_1115572_04052024055549.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 14069.14,
+      "profitLossCrore": 773.68,
+      "issuedShares": 650730000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_108988_1183871_13072024041125.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 14444.5,
+      "profitLossCrore": 659.44,
+      "issuedShares": 650730000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_112759_1267173_12102024033944.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 15972.55,
+      "profitLossCrore": 723.54,
+      "issuedShares": 650730000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_117203_1343091_11012025091534.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=DMART: HTTP Error 403: Forbidden"
+  ]
+}

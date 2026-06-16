@@ -1,0 +1,152 @@
+{
+  "company": "UltraTech Cement Limited",
+  "symbol": "ULTRACEMCO",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-08T09:23:14+00:00",
+  "valuation": {
+    "lastPrice": 10823.0,
+    "issuedShares": 288700000,
+    "marketCapCrore": 312460.01,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "59.33",
+      "publicPercent": "40.5",
+      "employeeTrustPercent": "0.17",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1653086_17042026031846_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "Grasim Industries Limited",
+          "percent": 56.11,
+          "shares": 165335150
+        },
+        {
+          "name": "LIFE INSURANCE CORPORATION OF INDIA",
+          "percent": 2.57,
+          "shares": 7562817
+        },
+        {
+          "name": "NPS TRUST A/C UTI PENSION FUND LIMITED-SCHEME CENTRAL GOVT",
+          "percent": 2.36,
+          "shares": 6943406
+        },
+        {
+          "name": "ICICI PRUDENTIAL SENSEX ETF",
+          "percent": 2.25,
+          "shares": 6627838
+        },
+        {
+          "name": "SBI ARBITRAGE OPPORTUNITIES FUND",
+          "percent": 1.55,
+          "shares": 4568108
+        },
+        {
+          "name": "Pilani Investment and Industries Corporation Limited",
+          "percent": 1.5,
+          "shares": 4405944
+        },
+        {
+          "name": "KOTAK AGGRESSIVE HYBRID FUND",
+          "percent": 1.13,
+          "shares": 3341921
+        },
+        {
+          "name": "PT. Indo Bharat Rayon",
+          "percent": 0.78,
+          "shares": 0
+        },
+        {
+          "name": "Hindalco Industries Limited",
+          "percent": 0.43,
+          "shares": 1258515
+        },
+        {
+          "name": "Shri Kumar Mangalam Birla",
+          "percent": 0.21,
+          "shares": 611500
+        },
+        {
+          "name": "Thai Rayon Public Co. Ltd.",
+          "percent": 0.07,
+          "shares": 0
+        },
+        {
+          "name": "Aditya Birla Real Estate Limited",
+          "percent": 0.05,
+          "shares": 146163
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 17737.1,
+      "profitLossCrore": 1686.52,
+      "issuedShares": 288690000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_94349_897436_21072023043023.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 16012.13,
+      "profitLossCrore": 1276.89,
+      "issuedShares": 288690000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_97705_961002_19102023054955.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 16739.97,
+      "profitLossCrore": 1769.02,
+      "issuedShares": 288690000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_101198_1029841_19012024051703.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 19805.91,
+      "profitLossCrore": 2251.95,
+      "issuedShares": 288690000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105192_1114229_03052024102247.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 18069.56,
+      "profitLossCrore": 1692.33,
+      "issuedShares": 288700000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_109151_1195170_19072024053346.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 15634.73,
+      "profitLossCrore": 826.62,
+      "issuedShares": 288700000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_112972_1284147_21102024084149.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 17193.33,
+      "profitLossCrore": 1474.77,
+      "issuedShares": 288700000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_117564_1359649_23012025065930.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=ULTRACEMCO: HTTP Error 403: Forbidden"
+  ]
+}

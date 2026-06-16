@@ -1,0 +1,152 @@
+{
+  "company": "COFORGE",
+  "symbol": "COFORGE",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-07T07:53:34+00:00",
+  "valuation": {
+    "lastPrice": 1435.5,
+    "issuedShares": 66900000,
+    "marketCapCrore": 9603.5,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "0",
+      "publicPercent": "100",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1657463_22042026112248_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "Motilal Oswal Midcap Fund",
+          "percent": 8.21,
+          "shares": 27568931
+        },
+        {
+          "name": "Hdfc Mutual Fund - Hdfc Mid-Cap Fund",
+          "percent": 5.86,
+          "shares": 19693567
+        },
+        {
+          "name": "Life Insurance Corporation Of India",
+          "percent": 4.65,
+          "shares": 15600127
+        },
+        {
+          "name": "Dsp Midcap Fund",
+          "percent": 4.05,
+          "shares": 13604302
+        },
+        {
+          "name": "Government Pension Fund Global",
+          "percent": 3.49,
+          "shares": 11736407
+        },
+        {
+          "name": "Icici Prudential Technology Fund",
+          "percent": 3.36,
+          "shares": 11288404
+        },
+        {
+          "name": "Uti-Flexi Cap Fund",
+          "percent": 2.79,
+          "shares": 9376225
+        },
+        {
+          "name": "Invesco India Arbitrage Fund",
+          "percent": 2.71,
+          "shares": 9103299
+        },
+        {
+          "name": "Hdfc Life Insurance Company Limited",
+          "percent": 2.3,
+          "shares": 7708026
+        },
+        {
+          "name": "Aditya Birla Sun Life Trustee Private Limited A/C - Aditya Birla Sun Life Focused Fund",
+          "percent": 1.96,
+          "shares": 6575870
+        },
+        {
+          "name": "Axis Mutual Fund Trustee Limited A/C Axis Mutual Fund A/C Axis Midcap Fund",
+          "percent": 1.92,
+          "shares": 6447076
+        },
+        {
+          "name": "Sbi Life Insurance Co. Ltd",
+          "percent": 1.56,
+          "shares": 5236147
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 2221.0,
+      "profitLossCrore": 175.7,
+      "issuedShares": 61100000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_94306_895525_20072023055702.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 2276.2,
+      "profitLossCrore": 187.9,
+      "issuedShares": 61500000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_97692_960108_19102023031755.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 2323.3,
+      "profitLossCrore": 242.8,
+      "issuedShares": 61800000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_101315_1033813_23012024042356.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 2358.5,
+      "profitLossCrore": 229.2,
+      "issuedShares": 61800000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105165_1113929_02052024063206.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 2400.8,
+      "profitLossCrore": 139.3,
+      "issuedShares": 66700000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_109275_1199654_23072024124300.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 3062.3,
+      "profitLossCrore": 233.6,
+      "issuedShares": 66700000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_113078_1285763_23102024023646.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 3318.2,
+      "profitLossCrore": 255.9,
+      "issuedShares": 66900000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_117559_1359616_23012025064350.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=COFORGE: HTTP Error 403: Forbidden"
+  ]
+}

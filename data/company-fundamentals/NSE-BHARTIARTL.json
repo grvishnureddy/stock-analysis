@@ -1,0 +1,152 @@
+{
+  "company": "BHARTIARTL",
+  "symbol": "BHARTIARTL",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-07T08:00:19+00:00",
+  "valuation": {
+    "lastPrice": 1798.2,
+    "issuedShares": 5794000000,
+    "marketCapCrore": 1041877.05,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "48.87",
+      "publicPercent": "51.09",
+      "employeeTrustPercent": "0.04",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1654825_20042026024944_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "BHARTI TELECOM LIMITED",
+          "percent": 40.47,
+          "shares": 2466133527
+        },
+        {
+          "name": "PASTEL LIMITED",
+          "percent": 7.49,
+          "shares": 456228212
+        },
+        {
+          "name": "LICI MONEY PLUS GROWTH FUND",
+          "percent": 3.99,
+          "shares": 243469123
+        },
+        {
+          "name": "SBI LONG TERM ADVANTAGE FUND - SERIES VI",
+          "percent": 2.59,
+          "shares": 157631613
+        },
+        {
+          "name": "NPS TRUST A/C - SBI PF NPS JEEVAN SWARNA RETIREMEN",
+          "percent": 1.77,
+          "shares": 107880992
+        },
+        {
+          "name": "ICICI PRUDENTIAL ALPHA LOW VOL 30 ETF",
+          "percent": 1.69,
+          "shares": 103086647
+        },
+        {
+          "name": "HDFC TRUSTEE COMPANY LIMITED-HDFC FLEXI CAP FUND",
+          "percent": 1.37,
+          "shares": 83595514
+        },
+        {
+          "name": "GOVERNMENT OF SINGAPORE - E",
+          "percent": 1.25,
+          "shares": 76004030
+        },
+        {
+          "name": "GOOGLE INTERNATIONAL LLC",
+          "percent": 1.17,
+          "shares": 71176839
+        },
+        {
+          "name": "UTI MULTI CAP FUND",
+          "percent": 1.04,
+          "shares": 63083036
+        },
+        {
+          "name": "GOVERNMENT PENSION FUND GLOBAL",
+          "percent": 1.0,
+          "shares": 60974122
+        },
+        {
+          "name": "INDIAN CONTINENT INVESTMENT LIMITED",
+          "percent": 0.92,
+          "shares": 55967792
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 22650.7,
+      "profitLossCrore": 1456.9,
+      "issuedShares": 5679400000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_95318_908018_04082023021537.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 37043.8,
+      "profitLossCrore": 1507.2,
+      "issuedShares": 5715400000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_98372_972858_31102023104654.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 37899.5,
+      "profitLossCrore": 2173.2,
+      "issuedShares": 5723000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_102380_1045209_05022024082053.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 24345.4,
+      "profitLossCrore": 1823.9,
+      "issuedShares": 5753200000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105900_1124349_14052024100652.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 24917.1,
+      "profitLossCrore": 2469.2,
+      "issuedShares": 5789000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_110418_1213296_05082024090338.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 26984.5,
+      "profitLossCrore": 2517.6,
+      "issuedShares": 5791200000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_113729_1291669_28102024103148.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 28434.0,
+      "profitLossCrore": 9197.4,
+      "issuedShares": 5794000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_118976_1373835_06022025111555.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=BHARTIARTL: HTTP Error 403: Forbidden"
+  ]
+}

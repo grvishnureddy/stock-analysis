@@ -1,0 +1,19 @@
+{
+  "company": "Eternal Limited",
+  "symbol": "ZOMATO",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-07T08:06:08+00:00",
+  "valuation": {
+    "lastPrice": null,
+    "issuedShares": null,
+    "marketCapCrore": null,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [],
+  "quarterlyHistory": [],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=ZOMATO: HTTP Error 403: Forbidden",
+    "Delayed price: Could not fetch https://query1.finance.yahoo.com/v8/finance/chart/ZOMATO.NS?range=1y&interval=1d&events=history: HTTP Error 404: Not Found"
+  ]
+}

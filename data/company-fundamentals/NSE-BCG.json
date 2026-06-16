@@ -1,0 +1,143 @@
+{
+  "company": "Brightcom Group Limited",
+  "symbol": "BCG",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-08T09:21:09+00:00",
+  "valuation": {
+    "lastPrice": 11.22,
+    "issuedShares": 2018522000,
+    "marketCapCrore": 2264.78,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "18.38",
+      "publicPercent": "81.62",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1656941_22042026023413_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "ARADHANA COMMOSALES LLP",
+          "percent": 5.16,
+          "shares": 104166666
+        },
+        {
+          "name": "SARITA COMMOSALES LLP",
+          "percent": 5.14,
+          "shares": 103676916
+        },
+        {
+          "name": "NATIONAL STOCK EXCHANGE OF INDIA LIMITED ACCOUNT FPI",
+          "percent": 3.3,
+          "shares": 66666681
+        },
+        {
+          "name": "KALPANA COMMOSALES LLP",
+          "percent": 2.71,
+          "shares": 54714279
+        },
+        {
+          "name": "SHALINI SALES LLP",
+          "percent": 2.06,
+          "shares": 41666666
+        },
+        {
+          "name": "Subrato Saha",
+          "percent": 2.02,
+          "shares": 40673333
+        },
+        {
+          "name": "VIJAY KUMAR KANCHARLA HUF .",
+          "percent": 1.6,
+          "shares": 32234564
+        },
+        {
+          "name": "M SURESH KUMAR REDDY",
+          "percent": 0.71,
+          "shares": 14272723
+        },
+        {
+          "name": "PALLE SUGUNA REDDY",
+          "percent": 0.22,
+          "shares": 4377416
+        },
+        {
+          "name": "VIJAY KANCHARLA",
+          "percent": 0.22,
+          "shares": 4493295
+        },
+        {
+          "name": "S V RAJYALAXMI REDDY",
+          "percent": 0.16,
+          "shares": 3195833
+        },
+        {
+          "name": "SHASHIDHAR REDDY MUTHUKURU",
+          "percent": 0.14,
+          "shares": 2793750
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 1690.32,
+      "profitLossCrore": 321.48,
+      "issuedShares": 2018522000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_97462_919670_15082023075951.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 1814.14,
+      "profitLossCrore": 352.17,
+      "issuedShares": 2018522000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_113147_1286578_23102024093851.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 453.18,
+      "profitLossCrore": -24.2,
+      "issuedShares": 2018522000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_113259_1287739_24102024095839.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 96.55,
+      "profitLossCrore": -9.42,
+      "issuedShares": 2018522000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_117387_1352355_20012025033345.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 1302.79,
+      "profitLossCrore": 186.29,
+      "issuedShares": 2018522000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_117092_1326215_13122024105535.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 1673.96,
+      "profitLossCrore": 243.56,
+      "issuedShares": 2018522000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_120760_1385511_14022025084047.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=BCG: HTTP Error 403: Forbidden"
+  ]
+}

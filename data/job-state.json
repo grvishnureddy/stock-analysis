@@ -1,0 +1,58 @@
+{
+  "results": {
+    "status": "success",
+    "startedAt": "2026-06-12T23:26:04+05:30",
+    "finishedAt": "2026-06-12T23:26:05+05:30",
+    "exitCode": 0,
+    "output": "[quarterwatch] NSE equities: retained 7 of 26 events\n[quarterwatch] NSE sme: retained 0 of 20 events\n[quarterwatch] Wrote 7 upcoming result dates to data\\results.json"
+  },
+  "news": {
+    "status": "success",
+    "startedAt": "2026-06-12T23:26:05+05:30",
+    "finishedAt": "2026-06-12T23:26:09+05:30",
+    "exitCode": 0,
+    "output": "[quarterwatch] NSE equities news: retained 3197 of 3197 announcements\n[quarterwatch] NSE sme news: retained 528 of 528 announcements\n[quarterwatch] Wrote 3723 news and event items to data\\news.json"
+  },
+  "financials": {
+    "status": "success",
+    "startedAt": "2026-06-12T23:26:04+05:30",
+    "finishedAt": "2026-06-12T23:26:07+05:30",
+    "exitCode": 0,
+    "output": "[quarterwatch] NSE equities financials: retained 3813 rows\n[quarterwatch] NSE sme financials: retained 680 rows\n[quarterwatch] Wrote 2284 company financial summaries to data\\financials.json"
+  },
+  "market-news": {
+    "status": "success",
+    "startedAt": "2026-06-16T14:06:11+05:30",
+    "finishedAt": "2026-06-16T14:06:43+05:30",
+    "exitCode": 0,
+    "output": "[quarterwatch] Wrote 121 market news stories to data\\market-news.json"
+  },
+  "stock-analysis": {
+    "status": "success",
+    "startedAt": "2026-06-12T23:26:05+05:30",
+    "finishedAt": "2026-06-12T23:26:15+05:30",
+    "exitCode": 0,
+    "output": "[quarterwatch] Wrote daily analysis for 18 stocks to data\\stock-analysis.json"
+  },
+  "practice-prices": {
+    "status": "success",
+    "startedAt": "2026-06-12T23:26:05+05:30",
+    "finishedAt": "2026-06-12T23:26:13+05:30",
+    "exitCode": 0,
+    "output": "[quarterwatch] Wrote intraday practice prices for 17 stocks to data\\practice-prices.json"
+  },
+  "watch-predictions": {
+    "status": "success",
+    "startedAt": "2026-06-16T14:06:47+05:30",
+    "finishedAt": "2026-06-16T14:06:47+05:30",
+    "exitCode": 0,
+    "output": "Wrote 24 today/tomorrow watch predictions to data\\watch-predictions.json"
+  },
+  "market-overview": {
+    "status": "success",
+    "startedAt": "2026-06-15T13:50:29+05:30",
+    "finishedAt": "2026-06-15T13:51:01+05:30",
+    "exitCode": 0,
+    "output": "[quarterwatch] Wrote 12 market instruments and 128 components to data\\market-overview.json"
+  }
+}

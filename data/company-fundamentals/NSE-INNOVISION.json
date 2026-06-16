@@ -1,0 +1,68 @@
+{
+  "company": "Innovision Limited",
+  "symbol": "INNOVISION",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-08T13:14:23+00:00",
+  "valuation": {
+    "lastPrice": 293.95,
+    "issuedShares": null,
+    "marketCapCrore": null,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "74.17",
+      "publicPercent": "25.83",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1656271_21042026040959_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "RANDEEP HUNDAL",
+          "percent": 37.08,
+          "shares": 8830986
+        },
+        {
+          "name": "UDAY PAL SINGH",
+          "percent": 37.08,
+          "shares": 8830958
+        },
+        {
+          "name": "NEOMILE GROWTH FUND - SERIES I",
+          "percent": 4.62,
+          "shares": 1100405
+        },
+        {
+          "name": "ARTHKUMBH VENTURES",
+          "percent": 2.86,
+          "shares": 681075
+        },
+        {
+          "name": "KIRTAN MANEKLAL RUPARELIYA",
+          "percent": 2.28,
+          "shares": 542416
+        },
+        {
+          "name": "ASTORNE CAPITAL VCC - ARVEN",
+          "percent": 1.55,
+          "shares": 370000
+        },
+        {
+          "name": "L7 HITECH PRIVATE LIMITED",
+          "percent": 1.47,
+          "shares": 349000
+        },
+        {
+          "name": "NEOMILE CORPORATE ADVISORY LIMITED",
+          "percent": 1.47,
+          "shares": 350000
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=INNOVISION: HTTP Error 403: Forbidden"
+  ]
+}

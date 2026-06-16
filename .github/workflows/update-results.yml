@@ -1,0 +1,52 @@
+name: Update company results and news
+
+on:
+  schedule:
+    - cron: "15 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-results:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pull latest result dates
+        env:
+          RESULTS_FALLBACK_URLS: ${{ secrets.RESULTS_FALLBACK_URLS }}
+        run: python scripts/update_results.py
+      - name: Pull latest company news and events
+        env:
+          NEWS_FALLBACK_URLS: ${{ secrets.NEWS_FALLBACK_URLS }}
+        run: python scripts/update_news.py
+      - name: Pull latest company financial summaries
+        env:
+          FINANCIALS_FALLBACK_URLS: ${{ secrets.FINANCIALS_FALLBACK_URLS }}
+        run: python scripts/update_financials.py
+      - name: Pull latest market and social news
+        env:
+          MARKET_NEWS_RSS_FEEDS: ${{ secrets.MARKET_NEWS_RSS_FEEDS }}
+          SOCIAL_NEWS_FEED_URLS: ${{ secrets.SOCIAL_NEWS_FEED_URLS }}
+        run: python scripts/update_market_news.py
+      - name: Calculate daily stock analysis
+        env:
+          STOCK_ANALYSIS_SYMBOLS: ${{ secrets.STOCK_ANALYSIS_SYMBOLS }}
+        run: python scripts/update_stock_analysis.py
+      - name: Update intraday paper-trade prices
+        run: python scripts/update_practice_prices.py
+      - name: Build today and tomorrow watchlists
+        run: python scripts/update_watch_predictions.py
+      - name: Update indices, metals, and components
+        run: python scripts/update_market_overview.py
+      - name: Commit changed feed
+        run: |
+          git config user.name "quarterwatch-bot"
+          git config user.email "quarterwatch-bot@users.noreply.github.com"
+          git add data/results.json data/results.csv data/update-status.json data/news.json data/news.csv data/news-update-status.json data/financials.json data/financials.csv data/financials-update-status.json data/market-news.json data/market-news-update-status.json data/stock-analysis.json data/stock-analysis-update-status.json data/practice-prices.json data/practice-prices-update-status.json data/watch-predictions.json data/watch-predictions-update-status.json data/market-overview.json data/market-overview-update-status.json
+          git diff --cached --quiet || git commit -m "Update company results and news"
+          git push

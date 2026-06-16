@@ -1,0 +1,152 @@
+{
+  "company": "ITC",
+  "symbol": "ITC",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-07T07:59:15+00:00",
+  "valuation": {
+    "lastPrice": 280.7,
+    "issuedShares": 12511700000,
+    "marketCapCrore": 351203.43,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "0",
+      "publicPercent": "100",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1653166_17042026040438_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "Tobacco Manufacturers (India) Limited",
+          "percent": 17.79,
+          "shares": 2228495863
+        },
+        {
+          "name": "Life Insurance Corporation of India",
+          "percent": 15.83,
+          "shares": 1983205253
+        },
+        {
+          "name": "Specified Undertaking of the Unit Trust of India",
+          "percent": 7.78,
+          "shares": 974531427
+        },
+        {
+          "name": "Myddleton Investment Company Limited",
+          "percent": 3.88,
+          "shares": 486311940
+        },
+        {
+          "name": "ICICI Prudential Mutual Funds",
+          "percent": 3.58,
+          "shares": 448017257
+        },
+        {
+          "name": "SBI Mutual Funds",
+          "percent": 3.29,
+          "shares": 412638474
+        },
+        {
+          "name": "QIB - Insurance Company Registered",
+          "percent": 2.11,
+          "shares": 263704964
+        },
+        {
+          "name": "Parag Parikh Flexi Cap Mutual Funds",
+          "percent": 1.9,
+          "shares": 238616594
+        },
+        {
+          "name": "Goldman Sachs Trust II - Goldman Sachs GQG Partners International Opportunities Fund",
+          "percent": 1.74,
+          "shares": 217669387
+        },
+        {
+          "name": "General Insurance Corporation of India",
+          "percent": 1.73,
+          "shares": 217185508
+        },
+        {
+          "name": "NPS Trust (various Pension Funds)",
+          "percent": 1.73,
+          "shares": 216571766
+        },
+        {
+          "name": "Nippon Life india Trustee Mutual Funds",
+          "percent": 1.61,
+          "shares": 201220756
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 18639.48,
+      "profitLossCrore": 5180.12,
+      "issuedShares": 12439500000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_97324_919036_14082023073224.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 19270.02,
+      "profitLossCrore": 4955.9,
+      "issuedShares": 12470900000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_97722_961628_19102023095300.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 19484.5,
+      "profitLossCrore": 5400.51,
+      "issuedShares": 12475600000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_101669_1038159_29012024070334.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 19446.49,
+      "profitLossCrore": 5187.22,
+      "issuedShares": 12484700000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_106840_1135573_23052024050307.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 20029.6,
+      "profitLossCrore": 5169.37,
+      "issuedShares": 12484700000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_110059_1209187_01082024043050.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 22281.89,
+      "profitLossCrore": 5046.32,
+      "issuedShares": 12507600000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_113242_1287604_24102024073505.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 20349.96,
+      "profitLossCrore": 4805.64,
+      "issuedShares": 12511700000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_118941_1373614_06022025072019.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=ITC: HTTP Error 403: Forbidden"
+  ]
+}

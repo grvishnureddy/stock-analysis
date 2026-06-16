@@ -1,0 +1,152 @@
+{
+  "company": "DB (International) Stock Brokers Limited",
+  "symbol": "DBSTOCKBRO",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-12T18:04:19+00:00",
+  "valuation": {
+    "lastPrice": 32.57,
+    "issuedShares": 35000000,
+    "marketCapCrore": 113.99,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "41.17",
+      "publicPercent": "58.83",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1645733_03042026023757_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "SHIV NARAYAN DAGA",
+          "percent": 18.89,
+          "shares": 6612214
+        },
+        {
+          "name": "NEW KMS FINANCE PVT. LTD.",
+          "percent": 11.59,
+          "shares": 4055638
+        },
+        {
+          "name": "ROOPAM FINANCERS PRIVATE LIMITED",
+          "percent": 9.16,
+          "shares": 3204471
+        },
+        {
+          "name": "SHARDA DAGA",
+          "percent": 6.59,
+          "shares": 2307000
+        },
+        {
+          "name": "SHANKER CREDITS PVT LTD",
+          "percent": 6.32,
+          "shares": 2213691
+        },
+        {
+          "name": "SHIV NARAYAN DAGA HUF",
+          "percent": 4.26,
+          "shares": 1492000
+        },
+        {
+          "name": "DAGA COMMODITIES PRIVATE LIMITED",
+          "percent": 4.18,
+          "shares": 1463026
+        },
+        {
+          "name": "SHEETAL PERIWAL",
+          "percent": 3.79,
+          "shares": 1326947
+        },
+        {
+          "name": "SHIKHA MUNDRA",
+          "percent": 3.45,
+          "shares": 1208440
+        },
+        {
+          "name": "DHANLEELA INVESTMENTS & TRADING COMPANY LIMITED",
+          "percent": 3.38,
+          "shares": 1182252
+        },
+        {
+          "name": "ASHOKA HIRE FIN SERVICES PRIVATE LIMITED",
+          "percent": 2.17,
+          "shares": 760960
+        },
+        {
+          "name": "RADFORD GLOBAL LIMITED",
+          "percent": 1.58,
+          "shares": 551435
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 10.44,
+      "profitLossCrore": 1.99,
+      "issuedShares": 35000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_94825_902790_28072023045624.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 9.87,
+      "profitLossCrore": 1.8,
+      "issuedShares": 35000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_98037_969022_27102023043739.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 13.23,
+      "profitLossCrore": 3.21,
+      "issuedShares": 35000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_103465_1052005_12022024050254.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 14.71,
+      "profitLossCrore": 2.05,
+      "issuedShares": 35000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_105050_1112582_30042024070345.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 12.76,
+      "profitLossCrore": 1.96,
+      "issuedShares": 35000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_109808_1206597_30072024044732.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 12.37,
+      "profitLossCrore": 1.45,
+      "issuedShares": 35000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_114150_1297219_05112024042222.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 9.15,
+      "profitLossCrore": 1.03,
+      "issuedShares": 35000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_117234_1346157_15012025043636.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=DBSTOCKBRO: HTTP Error 403: Forbidden"
+  ]
+}

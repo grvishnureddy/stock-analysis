@@ -1,0 +1,152 @@
+{
+  "company": "Superhouse Limited",
+  "symbol": "SUPERHOUSE",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-12T18:03:49+00:00",
+  "valuation": {
+    "lastPrice": 151.64,
+    "issuedShares": 11025000,
+    "marketCapCrore": 167.18,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "54.88",
+      "publicPercent": "45.12",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1645997_04042026051506_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "MUKHTARUL AMIN",
+          "percent": 12.01,
+          "shares": 1324487
+        },
+        {
+          "name": "STEVEN INDUSTRIES LIMITED",
+          "percent": 11.93,
+          "shares": 1315119
+        },
+        {
+          "name": "Investor Education and Protection Fund (IEPF)",
+          "percent": 10.86,
+          "shares": 1197849
+        },
+        {
+          "name": "SUPERHOUSE ACCESSORIES LIMITED",
+          "percent": 4.99,
+          "shares": 550000
+        },
+        {
+          "name": "MODRIBA INTERNATIONAL LIMITED (Earlier known as Modriba Hygiene Solutions Ltmited)",
+          "percent": 4.99,
+          "shares": 550000
+        },
+        {
+          "name": "CHOWDHARY OVERSEAS LIMITED",
+          "percent": 4.77,
+          "shares": 525893
+        },
+        {
+          "name": "SHAHINA MUKHTAR",
+          "percent": 4.59,
+          "shares": 505560
+        },
+        {
+          "name": "AMIN INTERNATIONAL LIMITED",
+          "percent": 4.22,
+          "shares": 465054
+        },
+        {
+          "name": "ALLEN COOPER LIMITED",
+          "percent": 2.5,
+          "shares": 275300
+        },
+        {
+          "name": "DHEERAJ KUMAR LOHIA",
+          "percent": 2.16,
+          "shares": 238167
+        },
+        {
+          "name": "ZAFARUL AMIN",
+          "percent": 1.65,
+          "shares": 181988
+        },
+        {
+          "name": "NAUSHEEN SHADAB",
+          "percent": 1.54,
+          "shares": 169441
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 164.41,
+      "profitLossCrore": 1.61,
+      "issuedShares": 11025000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_97148_918204_14082023041019.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 191.03,
+      "profitLossCrore": 5.27,
+      "issuedShares": 11025000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_100682_987124_11112023035758.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 144.69,
+      "profitLossCrore": 1.77,
+      "issuedShares": 11025000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104053_1054911_14022024032656.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 165.18,
+      "profitLossCrore": 3.08,
+      "issuedShares": null,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_108765_1155281_08062024043129.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 142.95,
+      "profitLossCrore": 5.16,
+      "issuedShares": 10749700,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_112145_1225570_14082024040347.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 182.12,
+      "profitLossCrore": 2.07,
+      "issuedShares": 10749700,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_116140_1311742_14112024050104.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 119.33,
+      "profitLossCrore": 2.99,
+      "issuedShares": 11025000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_120567_1384146_14022025040448.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=SUPERHOUSE: HTTP Error 403: Forbidden"
+  ]
+}

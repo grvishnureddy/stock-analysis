@@ -1,0 +1,88 @@
+{
+  "company": "Suryoday Small Finance Bank Limited",
+  "symbol": "SURYODAY",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-12T09:02:58+00:00",
+  "valuation": {
+    "lastPrice": 168.89,
+    "issuedShares": null,
+    "marketCapCrore": null,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "22.48",
+      "publicPercent": "77.52",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1653840_18042026012811_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "BASKAR BABU RAMACHANDRAN",
+          "percent": 5.22,
+          "shares": 5551911
+        },
+        {
+          "name": "1729 CAPITAL",
+          "percent": 4.27,
+          "shares": 4534514
+        },
+        {
+          "name": "SUNAINA PAI OCALAN",
+          "percent": 4.18,
+          "shares": 4440000
+        },
+        {
+          "name": "SHEELA PAI COLE",
+          "percent": 4.18,
+          "shares": 4440000
+        },
+        {
+          "name": "RESPONSABILITY PARTICIPATIONS MAURITIUS",
+          "percent": 3.58,
+          "shares": 3809020
+        },
+        {
+          "name": "GAJA CAPITAL FUND II LIMITED",
+          "percent": 3.46,
+          "shares": 3672671
+        },
+        {
+          "name": "EVOLVENCE INDIA FUND II LTD",
+          "percent": 3.45,
+          "shares": 3669656
+        },
+        {
+          "name": "PERUVAMBA SUBRAMANIAM JAGDISH",
+          "percent": 3.32,
+          "shares": 3531711
+        },
+        {
+          "name": "DEG-DEUTSCHE INVESTITIONS -UND ENTWICKLUNGSGESELLS",
+          "percent": 3.3,
+          "shares": 3508674
+        },
+        {
+          "name": "TEACHERS INSURANCE AND ANNUITY ASSOCIATION OF AMERICA",
+          "percent": 3.27,
+          "shares": 3475500
+        },
+        {
+          "name": "MUKUL MAHAVIR AGRAWAL",
+          "percent": 2.82,
+          "shares": 3000000
+        },
+        {
+          "name": "PANEMANGALORE SURENDRA PAI",
+          "percent": 2.28,
+          "shares": 2423215
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=SURYODAY: HTTP Error 403: Forbidden"
+  ]
+}

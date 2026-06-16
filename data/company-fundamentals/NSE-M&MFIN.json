@@ -1,0 +1,132 @@
+{
+  "company": "Mahindra & Mahindra Financial Services Limited",
+  "symbol": "M&MFIN",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-12T18:05:08+00:00",
+  "valuation": {
+    "lastPrice": 291.05,
+    "issuedShares": 1234850000,
+    "marketCapCrore": 35940.31,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "52.49",
+      "publicPercent": "47.48",
+      "employeeTrustPercent": "0.03",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1654970_20042026035750_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "MAHINDRA & MAHINDRA LIMITED",
+          "percent": 52.49,
+          "shares": 729582599
+        },
+        {
+          "name": "Life Insurance Corporation of India, LIC-P&GS Fund, LICI Funds",
+          "percent": 10.26,
+          "shares": 142625702
+        },
+        {
+          "name": "SBI Mutual Fund- Multiple Accounts",
+          "percent": 5.57,
+          "shares": 77362123
+        },
+        {
+          "name": "HDFC Mutual Fund- Multiple Accounts",
+          "percent": 5.18,
+          "shares": 71985889
+        },
+        {
+          "name": "HDFC Life Insurance Company Limited",
+          "percent": 2.51,
+          "shares": 34899818
+        },
+        {
+          "name": "SBI Life Insurance Company Limited",
+          "percent": 1.55,
+          "shares": 21480755
+        },
+        {
+          "name": "Sundaram Mutual Fund- Multiple Accounts",
+          "percent": 1.32,
+          "shares": 18381541
+        },
+        {
+          "name": "Ashish Dhawan",
+          "percent": 1.05,
+          "shares": 14600000
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 3583.2,
+      "profitLossCrore": 348.45,
+      "issuedShares": 1233680000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_94866_903245_28072023091600.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 3833.25,
+      "profitLossCrore": 273.09,
+      "issuedShares": 1233850000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_98109_969748_27102023115538.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 4100.08,
+      "profitLossCrore": 610.2,
+      "issuedShares": 1234300000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_101833_1039944_31012024013343.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 4280.32,
+      "profitLossCrore": 655.2,
+      "issuedShares": 1234400000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_105312_1115774_05052024051327.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 4315.52,
+      "profitLossCrore": 477.94,
+      "issuedShares": 1234450000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_109348_1200872_24072024014810.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 4465.15,
+      "profitLossCrore": 375.64,
+      "issuedShares": 1234650000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_113044_1285369_22102024080155.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 4796.8,
+      "profitLossCrore": 901.73,
+      "issuedShares": 1234850000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_117934_1363924_29012025100627.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=M%26MFIN: HTTP Error 403: Forbidden"
+  ]
+}

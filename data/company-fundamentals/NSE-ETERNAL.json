@@ -1,0 +1,152 @@
+{
+  "company": "Eternal Limited",
+  "symbol": "ETERNAL",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-07T08:06:03+00:00",
+  "valuation": {
+    "lastPrice": 256.5,
+    "issuedShares": 9060000000,
+    "marketCapCrore": 232389.0,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "0",
+      "publicPercent": "95.27",
+      "employeeTrustPercent": "4.73",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1645714_03042026011438_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "Info Edge (India) Limited",
+          "percent": 12.38,
+          "shares": 1194687095
+        },
+        {
+          "name": "Foodie Bay Employees Esop Trust",
+          "percent": 4.73,
+          "shares": 456458468
+        },
+        {
+          "name": "Deepinder Goyal",
+          "percent": 4.4,
+          "shares": 424238500
+        },
+        {
+          "name": "Sbi Nifty 50 Etf",
+          "percent": 3.54,
+          "shares": 341576490
+        },
+        {
+          "name": "Hdfc Trustee Company Limited-Hdfc Flexi Cap Fund",
+          "percent": 3.53,
+          "shares": 340286434
+        },
+        {
+          "name": "Kotak Flexicap Fund",
+          "percent": 2.68,
+          "shares": 258557414
+        },
+        {
+          "name": "Icici Prudential Balanced Advantage Fund",
+          "percent": 2.64,
+          "shares": 254751990
+        },
+        {
+          "name": "Uti-Flexi Cap Fund",
+          "percent": 2.15,
+          "shares": 207060087
+        },
+        {
+          "name": "Nippon Life India Trustee Ltd-A/C Nippon India Etf Nifty 50 Bees",
+          "percent": 2.03,
+          "shares": 195622238
+        },
+        {
+          "name": "Nps Trust- A/C Sbi Pension Fund Scheme - State Govt",
+          "percent": 1.84,
+          "shares": 177557803
+        },
+        {
+          "name": "Motilal Oswal Midcap Fund",
+          "percent": 1.77,
+          "shares": 171129691
+        },
+        {
+          "name": "Camas Investments Pte. Ltd.",
+          "percent": 1.74,
+          "shares": 168084489
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 1420.0,
+      "profitLossCrore": 276.0,
+      "issuedShares": 8400000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_95260_907554_03082023064925.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 2848.0,
+      "profitLossCrore": 36.0,
+      "issuedShares": 8450000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_98783_976453_04112023094726.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 3288.0,
+      "profitLossCrore": 138.0,
+      "issuedShares": 8570000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_102849_1048686_08022024063603.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 3562.0,
+      "profitLossCrore": 175.0,
+      "issuedShares": 8680000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105795_1122859_13052024092656.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 4206.0,
+      "profitLossCrore": 253.0,
+      "issuedShares": 8700000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_110123_1209741_01082024070623.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 4799.0,
+      "profitLossCrore": 176.0,
+      "issuedShares": 8720000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_113034_1285254_22102024070105.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 2226.0,
+      "profitLossCrore": 494.0,
+      "issuedShares": 9060000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_117409_1353529_20012025062946.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=ETERNAL: HTTP Error 403: Forbidden"
+  ]
+}

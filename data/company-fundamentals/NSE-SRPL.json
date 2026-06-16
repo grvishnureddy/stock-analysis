@@ -1,0 +1,142 @@
+{
+  "company": "Shree Ram Proteins Limited",
+  "symbol": "SRPL",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-07T09:17:54+00:00",
+  "valuation": {
+    "lastPrice": 0.4,
+    "issuedShares": 214200000,
+    "marketCapCrore": 8.57,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "4.08",
+      "publicPercent": "95.92",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1650355_14042026115229_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "Vikasa India Eif I Fund",
+          "percent": 4.44,
+          "shares": 9500000
+        },
+        {
+          "name": "C Jayakumari",
+          "percent": 3.35,
+          "shares": 7164991
+        },
+        {
+          "name": "Lavjibhai Valjibhai Savaliya",
+          "percent": 2.7,
+          "shares": 5785780
+        },
+        {
+          "name": "Kulin Shantilal Vora",
+          "percent": 1.52,
+          "shares": 3250000
+        },
+        {
+          "name": "Kaudiki Eshwarappa Kantesh",
+          "percent": 1.03,
+          "shares": 2196150
+        },
+        {
+          "name": "Mamtaben Lavjibhai Savaliya",
+          "percent": 0.65,
+          "shares": 1400000
+        },
+        {
+          "name": "Otiben Valjibhai Savaliya",
+          "percent": 0.61,
+          "shares": 1300000
+        },
+        {
+          "name": "Piyush Chandubhai Vasoya",
+          "percent": 0.05,
+          "shares": 109170
+        },
+        {
+          "name": "Lalitkumar Chandulal Vasoya",
+          "percent": 0.05,
+          "shares": 100843
+        },
+        {
+          "name": "Chhayani Nitin Rameshbhai",
+          "percent": 0.01,
+          "shares": 29640
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 9.11,
+      "profitLossCrore": 0.21,
+      "issuedShares": 214200000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_97283_918817_14082023064015.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 5.66,
+      "profitLossCrore": -1.89,
+      "issuedShares": 214200000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_99763_982281_09112023020626.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 0.0,
+      "profitLossCrore": -4.58,
+      "issuedShares": 214200000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105368_1116742_07052024010457.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 0.0,
+      "profitLossCrore": -3.32,
+      "issuedShares": 241200000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_108479_1150000_31052024012824.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 0.0,
+      "profitLossCrore": -0.5,
+      "issuedShares": 214200000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_112544_1227929_16082024104209.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 0.0,
+      "profitLossCrore": -11.6,
+      "issuedShares": 214200000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_116926_1316294_18112024022822.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 0.0,
+      "profitLossCrore": -4.66,
+      "issuedShares": 214200000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_118569_1370155_04022025031344.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=SRPL: HTTP Error 403: Forbidden"
+  ]
+}

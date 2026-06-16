@@ -1,0 +1,91 @@
+{
+  "company": "Ola Electric Mobility Limited",
+  "symbol": "OLAELEC",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-08T13:27:29+00:00",
+  "valuation": {
+    "lastPrice": 44.43,
+    "issuedShares": null,
+    "marketCapCrore": null,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "34.59",
+      "publicPercent": "60.65",
+      "employeeTrustPercent": "4.75",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1656908_21042026104502_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "Bhavish Aggarwal",
+          "percent": 27.83,
+          "shares": 1227499575
+        },
+        {
+          "name": "Svf Ii Ostrich (De) Llc",
+          "percent": 13.49,
+          "shares": 595120650
+        },
+        {
+          "name": "OEM Employees Welfare Trust (through it's trustee Amit Anchal)",
+          "percent": 4.75,
+          "shares": 209727610
+        },
+        {
+          "name": "Ani Technologies Private Limited",
+          "percent": 3.64,
+          "shares": 160413177
+        },
+        {
+          "name": "Motilal Oswal Large And Midcap Fund",
+          "percent": 3.2,
+          "shares": 140952610
+        },
+        {
+          "name": "Indus Trust (through its trustee Ankush\nAggarwal",
+          "percent": 3.12,
+          "shares": 137780276
+        },
+        {
+          "name": "Mirae Asset Large & Midcap Fund",
+          "percent": 1.43,
+          "shares": 62909484
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 1643.86,
+      "profitLossCrore": -347.48,
+      "issuedShares": 2391870000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_112491_1227616_14082024114258.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 1214.0,
+      "profitLossCrore": -495.0,
+      "issuedShares": 4411000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_114683_1302510_08112024105006.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 1.0,
+      "profitLossCrore": 33.0,
+      "issuedShares": null,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_119202_1375325_08022025072001.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=OLAELEC: HTTP Error 403: Forbidden"
+  ]
+}

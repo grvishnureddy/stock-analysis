@@ -1,0 +1,68 @@
+{
+  "company": "SBIN",
+  "symbol": "SBIN",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-07T08:00:10+00:00",
+  "valuation": {
+    "lastPrice": 977.7,
+    "issuedShares": null,
+    "marketCapCrore": null,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "55.52",
+      "publicPercent": "44.48",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1653984_18042026011837_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "PRESIDENT OF INDIA",
+          "percent": 55.52,
+          "shares": 5079775288
+        },
+        {
+          "name": "LIFE INSURANCE CORPORATION OF INDIA",
+          "percent": 8.78,
+          "shares": 802922216
+        },
+        {
+          "name": "SBI MUTUAL FUND SCHEMES",
+          "percent": 3.4,
+          "shares": 311179642
+        },
+        {
+          "name": "NPS TRUST SCHEMES",
+          "percent": 1.99,
+          "shares": 182012603
+        },
+        {
+          "name": "HDFC MUTUAL FUND SCHEMES",
+          "percent": 1.74,
+          "shares": 159644626
+        },
+        {
+          "name": "NIPPON LIFE INDIA MUTUAL FUND SCHEMES",
+          "percent": 1.23,
+          "shares": 112467952
+        },
+        {
+          "name": "ICICI MUTUAL FUND SCHEMES",
+          "percent": 1.21,
+          "shares": 110724204
+        },
+        {
+          "name": "KOTAK MUTUAL FUND SCHEMES",
+          "percent": 1.04,
+          "shares": 94797445
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=SBIN: HTTP Error 403: Forbidden"
+  ]
+}

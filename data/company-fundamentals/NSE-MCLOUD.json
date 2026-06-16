@@ -1,0 +1,93 @@
+{
+  "company": "Magellanic Cloud Limited",
+  "symbol": "MCLOUD",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-08T12:14:42+00:00",
+  "valuation": {
+    "lastPrice": 24.58,
+    "issuedShares": 29219756000000,
+    "marketCapCrore": 71822160.03,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "54.04",
+      "publicPercent": "45.96",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1657053_22042026011524_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "JOSEPH SUDHEER REDDY THUMMA",
+          "percent": 35.9,
+          "shares": 211466356
+        },
+        {
+          "name": "JAGAN MOHAN REDDY THUMMA",
+          "percent": 7.98,
+          "shares": 47000000
+        },
+        {
+          "name": "DENNISREDDY THUMMA",
+          "percent": 5.8,
+          "shares": 34141740
+        },
+        {
+          "name": "VENKATESAN RAMASAMY",
+          "percent": 4.34,
+          "shares": 25540000
+        },
+        {
+          "name": "INNAMMA THUMMA",
+          "percent": 4.29,
+          "shares": 25292980
+        },
+        {
+          "name": "THANGAVELU SELVARAJ",
+          "percent": 3.7,
+          "shares": 21784999
+        },
+        {
+          "name": "VIJAY MAHENDRA CHAUHAN",
+          "percent": 2.66,
+          "shares": 15695666
+        },
+        {
+          "name": "VARSHA CHAUHAN",
+          "percent": 2.54,
+          "shares": 14954174
+        },
+        {
+          "name": "MAHENDRAKUMAR MANILAL CHAUHAN",
+          "percent": 2.42,
+          "shares": 14281220
+        },
+        {
+          "name": "KUTIR NAVINCHANDRA PATEL",
+          "percent": 1.05,
+          "shares": 6165000
+        },
+        {
+          "name": "BOYAPATI INNA REDDY",
+          "percent": 0.07,
+          "shares": 437760
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 151.42,
+      "profitLossCrore": 29.21,
+      "issuedShares": 29219756000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_120721_1385255_14022025071633.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=MCLOUD: HTTP Error 403: Forbidden"
+  ]
+}

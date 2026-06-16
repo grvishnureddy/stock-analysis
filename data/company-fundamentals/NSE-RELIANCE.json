@@ -1,0 +1,152 @@
+{
+  "company": "RELIANCE",
+  "symbol": "RELIANCE",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-07T08:00:05+00:00",
+  "valuation": {
+    "lastPrice": 1291.0,
+    "issuedShares": 13532000000,
+    "marketCapCrore": 1746981.2,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "50",
+      "publicPercent": "50",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1655961_21042026012504_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "Srichakra Commercials LLP",
+          "percent": 11.13,
+          "shares": 1479199658
+        },
+        {
+          "name": "Devarshi Commercials LLP",
+          "percent": 8.21,
+          "shares": 1091138920
+        },
+        {
+          "name": "Karuna Commercials LLP",
+          "percent": 8.21,
+          "shares": 1091138920
+        },
+        {
+          "name": "Tattvam Enterprises LLP",
+          "percent": 8.21,
+          "shares": 1091138920
+        },
+        {
+          "name": "Life Insurance Corporation of India",
+          "percent": 6.8,
+          "shares": 904443047
+        },
+        {
+          "name": "Reliance Industries Holding Private Ltd",
+          "percent": 4.57,
+          "shares": 608030142
+        },
+        {
+          "name": "Reliance Industrial Investments and Holdings Limited",
+          "percent": 3.63,
+          "shares": 481884012
+        },
+        {
+          "name": "Reliance Services and Holdings Limited a company controlled by Petroleum Trust",
+          "percent": 2.59,
+          "shares": 343765640
+        },
+        {
+          "name": "SBI Mutual Funds",
+          "percent": 2.55,
+          "shares": 338619667
+        },
+        {
+          "name": "Samarjit Enterprises LLP",
+          "percent": 1.88,
+          "shares": 249250548
+        },
+        {
+          "name": "ICICI Prudential Mutual Funds",
+          "percent": 1.61,
+          "shares": 213405338
+        },
+        {
+          "name": "NPS Trust",
+          "percent": 1.42,
+          "shares": 188920787
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 210831.0,
+      "profitLossCrore": 18182.0,
+      "issuedShares": 6766000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_94381_898237_21072023083827.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 234956.0,
+      "profitLossCrore": 19820.0,
+      "issuedShares": 6766000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_98088_969568_27102023082617.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 227970.0,
+      "profitLossCrore": 19488.0,
+      "issuedShares": 6766000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_101209_1030568_19012024071754.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 240715.0,
+      "profitLossCrore": 21143.0,
+      "issuedShares": 6766000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104634_1106038_22042024074704.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 134331.0,
+      "profitLossCrore": 7611.0,
+      "issuedShares": 6766000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_109173_1196029_19072024073334.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 235481.0,
+      "profitLossCrore": 19101.0,
+      "issuedShares": 6766000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_112771_1269085_14102024073244.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 128260.0,
+      "profitLossCrore": 8721.0,
+      "issuedShares": 13532000000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_117298_1348254_16012025082021.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=RELIANCE: HTTP Error 403: Forbidden"
+  ]
+}

@@ -1,0 +1,454 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#081c15">
+  <title>StockScope India - Company Intelligence</title>
+  <link rel="stylesheet" href="styles.css?v=20260615-native-chart-v1">
+</head>
+<body>
+  <section id="loginView" class="login-shell">
+    <div class="login-card">
+      <div class="login-brand"><span class="brand-mark large-mark">SI</span><div><p class="eyebrow">SECURE MARKET INTELLIGENCE</p><h1>StockScope Pro</h1><p>Sign in to access verified results, market analysis, and controlled data jobs.</p></div></div>
+      <form id="loginForm" class="login-form">
+        <label>Username<input name="username" autocomplete="username" required placeholder="Administrator username"></label>
+        <label>Password<input name="password" type="password" autocomplete="current-password" required placeholder="Password"></label>
+        <p id="loginError" class="login-error" hidden></p>
+        <button class="button primary" type="submit">Sign in securely</button>
+      </form>
+      <div class="login-security"><span>PBKDF2 password hashing</span><span>HttpOnly sessions</span><span>SQLite audit trail</span></div>
+    </div>
+  </section>
+
+  <header class="topbar app-protected" hidden>
+    <a class="brand" href="#">
+      <span class="brand-mark">SI</span>
+      <span>
+        <strong>StockScope India</strong>
+        <small>Company intelligence</small>
+      </span>
+    </a>
+    <div class="top-actions">
+      <label class="search global-search">
+        <span>⌕</span>
+        <input id="searchInput" type="search" placeholder="Search all listed companies" autocomplete="off">
+        <div id="companySearchResults" class="search-results" hidden></div>
+      </label>
+      <button class="button ghost" id="importButton">Import CSV</button>
+      <button class="button primary" id="addButton">Add result date</button>
+      <span class="live-indicator"><i></i> Live</span>
+      <button class="user-chip" id="userChip"><span id="userInitial">A</span><strong id="currentUsername">admin</strong></button>
+      <button class="button ghost" id="logoutButton">Sign out</button>
+      <button class="mobile-menu-button" id="mobileMenuButton" aria-label="Open mobile actions" aria-expanded="false">Menu</button>
+    </div>
+  </header>
+
+  <aside id="mobileActionMenu" class="mobile-action-menu app-protected" hidden>
+    <button data-mobile-action="search">Search companies</button>
+    <button data-mobile-action="add">Add result date</button>
+    <button data-mobile-action="import">Import CSV</button>
+    <button data-mobile-action="settings">Feed settings</button>
+    <button data-mobile-action="account">Account & password</button>
+    <button data-mobile-action="logout">Sign out</button>
+  </aside>
+
+  <section class="system-strip app-protected" hidden>
+    <span><i class="status-dot healthy"></i> Data services online</span>
+    <span id="systemVerificationStatus">Result verification loading</span>
+    <span id="systemJobStatus">Job history loading</span>
+    <span>Secure session</span>
+  </section>
+
+  <main class="app-protected" hidden>
+    <section class="hero dashboard-shell">
+      <div>
+        <p class="eyebrow">COMPANY INTELLIGENCE</p>
+        <h1>Research every listed company.</h1>
+        <p class="hero-copy">Search companies, inspect filings, monitor results, and track potential opportunities and risks from exchange announcements.</p>
+      </div>
+      <div class="hero-date">
+        <span id="todayDay"></span>
+        <strong id="todayDate"></strong>
+        <small id="todayYear"></small>
+      </div>
+    </section>
+
+    <section class="metrics dashboard-shell" aria-label="Summary">
+      <article>
+        <span class="metric-icon green">↗</span>
+        <div><small>Next 7 days</small><strong id="weekCount">0</strong></div>
+      </article>
+      <article>
+        <span class="metric-icon amber">◷</span>
+        <div><small>Awaiting confirmation</small><strong id="estimatedCount">0</strong></div>
+      </article>
+      <article>
+        <span class="metric-icon blue">★</span>
+        <div><small>Saved companies</small><strong id="watchlistCount">0</strong></div>
+      </article>
+      <article>
+        <span class="metric-icon violet">▦</span>
+        <div><small>Companies indexed</small><strong id="totalCount">0</strong></div>
+      </article>
+    </section>
+
+    <section class="toolbar dashboard-shell">
+      <div class="tabs" role="tablist">
+        <button class="tab active" data-view="dashboard">Dashboard</button>
+        <button class="tab" data-view="list">Upcoming</button>
+        <button class="tab" data-view="companies">Companies</button>
+        <button class="tab" data-view="stocks">Stocks</button>
+        <button class="tab" data-view="markets">Markets</button>
+        <button class="tab" data-view="watch-today">Today & tomorrow</button>
+        <button class="tab" data-view="calendar">Calendar</button>
+        <button class="tab" data-view="watchlist">Watchlist</button>
+        <button class="tab" data-view="news">News & events</button>
+        <button class="tab" data-view="learn">Learn</button>
+        <button class="tab" data-view="jobs">Jobs</button>
+      </div>
+      <div class="filters">
+        <select id="exchangeFilter" aria-label="Filter by exchange"><option value="">All exchanges</option></select>
+        <select id="statusFilter" aria-label="Filter by status">
+          <option value="">All statuses</option>
+          <option value="confirmed">Confirmed</option>
+          <option value="estimated">Estimated</option>
+        </select>
+        <button class="button ghost" id="syncButton">Sync feed</button>
+        <button class="icon-button" id="settingsButton" aria-label="Feed settings">⚙</button>
+      </div>
+    </section>
+
+    <section id="dashboardView" class="dashboard-news dashboard-shell">
+      <div class="dashboard-news-heading"><div><p class="eyebrow">STOCK NEWS PRIORITY</p><h2>Latest stock-impacting news</h2><p id="marketNewsSummary">Company-specific stories appear before broad market news</p></div><div class="filters"><select id="marketNewsPlatform"><option value="">All sources</option><option value="stock">Stock-specific only</option><option value="news">News channels</option><option value="social">Social feeds</option></select><button class="button primary" id="updateMarketNewsButton">Update news now</button></div></div>
+      <section class="trending-grid" id="trendingNews"></section>
+      <section class="panel market-news-panel"><div class="panel-heading"><div><h2>Prioritized stock news</h2><p>Stock-specific stories first, then broad market coverage</p></div></div><div id="latestMarketNews" class="market-news-list"></div></section>
+    </section>
+
+    <section id="listView" class="panel list-panel dashboard-shell">
+      <div class="panel-heading">
+        <div><h2>Upcoming results</h2><p id="resultSummary"></p></div>
+        <button class="text-button" id="exportButton">Export CSV ↓</button>
+      </div>
+      <div class="verification-ribbon" id="verificationRibbon"></div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Company</th><th>Result date</th><th>Quarter</th><th>Exchange</th><th>Status</th><th></th></tr></thead>
+          <tbody id="resultsBody"></tbody>
+        </table>
+        <div class="empty-state" id="emptyState" hidden>
+          <strong>No result dates found</strong>
+          <span>Try changing the filters or import a fresh calendar.</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="calendarView" class="panel calendar-panel dashboard-shell" hidden>
+      <div class="panel-heading">
+        <button class="icon-button" id="prevMonth" aria-label="Previous month">‹</button>
+        <h2 id="calendarTitle"></h2>
+        <button class="icon-button" id="nextMonth" aria-label="Next month">›</button>
+      </div>
+      <div class="calendar-weekdays"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div>
+      <div class="calendar-grid" id="calendarGrid"></div>
+    </section>
+
+    <section id="companiesView" class="panel dashboard-shell" hidden>
+      <div class="panel-heading"><div><h2>Company directory</h2><p id="companyDirectorySummary"></p></div></div>
+      <div class="table-wrap"><table><thead><tr><th>Company</th><th>Exchange</th><th>Latest quarter</th><th>Recent filings</th><th>Upcoming result</th></tr></thead><tbody id="companyDirectoryBody"></tbody></table></div>
+    </section>
+
+    <section id="stocksView" class="dashboard-shell" hidden>
+      <div class="dashboard-news-heading"><div><p class="eyebrow">DAILY TECHNICAL ANALYSIS</p><h2>Stock signals</h2><p id="stockAnalysisSummary">Indicator-based analysis, not guaranteed predictions</p></div><div class="filters"><select id="stockSignalFilter"><option value="">All signals</option><option value="Bullish">Bullish</option><option value="Neutral">Neutral</option><option value="Bearish">Bearish</option></select><button class="button primary" id="updateStockAnalysisButton">Update analysis now</button></div></div>
+      <section id="stockAnalysisCards" class="stock-analysis-grid"></section>
+      <section class="panel practice-portfolio-panel"><div class="panel-heading"><div><h2>Practice portfolio</h2><p id="practicePortfolioSummary">Simulated trades only</p></div><button class="button primary" id="refreshPracticePricesButton">Refresh practice prices</button></div><div id="practicePositions"></div></section>
+      <section class="panel practice-history-panel"><div class="panel-heading"><div><h2>Completed practice trades</h2><p>Realized simulated profit and loss</p></div></div><div id="practiceHistory"></div></section>
+      <section class="panel"><div class="panel-heading"><div><h2>How signals are calculated</h2><p>Transparent indicator agreement</p></div></div><p class="analysis-disclaimer">Signals combine price versus SMA20/50/200, MACD, RSI, and 20-day momentum. Confidence means indicator agreement, not forecast accuracy. Always verify data and manage risk.</p></section>
+    </section>
+
+    <section id="watchTodayView" class="dashboard-shell" hidden>
+      <div class="dashboard-news-heading">
+        <div><p class="eyebrow">PREDICTION ANALYSIS</p><h2>Stocks to watch today & tomorrow</h2><p id="watchPredictionSummary">News, labeled gossip, events, and technical signals</p></div>
+        <div class="filters"><select id="watchPredictionFilter"><option value="">All directions</option><option value="Positive watch">Positive watch</option><option value="Negative watch">Negative watch</option><option value="Neutral watch">Neutral watch</option></select><button class="button primary" id="updateWatchPredictionsButton">Update predictions</button></div>
+      </div>
+      <div class="watch-prediction-columns">
+        <section class="panel"><div class="panel-heading"><div><h2>Watch today</h2><p>Fresh-news priority with technical confirmation</p></div></div><div id="todayWatchList" class="watch-prediction-list"></div></section>
+        <section class="panel"><div class="panel-heading"><div><h2>Watch tomorrow</h2><p>Next-session catalysts and technical setup</p></div></div><div id="tomorrowWatchList" class="watch-prediction-list"></div></section>
+      </div>
+      <section class="panel watch-method-panel"><p class="analysis-disclaimer" id="watchPredictionMethod">Research shortlist only. Gossip and social chatter are unverified, downweighted, and never treated as fact. Predictions are not guaranteed or investment advice.</p></section>
+    </section>
+
+    <section id="marketsView" class="dashboard-shell" hidden>
+      <div class="dashboard-news-heading">
+        <div><p class="eyebrow">MARKET OVERVIEW</p><h2>Indices, sectors & metals</h2><p id="marketOverviewSummary">Nifty, Sensex, sector indices, gold, silver, and other references</p></div>
+        <div class="filters"><select id="marketInstrumentFilter"><option value="">All instruments</option><option value="index">Broad indices</option><option value="sector">Sector indices</option><option value="metal">Metals</option><option value="energy">Energy</option><option value="volatility">Volatility</option></select><button class="button primary" id="updateMarketOverviewButton">Update markets</button></div>
+      </div>
+      <section id="marketInstrumentCards" class="market-instrument-grid"></section>
+      <section class="panel market-components-panel">
+        <div class="panel-heading"><div><h2>Index components</h2><p id="marketComponentsSummary">Current components from NSE when available</p></div><select id="componentIndexSelect" aria-label="Select index"></select></div>
+        <div class="table-wrap"><table><thead><tr><th>Company</th><th>Last price</th><th>Daily change</th><th>Volume</th><th>Free-float market cap</th></tr></thead><tbody id="marketComponentsBody"></tbody></table></div>
+      </section>
+      <section class="panel market-method-panel"><p class="analysis-disclaimer" id="marketOverviewDisclaimer">Prices may be delayed. Commodity futures are global references and are not Indian retail spot prices.</p></section>
+    </section>
+
+    <section id="newsView" class="panel news-panel dashboard-shell" hidden>
+      <div class="panel-heading">
+        <div><h2>Latest company news & events</h2><p id="newsSummary">Exchange-filed announcements and upcoming events</p></div>
+        <button class="text-button" id="syncNewsButton">Refresh news</button>
+      </div>
+      <div id="newsList" class="news-list"></div>
+      <div class="empty-state" id="newsEmptyState" hidden><strong>No company news found</strong><span>Run the news updater or change your search.</span></div>
+    </section>
+
+    <section id="learnView" class="learn-page dashboard-shell" hidden>
+      <section class="learn-hero">
+        <div><p class="eyebrow">STOCKSCOPE ACADEMY</p><h2>Learn before you risk money.</h2><p>Build a repeatable investing process, understand chart patterns and taxes, compare platforms, and treat derivatives with the caution they deserve.</p></div>
+        <div class="learn-rule"><strong>Core rule</strong><span>Never invest money needed within the next 3–5 years. Never trade F&O with borrowed money.</span></div>
+      </section>
+
+      <nav class="learn-jump-links" aria-label="Learn page sections">
+        <a href="#learn-start">Start investing</a><a href="#learn-patterns">Stock patterns</a><a href="#learn-tax">Tax estimator</a><a href="#learn-apps">Investment apps</a><a href="#learn-fno">Trading & F&O</a>
+      </nav>
+
+      <section id="learn-start" class="learn-section">
+        <div class="learn-section-heading"><div><p class="eyebrow">FOUNDATION</p><h2>A sensible investing path</h2></div><span class="learn-level">Beginner</span></div>
+        <div class="learn-step-grid">
+          <article><span>01</span><h3>Protect the downside</h3><p>Clear expensive debt, keep an emergency fund, and buy adequate health and term insurance before investing aggressively.</p></article>
+          <article><span>02</span><h3>Define the goal</h3><p>Choose a time horizon and acceptable loss. Short-term goals belong in lower-risk instruments, not volatile equities.</p></article>
+          <article><span>03</span><h3>Start diversified</h3><p>For many beginners, a low-cost broad-market index fund is simpler and less concentrated than selecting individual shares.</p></article>
+          <article><span>04</span><h3>Research businesses</h3><p>Study revenue, profit, cash flow, debt, valuation, management quality, risks, and exchange filings before buying a company.</p></article>
+          <article><span>05</span><h3>Size positions</h3><p>Avoid putting most of your portfolio into one stock, sector, tip, or theme. Add gradually rather than chasing sudden moves.</p></article>
+          <article><span>06</span><h3>Review, do not react</h3><p>Review goals and allocation periodically. A price fall alone is not a reason to sell; a broken investment thesis may be.</p></article>
+        </div>
+      </section>
+
+      <section id="learn-patterns" class="learn-section">
+        <div class="learn-section-heading"><div><p class="eyebrow">TECHNICAL BASICS</p><h2>Read patterns as probabilities</h2><p>Patterns can fail. Confirm them with volume, trend, support/resistance, business news, and risk controls.</p></div><span class="learn-level">Intermediate</span></div>
+        <div class="pattern-grid">
+          <article class="pattern-card positive-pattern"><svg viewBox="0 0 240 90" aria-label="Uptrend"><polyline points="5,78 45,62 70,68 112,42 145,50 185,22 235,8"></polyline></svg><h3>Uptrend</h3><p>Higher highs and higher lows suggest buyers remain in control. Avoid buying only because price has already risen sharply.</p><strong>Watch: pullbacks holding above prior support</strong></article>
+          <article class="pattern-card"><svg viewBox="0 0 240 90" aria-label="Support and resistance"><polyline points="5,70 35,25 65,68 95,24 125,65 160,22 195,62 235,20"></polyline><line x1="0" y1="22" x2="240" y2="22"></line><line x1="0" y1="70" x2="240" y2="70"></line></svg><h3>Support & resistance</h3><p>Support is an area where demand previously appeared; resistance is where selling previously appeared. They are zones, not exact prices.</p><strong>Watch: price reaction and volume near the zone</strong></article>
+          <article class="pattern-card positive-pattern"><svg viewBox="0 0 240 90" aria-label="Breakout"><polyline points="5,65 35,35 65,64 95,36 125,62 155,34 180,58 200,20 235,7"></polyline><line x1="0" y1="32" x2="190" y2="32"></line></svg><h3>Breakout</h3><p>Price moves above a well-tested resistance zone. False breakouts are common when volume is weak or the broader market is falling.</p><strong>Watch: close above resistance with stronger volume</strong></article>
+          <article class="pattern-card negative-pattern"><svg viewBox="0 0 240 90" aria-label="Head and shoulders"><polyline points="5,75 40,48 70,68 120,10 165,68 195,46 235,76"></polyline><line x1="5" y1="72" x2="235" y2="72"></line></svg><h3>Head and shoulders</h3><p>A possible reversal structure with a higher middle peak. It is not confirmed until price breaks the neckline.</p><strong>Watch: neckline break and failed recovery</strong></article>
+          <article class="pattern-card"><svg viewBox="0 0 240 90" aria-label="Moving average"><polyline points="5,70 35,62 65,66 95,45 125,50 155,30 190,35 235,12"></polyline><path d="M5 72 C70 70, 120 55, 235 20"></path></svg><h3>Moving averages</h3><p>Moving averages smooth price trends. They lag price and should not be treated as automatic buy or sell instructions.</p><strong>Watch: trend direction and repeated price reactions</strong></article>
+          <article class="pattern-card negative-pattern"><svg viewBox="0 0 240 90" aria-label="Downtrend"><polyline points="5,10 42,28 70,20 110,48 145,40 185,70 235,82"></polyline></svg><h3>Downtrend</h3><p>Lower highs and lower lows suggest sellers remain in control. A cheap-looking price can keep becoming cheaper.</p><strong>Watch: reversal confirmation before entering</strong></article>
+        </div>
+      </section>
+
+      <section id="learn-tax" class="learn-section">
+        <div class="learn-section-heading"><div><p class="eyebrow">INDIA TAX BASICS</p><h2>Estimate tax on market profits</h2><p>Indicative rules as of June 2026. Tax treatment depends on facts, classification, total income, surcharge, and future law changes.</p></div><span class="learn-level caution">Verify annually</span></div>
+        <div class="tax-layout">
+          <form id="taxEstimatorForm" class="tax-estimator">
+            <label>Profit type<select id="taxProfitType"><option value="stcg">Listed equity STCG, held up to 12 months</option><option value="ltcg">Listed equity LTCG, held over 12 months</option><option value="intraday">Intraday equity trading profit</option><option value="fno">F&O trading profit</option><option value="dividend">Dividend income</option></select></label>
+            <label>Profit / gain amount (₹)<input id="taxProfitAmount" type="number" min="0" step="1000" value="200000"></label>
+            <label id="taxSlabLabel" hidden>Estimated income-tax slab rate<select id="taxSlabRate"><option value="0">0%</option><option value="5">5%</option><option value="10">10%</option><option value="15">15%</option><option value="20">20%</option><option value="25">25%</option><option value="30" selected>30%</option></select></label>
+            <button class="button primary" type="submit">Estimate tax</button>
+          </form>
+          <div class="tax-result" id="taxResult" aria-live="polite"></div>
+        </div>
+        <div class="tax-facts">
+          <article><strong>Listed equity STCG</strong><span>20% on eligible short-term gains, plus applicable cess and surcharge.</span></article>
+          <article><strong>Listed equity LTCG</strong><span>12.5% on eligible annual gains above ₹1.25 lakh, plus applicable cess and surcharge.</span></article>
+          <article><strong>Intraday and F&O</strong><span>Generally treated as business income and taxed at the applicable slab rate. Compliance and audit rules may apply.</span></article>
+          <article><strong>Other costs</strong><span>Brokerage, STT, exchange charges, GST, stamp duty, and DP charges can reduce returns. STT is not the same as income tax.</span></article>
+        </div>
+        <p class="learn-disclaimer">Estimator includes a simple 4% health and education cess, but excludes surcharge, loss set-off rules, expenses, audit requirements, and transaction charges. Consult a qualified tax professional for filing.</p>
+      </section>
+
+      <section id="learn-apps" class="learn-section">
+        <div class="learn-section-heading"><div><p class="eyebrow">PLATFORM SELECTION</p><h2>Choose an app for your use case</h2><p>There is no single best broker. Verify current pricing, exchange membership, support quality, outage history, and every charge before opening an account.</p></div><span class="learn-level">Compare first</span></div>
+        <div class="app-comparison-grid">
+          <article><span class="app-type">Long-term investing</span><h3>Groww / Zerodha Coin</h3><p>Simple interfaces for stocks and mutual funds. Compare direct-fund support, reports, order types, and total charges.</p><div><a href="https://groww.in/pricing" target="_blank" rel="noopener">Groww pricing</a><a href="https://zerodha.com/charges/" target="_blank" rel="noopener">Zerodha charges</a></div></article>
+          <article><span class="app-type">Investing + active trading</span><h3>Zerodha Kite / Upstox</h3><p>Popular charting and trading workflows. Compare platform reliability, APIs, support, and derivative costs.</p><div><a href="https://zerodha.com/charges/" target="_blank" rel="noopener">Zerodha charges</a><a href="https://upstox.com/brokerage-charges/" target="_blank" rel="noopener">Upstox charges</a></div></article>
+          <article><span class="app-type">Research-led broking</span><h3>Angel One</h3><p>Offers broking with research and advisory-style features. Understand conflicts, verify recommendations, and check all charges.</p><div><a href="https://www.angelone.in/brokerage-calculator" target="_blank" rel="noopener">Angel One charges</a></div></article>
+          <article><span class="app-type">Advanced trading tools</span><h3>Dhan</h3><p>Trading-oriented tools and integrations may suit experienced users. Complexity does not improve outcomes without discipline.</p><div><a href="https://dhan.co/pricing/" target="_blank" rel="noopener">Dhan pricing</a></div></article>
+        </div>
+        <div class="broker-checklist"><strong>Before choosing:</strong><span>Confirm the broker is SEBI-registered</span><span>Read the tariff sheet</span><span>Enable 2FA</span><span>Check contract notes</span><span>Never share OTP or TPIN</span><span>Do not trust guaranteed-return claims</span></div>
+      </section>
+
+      <section id="learn-fno" class="learn-section">
+        <div class="learn-section-heading"><div><p class="eyebrow">HIGH-RISK PRODUCTS</p><h2>Trading and F&O</h2></div><span class="learn-level danger">Advanced only</span></div>
+        <div class="fno-warning"><strong>Most individual F&O traders lose money.</strong><p>SEBI reported that 91% of individual equity-derivatives traders incurred net losses in FY 2024–25. Leverage can create losses much larger and faster than expected.</p></div>
+        <div class="fno-grid">
+          <article><h3>Futures</h3><p>A leveraged obligation to buy or sell later. Daily mark-to-market losses can trigger margin calls. Loss potential can be substantial.</p></article>
+          <article><h3>Options buying</h3><p>Loss is generally limited to premium paid, but time decay and volatility changes can make options lose value even when direction seems correct.</p></article>
+          <article><h3>Options selling</h3><p>Premium received is limited while losses can be very large. Margin availability is not a measure of affordability or safety.</p></article>
+          <article><h3>Risk rules</h3><p>Use paper trading first, define maximum loss before entry, avoid averaging leveraged losses, and never trade to recover a previous loss.</p></article>
+        </div>
+        <div class="learn-source-links"><a href="https://investor.sebi.gov.in/" target="_blank" rel="noopener">SEBI Investor education</a><a href="https://www.sebi.gov.in/" target="_blank" rel="noopener">SEBI official site</a><a href="https://www.incometax.gov.in/" target="_blank" rel="noopener">Income Tax Department</a><a href="https://www.nseindia.com/invest/investors-home" target="_blank" rel="noopener">NSE investor resources</a></div>
+        <p class="learn-disclaimer">Educational content only, not personalized investment, trading, legal, or tax advice. Market returns and pattern outcomes are never guaranteed.</p>
+      </section>
+    </section>
+
+    <section id="jobsView" class="panel jobs-panel dashboard-shell" hidden>
+      <div class="panel-heading">
+        <div><h2>Run data jobs</h2><p>Start an update immediately from this computer</p></div>
+        <button class="button primary" id="runAllJobsButton">Run all jobs</button>
+      </div>
+      <div id="jobHealthGrid" class="job-health-grid"></div>
+      <div class="job-grid">
+        <article class="job-card">
+          <div class="job-card-heading"><span class="metric-icon green">R</span><div><h3>Results calendar</h3><p>Pull upcoming NSE result meeting dates.</p></div></div>
+          <div class="job-meta"><span id="resultsJobBadge" class="job-badge idle">Idle</span><small id="resultsJobTime">Not run in this session</small></div>
+          <button class="button ghost job-run-button" data-job="results">Run results job</button>
+          <pre id="resultsJobOutput" class="job-output">No output yet.</pre>
+        </article>
+        <article class="job-card">
+          <div class="job-card-heading"><span class="metric-icon blue">N</span><div><h3>Company news & events</h3><p>Pull latest announcements and upcoming events.</p></div></div>
+          <div class="job-meta"><span id="newsJobBadge" class="job-badge idle">Idle</span><small id="newsJobTime">Not run in this session</small></div>
+          <button class="button ghost job-run-button" data-job="news">Run news job</button>
+          <pre id="newsJobOutput" class="job-output">No output yet.</pre>
+        </article>
+        <article class="job-card">
+          <div class="job-card-heading"><span class="metric-icon violet">F</span><div><h3>Quarterly financials</h3><p>Pull latest filed quarter and available profit/loss metrics.</p></div></div>
+          <div class="job-meta"><span id="financialsJobBadge" class="job-badge idle">Idle</span><small id="financialsJobTime">Not run in this session</small></div>
+          <button class="button ghost job-run-button" data-job="financials">Run financials job</button>
+          <pre id="financialsJobOutput" class="job-output">No output yet.</pre>
+        </article>
+        <article class="job-card">
+          <div class="job-card-heading"><span class="metric-icon amber">M</span><div><h3>Market & social news</h3><p>Refresh news channels and configured social feeds.</p></div></div>
+          <div class="job-meta"><span id="market-newsJobBadge" class="job-badge idle">Idle</span><small id="market-newsJobTime">Not run in this session</small></div>
+          <button class="button ghost job-run-button" data-job="market-news">Run market news job</button>
+          <pre id="market-newsJobOutput" class="job-output">No output yet.</pre>
+        </article>
+        <article class="job-card">
+          <div class="job-card-heading"><span class="metric-icon green">A</span><div><h3>Daily stock analysis</h3><p>Calculate technical signals for priority stocks.</p></div></div>
+          <div class="job-meta"><span id="stock-analysisJobBadge" class="job-badge idle">Idle</span><small id="stock-analysisJobTime">Not run in this session</small></div>
+          <button class="button ghost job-run-button" data-job="stock-analysis">Run stock analysis job</button>
+          <pre id="stock-analysisJobOutput" class="job-output">No output yet.</pre>
+        </article>
+        <article class="job-card">
+          <div class="job-card-heading"><span class="metric-icon blue">P</span><div><h3>Practice prices</h3><p>Refresh recent intraday prices for simulated trades.</p></div></div>
+          <div class="job-meta"><span id="practice-pricesJobBadge" class="job-badge idle">Idle</span><small id="practice-pricesJobTime">Not run in this session</small></div>
+          <button class="button ghost job-run-button" data-job="practice-prices">Run practice prices job</button>
+          <pre id="practice-pricesJobOutput" class="job-output">No output yet.</pre>
+        </article>
+        <article class="job-card">
+          <div class="job-card-heading"><span class="metric-icon amber">W</span><div><h3>Today & tomorrow watchlist</h3><p>Rank stocks from news, labeled gossip, events, and technical signals.</p></div></div>
+          <div class="job-meta"><span id="watch-predictionsJobBadge" class="job-badge idle">Idle</span><small id="watch-predictionsJobTime">Not run in this session</small></div>
+          <button class="button ghost job-run-button" data-job="watch-predictions">Run prediction job</button>
+          <pre id="watch-predictionsJobOutput" class="job-output">No output yet.</pre>
+        </article>
+        <article class="job-card">
+          <div class="job-card-heading"><span class="metric-icon violet">I</span><div><h3>Indices, components & metals</h3><p>Refresh Nifty, Sensex, sectors, metals, and current NSE components.</p></div></div>
+          <div class="job-meta"><span id="market-overviewJobBadge" class="job-badge idle">Idle</span><small id="market-overviewJobTime">Not run in this session</small></div>
+          <button class="button ghost job-run-button" data-job="market-overview">Run market overview job</button>
+          <pre id="market-overviewJobOutput" class="job-output">No output yet.</pre>
+        </article>
+      </div>
+      <div id="jobServerNotice" class="job-notice" hidden>On-demand jobs require the local job server. Start the app using <code>python scripts/job_server.py</code>.</div>
+    </section>
+
+    <section id="companyPage" class="company-page" hidden>
+      <button class="text-button company-back" id="companyBackButton">← Back to dashboard</button>
+      <section class="company-hero">
+        <div class="company-title"><span id="companyPageLogo" class="company-logo large"></span><div><p class="eyebrow">COMPANY RESEARCH</p><h1 id="companyPageName"></h1><p id="companyPageMeta"></p></div></div>
+        <div class="company-actions"><button class="button ghost" id="companyUpdateAllButton">Update all data</button><button class="button ghost" id="companyWatchButton">Add to watchlist</button><a class="button primary" id="companyExchangeLink" target="_blank" rel="noopener">Open NSE quote</a></div>
+      </section>
+      <section class="company-data-status"><div><strong id="companyDataCoverage">Checking company data coverage</strong><span id="companyDataUpdated">Waiting for available sources</span></div><button class="button ghost" id="companyDataRetryButton">Retry missing data</button></section>
+      <section class="company-stats" id="companyStats"></section>
+      <section class="panel company-price-history-panel">
+        <div class="panel-heading company-chart-heading"><div><h2>Interactive stock price chart</h2><p id="companyPriceHistorySummary">Loading price history</p></div><button class="button ghost" id="refreshCompanyChartButton">Refresh chart</button></div>
+        <div class="company-chart-toolbar" id="companyChartRanges" aria-label="Chart time range">
+          <button class="active" data-chart-range="1D">1D</button><button data-chart-range="1W">1W</button><button data-chart-range="1M">1M</button><button data-chart-range="3M">3M</button><button data-chart-range="1Y">1Y</button><button data-chart-range="3Y">3Y</button><button data-chart-range="5Y">5Y</button>
+        </div>
+        <div class="company-native-chart"><svg id="companyPriceHistoryChart" class="company-history-chart" viewBox="0 0 1100 420" role="img" aria-label="Interactive company stock price graph"></svg><div class="company-chart-meta" id="companyChartMeta"></div><p class="company-chart-note">Prices may be delayed and are not adjusted here for every corporate action. Use exchange filings to verify material changes.</p></div>
+      </section>
+      <section class="company-fundamentals-grid">
+        <article class="panel">
+          <div class="panel-heading"><div><h2>Company value</h2><p id="companyValuationSummary">Loading market capitalization</p></div><button class="button ghost" id="refreshCompanyFundamentalsButton">Refresh fundamentals</button></div>
+          <div id="companyValuation" class="fundamental-cards"></div>
+        </article>
+        <article class="panel">
+          <div class="panel-heading"><div><h2>Investor ownership</h2><p id="companyOwnershipSummary">Latest NSE shareholding pattern</p></div></div>
+          <div id="companyOwnership" class="ownership-list"></div>
+        </article>
+      </section>
+      <section class="panel profit-history-panel">
+        <div class="panel-heading"><div><h2>Past-quarter profit / loss</h2><p id="profitHistorySummary">Loading official quarterly filings</p></div></div>
+        <svg id="profitHistoryChart" class="profit-history-chart" viewBox="0 0 900 300" role="img" aria-label="Quarterly profit and loss graph"></svg>
+      </section>
+      <section class="research-grid">
+        <article class="panel research-panel"><div class="panel-heading"><div><h2>Quarterly results & filings</h2><p>Latest available exchange data</p></div></div><div id="companyFinancials"></div></article>
+        <article class="panel research-panel"><div class="panel-heading"><div><h2>Research signals</h2><p>Keyword-based filing classification, not investment advice</p></div></div><div id="companySignals" class="signal-summary"></div></article>
+      </section>
+      <section class="panel event-suggestion-panel">
+        <div class="panel-heading"><div><h2>Event-based trade suggestion</h2><p id="eventSuggestionSummary">Waiting for company events and analyzed news</p></div></div>
+        <div id="eventSuggestionScore" class="event-suggestion-score"></div>
+        <div id="eventSuggestionEvidence" class="event-suggestion-evidence"></div>
+        <p class="analysis-disclaimer">Heuristic event signal only. Confirm price trend, valuation, filings, and risk before making a trade.</p>
+      </section>
+      <section class="panel company-analyzer-panel">
+        <div class="panel-heading"><div><h2>Six-month news analyzer</h2><p id="companyAnalyzerSummary">Searches for at least 10 related stories</p></div><div class="filters"><select id="companyAnalyzerFilter"><option value="">All categories</option><option value="contract">Contracts & orders</option><option value="positive">Potential positive</option><option value="risk">Potential risk</option><option value="result">Results</option><option value="neutral">Other news</option></select><button class="button ghost" id="refreshCompanyAnalyzerButton">Analyze 6 months</button></div></div>
+        <div id="companyAnalyzerStats" class="company-analyzer-stats"></div>
+        <div id="companyAnalyzerStories" class="company-analyzer-stories"></div>
+      </section>
+      <section class="panel company-timeline-panel">
+        <div class="panel-heading"><div><h2>All company news & events</h2><p id="companyTimelineSummary"></p></div><select id="companyNewsFilter"><option value="">All categories</option><option value="contract">Contracts & orders</option><option value="positive">Potential positive</option><option value="risk">Potential risk</option><option value="result">Results</option><option value="event">Upcoming events</option><option value="neutral">Other filings</option></select></div>
+        <div id="companyTimeline" class="company-timeline"></div>
+      </section>
+    </section>
+  </main>
+
+  <dialog id="entryDialog">
+    <form method="dialog" id="entryForm">
+      <div class="dialog-heading"><div><p class="eyebrow">NEW ENTRY</p><h2>Add result date</h2></div><button class="icon-button" value="cancel" aria-label="Close">×</button></div>
+      <label>Company name<input name="company" required placeholder="e.g. Reliance Industries"></label>
+      <div class="form-row"><label>Symbol<input name="symbol" required placeholder="RELIANCE"></label><label>Exchange<input name="exchange" required placeholder="NSE"></label></div>
+      <div class="form-row"><label>Result date<input name="date" type="date" required></label><label>Quarter<input name="quarter" required placeholder="Q1 FY27"></label></div>
+      <label>Status<select name="status"><option value="confirmed">Confirmed</option><option value="estimated">Estimated</option></select></label>
+      <div class="dialog-actions"><button class="button ghost" value="cancel">Cancel</button><button class="button primary" value="default">Add to calendar</button></div>
+    </form>
+  </dialog>
+
+  <dialog id="settingsDialog">
+    <form method="dialog" id="settingsForm">
+      <div class="dialog-heading"><div><p class="eyebrow">DATA SOURCE</p><h2>Sync settings</h2></div><button class="icon-button" value="cancel" aria-label="Close">×</button></div>
+      <p class="dialog-copy">Connect an endpoint that returns a JSON array using the same columns as the CSV template.</p>
+      <label>JSON feed URL<input name="feedUrl" type="url" placeholder="https://your-api.example/results"></label>
+      <div class="dialog-actions"><button class="button ghost" id="clearDataButton" value="cancel">Reset demo data</button><button class="button primary" value="default">Save settings</button></div>
+    </form>
+  </dialog>
+
+  <dialog id="accountDialog">
+    <form method="dialog" id="accountForm">
+      <div class="dialog-heading"><div><p class="eyebrow">SECURE ACCOUNT</p><h2>Change password</h2></div><button class="icon-button" value="cancel" aria-label="Close">×</button></div>
+      <p class="dialog-copy">Use a unique password containing at least 12 characters. Updating it removes the temporary initial-password file.</p>
+      <label>Current password<input name="currentPassword" type="password" autocomplete="current-password" required></label>
+      <label>New password<input name="newPassword" type="password" autocomplete="new-password" minlength="12" required></label>
+      <label>Confirm new password<input name="confirmPassword" type="password" autocomplete="new-password" minlength="12" required></label>
+      <p id="accountError" class="login-error" hidden></p>
+      <div class="dialog-actions"><button class="button ghost" value="cancel">Cancel</button><button class="button primary" value="default">Update password</button></div>
+    </form>
+  </dialog>
+
+  <dialog id="companyDialog" class="company-dialog">
+    <div class="company-detail">
+      <div class="dialog-heading">
+        <div><p class="eyebrow">COMPANY DETAIL</p><h2 id="companyDetailName"></h2><p id="companyDetailSymbol" class="dialog-copy"></p></div>
+        <button class="icon-button" id="closeCompanyDialog" aria-label="Close">×</button>
+      </div>
+      <section>
+        <div class="detail-section-heading"><div><h3>Previous quarter performance</h3><p id="financialPeriod"></p></div><button class="text-button" id="runFinancialsButton">Update financials</button></div>
+        <div id="financialCards" class="financial-cards"></div>
+        <p id="financialNotice" class="dialog-copy"></p>
+      </section>
+      <section>
+        <div class="detail-section-heading"><div><h3>Related news & events</h3><p id="relatedNewsSummary"></p></div></div>
+        <div id="relatedNewsList" class="related-news-list"></div>
+      </section>
+    </div>
+  </dialog>
+
+  <dialog id="stockChartDialog" class="stock-chart-dialog">
+    <div class="stock-chart-detail">
+      <div class="dialog-heading"><div><p class="eyebrow">PAPER TRADE & CHART</p><h2 id="stockChartName"></h2><p id="stockChartMeta" class="dialog-copy"></p></div><button class="icon-button" id="closeStockChartDialog" aria-label="Close">×</button></div>
+      <section class="chart-panel"><svg id="stockPriceChart" class="stock-price-chart" viewBox="0 0 900 300" role="img" aria-label="Daily closing price graph"></svg><div class="chart-links"><a id="nseChartLink" class="button ghost" target="_blank" rel="noopener">NSE chart</a><a id="yahooChartLink" class="button ghost" target="_blank" rel="noopener">Yahoo chart</a></div></section>
+      <section class="paper-trade-panel"><div class="detail-section-heading"><div><h3>Practice buy</h3><p>Buy now, wait, refresh the price, then sell later.</p></div><button class="button primary" id="practiceBuyButton">Buy for practice</button></div><div class="paper-trade-form"><label>Investment amount (₹)<input id="paperInvestment" type="number" min="0" step="100" value="100000"></label><label>Entry price (₹)<input id="paperEntry" type="number" min="0" step="0.01"></label><label>Sample exit price (₹)<input id="paperExit" type="number" min="0" step="0.01"></label></div><div id="paperTradeResults" class="paper-results"></div></section>
+    </div>
+  </dialog>
+
+  <input id="fileInput" type="file" accept=".csv,text/csv" hidden>
+  <div id="toast" class="toast" role="status"></div>
+  <script src="app.js?v=20260615-native-chart-v1"></script>
+</body>
+</html>

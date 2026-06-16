@@ -1,0 +1,152 @@
+{
+  "company": "Mahindra & Mahindra Limited",
+  "symbol": "M&M",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-12T18:04:47+00:00",
+  "valuation": {
+    "lastPrice": 3042.9,
+    "issuedShares": 1115980000,
+    "marketCapCrore": 339581.54,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "18.45",
+      "publicPercent": "78.05",
+      "employeeTrustPercent": "3.5",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1656738_21042026074002_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "PRUDENTIAL MANAGEMENT & SERVICES PRIVATE LIMITED",
+          "percent": 10.82,
+          "shares": 132221940
+        },
+        {
+          "name": "M&M BENEFIT TRUST (Anand Mahindra & Ranjan Pant -Trustees)",
+          "percent": 6.91,
+          "shares": 84470428
+        },
+        {
+          "name": "LIFE INSURANCE CORPORATION OF INDIA WITH SUB ACCOUNTS",
+          "percent": 6.4,
+          "shares": 78269976
+        },
+        {
+          "name": "MAHINDRA AND MAHINDRA EMPLOYEES STOCK OPTION TRUST",
+          "percent": 3.39,
+          "shares": 41488827
+        },
+        {
+          "name": "SBI NIFTY 50 ETF WITH SUB ACCOUNTS",
+          "percent": 2.99,
+          "shares": 36607257
+        },
+        {
+          "name": "NPS TRUST A/C UTI PENSION FUND LIMITED-SCHEME STATE GOVT WITH SUB ACCOUNTS",
+          "percent": 2.45,
+          "shares": 29919024
+        },
+        {
+          "name": "ICICI PRUDENTIAL LARGE CAP FUND WITH SUB ACCOUNTS",
+          "percent": 2.31,
+          "shares": 28191668
+        },
+        {
+          "name": "UTI NIFTY 50 ETF WITH SUB ACCOUNTS",
+          "percent": 1.65,
+          "shares": 20110795
+        },
+        {
+          "name": "GOVERNMENT OF SINGAPORE",
+          "percent": 1.64,
+          "shares": 20074420
+        },
+        {
+          "name": "NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA ETF NIFTY 50 BEES WITH SUB ACCOUNTS",
+          "percent": 1.51,
+          "shares": 18411827
+        },
+        {
+          "name": "PARAG PARIKH FLEXI CAP FUND WITH SUB ACCOUNTS",
+          "percent": 1.27,
+          "shares": 15518917
+        },
+        {
+          "name": "GOVERNMENT PENSION FUND GLOBAL",
+          "percent": 1.12,
+          "shares": 13709789
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 33891.63,
+      "profitLossCrore": 3422.58,
+      "issuedShares": 1113900000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_95350_908290_04082023045217.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 34435.52,
+      "profitLossCrore": 2263.73,
+      "issuedShares": 1114180000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_100300_985082_10112023032831.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 35299.39,
+      "profitLossCrore": 2731.87,
+      "issuedShares": 1114520000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104142_1055312_14022024051106.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 35451.73,
+      "profitLossCrore": 2730.21,
+      "issuedShares": 1114760000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_106098_1126839_16052024052646.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 37217.72,
+      "profitLossCrore": 3221.34,
+      "issuedShares": 1115020000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_109923_1207754_31072024035239.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 37923.74,
+      "profitLossCrore": 2894.71,
+      "issuedShares": 1115480000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_114335_1299670_07112024024228.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 41470.05,
+      "profitLossCrore": 3317.22,
+      "issuedShares": 1115980000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_119053_1374435_07022025041001.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=M%26M: HTTP Error 403: Forbidden"
+  ]
+}

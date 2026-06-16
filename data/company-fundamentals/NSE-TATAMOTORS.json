@@ -1,0 +1,19 @@
+{
+  "company": "TATAMOTORS",
+  "symbol": "TATAMOTORS",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-07T08:00:24+00:00",
+  "valuation": {
+    "lastPrice": null,
+    "issuedShares": null,
+    "marketCapCrore": null,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [],
+  "quarterlyHistory": [],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=TATAMOTORS: HTTP Error 403: Forbidden",
+    "Delayed price: Could not fetch https://query1.finance.yahoo.com/v8/finance/chart/TATAMOTORS.NS?range=1y&interval=1d&events=history: HTTP Error 404: Not Found"
+  ]
+}

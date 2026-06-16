@@ -1,0 +1,117 @@
+{
+  "company": "The India Cements Limited",
+  "symbol": "INDIACEM",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-11T10:12:28+00:00",
+  "valuation": {
+    "lastPrice": 384.65,
+    "issuedShares": 309900000,
+    "marketCapCrore": 11920.3,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "75",
+      "publicPercent": "25",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1656124_21042026030109_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "UltraTech Cement Limited",
+          "percent": 75.0,
+          "shares": 232416830
+        },
+        {
+          "name": "KOTAK LARGE & MIDCAP FUND",
+          "percent": 4.05,
+          "shares": 12565090
+        },
+        {
+          "name": "LICI ASM NON PAR",
+          "percent": 2.64,
+          "shares": 8168009
+        },
+        {
+          "name": "SBI MIDCAP FUND",
+          "percent": 1.94,
+          "shares": 6000000
+        },
+        {
+          "name": "F.I.I",
+          "percent": 0.01,
+          "shares": 22350
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 1436.74,
+      "profitLossCrore": -73.58,
+      "issuedShares": 309900000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_95565_910151_07082023055225.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 1264.39,
+      "profitLossCrore": -85.54,
+      "issuedShares": 309900000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_98431_973518_01112023051350.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 1144.46,
+      "profitLossCrore": -6.58,
+      "issuedShares": 309900000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_101986_1041466_01022024041032.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 1266.65,
+      "profitLossCrore": -50.06,
+      "issuedShares": 309900000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_106452_1130687_20052024060804.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 1026.76,
+      "profitLossCrore": 71.33,
+      "issuedShares": 309900000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_111110_1219318_09082024062153.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 1031.8,
+      "profitLossCrore": -339.15,
+      "issuedShares": 309900000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_114609_1301903_08112024060103.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 940.81,
+      "profitLossCrore": 133.27,
+      "issuedShares": 309900000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_117475_1356932_22012025030212.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=INDIACEM: HTTP Error 403: Forbidden"
+  ]
+}

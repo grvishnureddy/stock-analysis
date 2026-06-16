@@ -1,0 +1,142 @@
+{
+  "company": "Power Grid Corporation of India Limited",
+  "symbol": "POWERGRID",
+  "exchange": "NSE",
+  "updatedAt": "2026-06-07T07:32:34+00:00",
+  "valuation": {
+    "lastPrice": 285.65,
+    "issuedShares": 9300600000,
+    "marketCapCrore": 265671.63,
+    "currency": "INR crore",
+    "priceSource": "Yahoo delayed close + NSE XBRL issued shares"
+  },
+  "shareholding": [
+    {
+      "asOnDate": "2026-03-31",
+      "promoterPercent": "51.34",
+      "publicPercent": "48.66",
+      "employeeTrustPercent": "0",
+      "detailedFilingUrl": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1652082_16042026023752_WEB.xml",
+      "majorInvestors": [
+        {
+          "name": "LICI NEW ENDOWMENT PLUS-SECURED FUND",
+          "percent": 4.04,
+          "shares": 375414464
+        },
+        {
+          "name": "PARAG PARIKH DYNAMIC ASSET ALLOCATION FUND",
+          "percent": 3.56,
+          "shares": 330822602
+        },
+        {
+          "name": "GOVERNMENT OF SINGAPORE",
+          "percent": 2.12,
+          "shares": 196835545
+        },
+        {
+          "name": "SBI EQUITY SAVINGS FUND",
+          "percent": 2.05,
+          "shares": 191094991
+        },
+        {
+          "name": "PRESIDENT OF INDIA",
+          "percent": 1.94,
+          "shares": 180035200
+        },
+        {
+          "name": "NIPPON LIFE INDIA TRUSTEE LTD-A/C-NIPPON INDIA NIF",
+          "percent": 1.87,
+          "shares": 173843143
+        },
+        {
+          "name": "HDFC TRUSTEE COMPANY LIMITED-HDFC FLEXI CAP FUND",
+          "percent": 1.77,
+          "shares": 164820710
+        },
+        {
+          "name": "ICICI PRUDENTIAL PSU EQUITY FUND",
+          "percent": 1.56,
+          "shares": 145139632
+        },
+        {
+          "name": "NPS TRUST A/C UTI PENSION FUND LIMITED-SCHEME CENT",
+          "percent": 1.43,
+          "shares": 133288081
+        },
+        {
+          "name": "UTI NIFTY 50 INDEX FUND",
+          "percent": 1.0,
+          "shares": 93143098
+        }
+      ]
+    }
+  ],
+  "quarterlyHistory": [
+    {
+      "periodEnded": "2023-06-30",
+      "revenueCrore": 11048.13,
+      "profitLossCrore": 3602.25,
+      "issuedShares": 6975450000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_94998_904970_01082023123825.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2023-09-30",
+      "revenueCrore": 11267.07,
+      "profitLossCrore": 3819.7,
+      "issuedShares": 9300600000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_99399_980303_08112023024808.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2023-12-31",
+      "revenueCrore": 11549.79,
+      "profitLossCrore": 4066.16,
+      "issuedShares": 9300600000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_102732_1047985_08022024021315.xml",
+      "quarter": "Third Quarter"
+    },
+    {
+      "periodEnded": "2024-03-31",
+      "revenueCrore": 11978.11,
+      "profitLossCrore": 4104.6,
+      "issuedShares": 9300600000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_106835_1135496_23052024044444.xml",
+      "quarter": "Fourth Quarter"
+    },
+    {
+      "periodEnded": "2024-06-30",
+      "revenueCrore": 10068.16,
+      "profitLossCrore": 3412.15,
+      "issuedShares": 9300600000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_109616_1204134_26072024094642.xml",
+      "quarter": "First Quarter"
+    },
+    {
+      "periodEnded": "2024-09-30",
+      "revenueCrore": 11277.76,
+      "profitLossCrore": 3897.63,
+      "issuedShares": 9300600000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_114323_1299551_07112024010702.xml",
+      "quarter": "Second Quarter"
+    },
+    {
+      "periodEnded": "2024-12-31",
+      "revenueCrore": 10120.72,
+      "profitLossCrore": 3894.09,
+      "issuedShares": 9300600000,
+      "currency": "INR crore",
+      "sourceUrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_118615_1370657_04022025055754.xml",
+      "quarter": "Third Quarter"
+    }
+  ],
+  "errors": [
+    "Valuation: Could not fetch https://www.nseindia.com/api/quote-equity?symbol=POWERGRID: HTTP Error 403: Forbidden"
+  ]
+}
