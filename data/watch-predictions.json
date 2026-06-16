@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T15:24:15+00:00",
+  "generatedAt": "2026-06-16T19:51:24+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -16,7 +16,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2748.1,
+      "lastClose": 2739.3,
       "catalysts": [
         {
           "label": "Sensex Today Rallies 1,035 Points | Nifty Above 23,900 | Bajaj Finance & Asian Paints Top Gainers - Equitymaster",
@@ -80,6 +80,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1119.3,
+      "catalysts": [
+        {
+          "label": "Sensex Today Rallies 544 Points | Nifty Above 23,950 | HCL Technologies Up 4% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSzZJeTNxclpfZTRNRC12R3JpN1R3LWpicTd0d1ItZklhYWVmOEJ1amdxTkpHNzdnVl84RFc2MnRYV2RVZldjRDN6NUkwSmphNzJVUUdWY01OTDdrSFU3Qy03cHM3RFp4U25HTTNlVWxwbjdEamdQejJIY0dsQWtDY2draGYxRWVDTFpPMzNzYjlLTG9jMnhYZ2VLNVgzSGVub3B1SFlDeEU2dFdUVnlucTlpOEpxaUdkX2lndkdkdWJBSGMxS2VDNURUdzVndXc?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
@@ -92,7 +133,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1143.6,
+      "lastClose": 1134.9,
       "catalysts": [
         {
           "label": "Copy of Newspaper Publication",
@@ -150,83 +191,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Pine Labs Limited",
-      "symbol": "PINELABS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.6,
-      "confidence": 68,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 60,
-      "lastClose": 150.09,
-      "catalysts": [
-        {
-          "label": "Pine Labs CFO Says Company Earns No Income From Gift Card Breakage",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Rumour Verification - Regulation 30(11)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/pine-labs-cfo-says-company-earns-no-income-from-gift-card-breakage-11644667#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Tube Investments of India Limited",
-      "symbol": "TIINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 62,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 3264.2,
-      "catalysts": [
-        {
-          "label": "Tube Investments of India Ltd soars 1.88%, Gains for third straight session - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcU5ROGxvQy1lX2J2eW15ZzdsRFg2SEVMR2l2OE91N2ItZUY0TkFhS3BVQ2xuX1VQeDB5U2RndkNrLWZWRXJOeE1NT1lrMDB1OTE2TGtaWjhLUHYtRmhWZzBBSC1sRkNaUEVzVkIzZUEyNVdZM0RHMU5pNlpiaFVuMS03TmoyS1dxX1Bnd3hhNDF6YlVxaWxnNTlJbWs1WHZEX25UTmdUWVlNNTVORzdKcFBSSDVOSTJDS18xTkE4cmZxRUQ2UHRZMnVRLUFQbWN0V2V3ZG43azdFekhpVHAtVVVubDdUeFNUNVpJ0gHwAUFVX3lxTE8tRGtmU2VPQmFKUFoxOUdnbHptWndxRHdLQXZ2dUFoWVJpR0h2bGFYdDBYeHQ0Q1lNWWRTdzl1b080bnJKTk0zSUpzbkFMdXNWZHJrLXAwWkxuRElwSjVpTkFMaDRHYnAtQ3VxNFh3eE1zSlB4S05LSUQ1c18wMF9RdTh2OVY4OVh3N3hKR1VnNGgxeFJRWGFGU0xTSWk1MFJ5dk1adGY0NUZkbzlxZ0NtQjRjb1pKcGlVdl9WaVlSRUtOSUxHSF9IR004NTEyYk5pV3gyY2tBT2hHZlp0aUdmUl9IX2JGVm5tc0FISkZoQg?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Master Components Limited",
       "symbol": "MASTER",
       "exchange": "NSE",
@@ -259,47 +223,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Aarti Industries Limited",
-      "symbol": "AARTIIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 61,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 496.7,
-      "catalysts": [
-        {
-          "label": "Top Gainers & Losers on June 15: Aarti Industries, Gabriel India, Apar Industries, HFCL, HPCL among top gainers - Mint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Spurt in Volume",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Spurt in Volume",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMWVHa3dlUFNOb2VtS2tmLWhXZXdRa0F1Vy1PTmktRGNMeldad21nV1RzZ3FnQ1FRTjdvRDhIWUg5VzdNdkRvbHRkZDFVdGNKN2E4WXZPYUY4bEdtcThlVThtSWJKeXBKNktCbVBGYWxIQVhodjFiTzRSclRUMUdtaXVYSVh2cFh1YVJ6MTlMeE00QWYzZEk1WDNCSHNUdlN1WTdHalk5MmRoSkx0WUVmeVNHb3FwQ0ViOHVreUN0Vm40YXZabl92ZDZwT2FvLUk4cEp3LV9ZVWhISVFwWmxEMTBLLWl1cHV2Zm1xdm9KeFBGSC11T3p6LU1zY1dScmh4RWdtRDZEc0ZPQTTSAZACQVVfeXFMTllEMzlQaHNxT2gxc0RWSGJWLUpVOTNadFdhVWRpRVNoSnlxVU9WTHF4NmZ0WEV0ZDhUZkQ4Vll3eU9yVnhUTlplNktROGlPaGh1NlF6VXJZYXRnQVBuX1AtQnlVUFIyM1pWRFFPZTlVS0VHRTR5cWhadExEUnk4SGhPYlAyVnJlV1pSR3JJb3VUQ0xWZHNrazhSaXA4UnI0SFZSc3J5NUowNmhZejMxVmZhV3VMU2N1RFpDbEVxRURnNk55bjQ1NXp2Rm5tTXhqVl84TjFyYUNWaklSOWl2Ykk3RTFWcC1jakxmOTVTNWtES2l5RHh0OVdaQ0x0ZVc4dWtjZTlTMWlYSFlMNDN1cDI?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -350,7 +273,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 3.35,
+      "lastClose": 3.41,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -420,7 +343,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 133.13,
+      "lastClose": 141.14,
       "catalysts": [
         {
           "label": "Nimbus India acquires 55,000 shares in Industrial Investment Trust - scanx.trade",
@@ -436,6 +359,82 @@
           "verified": true
         }
       ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Gillette India Limited",
+      "symbol": "GILLETTE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Neutral watch",
+      "predictionScore": -1.8,
+      "confidence": 55,
+      "riskLevel": "High",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 7722.5,
+      "catalysts": [
+        {
+          "label": "Gillette India Sees Strong Growth In Women's Grooming Business, Venus Brand Expands Over 20%",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Disclosure under SEBI Takeover Regulations",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/gillette-india-sees-strong-growth-in-womens-grooming-business-venus-brand-expands-over-20-11646007#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Kalpataru Projects International Limited",
+      "symbol": "KPIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Neutral watch",
+      "predictionScore": 0.8,
+      "confidence": 55,
+      "riskLevel": "High",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
@@ -453,7 +452,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2748.1,
+      "lastClose": 2739.3,
       "catalysts": [
         {
           "label": "Sensex Today Rallies 1,035 Points | Nifty Above 23,900 | Bajaj Finance & Asian Paints Top Gainers - Equitymaster",
@@ -494,7 +493,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1143.6,
+      "lastClose": 1134.9,
       "catalysts": [
         {
           "label": "Copy of Newspaper Publication",
@@ -514,6 +513,47 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1119.3,
+      "catalysts": [
+        {
+          "label": "Sensex Today Rallies 544 Points | Nifty Above 23,950 | HCL Technologies Up 4% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSzZJeTNxclpfZTRNRC12R3JpN1R3LWpicTd0d1ItZklhYWVmOEJ1amdxTkpHNzdnVl84RFc2MnRYV2RVZldjRDN6NUkwSmphNzJVUUdWY01OTDdrSFU3Qy03cHM3RFp4U25HTTNlVWxwbjdEamdQejJIY0dsQWtDY2draGYxRWVDTFpPMzNzYjlLTG9jMnhYZ2VLNVgzSGVub3B1SFlDeEU2dFdUVnlucTlpOEpxaUdkX2lndkdkdWJBSGMxS2VDNURUdzVndXc?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -552,64 +592,28 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Pine Labs Limited",
-      "symbol": "PINELABS",
+      "company": "Gillette India Limited",
+      "symbol": "GILLETTE",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.4,
-      "confidence": 74,
+      "direction": "Negative watch",
+      "predictionScore": -3.0,
+      "confidence": 84,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 60,
-      "lastClose": 150.09,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 7722.5,
       "catalysts": [
         {
-          "label": "Pine Labs CFO Says Company Earns No Income From Gift Card Breakage",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Rumour Verification - Regulation 30(11)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/pine-labs-cfo-says-company-earns-no-income-from-gift-card-breakage-11644667#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Tube Investments of India Limited",
-      "symbol": "TIINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 3264.2,
-      "catalysts": [
-        {
-          "label": "Tube Investments of India Ltd soars 1.88%, Gains for third straight session - Business Standard",
+          "label": "Gillette India Sees Strong Growth In Women's Grooming Business, Venus Brand Expands Over 20%",
           "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
@@ -621,8 +625,8 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcU5ROGxvQy1lX2J2eW15ZzdsRFg2SEVMR2l2OE91N2ItZUY0TkFhS3BVQ2xuX1VQeDB5U2RndkNrLWZWRXJOeE1NT1lrMDB1OTE2TGtaWjhLUHYtRmhWZzBBSC1sRkNaUEVzVkIzZUEyNVdZM0RHMU5pNlpiaFVuMS03TmoyS1dxX1Bnd3hhNDF6YlVxaWxnNTlJbWs1WHZEX25UTmdUWVlNNTVORzdKcFBSSDVOSTJDS18xTkE4cmZxRUQ2UHRZMnVRLUFQbWN0V2V3ZG43azdFekhpVHAtVVVubDdUeFNUNVpJ0gHwAUFVX3lxTE8tRGtmU2VPQmFKUFoxOUdnbHptWndxRHdLQXZ2dUFoWVJpR0h2bGFYdDBYeHQ0Q1lNWWRTdzl1b080bnJKTk0zSUpzbkFMdXNWZHJrLXAwWkxuRElwSjVpTkFMaDRHYnAtQ3VxNFh3eE1zSlB4S05LSUQ1c18wMF9RdTh2OVY4OVh3N3hKR1VnNGgxeFJRWGFGU0xTSWk1MFJ5dk1adGY0NUZkbzlxZ0NtQjRjb1pKcGlVdl9WaVlSRUtOSUxHSF9IR004NTEyYk5pV3gyY2tBT2hHZlp0aUdmUl9IX2JGVm5tc0FISkZoQg?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/gillette-india-sees-strong-growth-in-womens-grooming-business-venus-brand-expands-over-20-11646007#publisher=newsstand",
           "verified": true
         }
       ],
@@ -664,47 +668,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Aarti Industries Limited",
-      "symbol": "AARTIIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 70,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 496.7,
-      "catalysts": [
-        {
-          "label": "Top Gainers & Losers on June 15: Aarti Industries, Gabriel India, Apar Industries, HFCL, HPCL among top gainers - Mint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Spurt in Volume",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Spurt in Volume",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMWVHa3dlUFNOb2VtS2tmLWhXZXdRa0F1Vy1PTmktRGNMeldad21nV1RzZ3FnQ1FRTjdvRDhIWUg5VzdNdkRvbHRkZDFVdGNKN2E4WXZPYUY4bEdtcThlVThtSWJKeXBKNktCbVBGYWxIQVhodjFiTzRSclRUMUdtaXVYSVh2cFh1YVJ6MTlMeE00QWYzZEk1WDNCSHNUdlN1WTdHalk5MmRoSkx0WUVmeVNHb3FwQ0ViOHVreUN0Vm40YXZabl92ZDZwT2FvLUk4cEp3LV9ZVWhISVFwWmxEMTBLLWl1cHV2Zm1xdm9KeFBGSC11T3p6LU1zY1dScmh4RWdtRDZEc0ZPQTTSAZACQVVfeXFMTllEMzlQaHNxT2gxc0RWSGJWLUpVOTNadFdhVWRpRVNoSnlxVU9WTHF4NmZ0WEV0ZDhUZkQ4Vll3eU9yVnhUTlplNktROGlPaGh1NlF6VXJZYXRnQVBuX1AtQnlVUFIyM1pWRFFPZTlVS0VHRTR5cWhadExEUnk4SGhPYlAyVnJlV1pSR3JJb3VUQ0xWZHNrazhSaXA4UnI0SFZSc3J5NUowNmhZejMxVmZhV3VMU2N1RFpDbEVxRURnNk55bjQ1NXp2Rm5tTXhqVl84TjFyYUNWaklSOWl2Ykk3RTFWcC1jakxmOTVTNWtES2l5RHh0OVdaQ0x0ZVc4dWtjZTlTMWlYSFlMNDN1cDI?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Industrial Investment Trust Limited",
       "symbol": "IITL",
       "exchange": "NSE",
@@ -717,7 +680,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 133.13,
+      "lastClose": 141.14,
       "catalysts": [
         {
           "label": "Nimbus India acquires 55,000 shares in Industrial Investment Trust - scanx.trade",
@@ -736,31 +699,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Brainbees Solutions Limited",
-      "symbol": "FIRSTCRY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 1,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 66,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 219.34,
-      "catalysts": [
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Ansal Properties & Infrastructure Limited",
       "symbol": "ANSALAPI",
       "exchange": "NSE",
@@ -773,7 +711,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 3.35,
+      "lastClose": 3.41,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -858,6 +796,82 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "United Heat Transfer Limited",
+      "symbol": "UHTL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 60,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 60,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 942.3,
+      "catalysts": [
+        {
+          "label": "Sensex Today Trades Higher | Nifty Above 23,900 | Bajaj Finance & TCS Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Allotment of Securities",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRHB1VFlCMmwySVRZS2lkM3NLUWJjbml1WkhBenNnVGFjeVd6YVk3S2JqTEp0RC1MZ2ZWVGpyaVV6ME5TY3JMcGRqTVdDT2ZpTXd0Uk82aDFjQ29GTkNsOFRTUGM5bWtSc3BmYi1QTWdSbkJqNlZ3NkRnWjBUT2k0YTh1UkNKRWhISWZzenBDLU5JWkNwMlEwNnYzMVhaOENVMGdidzdSbjNXc045VXJ0SDBlQ283QmhpYXlpV2tlc0J1by1tMXdtZnV2MldrUE1xaUtlNQ?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
