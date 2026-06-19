@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T22:26:47+00:00",
+  "generatedAt": "2026-06-19T05:27:24+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -39,19 +39,65 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "IFCI Limited",
-      "symbol": "IFCI",
+      "company": "Bharti Airtel Limited",
+      "symbol": "BHARTIARTL",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.9,
+      "predictionScore": 3.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1893.3,
+      "catalysts": [
+        {
+          "label": "Sensex Rebalancing May Drive Over Rs 940 Crore Worth Inflows Into Bharti Airtel, Eternal",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Bharti Airtel Undervalued? Jio Listing May Have The Answer",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Cessation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/sensex-rebalancing-bharti-airtel-eternal-maruti-suzuki-hdfc-bank-inflows-outflows-11657890#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/jio-ipo-announcement-can-re-rate-bharti-airtel-stock-11657787#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "IFCI Limited",
+      "symbol": "IFCI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 5.1,
+      "confidence": 89,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 90.07,
+      "lastClose": 85.78,
       "catalysts": [
         {
           "label": "NSE IPO impact: New India Assurance, IFCI, NSDL, other stocks surge up to 14% as NSE files IPO papers with SEBI - Upstox",
@@ -59,8 +105,8 @@
           "verified": true
         },
         {
-          "label": "IFCI, New India Assurance, LIC shares rise up to 8% ahead of NSE's likely filing of IPO DRHP today - Moneycontrol.com",
-          "type": "corporate action",
+          "label": "Price movement",
+          "type": "announcement",
           "verified": true
         },
         {
@@ -75,59 +121,13 @@
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX2ZmdEVxeE0tWWVMRE9CSWl4S080RF9tSzBlQmp4bFFLN3NpNFZiWl9Qek1CNHA2TXVYZ3FTTERoMkZadGhFSkE4WUhLX2tHZ0NiOUV1QzByblJGbjJhbTlqTEVrR1RMTTg4a0Y1NUVPN2RqTDVOUkd3ZUNlZm5NQXQ1VlZFRHlKMlJ6S1E5WnJRZU5hSU1iMkVMdFJCR1Fxa3dLQUtwdGdPUTh4UTlHcjBpT2dPdTlRdm44QjBBd3VLMFIyelVqR21kV0o3VV9XMjFCUG03c2RlVktfOUMwUF91eU9GZ1owMXBoWHVzcXpNWUFxMnNsQg?oc=5",
           "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR255eW9XODhXSTBOSW9Rd3dwdXZFbGcyU25NUnRfUzVpNUtZSnNlRFRydV9zWURvMXVRcGN2U3BrbTRCOVJ3YXo4VElFZWhreEhlUnJ3MjNLNFM3WThEX1FtVFNsY1ZDZjFRX2s0TjNzeVBBMHNrYWJJa0RDVENsamdNSTZhN2Z5MU1vV3MxUEVKZF9zQk9vUFcwWWsxblBfSmxHM1U1Mlp4NmNKUHJCZG9lckwwR2wtbkNxd0pEN3NwWTFmdThqN3JCTGZzTzJWc3EwSzg1aTFEcE9XMEE1UHZJOTVLanBmdzVZYndhOE9Cd9IB9wFBVV95cUxNeGVTalFzTXBUN3RQMkZiQUprdUN4cWR4ckgtTkt3N2RWUXhnSWowN1BZZVVLcFRnT0c4U3QyOVdCX0IzSklHUGt2dVJxSXFiRUFSQjBPUXk5TVYyT3pCN0tXTzd0WXBYWlpsYXYzcDVmSV9GcVpDTzJrWFlWbzRNQ0owd25nRGFMVDBwSmxJLUx0aV91YWU3eXVpajNPTC1ZSG55dVI0VWRrS2ZfekJLekpkQjdweVd3dEV6SFhlZDJyTnpxTEVxMlUwa0x1a0V3ejhUdW9sOV8wMlkzbDU1OExQX1hYaFN3ZldBRlZNTV9jaEoyVnBB?oc=5",
-          "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1157.7,
-      "catalysts": [
-        {
-          "label": "Sensex Today Trades Higher | Nifty Above 24,000 | Infosys & Tech Mahindra Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdXowcXpqR0xCMW54aFk5WjFsR2hUYmVNa3JZSllrNmU3ZGtrUGdkajhSNy1Td1FIU0JVT0ZHS0pDVnNuNFpZcENpajFBNEJUR1VraUtybkNjZ2JWOHVVb0lQZkNMZlZRcXVEc2U1THlBbWJYaG5DRHhadEF0S0N3cXpvbG1mZXdfT3RNZ0tXTlZTRS05QUdfcEFxQnNaSXZDNTVkY09FMTh1alFTM3UxTjlEQ3BSc0kxU09RaV9vVWhDVVg5Y2RTSVF5ZGZsTUhCNnMyQVlPVTBJZw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bharat Forge Limited",
-      "symbol": "BHARATFORG",
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -138,199 +138,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2034.5,
+      "lastClose": 145.7,
       "catalysts": [
         {
-          "label": "Bharat Forge's KSSL Partners With US-Based AM General To Develop Next-Gen Artillery Systems",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/bharat-forges-kssl-partners-with-us-based-am-general-to-develop-next-gen-artillery-systems-11656420#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Anik Industries Limited",
-      "symbol": "ANIKINDS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 79,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 45.21,
-      "catalysts": [
-        {
-          "label": "Change in Auditors",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "The New India Assurance Company Limited",
-      "symbol": "NIACL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.2,
-      "confidence": 69,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 165.46,
-      "catalysts": [
-        {
-          "label": "NSE IPO: NIACL shares surge 14% as insurer to sell 1.05 crore shares - Moneycontrol.com",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Disclosure of material issue",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZmpfRjZtQ05rODVEb1gzYVRqWE9OTnBOR0FKbmpUdnQyV3VSU0x1VjdQYnpaZ2k5RVdubjhtWUZMd3RfTENwd3pKZnY4UEJwZ2dhNXJjallrWEFodl9oaXRoV2NoUUZkYWhCZDZzM1BwWXdJSVl6RGRmRnVYdGUzVFhMeVJkeExrWTBZem1JZkZkdVd2Z0tnendLS080U0xMMTBBWF9sMWFDdGY5SlRWSER0TkJDcHZSdGNlMGR0bHlqV3k0MlVtVEY1VdIB0AFBVV95cUxOcmlKTFNfY0lsMWpibW1vcWNzQ0J1UGNVa3lMbXl6S1ZQQ0g3NWtOVUpiamIzZW11ek9YLWwtZHgtT0ttSlY1WE1oSE9VTF9CcUZxbGNnbTRXQzFxVzRBWFk1akk0blVHaTN6VmJKUlFwV3NTZ1lmWVpRdG9mX3NQWDZCR2VjazhONFZlQTZxbXkxOGxtSDhncmNIMXpoZ2JUcmlzTkJHQXFLUVVEZ3dwLXBvME1zSFZhbEFwcDlSdVRmbDhjRXkwOF9NbzNSTTB0?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Mishra Dhatu Nigam Limited",
-      "symbol": "MIDHANI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 62,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 448.85,
-      "catalysts": [
-        {
-          "label": "MISHRA DHATU NIGAM Share Price Today Down 4% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQOU12VmFlWnotTUJWSkstVUpUX3VwTnJhNHR3aVNVVUgwNC13Vmd4a29WMVltRW5VdTJYeHVDSzZIRThwWXRqdU50akc4SHBlcVZMX01LQ19XaTFJQjdzVzNBNzd2aUtJUnVDck5EQ0pEdUttTjNIcFlKSFNBTnZEbTBjSTEtbjRBN3lPdmhZdnJXZEVwb2lEbWNjR2ljT08tOWdXYkhRcmdaTXdNYjdhbV9qLTlGN2x3VUkwYXhMSGxwSVYtU1UxMXJHek9ab2RIcWdTaURYNzFGWmljRjRRUmIxaXVDOUpLbGd3c0FkRHdESUdVdnNpRlRTdkJvdnhLMjY3aEEwV2FiZlRPbWdyc1FDY3NPdEc1OU8taUxXRDZYamlR?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 787.1,
-      "catalysts": [
-        {
-          "label": "Sensex Today Trades Flat | Nifty Above 24,050 | Bharat Elec & HDFC Bank Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFJ2M3pWbmtpQWFTV1VfWk50bGxxakFkUHZtZy1CaG9IUnRyeGJqZnp0M3Jnczk5dFd6aDdGbC1MdEFELXgwSkxDN1lzUjhFOHBuNnluSTd1bTVTSnZkc0IxNXI4OWZEdFVfcHlHYUhKbmtXMHpOanAwY2hYMmZoVVVTRjVNWGhMYTU2NUZld25LcG1LSUZ6UmN6ZEt1VlpodUxNcmlza3dFOHkzY2xIeDQ4VFV4cGZxLVFaZlJvaGc5VW9xWHA1cjZnU3JOVEl3eW5aSnZYTQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Central Depository Services (India) Limited",
-      "symbol": "CDSL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1290.9,
-      "catalysts": [
-        {
-          "label": "New India Assurance, Star Health, CDSL surge amid spike in trading activity; check full list - Upstox",
+          "label": "SBI PO Notification 2026: SBI Recruitment For 1500 Vacancies Out @sbi.co.in; Direct Link And How To Apply",
           "type": "company news",
           "verified": true
         },
@@ -340,7 +151,7 @@
           "verified": true
         },
         {
-          "label": "Appointment",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -348,35 +159,40 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVUsxZDdoZEZYelJiU2J4dno2RkN1ZHZBRmJGR0E4Z25oVEVkRDVvd096eWk4WExUUTU0dUlwWXdIM2FidWFxYWhzN0lEMER4TjRxX3RxVkhZb3F1U2ppOE5UdGhzU0pHZG5lVG40MEdRUWVqTjBFNEhpT1ZnMU0xY0pQYmwzWkstcDNpZlFJT21IZlNwTk1VWVZPUThIdG53LTBLZVh6R2pobGdXN3JnY2s2R0NKWFlGNTdFRnRXLXNzal9FOGxpdHBobnpSY1IwUnRCNjRRUVA2eVNnZmM3WjNB?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/india/sbi-po-notification-2026-sbi-recruitment-for-1500-vacancies-out-sbi-co-in-direct-link-and-how-to-apply-11657656#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HFCL Limited",
-      "symbol": "HFCL",
+      "company": "Bharat Forge Limited",
+      "symbol": "BHARATFORG",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 57,
+      "predictionScore": 3.3,
+      "confidence": 76,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 190.13,
+      "technicalConfidence": 100,
+      "lastClose": 2032.8,
       "catalysts": [
         {
-          "label": "Stocks to watch: IFCI, RVNL, HFCL among shares in focus today; check list here - Mint",
+          "label": "Stocks to watch: Reliance Industries, Tata Motors, Bharat Forge among shares in focus today; check list here - Mint",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -385,45 +201,138 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQzJJUGw3OVpqM3I5dHdQbEhHNXdVaHdGWnNnYTZpVXlZMFp3VlRGNnF0WVJ3aGtVdmxoMFVGUUdGeUtNS1pmTzdHT0tBaE9hcEpoWllfVDd5U2N5WS1xVHl2QmMwSi1tM2g4SzE0aUVOTTNSQnZwXy02aG5zMTl2OVVlR0ExZWFhNHd3eHJXdHhVSVpCNkI5RGstME9SLWpfQm5pVjV2MVowMVI0NndPVkRmcVVRSW5Ccl93dWN0d1R1MUZJUTJiNE0tTWNMNDlsVUY1V01ueEpKUlJS0gHiAUFVX3lxTE9RaGNSSE4zZjFiRE50Z2pFaUtMeEh2OGpQVkZtWkJZQkNUMGhtMWVpVVdON2xVams4em5WTVNjX0dYYThaaDNfQWZGX2I1RTItMlkweWxEeWtYRW5WMkVHSzVFNUVJZW10V3piak5fay1iemJFbFJTaDVrOFh5MlZSZW8taW5ubHZUVzNxR0p4YjB4SlhVbmNLQ29vUG51b0ZEYXoyeTg0dnd5bk9LcDJ6aEhlSEM4LXB2R2RsU0dfSHVpU3BNUEVvN0lGSlM2T25nV09rQ2FYZV9VaWlsUjFTTlE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOXBJaHdERl9NZE1rTFVlWWNoUEQ5Vk1vRS14UEZZTUxoYkdzdVhMMk40OG10RnRic2ZucWxpckRqZ0xhd2dDem5WT2NYdnk4Wkt4RDRuN3g0V3drQmxCd1poLTJNYzlSOWFZTHNBQnZVazNtYTFKZXlGVTdTRnJZMXlMeFV3VEF6RTEyeXFkYlpiQkZkNXBlVlp1WGltZ2c2OTh1ZE1ibEhjcGVsb0xwSFlPZWI1YUZTcmZGYl82c1cwV3dxQm1kc05IVE1ZRXQxMkV3VmVQZW9VZnJLNk9fd3M2NHhwY1pVLVJXMWJUb05TTk9HQUZqSF9jb2VLOFB5bVY4VtIBigJBVV95cUxPZWFMc1F0amFZZncwN0U2d2dyeWdNN0lDaFdmM3VFem1VcG84VjZnTUJuLTBpakUzVGJ2b3RPeFBlXzNuS012c215VXFXR2xxNlh1NUY1bnRBdjYxSVp3ajlCZlZsQTAyQ1VELTMwNUx2U1NPaVA3bGJJOW9Ob1pzaHNfenlQNVFjSnJqSkdzc2gtYmlPWURDTkZEeWxkb3NqTVhFRjFCTVVCdEZqeTJydEFHank4ckhZUzVEWXBscElHTlJZUGRvS0JMNTNBTXYzR1hualBPa1kxdS1SWFE1cXhhanI4Uk1EUmhYY09BY01Za2dWM2xkNlAtd2lacE0wSjdmSmhidnAwZw?oc=5",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Mahindra EPC Irrigation Limited",
-      "symbol": "MAHEPC",
+      "company": "Amber Enterprises India Limited",
+      "symbol": "AMBER",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 56,
+      "predictionScore": 2.2,
+      "confidence": 74,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 7789.5,
       "catalysts": [
         {
-          "label": "Disclosure under SEBI Takeover Regulations",
+          "label": "Amber Enterprises enters manufacturing partnership with Oppo India - Business Standard",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Arrangements for strategic, technical, manufacturing, or marketing tie up",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZGxOTXF2d0ZxLUF2a09Iamd3anVoMFdGeWF4RktZSVE1dVpDU3FIMDUzbEg1OHlnemx5TE5KbUlJLUdHM3FuQ1o4YmRVbFFmQTk4ZE1BdUFpUmJpMHM3YVVSaTBzODM3ajNfZHhNbXU1S3dqMFJvamhES2J4aThrb1hWaGRvTEFsanR5UWxxdjUzQkpObTZTOG9yNmVnVGN0N2NiV3hGNTIzMVdLZ0Zsb0dFMUxadE1Ndm9sOUNwOHZDV2lsZVpRZ0FrN1RwSHduM1NkeWNXbTNYTWhlWVVyYUxB0gHnAUFVX3lxTE5YRFVrZGVHT29JSWJxRDdjY2NyX0dUVDFnMVVCZ0IxYU5ERGd3cVJfT2FRb0hMNFRMMDQzcElTWS1Ccm4xdU1HVFI0T1p5NXdkV3ZFOVBOM2JKRElJUnpxMlFoSEZOUG9rdGUxVktlRE1BMlVpUW8zVnNfbmtGaUM5OGZDS3JWMGQ5bi1XR012d1lYSmJ6Y01JZEdra2x0aXQ5cnZRUnN5ZzVQQWxGZzZ3MnZZSmpFT1BwZGxESWZySF92NDAzWWJybGRKVUVqT01obEJuN0ttWTFyX2ZDbkJIUFJLcnBydw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Gandhar Oil Refinery (India) Limited",
+      "symbol": "GANDHAR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.8,
+      "confidence": 68,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 181.48,
+      "catalysts": [
+        {
+          "label": "GANDHAR OIL REFINERY (INDIA) LTD. Share Price Today Up 13% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Spurt in Volume",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Spurt in Volume",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxORXdmV2FjODBRNnJNdi1zLWZOQTlGQUxXWE80c0JmMEhId3B0emt5VDlieWRxOTdiWVh1YmNvMFNRd3lTUS04ejh2S3haRlgxYkVLc25fX3p4VmFWN2FuWFBsM2FuUktqSnJNY2tmUmRJbHBHX3BnRnE0TTd6eVpaeEZHUjJuQWlDRUI0STBVUllJMFBmOGlJSEhTQkdNVjQ4WktWU2VoTUpTMU1CcUlCbWNDZ3dfTnZaZVpFTlNUR2tjR3otZDBDUFpDN08ydUprTUU5TXBfSmUtVXNhSTFVemJmNXZGOXJBLU9BT3ZNQVR4clA1azk2cVZ4Qk1ocDFIR1Y5RkpESG1yaXNLbldUNGJVdFdPOHp4M3h2blBtWXJFcDBOZmNQYjdMZDV0cklQYnRoWVFFb2JxQQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 67,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 779.55,
+      "catalysts": [
+        {
+          "label": "HDFC Bank Shares Fall After RBI Extends Keki Mistry's Tenure As Interim Chairman",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Sensex Today Trades Flat | Nifty Above 24,050 | Bharat Elec & HDFC Bank Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-shares-fall-after-rbi-extends-keki-mistrys-tenure-as-interim-chairman-11657612#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFJ2M3pWbmtpQWFTV1VfWk50bGxxakFkUHZtZy1CaG9IUnRyeGJqZnp0M3Jnczk5dFd6aDdGbC1MdEFELXgwSkxDN1lzUjhFOHBuNnluSTd1bTVTSnZkc0IxNXI4OWZEdFVfcHlHYUhKbmtXMHpOanAwY2hYMmZoVVVTRjVNWGhMYTU2NUZld25LcG1LSUZ6UmN6ZEt1VlpodUxNcmlza3dFOHkzY2xIeDQ4VFV4cGZxLVFaZlJvaGc5VW9xWHA1cjZnU3JOVEl3eW5aSnZYTQ?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -460,55 +369,114 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
+    },
     {
-      "company": "IFCI Limited",
-      "symbol": "IFCI",
+      "company": "Ansal Properties & Infrastructure Limited",
+      "symbol": "ANSALAPI",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 8.4,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 90.07,
+      "horizon": "today",
+      "direction": "Neutral watch",
+      "predictionScore": 1.5,
+      "confidence": 55,
+      "riskLevel": "High",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "NSE IPO impact: New India Assurance, IFCI, NSDL, other stocks surge up to 14% as NSE files IPO papers with SEBI - Upstox",
-          "type": "corporate action",
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "IFCI, New India Assurance, LIC shares rise up to 8% ahead of NSE's likely filing of IPO DRHP today - Moneycontrol.com",
-          "type": "corporate action",
+          "label": "Corporate Insolvency Resolution Process",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Price movement",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Neutral watch",
+      "predictionScore": -0.9,
+      "confidence": 55,
+      "riskLevel": "High",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 1114.7,
+      "catalysts": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX2ZmdEVxeE0tWWVMRE9CSWl4S080RF9tSzBlQmp4bFFLN3NpNFZiWl9Qek1CNHA2TXVYZ3FTTERoMkZadGhFSkE4WUhLX2tHZ0NiOUV1QzByblJGbjJhbTlqTEVrR1RMTTg4a0Y1NUVPN2RqTDVOUkd3ZUNlZm5NQXQ1VlZFRHlKMlJ6S1E5WnJRZU5hSU1iMkVMdFJCR1Fxa3dLQUtwdGdPUTh4UTlHcjBpT2dPdTlRdm44QjBBd3VLMFIyelVqR21kV0o3VV9XMjFCUG03c2RlVktfOUMwUF91eU9GZ1owMXBoWHVzcXpNWUFxMnNsQg?oc=5",
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR255eW9XODhXSTBOSW9Rd3dwdXZFbGcyU25NUnRfUzVpNUtZSnNlRFRydV9zWURvMXVRcGN2U3BrbTRCOVJ3YXo4VElFZWhreEhlUnJ3MjNLNFM3WThEX1FtVFNsY1ZDZjFRX2s0TjNzeVBBMHNrYWJJa0RDVENsamdNSTZhN2Z5MU1vV3MxUEVKZF9zQk9vUFcwWWsxblBfSmxHM1U1Mlp4NmNKUHJCZG9lckwwR2wtbkNxd0pEN3NwWTFmdThqN3JCTGZzTzJWc3EwSzg1aTFEcE9XMEE1UHZJOTVLanBmdzVZYndhOE9Cd9IB9wFBVV95cUxNeGVTalFzTXBUN3RQMkZiQUprdUN4cWR4ckgtTkt3N2RWUXhnSWowN1BZZVVLcFRnT0c4U3QyOVdCX0IzSklHUGt2dVJxSXFiRUFSQjBPUXk5TVYyT3pCN0tXTzd0WXBYWlpsYXYzcDVmSV9GcVpDTzJrWFlWbzRNQ0owd25nRGFMVDBwSmxJLUx0aV91YWU3eXVpajNPTC1ZSG55dVI0VWRrS2ZfekJLekpkQjdweVd3dEV6SFhlZDJyTnpxTEVxMlUwa0x1a0V3ejhUdW9sOV8wMlkzbDU1OExQX1hYaFN3ZldBRlZNTV9jaEoyVnBB?oc=5",
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
+    {
+      "company": "Ather Energy Limited",
+      "symbol": "ATHERENERG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Neutral watch",
+      "predictionScore": 0.8,
+      "confidence": 55,
+      "riskLevel": "High",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Disclosure under SEBI Takeover Regulations",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Disclosure under SEBI Takeover Regulations",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    }
+  ],
+  "tomorrow": [
     {
       "company": "Innomet Advanced Materials Limited",
       "symbol": "INNOMET",
@@ -545,8 +513,49 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharat Forge Limited",
-      "symbol": "BHARATFORG",
+      "company": "IFCI Limited",
+      "symbol": "IFCI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.6,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 85.78,
+      "catalysts": [
+        {
+          "label": "NSE IPO impact: New India Assurance, IFCI, NSDL, other stocks surge up to 14% as NSE files IPO papers with SEBI - Upstox",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Price movement",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Price movement",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX2ZmdEVxeE0tWWVMRE9CSWl4S080RF9tSzBlQmp4bFFLN3NpNFZiWl9Qek1CNHA2TXVYZ3FTTERoMkZadGhFSkE4WUhLX2tHZ0NiOUV1QzByblJGbjJhbTlqTEVrR1RMTTg4a0Y1NUVPN2RqTDVOUkd3ZUNlZm5NQXQ1VlZFRHlKMlJ6S1E5WnJRZU5hSU1iMkVMdFJCR1Fxa3dLQUtwdGdPUTh4UTlHcjBpT2dPdTlRdm44QjBBd3VLMFIyelVqR21kV0o3VV9XMjFCUG03c2RlVktfOUMwUF91eU9GZ1owMXBoWHVzcXpNWUFxMnNsQg?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -557,240 +566,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2034.5,
+      "lastClose": 145.7,
       "catalysts": [
         {
-          "label": "Bharat Forge's KSSL Partners With US-Based AM General To Develop Next-Gen Artillery Systems",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/bharat-forges-kssl-partners-with-us-based-am-general-to-develop-next-gen-artillery-systems-11656420#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Anik Industries Limited",
-      "symbol": "ANIKINDS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 45.21,
-      "catalysts": [
-        {
-          "label": "Change in Auditors",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1157.7,
-      "catalysts": [
-        {
-          "label": "Sensex Today Trades Higher | Nifty Above 24,000 | Infosys & Tech Mahindra Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdXowcXpqR0xCMW54aFk5WjFsR2hUYmVNa3JZSllrNmU3ZGtrUGdkajhSNy1Td1FIU0JVT0ZHS0pDVnNuNFpZcENpajFBNEJUR1VraUtybkNjZ2JWOHVVb0lQZkNMZlZRcXVEc2U1THlBbWJYaG5DRHhadEF0S0N3cXpvbG1mZXdfT3RNZ0tXTlZTRS05QUdfcEFxQnNaSXZDNTVkY09FMTh1alFTM3UxTjlEQ3BSc0kxU09RaV9vVWhDVVg5Y2RTSVF5ZGZsTUhCNnMyQVlPVTBJZw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "The New India Assurance Company Limited",
-      "symbol": "NIACL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.7,
-      "confidence": 79,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 165.46,
-      "catalysts": [
-        {
-          "label": "NSE IPO: NIACL shares surge 14% as insurer to sell 1.05 crore shares - Moneycontrol.com",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Disclosure of material issue",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZmpfRjZtQ05rODVEb1gzYVRqWE9OTnBOR0FKbmpUdnQyV3VSU0x1VjdQYnpaZ2k5RVdubjhtWUZMd3RfTENwd3pKZnY4UEJwZ2dhNXJjallrWEFodl9oaXRoV2NoUUZkYWhCZDZzM1BwWXdJSVl6RGRmRnVYdGUzVFhMeVJkeExrWTBZem1JZkZkdVd2Z0tnendLS080U0xMMTBBWF9sMWFDdGY5SlRWSER0TkJDcHZSdGNlMGR0bHlqV3k0MlVtVEY1VdIB0AFBVV95cUxOcmlKTFNfY0lsMWpibW1vcWNzQ0J1UGNVa3lMbXl6S1ZQQ0g3NWtOVUpiamIzZW11ek9YLWwtZHgtT0ttSlY1WE1oSE9VTF9CcUZxbGNnbTRXQzFxVzRBWFk1akk0blVHaTN6VmJKUlFwV3NTZ1lmWVpRdG9mX3NQWDZCR2VjazhONFZlQTZxbXkxOGxtSDhncmNIMXpoZ2JUcmlzTkJHQXFLUVVEZ3dwLXBvME1zSFZhbEFwcDlSdVRmbDhjRXkwOF9NbzNSTTB0?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Mishra Dhatu Nigam Limited",
-      "symbol": "MIDHANI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 448.85,
-      "catalysts": [
-        {
-          "label": "MISHRA DHATU NIGAM Share Price Today Down 4% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQOU12VmFlWnotTUJWSkstVUpUX3VwTnJhNHR3aVNVVUgwNC13Vmd4a29WMVltRW5VdTJYeHVDSzZIRThwWXRqdU50akc4SHBlcVZMX01LQ19XaTFJQjdzVzNBNzd2aUtJUnVDck5EQ0pEdUttTjNIcFlKSFNBTnZEbTBjSTEtbjRBN3lPdmhZdnJXZEVwb2lEbWNjR2ljT08tOWdXYkhRcmdaTXdNYjdhbV9qLTlGN2x3VUkwYXhMSGxwSVYtU1UxMXJHek9ab2RIcWdTaURYNzFGWmljRjRRUmIxaXVDOUpLbGd3c0FkRHdESUdVdnNpRlRTdkJvdnhLMjY3aEEwV2FiZlRPbWdyc1FDY3NPdEc1OU8taUxXRDZYamlR?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 67,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 787.1,
-      "catalysts": [
-        {
-          "label": "Sensex Today Trades Flat | Nifty Above 24,050 | Bharat Elec & HDFC Bank Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFJ2M3pWbmtpQWFTV1VfWk50bGxxakFkUHZtZy1CaG9IUnRyeGJqZnp0M3Jnczk5dFd6aDdGbC1MdEFELXgwSkxDN1lzUjhFOHBuNnluSTd1bTVTSnZkc0IxNXI4OWZEdFVfcHlHYUhKbmtXMHpOanAwY2hYMmZoVVVTRjVNWGhMYTU2NUZld25LcG1LSUZ6UmN6ZEt1VlpodUxNcmlza3dFOHkzY2xIeDQ4VFV4cGZxLVFaZlJvaGc5VW9xWHA1cjZnU3JOVEl3eW5aSnZYTQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Central Depository Services (India) Limited",
-      "symbol": "CDSL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 67,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1290.9,
-      "catalysts": [
-        {
-          "label": "New India Assurance, Star Health, CDSL surge amid spike in trading activity; check full list - Upstox",
+          "label": "SBI PO Notification 2026: SBI Recruitment For 1500 Vacancies Out @sbi.co.in; Direct Link And How To Apply",
           "type": "company news",
           "verified": true
         },
@@ -800,7 +579,7 @@
           "verified": true
         },
         {
-          "label": "Appointment",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -808,35 +587,86 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVUsxZDdoZEZYelJiU2J4dno2RkN1ZHZBRmJGR0E4Z25oVEVkRDVvd096eWk4WExUUTU0dUlwWXdIM2FidWFxYWhzN0lEMER4TjRxX3RxVkhZb3F1U2ppOE5UdGhzU0pHZG5lVG40MEdRUWVqTjBFNEhpT1ZnMU0xY0pQYmwzWkstcDNpZlFJT21IZlNwTk1VWVZPUThIdG53LTBLZVh6R2pobGdXN3JnY2s2R0NKWFlGNTdFRnRXLXNzal9FOGxpdHBobnpSY1IwUnRCNjRRUVA2eVNnZmM3WjNB?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/india/sbi-po-notification-2026-sbi-recruitment-for-1500-vacancies-out-sbi-co-in-direct-link-and-how-to-apply-11657656#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HFCL Limited",
-      "symbol": "HFCL",
+      "company": "Bharti Airtel Limited",
+      "symbol": "BHARTIARTL",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 4.7,
-      "confidence": 64,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 190.13,
+      "lastClose": 1893.3,
       "catalysts": [
         {
-          "label": "Stocks to watch: IFCI, RVNL, HFCL among shares in focus today; check list here - Mint",
+          "label": "Sensex Rebalancing May Drive Over Rs 940 Crore Worth Inflows Into Bharti Airtel, Eternal",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Bharti Airtel Undervalued? Jio Listing May Have The Answer",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Cessation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/sensex-rebalancing-bharti-airtel-eternal-maruti-suzuki-hdfc-bank-inflows-outflows-11657890#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/jio-ipo-announcement-can-re-rate-bharti-airtel-stock-11657787#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Bharat Forge Limited",
+      "symbol": "BHARATFORG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 87,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 2032.8,
+      "catalysts": [
+        {
+          "label": "Stocks to watch: Reliance Industries, Tata Motors, Bharat Forge among shares in focus today; check list here - Mint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -845,11 +675,139 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQzJJUGw3OVpqM3I5dHdQbEhHNXdVaHdGWnNnYTZpVXlZMFp3VlRGNnF0WVJ3aGtVdmxoMFVGUUdGeUtNS1pmTzdHT0tBaE9hcEpoWllfVDd5U2N5WS1xVHl2QmMwSi1tM2g4SzE0aUVOTTNSQnZwXy02aG5zMTl2OVVlR0ExZWFhNHd3eHJXdHhVSVpCNkI5RGstME9SLWpfQm5pVjV2MVowMVI0NndPVkRmcVVRSW5Ccl93dWN0d1R1MUZJUTJiNE0tTWNMNDlsVUY1V01ueEpKUlJS0gHiAUFVX3lxTE9RaGNSSE4zZjFiRE50Z2pFaUtMeEh2OGpQVkZtWkJZQkNUMGhtMWVpVVdON2xVams4em5WTVNjX0dYYThaaDNfQWZGX2I1RTItMlkweWxEeWtYRW5WMkVHSzVFNUVJZW10V3piak5fay1iemJFbFJTaDVrOFh5MlZSZW8taW5ubHZUVzNxR0p4YjB4SlhVbmNLQ29vUG51b0ZEYXoyeTg0dnd5bk9LcDJ6aEhlSEM4LXB2R2RsU0dfSHVpU3BNUEVvN0lGSlM2T25nV09rQ2FYZV9VaWlsUjFTTlE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOXBJaHdERl9NZE1rTFVlWWNoUEQ5Vk1vRS14UEZZTUxoYkdzdVhMMk40OG10RnRic2ZucWxpckRqZ0xhd2dDem5WT2NYdnk4Wkt4RDRuN3g0V3drQmxCd1poLTJNYzlSOWFZTHNBQnZVazNtYTFKZXlGVTdTRnJZMXlMeFV3VEF6RTEyeXFkYlpiQkZkNXBlVlp1WGltZ2c2OTh1ZE1ibEhjcGVsb0xwSFlPZWI1YUZTcmZGYl82c1cwV3dxQm1kc05IVE1ZRXQxMkV3VmVQZW9VZnJLNk9fd3M2NHhwY1pVLVJXMWJUb05TTk9HQUZqSF9jb2VLOFB5bVY4VtIBigJBVV95cUxPZWFMc1F0amFZZncwN0U2d2dyeWdNN0lDaFdmM3VFem1VcG84VjZnTUJuLTBpakUzVGJ2b3RPeFBlXzNuS012c215VXFXR2xxNlh1NUY1bnRBdjYxSVp3ajlCZlZsQTAyQ1VELTMwNUx2U1NPaVA3bGJJOW9Ob1pzaHNfenlQNVFjSnJqSkdzc2gtYmlPWURDTkZEeWxkb3NqTVhFRjFCTVVCdEZqeTJydEFHank4ckhZUzVEWXBscElHTlJZUGRvS0JMNTNBTXYzR1hualBPa1kxdS1SWFE1cXhhanI4Uk1EUmhYY09BY01Za2dWM2xkNlAtd2lacE0wSjdmSmhidnAwZw?oc=5",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Amber Enterprises India Limited",
+      "symbol": "AMBER",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 81,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 7789.5,
+      "catalysts": [
+        {
+          "label": "Amber Enterprises enters manufacturing partnership with Oppo India - Business Standard",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Arrangements for strategic, technical, manufacturing, or marketing tie up",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZGxOTXF2d0ZxLUF2a09Iamd3anVoMFdGeWF4RktZSVE1dVpDU3FIMDUzbEg1OHlnemx5TE5KbUlJLUdHM3FuQ1o4YmRVbFFmQTk4ZE1BdUFpUmJpMHM3YVVSaTBzODM3ajNfZHhNbXU1S3dqMFJvamhES2J4aThrb1hWaGRvTEFsanR5UWxxdjUzQkpObTZTOG9yNmVnVGN0N2NiV3hGNTIzMVdLZ0Zsb0dFMUxadE1Ndm9sOUNwOHZDV2lsZVpRZ0FrN1RwSHduM1NkeWNXbTNYTWhlWVVyYUxB0gHnAUFVX3lxTE5YRFVrZGVHT29JSWJxRDdjY2NyX0dUVDFnMVVCZ0IxYU5ERGd3cVJfT2FRb0hMNFRMMDQzcElTWS1Ccm4xdU1HVFI0T1p5NXdkV3ZFOVBOM2JKRElJUnpxMlFoSEZOUG9rdGUxVktlRE1BMlVpUW8zVnNfbmtGaUM5OGZDS3JWMGQ5bi1XR012d1lYSmJ6Y01JZEdra2x0aXQ5cnZRUnN5ZzVQQWxGZzZ3MnZZSmpFT1BwZGxESWZySF92NDAzWWJybGRKVUVqT01obEJuN0ttWTFyX2ZDbkJIUFJLcnBydw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Gandhar Oil Refinery (India) Limited",
+      "symbol": "GANDHAR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.0,
+      "confidence": 77,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 181.48,
+      "catalysts": [
+        {
+          "label": "GANDHAR OIL REFINERY (INDIA) LTD. Share Price Today Up 13% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Spurt in Volume",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Spurt in Volume",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxORXdmV2FjODBRNnJNdi1zLWZOQTlGQUxXWE80c0JmMEhId3B0emt5VDlieWRxOTdiWVh1YmNvMFNRd3lTUS04ejh2S3haRlgxYkVLc25fX3p4VmFWN2FuWFBsM2FuUktqSnJNY2tmUmRJbHBHX3BnRnE0TTd6eVpaeEZHUjJuQWlDRUI0STBVUllJMFBmOGlJSEhTQkdNVjQ4WktWU2VoTUpTMU1CcUlCbWNDZ3dfTnZaZVpFTlNUR2tjR3otZDBDUFpDN08ydUprTUU5TXBfSmUtVXNhSTFVemJmNXZGOXJBLU9BT3ZNQVR4clA1azk2cVZ4Qk1ocDFIR1Y5RkpESG1yaXNLbldUNGJVdFdPOHp4M3h2blBtWXJFcDBOZmNQYjdMZDV0cklQYnRoWVFFb2JxQQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 74,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 779.55,
+      "catalysts": [
+        {
+          "label": "HDFC Bank Shares Fall After RBI Extends Keki Mistry's Tenure As Interim Chairman",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Sensex Today Trades Flat | Nifty Above 24,050 | Bharat Elec & HDFC Bank Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-shares-fall-after-rbi-extends-keki-mistrys-tenure-as-interim-chairman-11657612#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFJ2M3pWbmtpQWFTV1VfWk50bGxxakFkUHZtZy1CaG9IUnRyeGJqZnp0M3Jnczk5dFd6aDdGbC1MdEFELXgwSkxDN1lzUjhFOHBuNnluSTd1bTVTSnZkc0IxNXI4OWZEdFVfcHlHYUhKbmtXMHpOanAwY2hYMmZoVVVTRjVNWGhMYTU2NUZld25LcG1LSUZ6UmN6ZEt1VlpodUxNcmlza3dFOHkzY2xIeDQ4VFV4cGZxLVFaZlJvaGc5VW9xWHA1cjZnU3JOVEl3eW5aSnZYTQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Shree Ram Proteins Limited",
@@ -882,8 +840,90 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Mahindra EPC Irrigation Limited",
-      "symbol": "MAHEPC",
+      "company": "Aurobindo Pharma Limited",
+      "symbol": "AUROPHARMA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 60,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1469.5,
+      "catalysts": [
+        {
+          "label": "Aurobindo Pharma Shares Rise After US Regulatory Nod For Lannett Purchase",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/aurobindo-pharma-shares-rise-after-us-regulatory-nod-for-lannett-purchase-11657922#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "IDBI Bank Limited",
+      "symbol": "IDBI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 60,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 83.93,
+      "catalysts": [
+        {
+          "label": "Sensex Today Ends 347 Points Higher | Nifty Above 24,050 | IDBI Bank Up 19% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Spurt in Volume",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Spurt in Volume",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVGdXc3pTU2V0T1NwYWcxU1NyWnl0UTM0NldaUHNTNGJmSEhwN0tiYVMyckxldC1iMVlxNnFlNHZWby1wVTF0MVlNVThuMjFQTy1SMTg0VUFxRXJSUFctZENuQlZ5eGlHdHVYMkJqNnhNVDJIS2pGX0djUngwY3h5ZTZiUG55WFVsUHlnTmtGZ3dhdFJ3Z2NKOHZDYUhuYlZtNGRPRHhaUk1sTE9xZnB6YVVCVl9keW12RFdMOENDRVdOWVZyTE0tcElrX1Q?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "K2 Infragen Limited",
+      "symbol": "K2INFRA",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -897,12 +937,12 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Disclosure under SEBI Takeover Regulations",
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Resignation",
           "type": "announcement",
           "verified": true
         },
