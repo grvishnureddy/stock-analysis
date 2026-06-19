@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T10:58:40+00:00",
+  "generatedAt": "2026-06-19T15:44:26+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,11 +7,11 @@
       "company": "Innomet Advanced Materials Limited",
       "symbol": "INNOMET",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 7.5,
+      "predictionScore": 9.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -19,12 +19,12 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Disclosure under SEBI Takeover Regulations",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Disclosure under SEBI Takeover Regulations",
           "type": "announcement",
           "verified": true
         },
@@ -37,6 +37,88 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 146.57,
+      "catalysts": [
+        {
+          "label": "NSE IPO Update: How State Bank of India Stands to Gain Rs 5,000 Crore From the Mega Listing - Goodreturns",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORzFGdjl4UVpZNEEyMnkweUx3NnV5T3RsSDcxcngtbWg0V29CUUNNNE9pa0VJMjZ3VWgyY3FwRW1SbEtMemEwUFFWcGpsVk9JcWNKdDc4MVItVjVxeHFmWXBZU1lUZjZubUQ5ZF9SYk50cDd2QTFTdnJnelFJUkswZXBuT2VtS3VGOElRaXg0RzRFWmp0dHhIWllyY2hjTl9NYUUyZWlxMkxSRUY3ajhFazRZNkloWU5OSzRqLXhZdTJYSmJvdDFCU0NQRUNSUWNQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 1414.8,
+      "catalysts": [
+        {
+          "label": "Nestle Sets Record Date For Final Dividend; To Declare Q1 Results On July 22: Check Details",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/nestle-sets-record-date-for-final-dividend-to-declare-q1-results-on-july-22-check-details-11660608#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Axis Bank Limited",
@@ -80,65 +162,38 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
+      "company": "Angel One Limited",
+      "symbol": "ANGELONE",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
+      "direction": "Positive watch",
+      "predictionScore": 4.1,
       "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1051.4,
+      "lastClose": 353.7,
       "catalysts": [
         {
-          "label": "Infosys to TCS, HCL Tech: Indian IT stocks crash as Accenture trims revenue guidance; Nifty IT index down 6.5% - Mint",
-          "type": "results",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Sensex Today Tanks 698 Points | Nifty Below 24,000 | TCS & Infosys Top Losers - Equitymaster",
-          "type": "company news",
+          "label": "Trading Window",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "IT stocks sink: Nifty IT tumbles 6% as Infosys, TCS, HCL Tech slump after Accenture cuts guidance - Upstox",
-          "type": "company news",
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "IT Stock Highlights: Nifty IT Ends Nearly 4% Lower After Sharp Recovery From 6% Slide; Infosys, TCS Pare Losses",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTjlfSy03RlpfV1k5Q0x0Tkhlc085Q3FJUjRESWlRUjFHaFBrckhwN3BLaXNUcjd1ZVU1ZF80dlpSb25TTENwUnVOS193M1ItNlpfX09PY3dtTG83QUdBR21EODhsYkJJSEM0ajBrTVVnMldkTzdQWXo5N2ROZGJlSWVCN3AyLWV0cDdrU0RTR0piNnVobWhQMDh1eDRDcW1sM3g5NXNFZ2F3clI4d3dVNmdWdG1mR3QyU3VBRnFleUdtclZETUxEU2d0aTVxc0pxMXRONXBsRTdjTlZyRlczNzRzdXdQM0pGRGpObkpZT2VYb05PaWdRMWdwdEM2UDdIcVNkb2Fn0gGLAkFVX3lxTE11OWNyN2RiTkNWNFJiMk81R0ZlRkhWSEhrdXJTNFJYUkZxbEdXV0gxdVlGclVTZUNnTHkzOG5Nc1dQNjNsaVg3RHZjSEd6MDdnX3c2bWFHR0IyTXNqWktIYjdVdEJocFdoTFdXR1lPT0ExMEdBaHBNV2x4OWF2ODIwTzk1M3JGQ0MzVktjeU9MU1Z4UUtlcGxTZWdJSkFIdWhLOThHY250dzM2UkdMNG1pVC1UUDdISlR6U0J4Wm5OZGxYbXVPcEtYWFRzdmdCU0QtZzhqUzhYQkJpcHZfOTJzSTVaZThlQlhJeHNQN2VuZlNrcW8wZm1YYndodnNyNjFIN0ZLdzVtWlVnbw?oc=5",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/infosys-tcs-wipro-shares-live-updates-nifty-it-falls-over-6-after-accenture-cuts-fy-guidance-11657921#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdGxWeUpuNlRndjNlTG82N1k0X1ZXWHNENXJ2Uy1KY3M1QVRRakY0SlYzZ3ktWGVQdXh5aXY3VV9IRC1iNDJzUERFakl6dEV2VzdtTVlLQ2d6T1NBN0M0emtVNkhrNkJRYlVURzNZeXJRNlpCbTZoaWJIeUZidGU2Rk8yMnBwSDZmQXlYVC1KWU14bDBacXVNejBaWFZ6dmF4WWg3ZnpIYWp1REdYbmNGdE42dnh3Zndzd3JHbGxua0hZdWF1bW50Szl1V2ZmbEk?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbER1d1hGMUhpUGNqdEtqYnF0azRRbFpDaXBMX2tSeERKMmlnS2h5NWp3Yk01a3RrcWVpdnJ1QUZOakF1dmRXSGduUlBMSHdKN2RDeFFNcXRuSnUwU0hJYkpaY2ZEdVpjeE5TSzk0UTFRTXVWdS1oV0E3TXp1WVV3X0o2TTRQbXRad1hpbTdMUTNicnlKQ19YQ09NX3N0eUNZVHYzN2V4Y0t2VmVZa2F1aFVwUGFIX0NzY1FJb29LMzdXYUlHYnRyem5mdVBHMjFRaXo3bDN6V1hwMWxW?oc=5",
-          "verified": true
-        }
-      ],
+      "risks": [],
+      "sources": [],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -149,7 +204,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.1,
+      "predictionScore": 5.0,
       "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -186,12 +241,12 @@
       "company": "Bharat Forge Limited",
       "symbol": "BHARATFORG",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 3.3,
-      "confidence": 76,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
@@ -224,97 +279,15 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
+      "company": "Vedanta Limited",
+      "symbol": "VEDL",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 67,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 779.8,
-      "catalysts": [
-        {
-          "label": "HDFC Bank Likely To Recommend Permanent Chairman Name To RBI In 10-14 Days",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Sensex Today Trades Flat | Nifty Above 24,050 | Bharat Elec & HDFC Bank Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/hdfc-bank-likely-to-recommend-permanent-chairman-name-to-rbi-in-10-14-days-11659328#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFJ2M3pWbmtpQWFTV1VfWk50bGxxakFkUHZtZy1CaG9IUnRyeGJqZnp0M3Jnczk5dFd6aDdGbC1MdEFELXgwSkxDN1lzUjhFOHBuNnluSTd1bTVTSnZkc0IxNXI4OWZEdFVfcHlHYUhKbmtXMHpOanAwY2hYMmZoVVVTRjVNWGhMYTU2NUZld25LcG1LSUZ6UmN6ZEt1VlpodUxNcmlza3dFOHkzY2xIeDQ4VFV4cGZxLVFaZlJvaGc5VW9xWHA1cjZnU3JOVEl3eW5aSnZYTQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Fortis Healthcare Limited",
-      "symbol": "FORTIS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 962.95,
-      "catalysts": [
-        {
-          "label": "Buy, Sell Or Hold: Suzlon, PVR Inox, IRFC, NCC And Fortis Healthcare \u2014 Ask Profit",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-suzlon-pvr-inox-irfc-ncc-and-fortis-healthcare-ask-profit-11656486#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Vedanta Limited",
-      "symbol": "VEDL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
       "direction": "Negative watch",
       "predictionScore": -2.2,
-      "confidence": 60,
+      "confidence": 67,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
@@ -326,12 +299,12 @@
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -341,6 +314,82 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcUFJWndMTGxIVFY2ZXZURUFCbWNGNDM2a25ncF9nR3pWeWt6amxPUmRGY29CczFqYUhWLWRGcEs5YmduMkl4YzlaZjcwWG1QeVVJckRNQTNsbWxhbnp0eENjSkNiWWZrSDNsWUJSd0wwaFNkdlFqS3VvaXpZdWFpVUtfeGxBd0Y3YWlWcElTMGZBYmxEOG5GMDVxeTlITVZUWmIwcjZuNkJ2S3ptdHF5NGozWDhfa1JzLVVRZHZTQTA1QXNEOXVNendaRGNZV3pCZFZ5UzMwcGI3a1ViaVdmSTZOOA?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Dhara Rail Projects Limited",
+      "symbol": "DHARARAIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 66,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Disclosure under SEBI Takeover Regulations",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Supreme Infrastructure India Limited",
+      "symbol": "SUPREMEINF",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 61,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 79.28,
+      "catalysts": [
+        {
+          "label": "Supreme Infrastructure India Ltd gets BSE nod for warrant conversion - scanx.trade",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Scheme of Arrangement",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1BVc1czdlpyeDhRdGxrMWp0OW1EbGYtYVRCOUEwa2pSaHdFTHBpYW5qdVRXT25URE4yOGxYUEpUMlVoekdEOXF1RUdVM3BFOTd0YkdFY1huN2tfaVB0ZFNFdmo5YllQcTJyQl95S01SNUJHVG94SzlYRVBvNEJnUDQzRmJSUnZyU2R6SjRWYjRQRUphZ3dfbFpORW5iWU5OR1ZueGVfZHpGNDJxVkVoS2JRV21LRktkS2dwQk8wZHBHRFU?oc=5",
           "verified": true
         }
       ],
@@ -388,104 +437,44 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "K2 Infragen Limited",
-      "symbol": "K2INFRA",
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 56,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Resignation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "KEI Industries Limited",
-      "symbol": "KEI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 1,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 55,
+      "predictionScore": 2.2,
+      "confidence": 60,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 5631.0,
+      "technicalConfidence": 67,
+      "lastClose": 779.8,
       "catalysts": [
         {
-          "label": "After A 155% Rally In 2026, This Wire Maker Is Valued At Par With Polycab, KEI, R R Kabel. Is It Justified?",
+          "label": "Sensex Today Trades Flat | Nifty Above 24,050 | Bharat Elec & HDFC Bank Top Gainers - Equitymaster",
           "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/after-a-155-rally-in-2026-this-winding-wire-maker-is-valued-at-par-with-polycab-kei-r-r-kabel-is-it-justified-11658720#publisher=newsstand",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFJ2M3pWbmtpQWFTV1VfWk50bGxxakFkUHZtZy1CaG9IUnRyeGJqZnp0M3Jnczk5dFd6aDdGbC1MdEFELXgwSkxDN1lzUjhFOHBuNnluSTd1bTVTSnZkc0IxNXI4OWZEdFVfcHlHYUhKbmtXMHpOanAwY2hYMmZoVVVTRjVNWGhMYTU2NUZld25LcG1LSUZ6UmN6ZEt1VlpodUxNcmlza3dFOHkzY2xIeDQ4VFV4cGZxLVFaZlJvaGc5VW9xWHA1cjZnU3JOVEl3eW5aSnZYTQ?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bharti Airtel Limited",
-      "symbol": "BHARTIARTL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Cessation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
@@ -494,17 +483,22 @@
       "company": "Innomet Advanced Materials Limited",
       "symbol": "INNOMET",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 7.5,
+      "predictionScore": 9.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Disclosure under SEBI Takeover Regulations",
           "type": "announcement",
@@ -514,16 +508,52 @@
           "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 146.57,
+      "catalysts": [
+        {
+          "label": "NSE IPO Update: How State Bank of India Stands to Gain Rs 5,000 Crore From the Mega Listing - Goodreturns",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORzFGdjl4UVpZNEEyMnkweUx3NnV5T3RsSDcxcngtbWg0V29CUUNNNE9pa0VJMjZ3VWgyY3FwRW1SbEtMemEwUFFWcGpsVk9JcWNKdDc4MVItVjVxeHFmWXBZU1lUZjZubUQ5ZF9SYk50cDd2QTFTdnJnelFJUkswZXBuT2VtS3VGOElRaXg0RzRFWmp0dHhIWllyY2hjTl9NYUUyZWlxMkxSRUY3ajhFazRZNkloWU5OSzRqLXhZdTJYSmJvdDFCU0NQRUNSUWNQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "IFCI Limited",
@@ -533,7 +563,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.6,
+      "predictionScore": 6.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -608,62 +638,76 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
+      "company": "Angel One Limited",
+      "symbol": "ANGELONE",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -5.8,
+      "direction": "Positive watch",
+      "predictionScore": 5.6,
       "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1051.4,
+      "lastClose": 353.7,
       "catalysts": [
         {
-          "label": "Infosys to TCS, HCL Tech: Indian IT stocks crash as Accenture trims revenue guidance; Nifty IT index down 6.5% - Mint",
-          "type": "results",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Sensex Today Tanks 698 Points | Nifty Below 24,000 | TCS & Infosys Top Losers - Equitymaster",
-          "type": "company news",
+          "label": "Trading Window",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "IT stocks sink: Nifty IT tumbles 6% as Infosys, TCS, HCL Tech slump after Accenture cuts guidance - Upstox",
-          "type": "company news",
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 1414.8,
+      "catalysts": [
         {
-          "label": "IT Stock Highlights: Nifty IT Ends Nearly 4% Lower After Sharp Recovery From 6% Slide; Infosys, TCS Pare Losses",
-          "type": "company news",
+          "label": "Nestle Sets Record Date For Final Dividend; To Declare Q1 Results On July 22: Check Details",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
           "verified": true
         }
       ],
+      "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTjlfSy03RlpfV1k5Q0x0Tkhlc085Q3FJUjRESWlRUjFHaFBrckhwN3BLaXNUcjd1ZVU1ZF80dlpSb25TTENwUnVOS193M1ItNlpfX09PY3dtTG83QUdBR21EODhsYkJJSEM0ajBrTVVnMldkTzdQWXo5N2ROZGJlSWVCN3AyLWV0cDdrU0RTR0piNnVobWhQMDh1eDRDcW1sM3g5NXNFZ2F3clI4d3dVNmdWdG1mR3QyU3VBRnFleUdtclZETUxEU2d0aTVxc0pxMXRONXBsRTdjTlZyRlczNzRzdXdQM0pGRGpObkpZT2VYb05PaWdRMWdwdEM2UDdIcVNkb2Fn0gGLAkFVX3lxTE11OWNyN2RiTkNWNFJiMk81R0ZlRkhWSEhrdXJTNFJYUkZxbEdXV0gxdVlGclVTZUNnTHkzOG5Nc1dQNjNsaVg3RHZjSEd6MDdnX3c2bWFHR0IyTXNqWktIYjdVdEJocFdoTFdXR1lPT0ExMEdBaHBNV2x4OWF2ODIwTzk1M3JGQ0MzVktjeU9MU1Z4UUtlcGxTZWdJSkFIdWhLOThHY250dzM2UkdMNG1pVC1UUDdISlR6U0J4Wm5OZGxYbXVPcEtYWFRzdmdCU0QtZzhqUzhYQkJpcHZfOTJzSTVaZThlQlhJeHNQN2VuZlNrcW8wZm1YYndodnNyNjFIN0ZLdzVtWlVnbw?oc=5",
-          "verified": true
-        },
-        {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/infosys-tcs-wipro-shares-live-updates-nifty-it-falls-over-6-after-accenture-cuts-fy-guidance-11657921#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdGxWeUpuNlRndjNlTG82N1k0X1ZXWHNENXJ2Uy1KY3M1QVRRakY0SlYzZ3ktWGVQdXh5aXY3VV9IRC1iNDJzUERFakl6dEV2VzdtTVlLQ2d6T1NBN0M0emtVNkhrNkJRYlVURzNZeXJRNlpCbTZoaWJIeUZidGU2Rk8yMnBwSDZmQXlYVC1KWU14bDBacXVNejBaWFZ6dmF4WWg3ZnpIYWp1REdYbmNGdE42dnh3Zndzd3JHbGxua0hZdWF1bW50Szl1V2ZmbEk?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbER1d1hGMUhpUGNqdEtqYnF0azRRbFpDaXBMX2tSeERKMmlnS2h5NWp3Yk01a3RrcWVpdnJ1QUZOakF1dmRXSGduUlBMSHdKN2RDeFFNcXRuSnUwU0hJYkpaY2ZEdVpjeE5TSzk0UTFRTXVWdS1oV0E3TXp1WVV3X0o2TTRQbXRad1hpbTdMUTNicnlKQ19YQ09NX3N0eUNZVHYzN2V4Y0t2VmVZa2F1aFVwUGFIX0NzY1FJb29LMzdXYUlHYnRyem5mdVBHMjFRaXo3bDN6V1hwMWxW?oc=5",
+          "url": "https://www.ndtvprofit.com/markets/nestle-sets-record-date-for-final-dividend-to-declare-q1-results-on-july-22-check-details-11660608#publisher=newsstand",
           "verified": true
         }
       ],
@@ -673,12 +717,12 @@
       "company": "Bharat Forge Limited",
       "symbol": "BHARATFORG",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 4.8,
-      "confidence": 87,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
@@ -711,97 +755,15 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
+      "company": "Vedanta Limited",
+      "symbol": "VEDL",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 779.8,
-      "catalysts": [
-        {
-          "label": "HDFC Bank Likely To Recommend Permanent Chairman Name To RBI In 10-14 Days",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Sensex Today Trades Flat | Nifty Above 24,050 | Bharat Elec & HDFC Bank Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/hdfc-bank-likely-to-recommend-permanent-chairman-name-to-rbi-in-10-14-days-11659328#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFJ2M3pWbmtpQWFTV1VfWk50bGxxakFkUHZtZy1CaG9IUnRyeGJqZnp0M3Jnczk5dFd6aDdGbC1MdEFELXgwSkxDN1lzUjhFOHBuNnluSTd1bTVTSnZkc0IxNXI4OWZEdFVfcHlHYUhKbmtXMHpOanAwY2hYMmZoVVVTRjVNWGhMYTU2NUZld25LcG1LSUZ6UmN6ZEt1VlpodUxNcmlza3dFOHkzY2xIeDQ4VFV4cGZxLVFaZlJvaGc5VW9xWHA1cjZnU3JOVEl3eW5aSnZYTQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Fortis Healthcare Limited",
-      "symbol": "FORTIS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.2,
-      "confidence": 67,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 962.95,
-      "catalysts": [
-        {
-          "label": "Buy, Sell Or Hold: Suzlon, PVR Inox, IRFC, NCC And Fortis Healthcare \u2014 Ask Profit",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-suzlon-pvr-inox-irfc-ncc-and-fortis-healthcare-ask-profit-11656486#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Vedanta Limited",
-      "symbol": "VEDL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
       "direction": "Negative watch",
       "predictionScore": -3.2,
-      "confidence": 67,
+      "confidence": 74,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
@@ -813,12 +775,12 @@
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -828,6 +790,47 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcUFJWndMTGxIVFY2ZXZURUFCbWNGNDM2a25ncF9nR3pWeWt6amxPUmRGY29CczFqYUhWLWRGcEs5YmduMkl4YzlaZjcwWG1QeVVJckRNQTNsbWxhbnp0eENjSkNiWWZrSDNsWUJSd0wwaFNkdlFqS3VvaXpZdWFpVUtfeGxBd0Y3YWlWcElTMGZBYmxEOG5GMDVxeTlITVZUWmIwcjZuNkJ2S3ptdHF5NGozWDhfa1JzLVVRZHZTQTA1QXNEOXVNendaRGNZV3pCZFZ5UzMwcGI3a1ViaVdmSTZOOA?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Supreme Infrastructure India Limited",
+      "symbol": "SUPREMEINF",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 79.28,
+      "catalysts": [
+        {
+          "label": "Supreme Infrastructure India Ltd gets BSE nod for warrant conversion - scanx.trade",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Scheme of Arrangement",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1BVc1czdlpyeDhRdGxrMWp0OW1EbGYtYVRCOUEwa2pSaHdFTHBpYW5qdVRXT25URE4yOGxYUEpUMlVoekdEOXF1RUdVM3BFOTd0YkdFY1huN2tfaVB0ZFNFdmo5YllQcTJyQl95S01SNUJHVG94SzlYRVBvNEJnUDQzRmJSUnZyU2R6SjRWYjRQRUphZ3dfbFpORW5iWU5OR1ZueGVfZHpGNDJxVkVoS2JRV21LRktkS2dwQk8wZHBHRFU?oc=5",
           "verified": true
         }
       ],
@@ -875,89 +878,74 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "KEI Industries Limited",
-      "symbol": "KEI",
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 1,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 66,
+      "predictionScore": 3.2,
+      "confidence": 67,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 5631.0,
+      "technicalConfidence": 67,
+      "lastClose": 779.8,
       "catalysts": [
         {
-          "label": "After A 155% Rally In 2026, This Wire Maker Is Valued At Par With Polycab, KEI, R R Kabel. Is It Justified?",
+          "label": "Sensex Today Trades Flat | Nifty Above 24,050 | Bharat Elec & HDFC Bank Top Gainers - Equitymaster",
           "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/after-a-155-rally-in-2026-this-winding-wire-maker-is-valued-at-par-with-polycab-kei-r-r-kabel-is-it-justified-11658720#publisher=newsstand",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFJ2M3pWbmtpQWFTV1VfWk50bGxxakFkUHZtZy1CaG9IUnRyeGJqZnp0M3Jnczk5dFd6aDdGbC1MdEFELXgwSkxDN1lzUjhFOHBuNnluSTd1bTVTSnZkc0IxNXI4OWZEdFVfcHlHYUhKbmtXMHpOanAwY2hYMmZoVVVTRjVNWGhMYTU2NUZld25LcG1LSUZ6UmN6ZEt1VlpodUxNcmlza3dFOHkzY2xIeDQ4VFV4cGZxLVFaZlJvaGc5VW9xWHA1cjZnU3JOVEl3eW5aSnZYTQ?oc=5",
           "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "The India Cements Limited",
-      "symbol": "INDIACEM",
+      "company": "Dhara Rail Projects Limited",
+      "symbol": "DHARARAIL",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 63,
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 66,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 374.85,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
           "verified": true
         },
         {
           "label": "Disclosure under SEBI Takeover Regulations",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Shree Ram Proteins Limited",
-      "symbol": "SRPL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 63,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 0.38,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
           "verified": true
         }
       ],
