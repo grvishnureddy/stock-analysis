@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T05:27:24+00:00",
+  "generatedAt": "2026-06-19T10:58:40+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -39,32 +39,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharti Airtel Limited",
-      "symbol": "BHARTIARTL",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.7,
+      "predictionScore": 4.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1893.3,
+      "technicalConfidence": 83,
+      "lastClose": 1357.9,
       "catalysts": [
         {
-          "label": "Sensex Rebalancing May Drive Over Rs 940 Crore Worth Inflows Into Bharti Airtel, Eternal",
-          "type": "company news",
+          "label": "Axis Bank Q1 Results: Date, Dividend, Share Price History, Earnings Call Schedule And More",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Bharti Airtel Undervalued? Jio Listing May Have The Answer",
-          "type": "company news",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Cessation",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         }
@@ -73,12 +73,69 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/sensex-rebalancing-bharti-airtel-eternal-maruti-suzuki-hdfc-bank-inflows-outflows-11657890#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/axis-bank-q1-results-date-dividend-share-price-history-earnings-call-schedule-and-more-11659192#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1051.4,
+      "catalysts": [
+        {
+          "label": "Infosys to TCS, HCL Tech: Indian IT stocks crash as Accenture trims revenue guidance; Nifty IT index down 6.5% - Mint",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Sensex Today Tanks 698 Points | Nifty Below 24,000 | TCS & Infosys Top Losers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "IT stocks sink: Nifty IT tumbles 6% as Infosys, TCS, HCL Tech slump after Accenture cuts guidance - Upstox",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "IT Stock Highlights: Nifty IT Ends Nearly 4% Lower After Sharp Recovery From 6% Slide; Infosys, TCS Pare Losses",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTjlfSy03RlpfV1k5Q0x0Tkhlc085Q3FJUjRESWlRUjFHaFBrckhwN3BLaXNUcjd1ZVU1ZF80dlpSb25TTENwUnVOS193M1ItNlpfX09PY3dtTG83QUdBR21EODhsYkJJSEM0ajBrTVVnMldkTzdQWXo5N2ROZGJlSWVCN3AyLWV0cDdrU0RTR0piNnVobWhQMDh1eDRDcW1sM3g5NXNFZ2F3clI4d3dVNmdWdG1mR3QyU3VBRnFleUdtclZETUxEU2d0aTVxc0pxMXRONXBsRTdjTlZyRlczNzRzdXdQM0pGRGpObkpZT2VYb05PaWdRMWdwdEM2UDdIcVNkb2Fn0gGLAkFVX3lxTE11OWNyN2RiTkNWNFJiMk81R0ZlRkhWSEhrdXJTNFJYUkZxbEdXV0gxdVlGclVTZUNnTHkzOG5Nc1dQNjNsaVg3RHZjSEd6MDdnX3c2bWFHR0IyTXNqWktIYjdVdEJocFdoTFdXR1lPT0ExMEdBaHBNV2x4OWF2ODIwTzk1M3JGQ0MzVktjeU9MU1Z4UUtlcGxTZWdJSkFIdWhLOThHY250dzM2UkdMNG1pVC1UUDdISlR6U0J4Wm5OZGxYbXVPcEtYWFRzdmdCU0QtZzhqUzhYQkJpcHZfOTJzSTVaZThlQlhJeHNQN2VuZlNrcW8wZm1YYndodnNyNjFIN0ZLdzVtWlVnbw?oc=5",
           "verified": true
         },
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/jio-ipo-announcement-can-re-rate-bharti-airtel-stock-11657787#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/infosys-tcs-wipro-shares-live-updates-nifty-it-falls-over-6-after-accenture-cuts-fy-guidance-11657921#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdGxWeUpuNlRndjNlTG82N1k0X1ZXWHNENXJ2Uy1KY3M1QVRRakY0SlYzZ3ktWGVQdXh5aXY3VV9IRC1iNDJzUERFakl6dEV2VzdtTVlLQ2d6T1NBN0M0emtVNkhrNkJRYlVURzNZeXJRNlpCbTZoaWJIeUZidGU2Rk8yMnBwSDZmQXlYVC1KWU14bDBacXVNejBaWFZ6dmF4WWg3ZnpIYWp1REdYbmNGdE42dnh3Zndzd3JHbGxua0hZdWF1bW50Szl1V2ZmbEk?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbER1d1hGMUhpUGNqdEtqYnF0azRRbFpDaXBMX2tSeERKMmlnS2h5NWp3Yk01a3RrcWVpdnJ1QUZOakF1dmRXSGduUlBMSHdKN2RDeFFNcXRuSnUwU0hJYkpaY2ZEdVpjeE5TSzk0UTFRTXVWdS1oV0E3TXp1WVV3X0o2TTRQbXRad1hpbTdMUTNicnlKQ19YQ09NX3N0eUNZVHYzN2V4Y0t2VmVZa2F1aFVwUGFIX0NzY1FJb29LMzdXYUlHYnRyem5mdVBHMjFRaXo3bDN6V1hwMWxW?oc=5",
           "verified": true
         }
       ],
@@ -93,11 +150,11 @@
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 5.1,
-      "confidence": 89,
+      "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 85.78,
+      "lastClose": 85.73,
       "catalysts": [
         {
           "label": "NSE IPO impact: New India Assurance, IFCI, NSDL, other stocks surge up to 14% as NSE files IPO papers with SEBI - Upstox",
@@ -126,47 +183,6 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Bank of India",
-      "symbol": "BANKINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 145.7,
-      "catalysts": [
-        {
-          "label": "SBI PO Notification 2026: SBI Recruitment For 1500 Vacancies Out @sbi.co.in; Direct Link And How To Apply",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/india/sbi-po-notification-2026-sbi-recruitment-for-1500-vacancies-out-sbi-co-in-direct-link-and-how-to-apply-11657656#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Bharat Forge Limited",
       "symbol": "BHARATFORG",
       "exchange": "NSE",
@@ -179,7 +195,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2032.8,
+      "lastClose": 2041.4,
       "catalysts": [
         {
           "label": "Stocks to watch: Reliance Industries, Tata Motors, Bharat Forge among shares in focus today; check list here - Mint",
@@ -208,88 +224,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Amber Enterprises India Limited",
-      "symbol": "AMBER",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 7789.5,
-      "catalysts": [
-        {
-          "label": "Amber Enterprises enters manufacturing partnership with Oppo India - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Arrangements for strategic, technical, manufacturing, or marketing tie up",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZGxOTXF2d0ZxLUF2a09Iamd3anVoMFdGeWF4RktZSVE1dVpDU3FIMDUzbEg1OHlnemx5TE5KbUlJLUdHM3FuQ1o4YmRVbFFmQTk4ZE1BdUFpUmJpMHM3YVVSaTBzODM3ajNfZHhNbXU1S3dqMFJvamhES2J4aThrb1hWaGRvTEFsanR5UWxxdjUzQkpObTZTOG9yNmVnVGN0N2NiV3hGNTIzMVdLZ0Zsb0dFMUxadE1Ndm9sOUNwOHZDV2lsZVpRZ0FrN1RwSHduM1NkeWNXbTNYTWhlWVVyYUxB0gHnAUFVX3lxTE5YRFVrZGVHT29JSWJxRDdjY2NyX0dUVDFnMVVCZ0IxYU5ERGd3cVJfT2FRb0hMNFRMMDQzcElTWS1Ccm4xdU1HVFI0T1p5NXdkV3ZFOVBOM2JKRElJUnpxMlFoSEZOUG9rdGUxVktlRE1BMlVpUW8zVnNfbmtGaUM5OGZDS3JWMGQ5bi1XR012d1lYSmJ6Y01JZEdra2x0aXQ5cnZRUnN5ZzVQQWxGZzZ3MnZZSmpFT1BwZGxESWZySF92NDAzWWJybGRKVUVqT01obEJuN0ttWTFyX2ZDbkJIUFJLcnBydw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Gandhar Oil Refinery (India) Limited",
-      "symbol": "GANDHAR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 68,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 181.48,
-      "catalysts": [
-        {
-          "label": "GANDHAR OIL REFINERY (INDIA) LTD. Share Price Today Up 13% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Spurt in Volume",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Spurt in Volume",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxORXdmV2FjODBRNnJNdi1zLWZOQTlGQUxXWE80c0JmMEhId3B0emt5VDlieWRxOTdiWVh1YmNvMFNRd3lTUS04ejh2S3haRlgxYkVLc25fX3p4VmFWN2FuWFBsM2FuUktqSnJNY2tmUmRJbHBHX3BnRnE0TTd6eVpaeEZHUjJuQWlDRUI0STBVUllJMFBmOGlJSEhTQkdNVjQ4WktWU2VoTUpTMU1CcUlCbWNDZ3dfTnZaZVpFTlNUR2tjR3otZDBDUFpDN08ydUprTUU5TXBfSmUtVXNhSTFVemJmNXZGOXJBLU9BT3ZNQVR4clA1azk2cVZ4Qk1ocDFIR1Y5RkpESG1yaXNLbldUNGJVdFdPOHp4M3h2blBtWXJFcDBOZmNQYjdMZDV0cklQYnRoWVFFb2JxQQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "HDFC Bank Limited",
       "symbol": "HDFCBANK",
       "exchange": "NSE",
@@ -302,10 +236,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 779.55,
+      "lastClose": 779.8,
       "catalysts": [
         {
-          "label": "HDFC Bank Shares Fall After RBI Extends Keki Mistry's Tenure As Interim Chairman",
+          "label": "HDFC Bank Likely To Recommend Permanent Chairman Name To RBI In 10-14 Days",
           "type": "company news",
           "verified": true
         },
@@ -324,12 +258,130 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-shares-fall-after-rbi-extends-keki-mistrys-tenure-as-interim-chairman-11657612#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/business/hdfc-bank-likely-to-recommend-permanent-chairman-name-to-rbi-in-10-14-days-11659328#publisher=newsstand",
           "verified": true
         },
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFJ2M3pWbmtpQWFTV1VfWk50bGxxakFkUHZtZy1CaG9IUnRyeGJqZnp0M3Jnczk5dFd6aDdGbC1MdEFELXgwSkxDN1lzUjhFOHBuNnluSTd1bTVTSnZkc0IxNXI4OWZEdFVfcHlHYUhKbmtXMHpOanAwY2hYMmZoVVVTRjVNWGhMYTU2NUZld25LcG1LSUZ6UmN6ZEt1VlpodUxNcmlza3dFOHkzY2xIeDQ4VFV4cGZxLVFaZlJvaGc5VW9xWHA1cjZnU3JOVEl3eW5aSnZYTQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Fortis Healthcare Limited",
+      "symbol": "FORTIS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.2,
+      "confidence": 60,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 962.95,
+      "catalysts": [
+        {
+          "label": "Buy, Sell Or Hold: Suzlon, PVR Inox, IRFC, NCC And Fortis Healthcare \u2014 Ask Profit",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-suzlon-pvr-inox-irfc-ncc-and-fortis-healthcare-ask-profit-11656486#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Vedanta Limited",
+      "symbol": "VEDL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 60,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 300.8,
+      "catalysts": [
+        {
+          "label": "Vedanta Demerger Stocks Rally Up to 5% Despite Weak Market; Vedanta Iron and Steel Surges 28% Since Listing - India Infoline",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcUFJWndMTGxIVFY2ZXZURUFCbWNGNDM2a25ncF9nR3pWeWt6amxPUmRGY29CczFqYUhWLWRGcEs5YmduMkl4YzlaZjcwWG1QeVVJckRNQTNsbWxhbnp0eENjSkNiWWZrSDNsWUJSd0wwaFNkdlFqS3VvaXpZdWFpVUtfeGxBd0Y3YWlWcElTMGZBYmxEOG5GMDVxeTlITVZUWmIwcjZuNkJ2S3ptdHF5NGozWDhfa1JzLVVRZHZTQTA1QXNEOXVNendaRGNZV3pCZFZ5UzMwcGI3a1ViaVdmSTZOOA?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Panama Petrochem Limited",
+      "symbol": "PANAMAPET",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 60,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 483.25,
+      "catalysts": [
+        {
+          "label": "Lubricant stocks: Panama Petrochem, Gandhar Oil soar 18% on huge volumes - Business Standard",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Spurt in Volume",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR2pVRlZCWWRwcE1qeGNsV2JQTkFNVVluMUdiY0ZSNUpKbG1tdWhPRE5BNmtEWnVIRF9uQ2tXc2hRYnF2ZlI3ZXl3NDYxVV9WYmdXZHBmSkZ2OU4yQjNFUHZGeEQ4TzdoWFhsOFl5UVg3b3lkYk05a1VMUU41UjJ3UDNkV1VNaFpPd21jTVduejVCeldtS2d2RFNLN0hfZ29VTFdNbUZIdGhJZDh5MHQxU3o2Uk9fMW9PWU5aTnVxck5UZzlhdW9XMUxqSTVtRExQVlHSAdcBQVVfeXFMT2txQlhRRWxxTkpGZ21HX0hIdzJIVmZraWd3U1hpRnc2aUY1NzJYcE5fNnRkdGM3N3hXNndXamVrMWdVMVdWeWZDZ2w5WmN1U05BSGRESnRjVmNJRUhuTUowUUt5LXJtek9CdzBWWWFPNnlmMm02bW55NFlBTk0xcmZTeWE1N0tlY2d5emNZU3hDYk9RUENqMC1NX2Y0Tm5NWmVUY3lsNEJhemF6ck9oZ0s3OVJETEdGU2pIRXYwTFo2WlE2WVZrWnVPUW1VQzBJcTdldkhXQ0k?oc=5",
           "verified": true
         }
       ],
@@ -371,10 +423,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Ansal Properties & Infrastructure Limited",
-      "symbol": "ANSALAPI",
+      "company": "KEI Industries Limited",
+      "symbol": "KEI",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 1,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 55,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 5631.0,
+      "catalysts": [
+        {
+          "label": "After A 155% Rally In 2026, This Wire Maker Is Valued At Par With Polycab, KEI, R R Kabel. Is It Justified?",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/after-a-155-rally-in-2026-this-winding-wire-maker-is-valued-at-par-with-polycab-kei-r-r-kabel-is-it-justified-11658720#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bharti Airtel Limited",
+      "symbol": "BHARTIARTL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Neutral watch",
@@ -386,87 +469,17 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Cessation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Corporate Insolvency Resolution Process",
+          "label": "Action(s) taken or orders passed",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HCL Technologies Limited",
-      "symbol": "HCLTECH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": -0.9,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 1114.7,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ather Energy Limited",
-      "symbol": "ATHERENERG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 0.8,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -525,7 +538,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 85.78,
+      "lastClose": 85.73,
       "catalysts": [
         {
           "label": "NSE IPO impact: New India Assurance, IFCI, NSDL, other stocks surge up to 14% as NSE files IPO papers with SEBI - Upstox",
@@ -554,32 +567,32 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Bank of India",
-      "symbol": "BANKINDIA",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.8,
+      "predictionScore": 6.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 145.7,
+      "technicalConfidence": 83,
+      "lastClose": 1357.9,
       "catalysts": [
         {
-          "label": "SBI PO Notification 2026: SBI Recruitment For 1500 Vacancies Out @sbi.co.in; Direct Link And How To Apply",
-          "type": "company news",
+          "label": "Axis Bank Q1 Results: Date, Dividend, Share Price History, Earnings Call Schedule And More",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         }
@@ -588,53 +601,69 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/india/sbi-po-notification-2026-sbi-recruitment-for-1500-vacancies-out-sbi-co-in-direct-link-and-how-to-apply-11657656#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/axis-bank-q1-results-date-dividend-share-price-history-earnings-call-schedule-and-more-11659192#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Bharti Airtel Limited",
-      "symbol": "BHARTIARTL",
+      "company": "Infosys Limited",
+      "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.7,
+      "direction": "Negative watch",
+      "predictionScore": -5.8,
       "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1893.3,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1051.4,
       "catalysts": [
         {
-          "label": "Sensex Rebalancing May Drive Over Rs 940 Crore Worth Inflows Into Bharti Airtel, Eternal",
+          "label": "Infosys to TCS, HCL Tech: Indian IT stocks crash as Accenture trims revenue guidance; Nifty IT index down 6.5% - Mint",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Sensex Today Tanks 698 Points | Nifty Below 24,000 | TCS & Infosys Top Losers - Equitymaster",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Bharti Airtel Undervalued? Jio Listing May Have The Answer",
+          "label": "IT stocks sink: Nifty IT tumbles 6% as Infosys, TCS, HCL Tech slump after Accenture cuts guidance - Upstox",
           "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Cessation",
-          "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [],
+      "risks": [
+        {
+          "label": "IT Stock Highlights: Nifty IT Ends Nearly 4% Lower After Sharp Recovery From 6% Slide; Infosys, TCS Pare Losses",
+          "type": "company news",
+          "verified": true
+        }
+      ],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/sensex-rebalancing-bharti-airtel-eternal-maruti-suzuki-hdfc-bank-inflows-outflows-11657890#publisher=newsstand",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTjlfSy03RlpfV1k5Q0x0Tkhlc085Q3FJUjRESWlRUjFHaFBrckhwN3BLaXNUcjd1ZVU1ZF80dlpSb25TTENwUnVOS193M1ItNlpfX09PY3dtTG83QUdBR21EODhsYkJJSEM0ajBrTVVnMldkTzdQWXo5N2ROZGJlSWVCN3AyLWV0cDdrU0RTR0piNnVobWhQMDh1eDRDcW1sM3g5NXNFZ2F3clI4d3dVNmdWdG1mR3QyU3VBRnFleUdtclZETUxEU2d0aTVxc0pxMXRONXBsRTdjTlZyRlczNzRzdXdQM0pGRGpObkpZT2VYb05PaWdRMWdwdEM2UDdIcVNkb2Fn0gGLAkFVX3lxTE11OWNyN2RiTkNWNFJiMk81R0ZlRkhWSEhrdXJTNFJYUkZxbEdXV0gxdVlGclVTZUNnTHkzOG5Nc1dQNjNsaVg3RHZjSEd6MDdnX3c2bWFHR0IyTXNqWktIYjdVdEJocFdoTFdXR1lPT0ExMEdBaHBNV2x4OWF2ODIwTzk1M3JGQ0MzVktjeU9MU1Z4UUtlcGxTZWdJSkFIdWhLOThHY250dzM2UkdMNG1pVC1UUDdISlR6U0J4Wm5OZGxYbXVPcEtYWFRzdmdCU0QtZzhqUzhYQkJpcHZfOTJzSTVaZThlQlhJeHNQN2VuZlNrcW8wZm1YYndodnNyNjFIN0ZLdzVtWlVnbw?oc=5",
           "verified": true
         },
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/jio-ipo-announcement-can-re-rate-bharti-airtel-stock-11657787#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/infosys-tcs-wipro-shares-live-updates-nifty-it-falls-over-6-after-accenture-cuts-fy-guidance-11657921#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdGxWeUpuNlRndjNlTG82N1k0X1ZXWHNENXJ2Uy1KY3M1QVRRakY0SlYzZ3ktWGVQdXh5aXY3VV9IRC1iNDJzUERFakl6dEV2VzdtTVlLQ2d6T1NBN0M0emtVNkhrNkJRYlVURzNZeXJRNlpCbTZoaWJIeUZidGU2Rk8yMnBwSDZmQXlYVC1KWU14bDBacXVNejBaWFZ6dmF4WWg3ZnpIYWp1REdYbmNGdE42dnh3Zndzd3JHbGxua0hZdWF1bW50Szl1V2ZmbEk?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbER1d1hGMUhpUGNqdEtqYnF0azRRbFpDaXBMX2tSeERKMmlnS2h5NWp3Yk01a3RrcWVpdnJ1QUZOakF1dmRXSGduUlBMSHdKN2RDeFFNcXRuSnUwU0hJYkpaY2ZEdVpjeE5TSzk0UTFRTXVWdS1oV0E3TXp1WVV3X0o2TTRQbXRad1hpbTdMUTNicnlKQ19YQ09NX3N0eUNZVHYzN2V4Y0t2VmVZa2F1aFVwUGFIX0NzY1FJb29LMzdXYUlHYnRyem5mdVBHMjFRaXo3bDN6V1hwMWxW?oc=5",
           "verified": true
         }
       ],
@@ -653,7 +682,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2032.8,
+      "lastClose": 2041.4,
       "catalysts": [
         {
           "label": "Stocks to watch: Reliance Industries, Tata Motors, Bharat Forge among shares in focus today; check list here - Mint",
@@ -682,88 +711,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Amber Enterprises India Limited",
-      "symbol": "AMBER",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 7789.5,
-      "catalysts": [
-        {
-          "label": "Amber Enterprises enters manufacturing partnership with Oppo India - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Arrangements for strategic, technical, manufacturing, or marketing tie up",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZGxOTXF2d0ZxLUF2a09Iamd3anVoMFdGeWF4RktZSVE1dVpDU3FIMDUzbEg1OHlnemx5TE5KbUlJLUdHM3FuQ1o4YmRVbFFmQTk4ZE1BdUFpUmJpMHM3YVVSaTBzODM3ajNfZHhNbXU1S3dqMFJvamhES2J4aThrb1hWaGRvTEFsanR5UWxxdjUzQkpObTZTOG9yNmVnVGN0N2NiV3hGNTIzMVdLZ0Zsb0dFMUxadE1Ndm9sOUNwOHZDV2lsZVpRZ0FrN1RwSHduM1NkeWNXbTNYTWhlWVVyYUxB0gHnAUFVX3lxTE5YRFVrZGVHT29JSWJxRDdjY2NyX0dUVDFnMVVCZ0IxYU5ERGd3cVJfT2FRb0hMNFRMMDQzcElTWS1Ccm4xdU1HVFI0T1p5NXdkV3ZFOVBOM2JKRElJUnpxMlFoSEZOUG9rdGUxVktlRE1BMlVpUW8zVnNfbmtGaUM5OGZDS3JWMGQ5bi1XR012d1lYSmJ6Y01JZEdra2x0aXQ5cnZRUnN5ZzVQQWxGZzZ3MnZZSmpFT1BwZGxESWZySF92NDAzWWJybGRKVUVqT01obEJuN0ttWTFyX2ZDbkJIUFJLcnBydw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Gandhar Oil Refinery (India) Limited",
-      "symbol": "GANDHAR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 181.48,
-      "catalysts": [
-        {
-          "label": "GANDHAR OIL REFINERY (INDIA) LTD. Share Price Today Up 13% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Spurt in Volume",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Spurt in Volume",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxORXdmV2FjODBRNnJNdi1zLWZOQTlGQUxXWE80c0JmMEhId3B0emt5VDlieWRxOTdiWVh1YmNvMFNRd3lTUS04ejh2S3haRlgxYkVLc25fX3p4VmFWN2FuWFBsM2FuUktqSnJNY2tmUmRJbHBHX3BnRnE0TTd6eVpaeEZHUjJuQWlDRUI0STBVUllJMFBmOGlJSEhTQkdNVjQ4WktWU2VoTUpTMU1CcUlCbWNDZ3dfTnZaZVpFTlNUR2tjR3otZDBDUFpDN08ydUprTUU5TXBfSmUtVXNhSTFVemJmNXZGOXJBLU9BT3ZNQVR4clA1azk2cVZ4Qk1ocDFIR1Y5RkpESG1yaXNLbldUNGJVdFdPOHp4M3h2blBtWXJFcDBOZmNQYjdMZDV0cklQYnRoWVFFb2JxQQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "HDFC Bank Limited",
       "symbol": "HDFCBANK",
       "exchange": "NSE",
@@ -776,10 +723,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 779.55,
+      "lastClose": 779.8,
       "catalysts": [
         {
-          "label": "HDFC Bank Shares Fall After RBI Extends Keki Mistry's Tenure As Interim Chairman",
+          "label": "HDFC Bank Likely To Recommend Permanent Chairman Name To RBI In 10-14 Days",
           "type": "company news",
           "verified": true
         },
@@ -798,7 +745,7 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-shares-fall-after-rbi-extends-keki-mistrys-tenure-as-interim-chairman-11657612#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/business/hdfc-bank-likely-to-recommend-permanent-chairman-name-to-rbi-in-10-14-days-11659328#publisher=newsstand",
           "verified": true
         },
         {
@@ -807,6 +754,185 @@
           "verified": true
         }
       ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Fortis Healthcare Limited",
+      "symbol": "FORTIS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.2,
+      "confidence": 67,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 962.95,
+      "catalysts": [
+        {
+          "label": "Buy, Sell Or Hold: Suzlon, PVR Inox, IRFC, NCC And Fortis Healthcare \u2014 Ask Profit",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-suzlon-pvr-inox-irfc-ncc-and-fortis-healthcare-ask-profit-11656486#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Vedanta Limited",
+      "symbol": "VEDL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 67,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 300.8,
+      "catalysts": [
+        {
+          "label": "Vedanta Demerger Stocks Rally Up to 5% Despite Weak Market; Vedanta Iron and Steel Surges 28% Since Listing - India Infoline",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcUFJWndMTGxIVFY2ZXZURUFCbWNGNDM2a25ncF9nR3pWeWt6amxPUmRGY29CczFqYUhWLWRGcEs5YmduMkl4YzlaZjcwWG1QeVVJckRNQTNsbWxhbnp0eENjSkNiWWZrSDNsWUJSd0wwaFNkdlFqS3VvaXpZdWFpVUtfeGxBd0Y3YWlWcElTMGZBYmxEOG5GMDVxeTlITVZUWmIwcjZuNkJ2S3ptdHF5NGozWDhfa1JzLVVRZHZTQTA1QXNEOXVNendaRGNZV3pCZFZ5UzMwcGI3a1ViaVdmSTZOOA?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Panama Petrochem Limited",
+      "symbol": "PANAMAPET",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 67,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 483.25,
+      "catalysts": [
+        {
+          "label": "Lubricant stocks: Panama Petrochem, Gandhar Oil soar 18% on huge volumes - Business Standard",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Spurt in Volume",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR2pVRlZCWWRwcE1qeGNsV2JQTkFNVVluMUdiY0ZSNUpKbG1tdWhPRE5BNmtEWnVIRF9uQ2tXc2hRYnF2ZlI3ZXl3NDYxVV9WYmdXZHBmSkZ2OU4yQjNFUHZGeEQ4TzdoWFhsOFl5UVg3b3lkYk05a1VMUU41UjJ3UDNkV1VNaFpPd21jTVduejVCeldtS2d2RFNLN0hfZ29VTFdNbUZIdGhJZDh5MHQxU3o2Uk9fMW9PWU5aTnVxck5UZzlhdW9XMUxqSTVtRExQVlHSAdcBQVVfeXFMT2txQlhRRWxxTkpGZ21HX0hIdzJIVmZraWd3U1hpRnc2aUY1NzJYcE5fNnRkdGM3N3hXNndXamVrMWdVMVdWeWZDZ2w5WmN1U05BSGRESnRjVmNJRUhuTUowUUt5LXJtek9CdzBWWWFPNnlmMm02bW55NFlBTk0xcmZTeWE1N0tlY2d5emNZU3hDYk9RUENqMC1NX2Y0Tm5NWmVUY3lsNEJhemF6ck9oZ0s3OVJETEdGU2pIRXYwTFo2WlE2WVZrWnVPUW1VQzBJcTdldkhXQ0k?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "KEI Industries Limited",
+      "symbol": "KEI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 1,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 66,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 5631.0,
+      "catalysts": [
+        {
+          "label": "After A 155% Rally In 2026, This Wire Maker Is Valued At Par With Polycab, KEI, R R Kabel. Is It Justified?",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/after-a-155-rally-in-2026-this-winding-wire-maker-is-valued-at-par-with-polycab-kei-r-r-kabel-is-it-justified-11658720#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "The India Cements Limited",
+      "symbol": "INDIACEM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 63,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 374.85,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Disclosure under SEBI Takeover Regulations",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -832,123 +958,6 @@
         {
           "label": "Financial Results",
           "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Aurobindo Pharma Limited",
-      "symbol": "AUROPHARMA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1469.5,
-      "catalysts": [
-        {
-          "label": "Aurobindo Pharma Shares Rise After US Regulatory Nod For Lannett Purchase",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/aurobindo-pharma-shares-rise-after-us-regulatory-nod-for-lannett-purchase-11657922#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "IDBI Bank Limited",
-      "symbol": "IDBI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 83.93,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends 347 Points Higher | Nifty Above 24,050 | IDBI Bank Up 19% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Spurt in Volume",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Spurt in Volume",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVGdXc3pTU2V0T1NwYWcxU1NyWnl0UTM0NldaUHNTNGJmSEhwN0tiYVMyckxldC1iMVlxNnFlNHZWby1wVTF0MVlNVThuMjFQTy1SMTg0VUFxRXJSUFctZENuQlZ5eGlHdHVYMkJqNnhNVDJIS2pGX0djUngwY3h5ZTZiUG55WFVsUHlnTmtGZ3dhdFJ3Z2NKOHZDYUhuYlZtNGRPRHhaUk1sTE9xZnB6YVVCVl9keW12RFdMOENDRVdOWVZyTE0tcElrX1Q?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "K2 Infragen Limited",
-      "symbol": "K2INFRA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 56,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Resignation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
           "verified": true
         }
       ],
