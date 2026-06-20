@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T12:11:58+00:00",
+  "updatedAt": "2026-06-20T14:34:33+00:00",
   "instruments": [
     {
       "name": "Nifty 50",
@@ -9,12 +9,16 @@
       "nseIndex": "NIFTY 50",
       "price": 24013.1,
       "asOf": "2026-06-19",
-      "change1d": -0.64,
-      "change1w": 1.65,
-      "change1m": 1.5,
+      "change1d": -0.3,
+      "change1w": 3.68,
+      "change1m": 1.67,
       "rangeLow": 23123.0,
-      "rangeHigh": 24168.0,
+      "rangeHigh": 24085.7,
       "chart": [
+        {
+          "date": "2026-03-12",
+          "close": 23639.15
+        },
         {
           "date": "2026-03-13",
           "close": 23151.1
@@ -268,10 +272,6 @@
           "close": 24085.7
         },
         {
-          "date": "2026-06-18",
-          "close": 24168.0
-        },
-        {
           "date": "2026-06-19",
           "close": 24013.1
         }
@@ -285,12 +285,16 @@
       "market": "BSE",
       "price": 76802.9,
       "asOf": "2026-06-19",
-      "change1d": -0.78,
-      "change1w": 1.69,
-      "change1m": 1.97,
+      "change1d": -0.46,
+      "change1w": 4.02,
+      "change1m": 2.13,
       "rangeLow": 73524.26,
-      "rangeHigh": 77409.98,
+      "rangeHigh": 77155.62,
       "chart": [
+        {
+          "date": "2026-03-12",
+          "close": 76034.42
+        },
         {
           "date": "2026-03-13",
           "close": 74563.92
@@ -542,10 +546,6 @@
         {
           "date": "2026-06-17",
           "close": 77155.62
-        },
-        {
-          "date": "2026-06-18",
-          "close": 77409.98
         },
         {
           "date": "2026-06-19",
@@ -1946,12 +1946,16 @@
       "market": "NSE",
       "price": 12.97,
       "asOf": "2026-06-19",
-      "change1d": 2.37,
-      "change1w": -11.89,
-      "change1m": -29.66,
-      "rangeLow": 12.67,
-      "rangeHigh": 18.44,
+      "change1d": -1.67,
+      "change1w": -16.91,
+      "change1m": -30.57,
+      "rangeLow": 12.97,
+      "rangeHigh": 18.68,
       "chart": [
+        {
+          "date": "2026-03-12",
+          "close": 21.52
+        },
         {
           "date": "2026-03-13",
           "close": 22.65
@@ -2203,10 +2207,6 @@
         {
           "date": "2026-06-17",
           "close": 13.19
-        },
-        {
-          "date": "2026-06-18",
-          "close": 12.67
         },
         {
           "date": "2026-06-19",
@@ -3500,7 +3500,7 @@
         "symbol": "HDFCBANK",
         "company": "HDFC Bank Ltd.",
         "industry": "Financial Services",
-        "lastPrice": 779.8,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3680,7 +3680,7 @@
         "symbol": "POWERGRID",
         "company": "Power Grid Corporation of India Ltd.",
         "industry": "Power",
-        "lastPrice": 292.25,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3730,7 +3730,7 @@
         "symbol": "SUNPHARMA",
         "company": "Sun Pharmaceutical Industries Ltd.",
         "industry": "Healthcare",
-        "lastPrice": null,
+        "lastPrice": 1838.3,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3882,7 +3882,7 @@
         "symbol": "HDFCBANK",
         "company": "HDFC Bank Ltd.",
         "industry": "Financial Services",
-        "lastPrice": 779.8,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -4560,7 +4560,7 @@
         "symbol": "SUNPHARMA",
         "company": "Sun Pharmaceutical Industries Ltd.",
         "industry": "Healthcare",
-        "lastPrice": null,
+        "lastPrice": 1838.3,
         "change": null,
         "pChange": null,
         "volume": null,
