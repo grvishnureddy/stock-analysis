@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T17:56:26+00:00",
+  "generatedAt": "2026-06-21T20:05:00+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -39,6 +39,52 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Asian Paints Limited",
+      "symbol": "ASIANPAINT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 7.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 2732.9,
+      "catalysts": [
+        {
+          "label": "Corporate Actions This Week: Asian Paints, HUL, Tata Power, LIC, Sona BLW Others To Trade Ex-Dividend | Full List",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Upcoming dividends, bonuses, buy backs this week: LIC, Bajaj Auto, Asian Paints, HUL, among others in focus - Upstox",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-asian-paints-hul-tata-power-lic-sona-blw-others-to-trade-ex-dividend-full-list-11668423#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONVREVjBZS2FzMW5DQ0lUYXpkd0t0b2xtbWt2U19ETXlPUXJaUG1VZmZCcHFjR1RDWXVGcXFDSFR6YjJsRUNoQ0hSXzRpLTJzQUoyQjctZ1hVUVc3LW9SZl90MU5YU3UxTm5sbzFlMlNabW1MNFBRd3dWdkE1R1dEQ1ZtVEV0aGdXc250RFVHVV9fcmJNUFRnRERzTjBjX2dqZVF2SWJZcU1Oc1pEOUhjMHdHWUZQVUVKT19QU1d4VXBuekZGUFo3Yk1uYjFxVl9JbnZHSTFlajlybGt6U0g5MFF1LXhRcEtRMnFmeDZfc2c?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Bharat Forge Limited",
       "symbol": "BHARATFORG",
       "exchange": "NSE",
@@ -74,6 +120,47 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUmlwaDdpSkQwa2c1alRQVVVmOEhVRzFjNlhlS3d3TEk2ejJyY2VPTW9kcllqcDRxTjkxSGRnckROLTd0dUVLVU1VVU1VYWYwellyMjlJWWdXWWpHbzNKM2JFekExSC1lS3ZBN0ZkZEdIRXNqNXJHQlh1SDZNSFkxcGwxUXlzT21ZMXRlQ2VQSFBZWUNnUXFOU3ZfaU9FcDk4YktDaF9lWlRkdzFVVHdpTzczNDVVWC12dmtKM2FFU0zSAcYBQVVfeXFMTXRna19jUjg1cXVKQmhMemdmZGRUQW51a2xabnBKQkFXVHVTTzMtM0s2VExQc1BQNlJaaUttRGJlcGtUc2tUalIyVy16ZUlkX0tXYnhITDlkbW1lcUtrLXcwNTQzd0d6bDV1OFhkR0lHTExSUEdBQnc1NVlONDNqTW1jMnpSTTBJeENBOElwc01Zd3ZtSC1iTkV1ZlV2TUdEM3haWE5lcHJVUzRCb0lkbmlZWGc0VW1RN05rOFRIeTQ5SkJvUUJn?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1051.4,
+      "catalysts": [
+        {
+          "label": "Sensex Today Tanks 698 Points | Nifty Below 24,000 | TCS & Infosys Top Losers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdGxWeUpuNlRndjNlTG82N1k0X1ZXWHNENXJ2Uy1KY3M1QVRRakY0SlYzZ3ktWGVQdXh5aXY3VV9IRC1iNDJzUERFakl6dEV2VzdtTVlLQ2d6T1NBN0M0emtVNkhrNkJRYlVURzNZeXJRNlpCbTZoaWJIeUZidGU2Rk8yMnBwSDZmQXlYVC1KWU14bDBacXVNejBaWFZ6dmF4WWg3ZnpIYWp1REdYbmNGdE42dnh3Zndzd3JHbGxua0hZdWF1bW50Szl1V2ZmbEk?oc=5",
           "verified": true
         }
       ],
@@ -148,41 +235,6 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1051.4,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Axis Bank Limited",
@@ -393,41 +445,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Balaji Amines Limited",
-      "symbol": "BALAMINES",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 2138.2,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -465,6 +482,52 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Asian Paints Limited",
+      "symbol": "ASIANPAINT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 8.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 2732.9,
+      "catalysts": [
+        {
+          "label": "Corporate Actions This Week: Asian Paints, HUL, Tata Power, LIC, Sona BLW Others To Trade Ex-Dividend | Full List",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Upcoming dividends, bonuses, buy backs this week: LIC, Bajaj Auto, Asian Paints, HUL, among others in focus - Upstox",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-asian-paints-hul-tata-power-lic-sona-blw-others-to-trade-ex-dividend-full-list-11668423#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONVREVjBZS2FzMW5DQ0lUYXpkd0t0b2xtbWt2U19ETXlPUXJaUG1VZmZCcHFjR1RDWXVGcXFDSFR6YjJsRUNoQ0hSXzRpLTJzQUoyQjctZ1hVUVc3LW9SZl90MU5YU3UxTm5sbzFlMlNabW1MNFBRd3dWdkE1R1dEQ1ZtVEV0aGdXc250RFVHVV9fcmJNUFRnRERzTjBjX2dqZVF2SWJZcU1Oc1pEOUhjMHdHWUZQVUVKT19QU1d4VXBuekZGUFo3Yk1uYjFxVl9JbnZHSTFlajlybGt6U0g5MFF1LXhRcEtRMnFmeDZfc2c?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Angel One Limited",
@@ -546,7 +609,7 @@
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -558,8 +621,8 @@
       "lastClose": 1051.4,
       "catalysts": [
         {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
+          "label": "Sensex Today Tanks 698 Points | Nifty Below 24,000 | TCS & Infosys Top Losers - Equitymaster",
+          "type": "company news",
           "verified": true
         },
         {
@@ -568,13 +631,19 @@
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdGxWeUpuNlRndjNlTG82N1k0X1ZXWHNENXJ2Uy1KY3M1QVRRakY0SlYzZ3ktWGVQdXh5aXY3VV9IRC1iNDJzUERFakl6dEV2VzdtTVlLQ2d6T1NBN0M0emtVNkhrNkJRYlVURzNZeXJRNlpCbTZoaWJIeUZidGU2Rk8yMnBwSDZmQXlYVC1KWU14bDBacXVNejBaWFZ6dmF4WWg3ZnpIYWp1REdYbmNGdE42dnh3Zndzd3JHbGxua0hZdWF1bW50Szl1V2ZmbEk?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -811,36 +880,6 @@
         {
           "label": "Price movement",
           "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Shree Ram Proteins Limited",
-      "symbol": "SRPL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 63,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 0.38,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
           "verified": true
         }
       ],
