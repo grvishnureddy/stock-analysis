@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T05:20:26+00:00",
+  "generatedAt": "2026-06-21T10:06:53+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -42,7 +42,7 @@
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -59,8 +59,8 @@
           "verified": true
         },
         {
-          "label": "IT stocks sink: Nifty IT tumbles 6% as Infosys, TCS, HCL Tech slump after Accenture cuts guidance - Upstox",
-          "type": "company news",
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
           "verified": true
         },
         {
@@ -75,14 +75,50 @@
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdGxWeUpuNlRndjNlTG82N1k0X1ZXWHNENXJ2Uy1KY3M1QVRRakY0SlYzZ3ktWGVQdXh5aXY3VV9IRC1iNDJzUERFakl6dEV2VzdtTVlLQ2d6T1NBN0M0emtVNkhrNkJRYlVURzNZeXJRNlpCbTZoaWJIeUZidGU2Rk8yMnBwSDZmQXlYVC1KWU14bDBacXVNejBaWFZ6dmF4WWg3ZnpIYWp1REdYbmNGdE42dnh3Zndzd3JHbGxua0hZdWF1bW50Szl1V2ZmbEk?oc=5",
           "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbER1d1hGMUhpUGNqdEtqYnF0azRRbFpDaXBMX2tSeERKMmlnS2h5NWp3Yk01a3RrcWVpdnJ1QUZOakF1dmRXSGduUlBMSHdKN2RDeFFNcXRuSnUwU0hJYkpaY2ZEdVpjeE5TSzk0UTFRTXVWdS1oV0E3TXp1WVV3X0o2TTRQbXRad1hpbTdMUTNicnlKQ19YQ09NX3N0eUNZVHYzN2V4Y0t2VmVZa2F1aFVwUGFIX0NzY1FJb29LMzdXYUlHYnRyem5mdVBHMjFRaXo3bDN6V1hwMWxW?oc=5",
-          "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bharti Airtel Limited",
+      "symbol": "BHARTIARTL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 1910.8,
+      "catalysts": [
+        {
+          "label": "M-Cap Of Nine Of Top-10 Most Valued Firms Jump Rs 2.15 Lakh Crore; Airtel Biggest Winner",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Cessation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/mcap-of-nine-of-top-10-most-valued-firms-jumps-rs-2-15-lakh-cr-airtel-biggest-winner-11666286#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Texmaco Rail & Engineering Limited",
@@ -117,47 +153,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "GE Power India Limited",
-      "symbol": "GVPIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 1052.55,
-      "catalysts": [
-        {
-          "label": "GE Power India appoints Rahul Rojal as CFO - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLThkY0tSOS1MQkRVMzJqdF9SUkVaWXBmR1Z2cGt1ZGdRR2dXd3U4d00tWGdPb1BjaTl2NmwyRDU5NFhtVHBBS2tacjV5WXpENnZNLXlROWdBQjAtU01KMTdfRmcwb1FFQkZDMFFyaGw3Yk9YczJUcF9iUmJXSjNtcXYyUVAxUmJ4UFZ6TXVhMlR2Yk1kbDZYV0ZGWGcyUThGS2NnMENOZF9xMklXOWRHQ1lKZENVZzJGdk9Mb1R5R2NBZ9IBxwFBVV95cUxQV041RVFXMkRSUVlZdkE3Z041OGFxdzJFTi1nRWh4U2JIYUlUTkhlUmF0VHY0MWlsYl9pVVZ6WUV1LWRIaWtUbnRvUDh0WjM4b3d5dlduUUZoN3RrVnpzMG5NNTRSbGFXMEJJdEFQME9ucWhVZjZfdi1vWDVJRFA5VGNQMnBlTGF4bmtTZk9wNFdjMEdDSndaXzhGRGl6RmZiZTNiZTVxLW14LWM0RG04azhUanp2NVNzOWEzdEctN0g1aGhQTGQ4?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -196,129 +191,6 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "IFCI Limited",
-      "symbol": "IFCI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.7,
-      "confidence": 86,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 85.73,
-      "catalysts": [
-        {
-          "label": "NSE IPO impact: New India Assurance, IFCI, NSDL, other stocks surge up to 14% as NSE files IPO papers with SEBI - Upstox",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Price movement",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Price movement",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX2ZmdEVxeE0tWWVMRE9CSWl4S080RF9tSzBlQmp4bFFLN3NpNFZiWl9Qek1CNHA2TXVYZ3FTTERoMkZadGhFSkE4WUhLX2tHZ0NiOUV1QzByblJGbjJhbTlqTEVrR1RMTTg4a0Y1NUVPN2RqTDVOUkd3ZUNlZm5NQXQ1VlZFRHlKMlJ6S1E5WnJRZU5hSU1iMkVMdFJCR1Fxa3dLQUtwdGdPUTh4UTlHcjBpT2dPdTlRdm44QjBBd3VLMFIyelVqR21kV0o3VV9XMjFCUG03c2RlVktfOUMwUF91eU9GZ1owMXBoWHVzcXpNWUFxMnNsQg?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Goodluck India Limited",
-      "symbol": "GOODLUCK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 6.7,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 1423.4,
-      "catalysts": [
-        {
-          "label": "Goodluck India arm bags Rs 255 crore defence order - Business Standard",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTJ2ZWFRcFZsOU9VcU0tdkJqaF9vdFVybENrdjFjSUtXY0hYRnF0MlhfUEFiQUgybHpocFNHd3BrTUN0NVhlQ3EyNFplNGFIMXdEYVFOOGluY09jSlQxWElVaW5MOGdXdmVjeXl2ZDBOWFRvWG9hU0dMcGpBR3FJa3ZTODBnQjhpNmFSN3V2eTUxVU5GWDR5cmUwRTI3RUxKM0hnbHZYNW1qWW5fZXpUSU5TMmVEU2FUYWM3YVhmNGFjcTkyMFp4Zmt2ODLSAdIBQVVfeXFMTkx6QzVwOXlfWHlLc3FMREVOUXZZWl80VVlpN01VMzEyUm9PMG9RR083c25DNHRZOHAzZXRTckFnaWhGQ2pzTWsxOF9ETG9TTXNVNmV4NndGd0FNQlhJYml6MGlJU0MxZGhJak52MS0zZXRUM2hGX1NKWWFaQnE5Q1I2YWFNVmUybkhuZVRwYUEyWXZod3BaZHdCckNQalB0T251OWlsR1FtNmZFckR4LXNNNEZ1MWxxRmx5WkNjQV9JRTZYcWtIWHRZT0JRc1c0c0lB?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Asian Paints Limited",
-      "symbol": "ASIANPAINT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 5.2,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 2732.9,
-      "catalysts": [
-        {
-          "label": "Dividend Stocks To Watch This Week: Asian Paints, HUL, Tata Power, LIC, Sona BLW \u2014 Check Amount, Record Date",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/dividend-stocks-to-watch-this-week-asian-paints-hul-tata-power-lic-sona-blw-supreme-industries-check-amount-recorddate-11658098#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
@@ -345,6 +217,41 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Pace Digitek Limited",
+      "symbol": "PACEDIGITK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 80,
+      "lastClose": 181.82,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -389,37 +296,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharat Heavy Electricals Limited",
-      "symbol": "BHEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 1,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 5.8,
-      "confidence": 65,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 414.35,
-      "catalysts": [
-        {
-          "label": "700% in 5 years! Multibagger logistics stock in focus after receipt of order from PSU stock BHEL - Mint",
-          "type": "contract",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONEhhOWwwUjJmalI0YmI2czlhNkdIT0tUMmtSSkd2SmFTSERKNllIX1hXWjU0XzFhRzNRbGNPYXhUbzhjQVI5UTJVcDg0d1M3X1ZQeDNhcXRlNU5uTk9BSU1ael9zT1RvM25hS3FCTFhIVjMwNTkyMWRfNzBINXBXaHMwOGRQRGhjWTZGYzdSWEhEUy1TdkdBblF6LVlhY0ZiaVBrcUIxSTBIeEZDR2hKTEN0QmlBeENTaXZOTkRFcU1NempRVEdtZzVHME5HU1IyTzdQZ2RNbXRiUTFSOVI1dHRjV3dHRWpYX1ZFTkxqS0RkdmdYSkJF0gH8AUFVX3lxTE92WnRDVkk3dHZfbHJnV2toVVlOTkZtd0xuWGVFWE1JZzVyWnFBRzFXNlVoZXY5cjJkblBTek9BSXdxaElSYmtZZ2VKdEhrbnFhbzl6U2xYTzBSNlU0QmZrNU9fY1lDQUxiNnE4TTl5RlhCOWRRWVhjbmtxWFBWeDlBXzQ3ODZtQm84THBkWjZ0SXNsWHFab2dPUG15LWRuLUhxS1ZRajA5OUkzanhjSFhraWpiYkdqdXZvQlVsbmxpdkR5OFViV1BHTkxDLTRCVllBbU0ydkFQNjBSSFB4VGVOLVd3QVY0by01YmlsazFWVXJIYWJQWC1BZkcyYw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Magellanic Cloud Limited",
       "symbol": "MCLOUD",
       "exchange": "NSE",
@@ -452,6 +328,108 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "GP Eco Solutions India Limited",
+      "symbol": "GPECO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 63,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Oil & Natural Gas Corporation Limited",
+      "symbol": "ONGC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 62,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 246.25,
+      "catalysts": [
+        {
+          "label": "ONGC Is Now A 'Gas-And-Oil' Company As Output Shift Accelerates Toward Natural Gas",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Disclosure under SEBI Takeover Regulations",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/ongc-is-now-a-gas-and-oil-company-as-output-shift-accelerates-toward-natural-gas-11666175#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Zee Entertainment Enterprises Limited",
+      "symbol": "ZEEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 1,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 55,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 113.36,
+      "catalysts": [
+        {
+          "label": "Stock Radar: Stock Radar Exposed: ZEEL's Secret Chart Pattern Breakout Signals Potential Rebound! | Articles - MarketSmith India",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGxoR1RWbFR5RGxPYmV4UmJ3dU1rdVBrRG84SUljVzdsRFpkVXBjUHFpdVROeWdpODQtTGg3U0hvRExhUnE0OVNmRFAzSG5iMlBwVE8xYWgtMUdEMGd5N2ZlV2JRSFZ3N1JNVl9wT0ZqSTh6bk1xbGlmaUpUUDlGSA?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
@@ -492,47 +470,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "IFCI Limited",
-      "symbol": "IFCI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 85.73,
-      "catalysts": [
-        {
-          "label": "NSE IPO impact: New India Assurance, IFCI, NSDL, other stocks surge up to 14% as NSE files IPO papers with SEBI - Upstox",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Price movement",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Price movement",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX2ZmdEVxeE0tWWVMRE9CSWl4S080RF9tSzBlQmp4bFFLN3NpNFZiWl9Qek1CNHA2TXVYZ3FTTERoMkZadGhFSkE4WUhLX2tHZ0NiOUV1QzByblJGbjJhbTlqTEVrR1RMTTg4a0Y1NUVPN2RqTDVOUkd3ZUNlZm5NQXQ1VlZFRHlKMlJ6S1E5WnJRZU5hSU1iMkVMdFJCR1Fxa3dLQUtwdGdPUTh4UTlHcjBpT2dPdTlRdm44QjBBd3VLMFIyelVqR21kV0o3VV9XMjFCUG03c2RlVktfOUMwUF91eU9GZ1owMXBoWHVzcXpNWUFxMnNsQg?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Angel One Limited",
       "symbol": "ANGELONE",
       "exchange": "NSE",
@@ -571,7 +508,7 @@
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -588,8 +525,8 @@
           "verified": true
         },
         {
-          "label": "IT stocks sink: Nifty IT tumbles 6% as Infosys, TCS, HCL Tech slump after Accenture cuts guidance - Upstox",
-          "type": "company news",
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
           "verified": true
         },
         {
@@ -604,42 +541,37 @@
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdGxWeUpuNlRndjNlTG82N1k0X1ZXWHNENXJ2Uy1KY3M1QVRRakY0SlYzZ3ktWGVQdXh5aXY3VV9IRC1iNDJzUERFakl6dEV2VzdtTVlLQ2d6T1NBN0M0emtVNkhrNkJRYlVURzNZeXJRNlpCbTZoaWJIeUZidGU2Rk8yMnBwSDZmQXlYVC1KWU14bDBacXVNejBaWFZ6dmF4WWg3ZnpIYWp1REdYbmNGdE42dnh3Zndzd3JHbGxua0hZdWF1bW50Szl1V2ZmbEk?oc=5",
           "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbER1d1hGMUhpUGNqdEtqYnF0azRRbFpDaXBMX2tSeERKMmlnS2h5NWp3Yk01a3RrcWVpdnJ1QUZOakF1dmRXSGduUlBMSHdKN2RDeFFNcXRuSnUwU0hJYkpaY2ZEdVpjeE5TSzk0UTFRTXVWdS1oV0E3TXp1WVV3X0o2TTRQbXRad1hpbTdMUTNicnlKQ19YQ09NX3N0eUNZVHYzN2V4Y0t2VmVZa2F1aFVwUGFIX0NzY1FJb29LMzdXYUlHYnRyem5mdVBHMjFRaXo3bDN6V1hwMWxW?oc=5",
-          "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "GE Power India Limited",
-      "symbol": "GVPIL",
+      "company": "Bharti Airtel Limited",
+      "symbol": "BHARTIARTL",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.0,
+      "predictionScore": 3.9,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 1052.55,
+      "technicalConfidence": 50,
+      "lastClose": 1910.8,
       "catalysts": [
         {
-          "label": "GE Power India appoints Rahul Rojal as CFO - Business Standard",
+          "label": "M-Cap Of Nine Of Top-10 Most Valued Firms Jump Rs 2.15 Lakh Crore; Airtel Biggest Winner",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Cessation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Action(s) taken or orders passed",
           "type": "announcement",
           "verified": true
         }
@@ -647,12 +579,12 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLThkY0tSOS1MQkRVMzJqdF9SUkVaWXBmR1Z2cGt1ZGdRR2dXd3U4d00tWGdPb1BjaTl2NmwyRDU5NFhtVHBBS2tacjV5WXpENnZNLXlROWdBQjAtU01KMTdfRmcwb1FFQkZDMFFyaGw3Yk9YczJUcF9iUmJXSjNtcXYyUVAxUmJ4UFZ6TXVhMlR2Yk1kbDZYV0ZGWGcyUThGS2NnMENOZF9xMklXOWRHQ1lKZENVZzJGdk9Mb1R5R2NBZ9IBxwFBVV95cUxQV041RVFXMkRSUVlZdkE3Z041OGFxdzJFTi1nRWh4U2JIYUlUTkhlUmF0VHY0MWlsYl9pVVZ6WUV1LWRIaWtUbnRvUDh0WjM4b3d5dlduUUZoN3RrVnpzMG5NNTRSbGFXMEJJdEFQME9ucWhVZjZfdi1vWDVJRFA5VGNQMnBlTGF4bmtTZk9wNFdjMEdDSndaXzhGRGl6RmZiZTNiZTVxLW14LWM0RG04azhUanp2NVNzOWEzdEctN0g1aGhQTGQ4?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/mcap-of-nine-of-top-10-most-valued-firms-jumps-rs-2-15-lakh-cr-airtel-biggest-winner-11666286#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Texmaco Rail & Engineering Limited",
@@ -690,88 +622,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Asian Paints Limited",
-      "symbol": "ASIANPAINT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 2732.9,
-      "catalysts": [
-        {
-          "label": "Dividend Stocks To Watch This Week: Asian Paints, HUL, Tata Power, LIC, Sona BLW \u2014 Check Amount, Record Date",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/dividend-stocks-to-watch-this-week-asian-paints-hul-tata-power-lic-sona-blw-supreme-industries-check-amount-recorddate-11658098#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Goodluck India Limited",
-      "symbol": "GOODLUCK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 7.5,
-      "confidence": 86,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 1423.4,
-      "catalysts": [
-        {
-          "label": "Goodluck India arm bags Rs 255 crore defence order - Business Standard",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTJ2ZWFRcFZsOU9VcU0tdkJqaF9vdFVybENrdjFjSUtXY0hYRnF0MlhfUEFiQUgybHpocFNHd3BrTUN0NVhlQ3EyNFplNGFIMXdEYVFOOGluY09jSlQxWElVaW5MOGdXdmVjeXl2ZDBOWFRvWG9hU0dMcGpBR3FJa3ZTODBnQjhpNmFSN3V2eTUxVU5GWDR5cmUwRTI3RUxKM0hnbHZYNW1qWW5fZXpUSU5TMmVEU2FUYWM3YVhmNGFjcTkyMFp4Zmt2ODLSAdIBQVVfeXFMTkx6QzVwOXlfWHlLc3FMREVOUXZZWl80VVlpN01VMzEyUm9PMG9RR083c25DNHRZOHAzZXRTckFnaWhGQ2pzTWsxOF9ETG9TTXNVNmV4NndGd0FNQlhJYml6MGlJU0MxZGhJak52MS0zZXRUM2hGX1NKWWFaQnE5Q1I2YWFNVmUybkhuZVRwYUEyWXZod3BaZHdCckNQalB0T251OWlsR1FtNmZFckR4LXNNNEZ1MWxxRmx5WkNjQV9JRTZYcWtIWHRZT0JRc1c0c0lB?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
@@ -807,94 +657,62 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Garden Reach Shipbuilders & Engineers Limited",
-      "symbol": "GRSE",
+      "company": "Pace Digitek Limited",
+      "symbol": "PACEDIGITK",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 73,
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 77,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2798.3,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 80,
+      "lastClose": 181.82,
       "catalysts": [
         {
-          "label": "GRSE secures Navratna status from Government of India - Business Standard",
-          "type": "company news",
+          "label": "General Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX2lyWF9pWkliUHBUZEVXeTh4MDlmd213SGItUG03eUVlLUVfa195UVZHZlp0S1FTUkNRcjd6TXVmOVpud1dBelFOVkdWbHVxYTFETHZEQWFoOWw1SzBYMXpsbDBmTC01VGdXdy01MTJ0WEVDcDhoREhCOXRaZXloUllseDNubVJ6WXFqWUM1bjN0MHlfaGw1ZUF5TGNReldFWTNyQUR5NmhYcDlLTHE3clVzVFU5NnoyZmtlSzN0dFhyR2FuRHVXel9yNTh5V2VG0gHWAUFVX3lxTE5XVXlWYUpsd0I0Vjd2MmdPN3lkT1QwRFZSWWotV3pXa2dlUWlhVFFXeUlwdGYteEtIdlg5RkR1S2VpSm5MYlo4Z01SbUVWM2JuVlVKTWlfQ1pVWF9RYm9SNEV0TEhnVjJZUmt0Ujc2WmtvQ2FHMUNHVnhZWUxCNEpfNGZOMHNBcFpwejZOLUlzX1ZMOVZmbFJhTDk5MWh4ZDFRdmozTkJhNzhzcWtISzBMRXhjUHlpRkxyaWdXMDZDV0VYaXM0OFhQVjRSWGZuckdFQXNqS1E?oc=5",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharat Heavy Electricals Limited",
-      "symbol": "BHEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 1,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.8,
-      "confidence": 72,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 414.35,
-      "catalysts": [
-        {
-          "label": "700% in 5 years! Multibagger logistics stock in focus after receipt of order from PSU stock BHEL - Mint",
-          "type": "contract",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONEhhOWwwUjJmalI0YmI2czlhNkdIT0tUMmtSSkd2SmFTSERKNllIX1hXWjU0XzFhRzNRbGNPYXhUbzhjQVI5UTJVcDg0d1M3X1ZQeDNhcXRlNU5uTk9BSU1ael9zT1RvM25hS3FCTFhIVjMwNTkyMWRfNzBINXBXaHMwOGRQRGhjWTZGYzdSWEhEUy1TdkdBblF6LVlhY0ZiaVBrcUIxSTBIeEZDR2hKTEN0QmlBeENTaXZOTkRFcU1NempRVEdtZzVHME5HU1IyTzdQZ2RNbXRiUTFSOVI1dHRjV3dHRWpYX1ZFTkxqS0RkdmdYSkJF0gH8AUFVX3lxTE92WnRDVkk3dHZfbHJnV2toVVlOTkZtd0xuWGVFWE1JZzVyWnFBRzFXNlVoZXY5cjJkblBTek9BSXdxaElSYmtZZ2VKdEhrbnFhbzl6U2xYTzBSNlU0QmZrNU9fY1lDQUxiNnE4TTl5RlhCOWRRWVhjbmtxWFBWeDlBXzQ3ODZtQm84THBkWjZ0SXNsWHFab2dPUG15LWRuLUhxS1ZRajA5OUkzanhjSFhraWpiYkdqdXZvQlVsbmxpdkR5OFViV1BHTkxDLTRCVllBbU0ydkFQNjBSSFB4VGVOLVd3QVY0by01YmlsazFWVXJIYWJQWC1BZkcyYw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "DLF Limited",
-      "symbol": "DLF",
+      "company": "Oil & Natural Gas Corporation Limited",
+      "symbol": "ONGC",
       "exchange": "NSE",
       "confirmedNewsCount": 2,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.2,
-      "confidence": 67,
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 73,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 624.5,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 246.25,
       "catalysts": [
         {
-          "label": "Buy, Sell Or Hold: Reliance Industries, Tata Motors CV, DLF, Garden Reach Shipbuilders And Ola Electric \u2014 Ask Profit",
-          "type": "results",
+          "label": "ONGC Is Now A 'Gas-And-Oil' Company As Output Shift Accelerates Toward Natural Gas",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Disclosure under SEBI Takeover Regulations",
           "type": "announcement",
           "verified": true
         }
@@ -903,11 +721,142 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-reliance-industries-tata-motors-cv-dlf-garden-reach-shipbuilders-and-ola-electric-ask-profit-11661307#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/business/ongc-is-now-a-gas-and-oil-company-as-output-shift-accelerates-toward-natural-gas-11666175#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Zee Entertainment Enterprises Limited",
+      "symbol": "ZEEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 1,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 66,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 113.36,
+      "catalysts": [
+        {
+          "label": "Stock Radar: Stock Radar Exposed: ZEEL's Secret Chart Pattern Breakout Signals Potential Rebound! | Articles - MarketSmith India",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGxoR1RWbFR5RGxPYmV4UmJ3dU1rdVBrRG84SUljVzdsRFpkVXBjUHFpdVROeWdpODQtTGg3U0hvRExhUnE0OVNmRFAzSG5iMlBwVE8xYWgtMUdEMGd5N2ZlV2JRSFZ3N1JNVl9wT0ZqSTh6bk1xbGlmaUpUUDlGSA?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Dhara Rail Projects Limited",
+      "symbol": "DHARARAIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 66,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Disclosure under SEBI Takeover Regulations",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Magellanic Cloud Limited",
+      "symbol": "MCLOUD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 65,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Fund Raising",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Price movement",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Shree Ram Proteins Limited",
+      "symbol": "SRPL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 63,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 0.38,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
 }
