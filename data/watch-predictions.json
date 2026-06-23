@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T10:05:06+00:00",
+  "generatedAt": "2026-06-23T12:49:04+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -83,7 +83,7 @@
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -137,94 +137,6 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Vedanta Limited",
-      "symbol": "VEDL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 281.7,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Stock Market Crash News Today Live Updates: Nifty Slips Near 23,900, Sensex Drops 600 Points; Vedanta Slumps 7%",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-fno-expiry-futures-11673650#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "The New India Assurance Company Limited",
-      "symbol": "NIACL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 195.1,
-      "catalysts": [
-        {
-          "label": "NIACL sees profit booking after rallying 45% in 8 sessions as NSE files IPO DRHP - Moneycontrol.com",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Price movement",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOU52MTNFUEVRRTFOeURKTzk5dlpnY0hNU1NqZ0tlT1EzcVhlZlNVQkJNWDlxN0ZiaTlONTFnX0FSSGVVMHZGVFo5WTRFd1hYSy1CY1lLdklRTWtBNU8xSlc5XzJ2bVZyMWs3enZZSDA3ckR4eTNZamRfUVY2UF9DR3pBQUdWTEZ6S0JyY2paR2RUbDl2eDBxbzl6UlpleTFRY3diUFpuSkFWdUxTWm82aXh1NU1hTzdxT1FFTDBhMGVOcm1VT1p3a0NMdVhwbFhzREdicHEwM1JTa2da0gHiAUFVX3lxTE9EaXRTc0ptMER5dnRfUmptVGJwTmtsczFKVk0ydVFhZHNfeDdBY1BRWDd4QTJWai11VjFiX2Y0NTFweHNPeWYtUFhQcG1aUzZtMl8yWTE1Z3FVeVpZX1NLVGtMNmtBUkI4dVBTQWViYXlKMWdjbXdLbEkteUR4V3JBOEdGVW1ocklIdUtackFXckh1MUFDN3BoUzBmbkkyTzQ3MXpQcms3Yk9fcldBaVlPRmk4enpHWkQ2QTV1NTE4T1Z6Y2lFSWE4eDlPTGdYYWtreEIxZHMydnhNcmJ4ZlRocGc?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
@@ -257,6 +169,83 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HFCL Limited",
+      "symbol": "HFCL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 6.8,
+      "confidence": 87,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 202.29,
+      "catalysts": [
+        {
+          "label": "Stock market crash: Vedanta, Hindustan Zinc, HFCL tumble over 5% as NIFTY slips below 24,000 - India IPO",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWFpZC1KQkhRTzJ1eUctaFlHUG9scTNLX2lqY3dPM05VYVQ0YUEycnFMODRIWHhrN3RFLWRaT3J5MDZ3WXA0QUpxSU5PMmwxWDhEX2N1Tk5TaUo0UWVId0lFeXlEaDZodTJPZ3AwRDRPYlRTcHloVHhjWFYyZXhTNGNLdHRuWGdFcUxCMUwxQU5Uc29uTnY2a09RVm1DS1ZJX3JpOVNsWWxtRmFqNXRId19PbzJTSHdtM0NZNGJDUGs?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Bank of Baroda",
+      "symbol": "BANKBARODA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 81,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 277.8,
+      "catalysts": [
+        {
+          "label": "Top Gainers & Losers on June 23: Vedanta, Hindustan Zinc, Infosys, TCS, Bank of Baroda among top losers - Mint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQXhncF9Sa3ZULTJRU2ktREt3TUpZb3lJX1o5QldKZldnUUNPT0NYajR6ZDRUbXd1LXNVYjNrNW52cHUzVXBHMTBGNTNmaXVKQ2staVAtWkd4NF9teW1OUnJGeDFJVjRLYWhoaUl0LVM2Q19DTkZDZ0lRd3FzTnZ0UWJpMHZfSFUtWFpDMzFQa2gxREw3dTh2S2k1T3k5UlFPeGctTWZkUWpYSEExcVUwYW5hc0hZVlA2Q2lhWEFrVjBpNTB0b3kyRVdPNWNFTVF6VUk3NXpRWk1SeGxaNkpJdm5scGJHTFRiakNYdWpDdjV1OEk0X1FnSWFR0gH_AUFVX3lxTE05RFJkcU1Kcm5sWlMxckZpMzROV1pkUUlGbnljUndqS3lKN1NoNFVpZXRPVDdGYnhoRDViV1M0YXhGOU1fVXpsd3BRNmVfMGUtcTNsRmZwYjlXdzRHWUNOV0pORGw0bzhuVjQya2tHZjVpQnFWclFmZVpSeG04Z1p6dlhRR19WU0plQnZSc0FKRXdXS21RY0l2R3EydEVTMnV2OER4MXZPR1BYOW1seXhQU0VrTk9OV29PakpYLTRFYjRsQ0s4QWUtSTBodnA4WXR6UGNHSDVOVnlHeGhUanZkQlIySVlEZnQ5THI0RzJJbmRDcFFfMjFzcmQzWVlnOA?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -412,22 +401,57 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Denta Water and Infra Solutions Limited",
-      "symbol": "DENTA",
+      "company": "Anondita Medicare Limited",
+      "symbol": "ANONDITA",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 67,
+      "predictionScore": 3.0,
+      "confidence": 70,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 337.7,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "DENTA WATER AND INFRA SOLUTIONS LTD. Share Price Today Up 8% - Equitymaster",
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "JINDAL STEEL LIMITED",
+      "symbol": "JINDALSTEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 69,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1082.6,
+      "catalysts": [
+        {
+          "label": "Jindal Steel Share Price Today Down 3% - Equitymaster",
           "type": "company news",
           "verified": true
         },
@@ -437,7 +461,7 @@
           "verified": true
         },
         {
-          "label": "Clarification - Financial Results",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -446,45 +470,10 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONWVPTGV1WVVoOVJoXzdzSzdzY2JBR3l0STJiei1ra0lleXcydVlSSzVJbjRvVXJLX3E4a240eW1qMjVOZ21kV0dZS2UweUc3Y0QxUVFjOHV4QjFnT1hqRlNUR3FaTGVtUF9TbzZtMVBuV0o2RC1NUExlcTR1aTVnZEZSQm41ci1kVzZJWjF6RVY1SDdmTGlwS1NLY0d5alRIYklDWmU1RkpnUmtjR3Jyd2dMY3RxVDB1QWliZ1Q3TWN0QXlRaktWbEUxMjZOX2FCY1RFeTFqRURydTJ6emJReGEwdVhyNnNrVjN0RVB4VEh4UUFqOHRscnZKODNMR2dKcTNUTU1lYXlYb25fNjkxTUpIY0JmWDdpcGQ2NkNndktLY1hRSzFpTWlOYWl5dWxsbThZdm1TUDN0V1NhUm85eHNlX1k?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOellVakMtRWN4alNvNjJSU2JpN2RZUHdsQ1dCM3lfdGxjdjhqSUFTRlNkUVNRREZGTE1Ubm85c2U4VzhWLVp1WUY3UVZLZEZrUDBfaXhHVi1OcmZHUll3UTNndGZkYWdxNTFnZ3V4cXpPTGxqNXdmYU1jWnMwQzNiMkVJbGNHeWdjckF6WnBjcXQ2Sk9VQ1U2TE41c21aQnRaSVUwU0FhV1kxSTB2b1ZCTnZJTlZRX2pId3cxalF4UWhtQjBZN0pBVkNuY19vYllweHRSRnR3cEVBQWhTNzFXUUdpMUdQRHIydTgwMVZOTDRnNWxrM2Z1SlpSX212Ml8tQTl6aEwwcy13QTVQSzQwWUYxZ2JHdXotTlk1bzZmaHU?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Magellanic Cloud Limited",
-      "symbol": "MCLOUD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 65,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Price movement",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
@@ -523,6 +512,42 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HFCL Limited",
+      "symbol": "HFCL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 8.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 202.29,
+      "catalysts": [
+        {
+          "label": "Stock market crash: Vedanta, Hindustan Zinc, HFCL tumble over 5% as NIFTY slips below 24,000 - India IPO",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWFpZC1KQkhRTzJ1eUctaFlHUG9scTNLX2lqY3dPM05VYVQ0YUEycnFMODRIWHhrN3RFLWRaT3J5MDZ3WXA0QUpxSU5PMmwxWDhEX2N1Tk5TaUo0UWVId0lFeXlEaDZodTJPZ3AwRDRPYlRTcHloVHhjWFYyZXhTNGNLdHRuWGdFcUxCMUwxQU5Uc29uTnY2a09RVm1DS1ZJX3JpOVNsWWxtRmFqNXRId19PbzJTSHdtM0NZNGJDUGs?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Goodluck India Limited",
@@ -610,7 +635,7 @@
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -664,94 +689,6 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "The New India Assurance Company Limited",
-      "symbol": "NIACL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 195.1,
-      "catalysts": [
-        {
-          "label": "NIACL sees profit booking after rallying 45% in 8 sessions as NSE files IPO DRHP - Moneycontrol.com",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Price movement",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOU52MTNFUEVRRTFOeURKTzk5dlpnY0hNU1NqZ0tlT1EzcVhlZlNVQkJNWDlxN0ZiaTlONTFnX0FSSGVVMHZGVFo5WTRFd1hYSy1CY1lLdklRTWtBNU8xSlc5XzJ2bVZyMWs3enZZSDA3ckR4eTNZamRfUVY2UF9DR3pBQUdWTEZ6S0JyY2paR2RUbDl2eDBxbzl6UlpleTFRY3diUFpuSkFWdUxTWm82aXh1NU1hTzdxT1FFTDBhMGVOcm1VT1p3a0NMdVhwbFhzREdicHEwM1JTa2da0gHiAUFVX3lxTE9EaXRTc0ptMER5dnRfUmptVGJwTmtsczFKVk0ydVFhZHNfeDdBY1BRWDd4QTJWai11VjFiX2Y0NTFweHNPeWYtUFhQcG1aUzZtMl8yWTE1Z3FVeVpZX1NLVGtMNmtBUkI4dVBTQWViYXlKMWdjbXdLbEkteUR4V3JBOEdGVW1ocklIdUtackFXckh1MUFDN3BoUzBmbkkyTzQ3MXpQcms3Yk9fcldBaVlPRmk4enpHWkQ2QTV1NTE4T1Z6Y2lFSWE4eDlPTGdYYWtreEIxZHMydnhNcmJ4ZlRocGc?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Vedanta Limited",
-      "symbol": "VEDL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.2,
-      "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 281.7,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Stock Market Crash News Today Live Updates: Nifty Slips Near 23,900, Sensex Drops 600 Points; Vedanta Slumps 7%",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-fno-expiry-futures-11673650#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
@@ -787,6 +724,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -2.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1109.5,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Central Mine Planning & Design Institute Limited",
       "symbol": "CMPDI",
       "exchange": "NSE",
@@ -794,7 +766,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
+      "predictionScore": 5.9,
       "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -863,38 +835,85 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HCL Technologies Limited",
-      "symbol": "HCLTECH",
+      "company": "Bank of Baroda",
+      "symbol": "BANKBARODA",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.5,
-      "confidence": 76,
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 88,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1109.5,
+      "lastClose": 277.8,
       "catalysts": [
         {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
+          "label": "Top Gainers & Losers on June 23: Vedanta, Hindustan Zinc, Infosys, TCS, Bank of Baroda among top losers - Mint",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQXhncF9Sa3ZULTJRU2ktREt3TUpZb3lJX1o5QldKZldnUUNPT0NYajR6ZDRUbXd1LXNVYjNrNW52cHUzVXBHMTBGNTNmaXVKQ2staVAtWkd4NF9teW1OUnJGeDFJVjRLYWhoaUl0LVM2Q19DTkZDZ0lRd3FzTnZ0UWJpMHZfSFUtWFpDMzFQa2gxREw3dTh2S2k1T3k5UlFPeGctTWZkUWpYSEExcVUwYW5hc0hZVlA2Q2lhWEFrVjBpNTB0b3kyRVdPNWNFTVF6VUk3NXpRWk1SeGxaNkpJdm5scGJHTFRiakNYdWpDdjV1OEk0X1FnSWFR0gH_AUFVX3lxTE05RFJkcU1Kcm5sWlMxckZpMzROV1pkUUlGbnljUndqS3lKN1NoNFVpZXRPVDdGYnhoRDViV1M0YXhGOU1fVXpsd3BRNmVfMGUtcTNsRmZwYjlXdzRHWUNOV0pORGw0bzhuVjQya2tHZjVpQnFWclFmZVpSeG04Z1p6dlhRR19WU0plQnZSc0FKRXdXS21RY0l2R3EydEVTMnV2OER4MXZPR1BYOW1seXhQU0VrTk9OV29PakpYLTRFYjRsQ0s4QWUtSTBodnA4WXR6UGNHSDVOVnlHeGhUanZkQlIySVlEZnQ5THI0RzJJbmRDcFFfMjFzcmQzWVlnOA?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "JINDAL STEEL LIMITED",
+      "symbol": "JINDALSTEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 80,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1082.6,
+      "catalysts": [
+        {
+          "label": "Jindal Steel Share Price Today Down 3% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOellVakMtRWN4alNvNjJSU2JpN2RZUHdsQ1dCM3lfdGxjdjhqSUFTRlNkUVNRREZGTE1Ubm85c2U4VzhWLVp1WUY3UVZLZEZrUDBfaXhHVi1OcmZHUll3UTNndGZkYWdxNTFnZ3V4cXpPTGxqNXdmYU1jWnMwQzNiMkVJbGNHeWdjckF6WnBjcXQ2Sk9VQ1U2TE41c21aQnRaSVUwU0FhV1kxSTB2b1ZCTnZJTlZRX2pId3cxalF4UWhtQjBZN0pBVkNuY19vYllweHRSRnR3cEVBQWhTNzFXUUdpMUdQRHIydTgwMVZOTDRnNWxrM2Z1SlpSX212Ml8tQTl6aEwwcy13QTVQSzQwWUYxZ2JHdXotTlk1bzZmaHU?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -933,42 +952,6 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONWVPTGV1WVVoOVJoXzdzSzdzY2JBR3l0STJiei1ra0lleXcydVlSSzVJbjRvVXJLX3E4a240eW1qMjVOZ21kV0dZS2UweUc3Y0QxUVFjOHV4QjFnT1hqRlNUR3FaTGVtUF9TbzZtMVBuV0o2RC1NUExlcTR1aTVnZEZSQm41ci1kVzZJWjF6RVY1SDdmTGlwS1NLY0d5alRIYklDWmU1RkpnUmtjR3Jyd2dMY3RxVDB1QWliZ1Q3TWN0QXlRaktWbEUxMjZOX2FCY1RFeTFqRURydTJ6emJReGEwdVhyNnNrVjN0RVB4VEh4UUFqOHRscnZKODNMR2dKcTNUTU1lYXlYb25fNjkxTUpIY0JmWDdpcGQ2NkNndktLY1hRSzFpTWlOYWl5dWxsbThZdm1TUDN0V1NhUm85eHNlX1k?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "GAIL (India) Limited",
-      "symbol": "GAIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 173.84,
-      "catalysts": [
-        {
-          "label": "GAIL India appoints Satish Kumar Sinha as Director (Finance) - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2FTbjFxaTZDSHFtZUN3RXg5cTB6OVpJcVNDeEUxQTN1a0JYR3ZtQTNnT19xTGF3WWtCYkpwSnIzME1ZQlMyWnljUnRUQkhEWXNBWlRmQ3BOWU5uMjZiSDY1SzZwd1Z0UzRKTXJvajlhVHJudFlueXFvS29xLU5KRTZVRlNqV3M0cldQaWthSGZzX0V3cGZCNk1oelB3V3VoT3ZudEhUSGpJVEYzMEFuS21jNVVoU0FMNEpucExoN1RaMVdMZ3o1WHZ3MXlVNElUajRXcTNkY9IB3AFBVV95cUxPQ19INmx1SXBYSlFubEFZWkRTUk9qMmk0UDRKRTdhQnl6dlA3d3JCZVUxSTVMUVlzZkRJX1EwUWZiZmV4cGh4YkFMbW03UkEwakoxSDhzMTYwTWpUMGE1Rlg1Qmg5S01qcEp0X1lkN205TGg1TTJRRVB4NTNBUVBTX2duV2lvd1FuSXdIbmk0T1dsc3ZZSGpsUHJoejRJVWVnbHhaemVIUlRoMFNheE1ISUtGU0NGRU9Ndmd1aU5SbHh4S2RpVmxuUktzczgybTlLNWNxNy1RdVo5T2c4?oc=5",
           "verified": true
         }
       ],
