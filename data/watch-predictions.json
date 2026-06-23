@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T04:31:46+00:00",
+  "generatedAt": "2026-06-23T10:05:06+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -46,12 +46,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.7,
+      "predictionScore": 5.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 113.85,
+      "technicalConfidence": 67,
+      "lastClose": 110.8,
       "catalysts": [
         {
           "label": "Sensex Today Ends 291 Points Higher | Nifty Above 24,100 | Texmaco Rail & Engineering Up 5% - Equitymaster",
@@ -83,17 +83,22 @@
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
+      "predictionScore": -4.3,
       "confidence": 90,
-      "riskLevel": "Standard",
+      "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1036.4,
+      "lastClose": 1029.3,
       "catalysts": [
+        {
+          "label": "Sensex opens 170 points lower; Nifty tops 24,000; Infosys down 3% - India Today",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "Sensex Today Trades Higher | Nifty Above 24,100 | Tech Mahindra & Infosys Top Gainers - Equitymaster",
           "type": "company news",
@@ -103,28 +108,39 @@
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
-        },
+        }
+      ],
+      "risks": [
         {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
+          "label": "Infosys, TCS to Wipro - IT stocks fall up to 3% amid global tech stocks selloff - Mint",
+          "type": "company news",
           "verified": true
         }
       ],
-      "risks": [],
       "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUDdNUDJ6Zm54MXBOUGh0LUd2aXZVZ0xSZHBBQWdocGN6RHdfdGpETmhHc0pFN1B3OUszZ3dVSk81OG04b01aV1JEcWRLU2h2Vkw1bWZ4TENBWGh2c1d2eXNuS01yU0tfV3BRNWZJY2Y0bkh1dVE3MkpkYTVqWXM4SHhpbWlpN0hHbFZrMHZEOTBvaVVjOWxPdS1PU0k2N0Z0b3BMbmozMTJJdS02ZlNBRmdObnAyd1U4c0w2YkhfVFN3R2V1ajVTXzB6RWJ0OVRiXzFCcNIB2gFBVV95cUxQRHZOMl9UUUF6Qnp1VFVGb2tBUHFvbWZYb2l1Q0RIeWx3OGhTMDh3anFfVlNOa3BqcHJvNkw3VlVUNXZ5bmE2YzNHZUR0TTZucU1SWVNnMXREa2ZJaFUzZ1VOeUZXSXVoSnpiTFJLSkU2eklvVElSTGFyeDNab01Ta0NyaDV1akZZWi15T0llVUM4MjhOQkdrY0U3VkRjS21UeXh3eTVoeUhfUHhKbkc5Vzh6NUFsWlh3eTFxSmZ2cnZDY3BTQWZTWk51RDJQdGdTLUhxYm1mc0ctdw?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZVZNa0lrRnV6MFVJaW1sMS1nN2I1eG4xbGxfOXI5R3AxdjQ1S2tSX3dFb2M1cWo4X3FVODBxd1lwZGtnRUdSSkVXVVpfSFRTZ25QRDBiUlVXWTZuX2dzaGtBLUxRanFYSmFtZnJPc1lsWjNrVjltcUgxZ2VTXy1LSDJFbmtlNWhmb3BDak1GaUZZa24tcGc0NU9YS0xvUE9pWGlrLTZKWDlkTjVadkE3Q3YtVkNxNlIzaHVwSm5HRFB0RjhkejlFVEZVQ0RZemdWSW96c001RHdhcGRqdFHSAeMBQVVfeXFMTVF1MzBuX3U5Yktqem5HeUgwcVZQbWU2OWt3TDN2Y2VSUHVFVjh3aW9CRFFQRW43OXdJa1Nvb1E5V3hQOTA3OTUwcDVudzdTZmNKN0xrMUxlVEJDU3hpdXoyenl2N285NGxpWXptMWhsLThIeDVTX25XU0FRbDRfQ3VGQzJic0trS1NicERydlNTb1RqSTFZRW5GcUthYTQyLXdDaXljSHA4Z0l6cS04amZhZUxsdjMyRFNWaUJQc245ejdPZmd2NHQ4ejlrVk00V1d1Qkw3MWFMQjltVXBYQURrR1E?oc=5",
+          "verified": true
+        },
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaWhIX2lUcEhKWTJlWE16Wkt4QWpSQTFEMXNuY2RFWkUtVlk0QjRFZ3R3c2tpWlN6WWd4MWllUEhnOEdmTV8tUTNmMFU3ZWVPTEVoSlNDZlFDV2JfSU54Wi1wbkE4ckVZM0ltVEJnbHl6WU5LOUh1NmR5RHZjdFFMNmJJUHM1bVBfRzVUZTFpN081b3haTks0Zk1rUnhLSmpidkh0QWQwejdTU095ZHJHYmdxSWRnQkgyVkptMVhRNXFIRE82R28tNGxuLWQ2UXNMYTVwSjVRWVZoUQ?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Vedanta Limited",
       "symbol": "VEDL",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -133,13 +149,8 @@
       "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
-      "lastClose": 286.65,
+      "lastClose": 281.7,
       "catalysts": [
-        {
-          "label": "Vedanta Share Price Slumps 6% In Early Trade: What's Dragging The Stock?",
-          "type": "company news",
-          "verified": true
-        },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
@@ -149,11 +160,16 @@
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
         }
       ],
       "risks": [
         {
-          "label": "Stock Market News Today Live Updates: Nifty Slips Below 24,050 Amid F&O Expiry, Sensex Falls Over 150 Points; Vedanta Slides 5% After Block Deals",
+          "label": "Stock Market Crash News Today Live Updates: Nifty Slips Near 23,900, Sensex Drops 600 Points; Vedanta Slumps 7%",
           "type": "company news",
           "verified": true
         }
@@ -163,42 +179,37 @@
           "label": "NDTV Business",
           "url": "https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-fno-expiry-futures-11673650#publisher=newsstand",
           "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/vedanta-share-price-slumps-6-in-early-trade-whats-dragging-the-stock-11674063#publisher=newsstand",
-          "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Persistent Systems Limited",
-      "symbol": "PERSISTENT",
+      "company": "The New India Assurance Company Limited",
+      "symbol": "NIACL",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 90,
+      "direction": "Positive watch",
+      "predictionScore": 4.2,
+      "confidence": 88,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 4881.0,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 195.1,
       "catalysts": [
         {
-          "label": "Persistent Systems Shares in Focus As Motilal Oswal Maintains Bullish Stance \u2014 Check Upside, Target Price",
-          "type": "company news",
+          "label": "NIACL sees profit booking after rallying 45% in 8 sessions as NSE files IPO DRHP - Moneycontrol.com",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
+          "label": "Other business matters",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Price movement",
           "type": "announcement",
           "verified": true
         }
@@ -206,47 +217,12 @@
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/persistent-systems-shares-in-focus-as-motilal-oswal-maintains-bullish-stance-check-upside-target-price-11673986#publisher=newsstand",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOU52MTNFUEVRRTFOeURKTzk5dlpnY0hNU1NqZ0tlT1EzcVhlZlNVQkJNWDlxN0ZiaTlONTFnX0FSSGVVMHZGVFo5WTRFd1hYSy1CY1lLdklRTWtBNU8xSlc5XzJ2bVZyMWs3enZZSDA3ckR4eTNZamRfUVY2UF9DR3pBQUdWTEZ6S0JyY2paR2RUbDl2eDBxbzl6UlpleTFRY3diUFpuSkFWdUxTWm82aXh1NU1hTzdxT1FFTDBhMGVOcm1VT1p3a0NMdVhwbFhzREdicHEwM1JTa2da0gHiAUFVX3lxTE9EaXRTc0ptMER5dnRfUmptVGJwTmtsczFKVk0ydVFhZHNfeDdBY1BRWDd4QTJWai11VjFiX2Y0NTFweHNPeWYtUFhQcG1aUzZtMl8yWTE1Z3FVeVpZX1NLVGtMNmtBUkI4dVBTQWViYXlKMWdjbXdLbEkteUR4V3JBOEdGVW1ocklIdUtackFXckh1MUFDN3BoUzBmbkkyTzQ3MXpQcms3Yk9fcldBaVlPRmk4enpHWkQ2QTV1NTE4T1Z6Y2lFSWE4eDlPTGdYYWtreEIxZHMydnhNcmJ4ZlRocGc?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Pace Digitek Limited",
-      "symbol": "PACEDIGITK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 201.7,
-      "catalysts": [
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Axis Bank Limited",
@@ -261,7 +237,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1362.3,
+      "lastClose": 1363.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -284,135 +260,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharat Electronics Limited",
-      "symbol": "BEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 6.5,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 430.95,
-      "catalysts": [
-        {
-          "label": "Bharat Electronics shares to be in focus on Tuesday as company secures \u20b91,081 crore order - Mint",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZDZOaDlnSVU3akNaeXU4UFBPS01qN3ZRcV9vQXRzU1dLbTVfX0hSUy1yMHpjUzJYaElKUHVhclBOc3k4cTB6WWRLVTc2QTEyTGZuOG1peWxTbzA1aWJIY2VnQzgxMGNEOUNvSTY3aWJlUmpsX0hQZklLWmRKNTdsUnBOSEI1LUFEelV4UDlzeDlwLUxlN2laelF6SnFTYkYxMlRSV3NXMVJGRmlDdkdYa3h4NFhPZ0VZajEtd3I4MjlzWFVzTzBSRHZjNDBKR2l4ZVJuTVgtQVlUTTdqWlVCekpZVngxcjBqYW9zWEc3UzZxYlXSAfgBQVVfeXFMTXBCazI1aENITkU2N2wxZ21kZ3VNT1pnaHZFazllaU1iLVAtWms0SUFwbFRrOU94R1M0NkRaNDNDRmFfcUhza0NHSUxoenZZUllzUWpWdktWU19PRmdxWll6OGtxbDA1ZU5wZ21hUE1uQ01iclFyVUUyZHAzNmgxZDFCeFJ2a1RwQTd4d0M3YUh6T3g5VW93SHZtR1RyWGo2SlZjTjRyU0xiTWhBamNRa2FwX0NNNUdscHZob2VyRXN0RTlvdjJRZWxEdkhjLXRHYlVVTDNtWlJLRzdqV1NNXzcwcHBIR3ZPZk9BdTJtLUU2VTVKX0E0dnU?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "HCL Technologies Limited",
-      "symbol": "HCLTECH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.4,
-      "confidence": 83,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 1113.3,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Infosys, TCS, HCLTech And Other IT Stocks Under Pressure On Weak Global Tech Cues",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/infosys-tcs-hcltech-and-other-it-stocks-under-pressure-on-weak-global-tech-cues-11674014#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Greaves Cotton Limited",
-      "symbol": "GREAVESCOT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 82,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 211.0,
-      "catalysts": [
-        {
-          "label": "Greaves Cotton Share Price Today Up 7% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQY052R1FoRnF2bzhkQ08ySzBtQkhINDNSdGhlcUE1SkswMmFOUXNrUW9DalFOUHgweWcxeURHMUJ4MGVWVi1zWHNta1gzZ0FXY1RjVXJDVE5sdFl1eHAyX3JRZzA1VGROM2xPS2NKZTMxWk9lX29UNmcxcFJJSThPMWlGSnhoSUtjTHV4Q1lWS01JQk43NjgteWs0Ujd3LURzMFQ3bi1YNWtoRmpfeXB3TDFvM1VScVlld0VNTkRNVzJSbUpCd24zU0FjOFFYeTR2RmVzMGZUeFBCZk9CRDlZa19DMnN0bnNBZHNTWmFaRGs5RmswdzNnRjA4cVlNdzV0ODdxX1hiSGo1VnBmZVFRTE9randXQWNyaEhQZWtoVnpmNUcxZXdj?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Goodluck India Limited",
       "symbol": "GOODLUCK",
       "exchange": "NSE",
@@ -421,11 +268,11 @@
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 6.5,
-      "confidence": 81,
+      "confidence": 80,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1455.0,
+      "lastClose": 1426.4,
       "catalysts": [
         {
           "label": "KMEW Secures IWAI Ferry Project Deal | Goodluck India Wins Defence Supply Order | Top Buzzing Stocks Today - Equitymaster",
@@ -454,6 +301,47 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Central Mine Planning & Design Institute Limited",
+      "symbol": "CMPDI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.7,
+      "confidence": 79,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 253.2,
+      "catalysts": [
+        {
+          "label": "Bharat Coking Coal, CMPDI: How Coal India's listed subsidiaries have performed vs their IPO issue prices - Upstox",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeVg2M1Jrc0lXT01DanJ4U0lnVzY5a1AwWXlFOWxoNW9DRU1TV1FLdWRJbEE5bjFkWE1YYzQ3b0JWaFUzUkFaWFJqbGNES2Rlb2RjVVhGTjdua1F2Uy1lMkl2WFY5LUN2dUhPSnB6NFVYeUJnSjVoOXZwdnlaRGN6dUhqQklhZEhaaDZFTXlxZmxfM0xfMlR4WHllRzA2TE5sX1VfZFg4bWtJdUs2eTl1NWhCQ1ZMMlR3N29HakJnRnhrTm5IMi1CcUtGSlNLT09XNWdLN19RUHU1cFZmdk9LWjRxNDljRjhpRHB3RXh4MU55VVFCNUdpOWtZdUw5LWhvUnpr?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Tata Consultancy Services Limited",
       "symbol": "TCS",
       "exchange": "NSE",
@@ -466,7 +354,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2084.9,
+      "lastClose": 2059.6,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -480,6 +368,117 @@
         },
         {
           "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Dynamic Services & Security Limited",
+      "symbol": "DYNAMIC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 6.0,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Denta Water and Infra Solutions Limited",
+      "symbol": "DENTA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 67,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 337.7,
+      "catalysts": [
+        {
+          "label": "DENTA WATER AND INFRA SOLUTIONS LTD. Share Price Today Up 8% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Clarification - Financial Results",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONWVPTGV1WVVoOVJoXzdzSzdzY2JBR3l0STJiei1ra0lleXcydVlSSzVJbjRvVXJLX3E4a240eW1qMjVOZ21kV0dZS2UweUc3Y0QxUVFjOHV4QjFnT1hqRlNUR3FaTGVtUF9TbzZtMVBuV0o2RC1NUExlcTR1aTVnZEZSQm41ci1kVzZJWjF6RVY1SDdmTGlwS1NLY0d5alRIYklDWmU1RkpnUmtjR3Jyd2dMY3RxVDB1QWliZ1Q3TWN0QXlRaktWbEUxMjZOX2FCY1RFeTFqRURydTJ6emJReGEwdVhyNnNrVjN0RVB4VEh4UUFqOHRscnZKODNMR2dKcTNUTU1lYXlYb25fNjkxTUpIY0JmWDdpcGQ2NkNndktLY1hRSzFpTWlOYWl5dWxsbThZdm1TUDN0V1NhUm85eHNlX1k?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Magellanic Cloud Limited",
+      "symbol": "MCLOUD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 65,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Fund Raising",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Price movement",
           "type": "announcement",
           "verified": true
         }
@@ -538,7 +537,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1455.0,
+      "lastClose": 1426.4,
       "catalysts": [
         {
           "label": "KMEW Secures IWAI Ferry Project Deal | Goodluck India Wins Defence Supply Order | Top Buzzing Stocks Today - Equitymaster",
@@ -567,47 +566,6 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Bharat Electronics Limited",
-      "symbol": "BEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 7.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 430.95,
-      "catalysts": [
-        {
-          "label": "Bharat Electronics shares to be in focus on Tuesday as company secures \u20b91,081 crore order - Mint",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZDZOaDlnSVU3akNaeXU4UFBPS01qN3ZRcV9vQXRzU1dLbTVfX0hSUy1yMHpjUzJYaElKUHVhclBOc3k4cTB6WWRLVTc2QTEyTGZuOG1peWxTbzA1aWJIY2VnQzgxMGNEOUNvSTY3aWJlUmpsX0hQZklLWmRKNTdsUnBOSEI1LUFEelV4UDlzeDlwLUxlN2laelF6SnFTYkYxMlRSV3NXMVJGRmlDdkdYa3h4NFhPZ0VZajEtd3I4MjlzWFVzTzBSRHZjNDBKR2l4ZVJuTVgtQVlUTTdqWlVCekpZVngxcjBqYW9zWEc3UzZxYlXSAfgBQVVfeXFMTXBCazI1aENITkU2N2wxZ21kZ3VNT1pnaHZFazllaU1iLVAtWms0SUFwbFRrOU94R1M0NkRaNDNDRmFfcUhza0NHSUxoenZZUllzUWpWdktWU19PRmdxWll6OGtxbDA1ZU5wZ21hUE1uQ01iclFyVUUyZHAzNmgxZDFCeFJ2a1RwQTd4d0M3YUh6T3g5VW93SHZtR1RyWGo2SlZjTjRyU0xiTWhBamNRa2FwX0NNNUdscHZob2VyRXN0RTlvdjJRZWxEdkhjLXRHYlVVTDNtWlJLRzdqV1NNXzcwcHBIR3ZPZk9BdTJtLUU2VTVKX0E0dnU?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Texmaco Rail & Engineering Limited",
       "symbol": "TEXRAIL",
       "exchange": "NSE",
@@ -615,12 +573,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.4,
+      "predictionScore": 6.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 113.85,
+      "technicalConfidence": 67,
+      "lastClose": 110.8,
       "catalysts": [
         {
           "label": "Sensex Today Ends 291 Points Higher | Nifty Above 24,100 | Texmaco Rail & Engineering Up 5% - Equitymaster",
@@ -652,17 +610,22 @@
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.8,
+      "predictionScore": -5.8,
       "confidence": 90,
-      "riskLevel": "Standard",
+      "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1036.4,
+      "lastClose": 1029.3,
       "catalysts": [
+        {
+          "label": "Sensex opens 170 points lower; Nifty tops 24,000; Infosys down 3% - India Today",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "Sensex Today Trades Higher | Nifty Above 24,100 | Tech Mahindra & Infosys Top Gainers - Equitymaster",
           "type": "company news",
@@ -672,9 +635,61 @@
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Infosys, TCS to Wipro - IT stocks fall up to 3% amid global tech stocks selloff - Mint",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUDdNUDJ6Zm54MXBOUGh0LUd2aXZVZ0xSZHBBQWdocGN6RHdfdGpETmhHc0pFN1B3OUszZ3dVSk81OG04b01aV1JEcWRLU2h2Vkw1bWZ4TENBWGh2c1d2eXNuS01yU0tfV3BRNWZJY2Y0bkh1dVE3MkpkYTVqWXM4SHhpbWlpN0hHbFZrMHZEOTBvaVVjOWxPdS1PU0k2N0Z0b3BMbmozMTJJdS02ZlNBRmdObnAyd1U4c0w2YkhfVFN3R2V1ajVTXzB6RWJ0OVRiXzFCcNIB2gFBVV95cUxQRHZOMl9UUUF6Qnp1VFVGb2tBUHFvbWZYb2l1Q0RIeWx3OGhTMDh3anFfVlNOa3BqcHJvNkw3VlVUNXZ5bmE2YzNHZUR0TTZucU1SWVNnMXREa2ZJaFUzZ1VOeUZXSXVoSnpiTFJLSkU2eklvVElSTGFyeDNab01Ta0NyaDV1akZZWi15T0llVUM4MjhOQkdrY0U3VkRjS21UeXh3eTVoeUhfUHhKbkc5Vzh6NUFsWlh3eTFxSmZ2cnZDY3BTQWZTWk51RDJQdGdTLUhxYm1mc0ctdw?oc=5",
+          "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZVZNa0lrRnV6MFVJaW1sMS1nN2I1eG4xbGxfOXI5R3AxdjQ1S2tSX3dFb2M1cWo4X3FVODBxd1lwZGtnRUdSSkVXVVpfSFRTZ25QRDBiUlVXWTZuX2dzaGtBLUxRanFYSmFtZnJPc1lsWjNrVjltcUgxZ2VTXy1LSDJFbmtlNWhmb3BDak1GaUZZa24tcGc0NU9YS0xvUE9pWGlrLTZKWDlkTjVadkE3Q3YtVkNxNlIzaHVwSm5HRFB0RjhkejlFVEZVQ0RZemdWSW96c001RHdhcGRqdFHSAeMBQVVfeXFMTVF1MzBuX3U5Yktqem5HeUgwcVZQbWU2OWt3TDN2Y2VSUHVFVjh3aW9CRFFQRW43OXdJa1Nvb1E5V3hQOTA3OTUwcDVudzdTZmNKN0xrMUxlVEJDU3hpdXoyenl2N285NGxpWXptMWhsLThIeDVTX25XU0FRbDRfQ3VGQzJic0trS1NicERydlNTb1RqSTFZRW5GcUthYTQyLXdDaXljSHA4Z0l6cS04amZhZUxsdjMyRFNWaUJQc245ejdPZmd2NHQ4ejlrVk00V1d1Qkw3MWFMQjltVXBYQURrR1E?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaWhIX2lUcEhKWTJlWE16Wkt4QWpSQTFEMXNuY2RFWkUtVlk0QjRFZ3R3c2tpWlN6WWd4MWllUEhnOEdmTV8tUTNmMFU3ZWVPTEVoSlNDZlFDV2JfSU54Wi1wbkE4ckVZM0ltVEJnbHl6WU5LOUh1NmR5RHZjdFFMNmJJUHM1bVBfRzVUZTFpN081b3haTks0Zk1rUnhLSmpidkh0QWQwejdTU095ZHJHYmdxSWRnQkgyVkptMVhRNXFIRE82R28tNGxuLWQ2UXNMYTVwSjVRWVZoUQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "The New India Assurance Company Limited",
+      "symbol": "NIACL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 195.1,
+      "catalysts": [
+        {
+          "label": "NIACL sees profit booking after rallying 45% in 8 sessions as NSE files IPO DRHP - Moneycontrol.com",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Price movement",
           "type": "announcement",
           "verified": true
         }
@@ -683,17 +698,17 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaWhIX2lUcEhKWTJlWE16Wkt4QWpSQTFEMXNuY2RFWkUtVlk0QjRFZ3R3c2tpWlN6WWd4MWllUEhnOEdmTV8tUTNmMFU3ZWVPTEVoSlNDZlFDV2JfSU54Wi1wbkE4ckVZM0ltVEJnbHl6WU5LOUh1NmR5RHZjdFFMNmJJUHM1bVBfRzVUZTFpN081b3haTks0Zk1rUnhLSmpidkh0QWQwejdTU095ZHJHYmdxSWRnQkgyVkptMVhRNXFIRE82R28tNGxuLWQ2UXNMYTVwSjVRWVZoUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOU52MTNFUEVRRTFOeURKTzk5dlpnY0hNU1NqZ0tlT1EzcVhlZlNVQkJNWDlxN0ZiaTlONTFnX0FSSGVVMHZGVFo5WTRFd1hYSy1CY1lLdklRTWtBNU8xSlc5XzJ2bVZyMWs3enZZSDA3ckR4eTNZamRfUVY2UF9DR3pBQUdWTEZ6S0JyY2paR2RUbDl2eDBxbzl6UlpleTFRY3diUFpuSkFWdUxTWm82aXh1NU1hTzdxT1FFTDBhMGVOcm1VT1p3a0NMdVhwbFhzREdicHEwM1JTa2da0gHiAUFVX3lxTE9EaXRTc0ptMER5dnRfUmptVGJwTmtsczFKVk0ydVFhZHNfeDdBY1BRWDd4QTJWai11VjFiX2Y0NTFweHNPeWYtUFhQcG1aUzZtMl8yWTE1Z3FVeVpZX1NLVGtMNmtBUkI4dVBTQWViYXlKMWdjbXdLbEkteUR4V3JBOEdGVW1ocklIdUtackFXckh1MUFDN3BoUzBmbkkyTzQ3MXpQcms3Yk9fcldBaVlPRmk4enpHWkQ2QTV1NTE4T1Z6Y2lFSWE4eDlPTGdYYWtreEIxZHMydnhNcmJ4ZlRocGc?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Vedanta Limited",
       "symbol": "VEDL",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -702,13 +717,8 @@
       "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
-      "lastClose": 286.65,
+      "lastClose": 281.7,
       "catalysts": [
-        {
-          "label": "Vedanta Share Price Slumps 6% In Early Trade: What's Dragging The Stock?",
-          "type": "company news",
-          "verified": true
-        },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
@@ -718,11 +728,16 @@
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
         }
       ],
       "risks": [
         {
-          "label": "Stock Market News Today Live Updates: Nifty Slips Below 24,050 Amid F&O Expiry, Sensex Falls Over 150 Points; Vedanta Slides 5% After Block Deals",
+          "label": "Stock Market Crash News Today Live Updates: Nifty Slips Near 23,900, Sensex Drops 600 Points; Vedanta Slumps 7%",
           "type": "company news",
           "verified": true
         }
@@ -731,175 +746,6 @@
         {
           "label": "NDTV Business",
           "url": "https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-fno-expiry-futures-11673650#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/vedanta-share-price-slumps-6-in-early-trade-whats-dragging-the-stock-11674063#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Persistent Systems Limited",
-      "symbol": "PERSISTENT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 4881.0,
-      "catalysts": [
-        {
-          "label": "Persistent Systems Shares in Focus As Motilal Oswal Maintains Bullish Stance \u2014 Check Upside, Target Price",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/persistent-systems-shares-in-focus-as-motilal-oswal-maintains-bullish-stance-check-upside-target-price-11673986#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Pace Digitek Limited",
-      "symbol": "PACEDIGITK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 201.7,
-      "catalysts": [
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Greaves Cotton Limited",
-      "symbol": "GREAVESCOT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 211.0,
-      "catalysts": [
-        {
-          "label": "Greaves Cotton Share Price Today Up 7% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQY052R1FoRnF2bzhkQ08ySzBtQkhINDNSdGhlcUE1SkswMmFOUXNrUW9DalFOUHgweWcxeURHMUJ4MGVWVi1zWHNta1gzZ0FXY1RjVXJDVE5sdFl1eHAyX3JRZzA1VGROM2xPS2NKZTMxWk9lX29UNmcxcFJJSThPMWlGSnhoSUtjTHV4Q1lWS01JQk43NjgteWs0Ujd3LURzMFQ3bi1YNWtoRmpfeXB3TDFvM1VScVlld0VNTkRNVzJSbUpCd24zU0FjOFFYeTR2RmVzMGZUeFBCZk9CRDlZa19DMnN0bnNBZHNTWmFaRGs5RmswdzNnRjA4cVlNdzV0ODdxX1hiSGo1VnBmZVFRTE9randXQWNyaEhQZWtoVnpmNUcxZXdj?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HCL Technologies Limited",
-      "symbol": "HCLTECH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.4,
-      "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 1113.3,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Infosys, TCS, HCLTech And Other IT Stocks Under Pressure On Weak Global Tech Cues",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/infosys-tcs-hcltech-and-other-it-stocks-under-pressure-on-weak-global-tech-cues-11674014#publisher=newsstand",
           "verified": true
         }
       ],
@@ -918,7 +764,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1362.3,
+      "lastClose": 1363.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -941,6 +787,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Central Mine Planning & Design Institute Limited",
+      "symbol": "CMPDI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.0,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 253.2,
+      "catalysts": [
+        {
+          "label": "Bharat Coking Coal, CMPDI: How Coal India's listed subsidiaries have performed vs their IPO issue prices - Upstox",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeVg2M1Jrc0lXT01DanJ4U0lnVzY5a1AwWXlFOWxoNW9DRU1TV1FLdWRJbEE5bjFkWE1YYzQ3b0JWaFUzUkFaWFJqbGNES2Rlb2RjVVhGTjdua1F2Uy1lMkl2WFY5LUN2dUhPSnB6NFVYeUJnSjVoOXZwdnlaRGN6dUhqQklhZEhaaDZFTXlxZmxfM0xfMlR4WHllRzA2TE5sX1VfZFg4bWtJdUs2eTl1NWhCQ1ZMMlR3N29HakJnRnhrTm5IMi1CcUtGSlNLT09XNWdLN19RUHU1cFZmdk9LWjRxNDljRjhpRHB3RXh4MU55VVFCNUdpOWtZdUw5LWhvUnpr?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Tata Consultancy Services Limited",
       "symbol": "TCS",
       "exchange": "NSE",
@@ -953,7 +840,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2084.9,
+      "lastClose": 2059.6,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -973,6 +860,118 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -2.5,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1109.5,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Denta Water and Infra Solutions Limited",
+      "symbol": "DENTA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 74,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 337.7,
+      "catalysts": [
+        {
+          "label": "DENTA WATER AND INFRA SOLUTIONS LTD. Share Price Today Up 8% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Clarification - Financial Results",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONWVPTGV1WVVoOVJoXzdzSzdzY2JBR3l0STJiei1ra0lleXcydVlSSzVJbjRvVXJLX3E4a240eW1qMjVOZ21kV0dZS2UweUc3Y0QxUVFjOHV4QjFnT1hqRlNUR3FaTGVtUF9TbzZtMVBuV0o2RC1NUExlcTR1aTVnZEZSQm41ci1kVzZJWjF6RVY1SDdmTGlwS1NLY0d5alRIYklDWmU1RkpnUmtjR3Jyd2dMY3RxVDB1QWliZ1Q3TWN0QXlRaktWbEUxMjZOX2FCY1RFeTFqRURydTJ6emJReGEwdVhyNnNrVjN0RVB4VEh4UUFqOHRscnZKODNMR2dKcTNUTU1lYXlYb25fNjkxTUpIY0JmWDdpcGQ2NkNndktLY1hRSzFpTWlOYWl5dWxsbThZdm1TUDN0V1NhUm85eHNlX1k?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "GAIL (India) Limited",
+      "symbol": "GAIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 73,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 173.84,
+      "catalysts": [
+        {
+          "label": "GAIL India appoints Satish Kumar Sinha as Director (Finance) - Business Standard",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Change in Director(s)",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2FTbjFxaTZDSHFtZUN3RXg5cTB6OVpJcVNDeEUxQTN1a0JYR3ZtQTNnT19xTGF3WWtCYkpwSnIzME1ZQlMyWnljUnRUQkhEWXNBWlRmQ3BOWU5uMjZiSDY1SzZwd1Z0UzRKTXJvajlhVHJudFlueXFvS29xLU5KRTZVRlNqV3M0cldQaWthSGZzX0V3cGZCNk1oelB3V3VoT3ZudEhUSGpJVEYzMEFuS21jNVVoU0FMNEpucExoN1RaMVdMZ3o1WHZ3MXlVNElUajRXcTNkY9IB3AFBVV95cUxPQ19INmx1SXBYSlFubEFZWkRTUk9qMmk0UDRKRTdhQnl6dlA3d3JCZVUxSTVMUVlzZkRJX1EwUWZiZmV4cGh4YkFMbW03UkEwakoxSDhzMTYwTWpUMGE1Rlg1Qmg5S01qcEp0X1lkN205TGg1TTJRRVB4NTNBUVBTX2duV2lvd1FuSXdIbmk0T1dsc3ZZSGpsUHJoejRJVWVnbHhaemVIUlRoMFNheE1ISUtGU0NGRU9Ndmd1aU5SbHh4S2RpVmxuUktzczgybTlLNWNxNy1RdVo5T2c4?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
