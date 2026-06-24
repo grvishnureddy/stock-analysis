@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T16:35:03+00:00",
+  "generatedAt": "2026-06-24T20:12:24+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -16,7 +16,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 109.94,
+      "lastClose": 110.8,
       "catalysts": [
         {
           "label": "Sensex Today Ends 291 Points Higher | Nifty Above 24,100 | Texmaco Rail & Engineering Up 5% - Equitymaster",
@@ -45,10 +45,51 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "City Union Bank Limited",
+      "symbol": "CUB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 198.3,
+      "catalysts": [
+        {
+          "label": "Stocks to Watch Today: Infosys, IRFC, Honasa Consumer, Rashi Peripherals, City Union Bank, Delhivery, Clay... - Moneycontrol.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPNVdlNlRDUFl4ZjNfOXJ6RDRwbkQxblY1RGR1QWNJcGQ1RnlySGp2R3RrU1QxcUhUalNnSTFRWktieGh1YlJBT2RfNy1WT01xaFM1Wmw4aElmTnFmOGZJdmpPVGNoWEVNVlhxNUdUNEpnVlhMd1dVc0hpdUZlQTNaOS1GOERoNVZVeVNnMEdjN3RleFBWcUQ2SnpicVdtQ1BxbW9IVTFRMzFwS2o0ZTVJek1MOVNOeFpmcUxlcTRtaEJCN3N4NGNMZUs4SnB5cFFwNS14X2FPY2ZMUm5GZWc2bmQ0QkxaSVV5c1RXWXU2YU5YU3dBMFdNc2kwTEVZUUE3QkV4WmlfenJkUEtqa3ZBR3NOSjR3QmlpWGtBMUIycUt6d9IBpwJBVV95cUxNZm1GZTQ3bTdqUXhOdmtmVmp1UVkxeXlKZ2xfN3RObjBuQVNVa1VJQ0FzUDVQWGNlVjEtYkhSWks5NkdMUjdBenhJcU5YRndZMUtnYnBQb2pKdWtnb1V1azRzOVhaNlpTUlFWM2tTbHVCMjhfOGkwamJnUE1WTnNaQUl1QkVPMktqT3JkeGNBQVRtUEpMZ3hJSXJWZnpkbV92TnNYTDBKUzFMMGtNcXRtVFN2czJVVzdmcGxlSXJjSTN3QUV2MFVYLXp1SGl0Q3lJa3hweC0xMnVJVWFDdEwzU2FEWTVONmRzMlZZOHBYY0RENHFXY3NMRDFlcmp4RVl4MjBGakU4V1ROVGhPbGFXWEQ3cDFLSTFodVZaMUxYaTc3cldoTnJr?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -57,7 +98,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1056.6,
+      "lastClose": 1029.3,
       "catalysts": [
         {
           "label": "Sensex Today Trades Higher | Nifty Above 23,850 | Tech Mahindra & Infosys Top Gainers - Equitymaster",
@@ -65,13 +106,13 @@
           "verified": true
         },
         {
-          "label": "Vishal Sikka Returns: Ex-Infosys CEO Secures $32 Million for AI Startup Hang Ten Systems",
-          "type": "company news",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Shareholders meeting",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -79,12 +120,7 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQktMZ1pROUU2cHlxdk9YOHRoQ3dYa3ZGNG1ubUVBSGwxSkgxX3VlRlRjcDBKNmFuc0ZTWGFVNWZ5YWt0R1REekdRUE5MUGlTMldWbHoyd0hubjBENkJTNllKMENITFo5SUJWVHNXQ0VOaVpVU01ISEZaYVpaZWpzY041MGh0UjlaWHkzRkd2NUJMdVFfaWJCa2NnaXdUWlJpTURsb21oZ2M4OHNWZ3ZEWnVrN3d0SmZzOUVoWFk2V2pNNE1qLUgxQzV4Uk9HaG5rZ2gyRnNacmg?oc=5",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/vishal-sikka-returns-ex-infosys-ceo-secures-32-million-for-ai-startup-hang-ten-systems-11682419#publisher=newsstand",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdHFiLWJvZ0RyS3RvQnpDRHNyUG1kUzB4bXBOaXBKY3ZPYzFaeDRibDE3VmZqVDVHbTk3ZWVIdEQ0N28xT0R4NEdKY1ZDeTM4Mk81X3BHOExaLUw4SmJ6TE1PUFphY0toZ0RLOFRZU0JEY1lQejRUcy1hQUN0UDBWd3dpVC13OXVRMFhWNThfdzdCcVo5U2RwZnlkNlZSWk9DNEZnUWtjdUJIUTRydUQ3YTgxczVIcWlad3FMcUhWQWdMZzJkWEIybkM0MVExUDdxTEkzeEtMS1BSQQ?oc=5",
           "verified": true
         }
       ],
@@ -103,7 +139,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1384.5,
+      "lastClose": 1363.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -126,32 +162,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Goodluck India Limited",
-      "symbol": "GOODLUCK",
+      "company": "HFCL Limited",
+      "symbol": "HFCL",
       "exchange": "NSE",
       "confirmedNewsCount": 2,
-      "gossipCount": 1,
+      "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.3,
-      "confidence": 79,
+      "predictionScore": 4.8,
+      "confidence": 73,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1417.8,
+      "lastClose": 202.29,
       "catalysts": [
         {
-          "label": "KMEW Secures IWAI Ferry Project Deal | Goodluck India Wins Defence Supply Order | Top Buzzing Stocks Today - Equitymaster",
-          "type": "contract",
-          "verified": false
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
+          "label": "Stock market crash: Vedanta, Hindustan Zinc, HFCL tumble over 5% as NIFTY slips below 24,000 - Upstox",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Disclosure under SEBI Takeover Regulations",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -160,46 +191,11 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa2ludlZfODMzMlNEWUxmenkwUm1xZ2k2SGNQRFBNbXpSYjdscndCTUJycDlocFRNNkR0cnlSWHVHQlEtRWt1QktjUjRkakNGbFFYSFBRUDc5NGlTM0RrakpSRDNuak44MnR1UDIzRW5EX3Frbk9pSUxvOF85VTBPVVEyd2JWMjZKSl9XSk5kd2ZWQnZsNXhTY3hqbE12aWh0X1VXR0JqdzZ4aER6cXh4eWI4OFRsRkhWZVRDWmxiSVNFeTFrSXFPSTlZa09CUlQ1ZEtBdmFTNVExLTFqVUJuUDNDZDQ2QlhYMmp2NURiaDhneE5sTXlaSw?oc=5",
-          "verified": false
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS0NKMzM4dmJKcEhTd0c0bVV5QVpCRkdmVGVxZ1BlclV0ZnltWXJoaHNLT0NJa1cwcmU1d09GTDVVR2xQSlNDSlhzU1UwVFJjemlLWFVGVUxjcHFsaUY0dUlVVElvZEpVRURnS0c4dUhTaWNtMG42V3QtbElFRDFOOTBVbm9la09yM2czUEZ0eUpmaTRHanoweVFCanlzQU5LLWppb0ZLU1RXZEFQc0RubEs0bGNYWGlJVGZDR21GS2k5N282TGZVMm15NlRweU5ZLU1iWVJnWjM0bDI5dW55VQ?oc=5",
+          "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Angel One Limited",
-      "symbol": "ANGELONE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 340.65,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "VA Tech Wabag Limited",
@@ -284,7 +280,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1437.9,
+      "lastClose": 1433.1,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -307,44 +303,38 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Brigade Enterprises Limited",
-      "symbol": "BRIGADE",
+      "company": "The India Cements Limited",
+      "symbol": "INDIACEM",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 67,
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 68,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 543.55,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 380.05,
       "catalysts": [
         {
-          "label": "Top Gainers & Losers on June 24: KPR Mill, HDFC Bank, Brigade Enterprises, HPCL, Pine Labs, IndiGo among top gainers - Mint",
-          "type": "company news",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Change in Director(s)",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOa3hMaEVDMlV2a0tfc0swNmFESzctRTJ3aFJVWC1TWW1hT2pLVW04THczeVZqMkZfVjVWZ2VYcmFFUEI1S2JUc0F6RGRGYkdaNExHMV8wYU5valBCbmh0RkJvcC01WHhfZzVuS0dINDM4LWVoMFYzc1RHemIyWUFacVJvWW4zUkdTNmp6UWlhcWZmVWV6bkVoZ1lDM1BNV3ZwMlNjd09lZE5ENExmVDZfN04yY3N3cGowdjJjUm1RSDRiV1NNcnY0cE5FT09WU2p4MkNnUTlOVVRGY1d2ZDhyV0luSkZ0VEFpSHRPTlNNWGloUnJ1bnVBWVllLUEyVFdaZ0wtRHJqS0lEd9IBjwJBVV95cUxOTjNrYlZKY3BXTjRYa09XWGpKODgxOEYxUVRYNlF2OEE0X3YtbnJYYlhmd1ZkR0FwTEZNVVZCLUpOeDhtSEVSOVZMYkJjaWtWTmprTmZVVXBPQlZpU3FSdklmWElJMTZibW5zUU5GNlVCY3lSc0RrdWRzV1B6RmpvSUgyTFFsWGNKSlJFcnVzQkIyblEwWUY5aDgzOGtaRmRINFlZUkk0dzl0cDhrd1k3R3gtVWJMV2VreVJxbHVRSGwydlNqeDEwTzNtYnAwNHlaaE9rMnM0QklyMzNKR2hpYkVmQUJPMGdPb083S001a1JrMENWRjZoNU9xbFVYUVZGOGM5Q1ZBUmJxcFVKZGVR?oc=5",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -430,7 +420,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2109.0,
+      "lastClose": 2059.6,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -467,7 +457,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 109.94,
+      "lastClose": 110.8,
       "catalysts": [
         {
           "label": "Sensex Today Ends 291 Points Higher | Nifty Above 24,100 | Texmaco Rail & Engineering Up 5% - Equitymaster",
@@ -496,10 +486,51 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "City Union Bank Limited",
+      "symbol": "CUB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 198.3,
+      "catalysts": [
+        {
+          "label": "Stocks to Watch Today: Infosys, IRFC, Honasa Consumer, Rashi Peripherals, City Union Bank, Delhivery, Clay... - Moneycontrol.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPNVdlNlRDUFl4ZjNfOXJ6RDRwbkQxblY1RGR1QWNJcGQ1RnlySGp2R3RrU1QxcUhUalNnSTFRWktieGh1YlJBT2RfNy1WT01xaFM1Wmw4aElmTnFmOGZJdmpPVGNoWEVNVlhxNUdUNEpnVlhMd1dVc0hpdUZlQTNaOS1GOERoNVZVeVNnMEdjN3RleFBWcUQ2SnpicVdtQ1BxbW9IVTFRMzFwS2o0ZTVJek1MOVNOeFpmcUxlcTRtaEJCN3N4NGNMZUs4SnB5cFFwNS14X2FPY2ZMUm5GZWc2bmQ0QkxaSVV5c1RXWXU2YU5YU3dBMFdNc2kwTEVZUUE3QkV4WmlfenJkUEtqa3ZBR3NOSjR3QmlpWGtBMUIycUt6d9IBpwJBVV95cUxNZm1GZTQ3bTdqUXhOdmtmVmp1UVkxeXlKZ2xfN3RObjBuQVNVa1VJQ0FzUDVQWGNlVjEtYkhSWks5NkdMUjdBenhJcU5YRndZMUtnYnBQb2pKdWtnb1V1azRzOVhaNlpTUlFWM2tTbHVCMjhfOGkwamJnUE1WTnNaQUl1QkVPMktqT3JkeGNBQVRtUEpMZ3hJSXJWZnpkbV92TnNYTDBKUzFMMGtNcXRtVFN2czJVVzdmcGxlSXJjSTN3QUV2MFVYLXp1SGl0Q3lJa3hweC0xMnVJVWFDdEwzU2FEWTVONmRzMlZZOHBYY0RENHFXY3NMRDFlcmp4RVl4MjBGakU4V1ROVGhPbGFXWEQ3cDFLSTFodVZaMUxYaTc3cldoTnJr?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -508,7 +539,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1056.6,
+      "lastClose": 1029.3,
       "catalysts": [
         {
           "label": "Sensex Today Trades Higher | Nifty Above 23,850 | Tech Mahindra & Infosys Top Gainers - Equitymaster",
@@ -516,13 +547,13 @@
           "verified": true
         },
         {
-          "label": "Vishal Sikka Returns: Ex-Infosys CEO Secures $32 Million for AI Startup Hang Ten Systems",
-          "type": "company news",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Shareholders meeting",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -530,12 +561,7 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQktMZ1pROUU2cHlxdk9YOHRoQ3dYa3ZGNG1ubUVBSGwxSkgxX3VlRlRjcDBKNmFuc0ZTWGFVNWZ5YWt0R1REekdRUE5MUGlTMldWbHoyd0hubjBENkJTNllKMENITFo5SUJWVHNXQ0VOaVpVU01ISEZaYVpaZWpzY041MGh0UjlaWHkzRkd2NUJMdVFfaWJCa2NnaXdUWlJpTURsb21oZ2M4OHNWZ3ZEWnVrN3d0SmZzOUVoWFk2V2pNNE1qLUgxQzV4Uk9HaG5rZ2gyRnNacmg?oc=5",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/vishal-sikka-returns-ex-infosys-ceo-secures-32-million-for-ai-startup-hang-ten-systems-11682419#publisher=newsstand",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdHFiLWJvZ0RyS3RvQnpDRHNyUG1kUzB4bXBOaXBKY3ZPYzFaeDRibDE3VmZqVDVHbTk3ZWVIdEQ0N28xT0R4NEdKY1ZDeTM4Mk81X3BHOExaLUw4SmJ6TE1PUFphY0toZ0RLOFRZU0JEY1lQejRUcy1hQUN0UDBWd3dpVC13OXVRMFhWNThfdzdCcVo5U2RwZnlkNlZSWk9DNEZnUWtjdUJIUTRydUQ3YTgxczVIcWlad3FMcUhWQWdMZzJkWEIybkM0MVExUDdxTEkzeEtMS1BSQQ?oc=5",
           "verified": true
         }
       ],
@@ -554,7 +580,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1384.5,
+      "lastClose": 1363.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -589,7 +615,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
-      "lastClose": 1113.9,
+      "lastClose": 1109.5,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -612,32 +638,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Goodluck India Limited",
-      "symbol": "GOODLUCK",
+      "company": "HFCL Limited",
+      "symbol": "HFCL",
       "exchange": "NSE",
       "confirmedNewsCount": 2,
-      "gossipCount": 1,
+      "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 7.8,
-      "confidence": 89,
+      "predictionScore": 6.3,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1417.8,
+      "lastClose": 202.29,
       "catalysts": [
         {
-          "label": "KMEW Secures IWAI Ferry Project Deal | Goodluck India Wins Defence Supply Order | Top Buzzing Stocks Today - Equitymaster",
-          "type": "contract",
-          "verified": false
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
+          "label": "Stock market crash: Vedanta, Hindustan Zinc, HFCL tumble over 5% as NIFTY slips below 24,000 - Upstox",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Disclosure under SEBI Takeover Regulations",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -646,46 +667,11 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa2ludlZfODMzMlNEWUxmenkwUm1xZ2k2SGNQRFBNbXpSYjdscndCTUJycDlocFRNNkR0cnlSWHVHQlEtRWt1QktjUjRkakNGbFFYSFBRUDc5NGlTM0RrakpSRDNuak44MnR1UDIzRW5EX3Frbk9pSUxvOF85VTBPVVEyd2JWMjZKSl9XSk5kd2ZWQnZsNXhTY3hqbE12aWh0X1VXR0JqdzZ4aER6cXh4eWI4OFRsRkhWZVRDWmxiSVNFeTFrSXFPSTlZa09CUlQ1ZEtBdmFTNVExLTFqVUJuUDNDZDQ2QlhYMmp2NURiaDhneE5sTXlaSw?oc=5",
-          "verified": false
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS0NKMzM4dmJKcEhTd0c0bVV5QVpCRkdmVGVxZ1BlclV0ZnltWXJoaHNLT0NJa1cwcmU1d09GTDVVR2xQSlNDSlhzU1UwVFJjemlLWFVGVUxjcHFsaUY0dUlVVElvZEpVRURnS0c4dUhTaWNtMG42V3QtbElFRDFOOTBVbm9la09yM2czUEZ0eUpmaTRHanoweVFCanlzQU5LLWppb0ZLU1RXZEFQc0RubEs0bGNYWGlJVGZDR21GS2k5N282TGZVMm15NlRweU5ZLU1iWVJnWjM0bDI5dW55VQ?oc=5",
+          "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Angel One Limited",
-      "symbol": "ANGELONE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 340.65,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Cipla Limited",
@@ -700,7 +686,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1437.9,
+      "lastClose": 1433.1,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -723,6 +709,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "The India Cements Limited",
+      "symbol": "INDIACEM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 77,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 380.05,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Resignation of Director/KMP/SMP",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Director(s)",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Tata Consultancy Services Limited",
       "symbol": "TCS",
       "exchange": "NSE",
@@ -735,7 +756,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2109.0,
+      "lastClose": 2059.6,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -758,44 +779,73 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Brigade Enterprises Limited",
-      "symbol": "BRIGADE",
+      "company": "MphasiS Limited",
+      "symbol": "MPHASIS",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 74,
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 70,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 543.55,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 2244.6,
       "catalysts": [
         {
-          "label": "Top Gainers & Losers on June 24: KPR Mill, HDFC Bank, Brigade Enterprises, HPCL, Pine Labs, IndiGo among top gainers - Mint",
-          "type": "company news",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Disclosure under SEBI Takeover Regulations",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bosch Limited",
+      "symbol": "BOSCHLTD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.0,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 40190.0,
+      "catalysts": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOa3hMaEVDMlV2a0tfc0swNmFESzctRTJ3aFJVWC1TWW1hT2pLVW04THczeVZqMkZfVjVWZ2VYcmFFUEI1S2JUc0F6RGRGYkdaNExHMV8wYU5valBCbmh0RkJvcC01WHhfZzVuS0dINDM4LWVoMFYzc1RHemIyWUFacVJvWW4zUkdTNmp6UWlhcWZmVWV6bkVoZ1lDM1BNV3ZwMlNjd09lZE5ENExmVDZfN04yY3N3cGowdjJjUm1RSDRiV1NNcnY0cE5FT09WU2p4MkNnUTlOVVRGY1d2ZDhyV0luSkZ0VEFpSHRPTlNNWGloUnJ1bnVBWVllLUEyVFdaZ0wtRHJqS0lEd9IBjwJBVV95cUxOTjNrYlZKY3BXTjRYa09XWGpKODgxOEYxUVRYNlF2OEE0X3YtbnJYYlhmd1ZkR0FwTEZNVVZCLUpOeDhtSEVSOVZMYkJjaWtWTmprTmZVVXBPQlZpU3FSdklmWElJMTZibW5zUU5GNlVCY3lSc0RrdWRzV1B6RmpvSUgyTFFsWGNKSlJFcnVzQkIyblEwWUY5aDgzOGtaRmRINFlZUkk0dzl0cDhrd1k3R3gtVWJMV2VreVJxbHVRSGwydlNqeDEwTzNtYnAwNHlaaE9rMnM0QklyMzNKR2hpYkVmQUJPMGdPb083S001a1JrMENWRjZoNU9xbFVYUVZGOGM5Q1ZBUmJxcFVKZGVR?oc=5",
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
           "verified": true
         }
       ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -825,76 +875,6 @@
         },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Apex Ecotech Limited",
-      "symbol": "APEXECO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 70,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Dr. Reddy's Laboratories Limited",
-      "symbol": "DRREDDY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 67,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1328.4,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
