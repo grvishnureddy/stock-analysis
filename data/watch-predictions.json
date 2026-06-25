@@ -1,63 +1,22 @@
 {
-  "generatedAt": "2026-06-25T04:36:17+00:00",
+  "generatedAt": "2026-06-25T09:46:48+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "CARE Ratings Limited",
-      "symbol": "CARERATING",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 7.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1675.4,
-      "catalysts": [
-        {
-          "label": "Supreme Industries, CARE Ratings, Nippon Life Dividend Record Date: Last Day To Buy Shares To Qualify",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/supreme-industries-care-ratings-nippon-life-dividend-record-date-last-day-to-buy-shares-to-qualify-11683926#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
+      "predictionScore": -4.3,
       "confidence": 90,
-      "riskLevel": "Standard",
+      "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1057.5,
+      "lastClose": 1041.0,
       "catalysts": [
         {
           "label": "Sensex Today Trades Higher | Nifty Above 23,850 | Tech Mahindra & Infosys Top Gainers - Equitymaster",
@@ -70,48 +29,59 @@
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [],
+      "risks": [
+        {
+          "label": "Stock Market News Today Live Updates: Nifty, Sensex Off Day's High; IT Stocks Decline As Tech Mahindra, Infosys Drag",
+          "type": "company news",
+          "verified": true
+        }
+      ],
       "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-fno-expiry-futures-11683875#publisher=newsstand",
+          "verified": true
+        },
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdHFiLWJvZ0RyS3RvQnpDRHNyUG1kUzB4bXBOaXBKY3ZPYzFaeDRibDE3VmZqVDVHbTk3ZWVIdEQ0N28xT0R4NEdKY1ZDeTM4Mk81X3BHOExaLUw4SmJ6TE1PUFphY0toZ0RLOFRZU0JEY1lQejRUcy1hQUN0UDBWd3dpVC13OXVRMFhWNThfdzdCcVo5U2RwZnlkNlZSWk9DNEZnUWtjdUJIUTRydUQ3YTgxczVIcWlad3FMcUhWQWdMZzJkWEIybkM0MVExUDdxTEkzeEtMS1BSQQ?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
       "exchange": "NSE",
       "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
+      "direction": "Negative watch",
+      "predictionScore": -2.6,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1394.1,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1099.0,
       "catalysts": [
         {
-          "label": "Financial Results",
+          "label": "Financial Results/Dividend",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Credit Rating",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Credit Rating",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -121,132 +91,74 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharti Airtel Limited",
-      "symbol": "BHARTIARTL",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.2,
-      "confidence": 88,
+      "predictionScore": 2.2,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1871.5,
+      "lastClose": 1377.8,
       "catalysts": [
         {
-          "label": "Bharti Airtel Stock In Focus As S&P Global Upgrades To BBB+ Over Africa, India Biz Growth",
-          "type": "results",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Stocks to Watch Today: HCL Tech, Bharti Airtel, Avience Biomedicals, Delhivery, Pine Labs, NLC India,... - Moneycontrol.com",
-          "type": "company news",
+          "label": "General Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Credit Rating- Revision",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/bharti-airtel-stock-in-focus-as-s-p-global-upgrades-to-bbb-over-africa-india-biz-growth-11684007#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNRlFIZkNzQnhvRmRJRlJjWDlPczlkMGlFaG56Rzh2TVUzT2tueUswMk5QemZpblZrd2x4ZFZKcVhtTG0xQW9HWEtacHpFVHl1YWtoQnIzQXNHVXF4RmFFNDh6dnhsZUdxVzJKVXB4SXNnUE8wYVpxaWZhMUwwZThzMDJQQXlxNFhIMWVwV0lSTzhJaGJwZEp5LUtYQ1hHdWpMTF85LXlBbi1QUnY3QTVfOEotZDZLS2FDcjZmanU0VTJfblg3QTE0TzlBRElSNjhBckRMWjN3ZUl5Qjd1WmxjS0hxU2JEM0JJTmVmbTI0T1JpRkNyLWczRlNZbU9oNF91ajNET3FrdDRfR1BPdVRaLXcteVpjMVItNXFHaXdJT1lhYTFVTUNj0gGsAkFVX3lxTFBsVmg2eTB4amEyallUbElwaVU4TzRPX3JFV0czc2JZZGg4OUZtOVdaMjJvd2pCMnlRQkhPQmdrMkhLd2xxcWQwY1NuM2Q2Qzd4UUg4M1Z2aC1VWTBHRnByd3V5YWpLRHctYkViSmVwZ1RhelZYNjh4NGIwdzFUakVrWjRYb09YaDh4Zm9RM3B2UUJsQWdHTnJOYUhRZ1JlcVZtclFHWXBkcGRYbnVlaVdXZGU0ZWpMS19uLVRQal85aGlHNEk5amZtdjBiUVg0TXBmdFZ3LWt2VHZrdHJKSjZVSEhzbnlmUlE2OWlETm9YNktqakliRXJaTmdzRWtDUEN3Tm5LdlFlaDB1TmNmN1BhVWx2NjExeXppbllFQ2FERHhpNFdCRVZnZGNCRg?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "City Union Bank Limited",
-      "symbol": "CUB",
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.2,
-      "confidence": 86,
+      "predictionScore": 2.2,
+      "confidence": 81,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 205.1,
+      "technicalConfidence": 67,
+      "lastClose": 1388.2,
       "catalysts": [
         {
-          "label": "Stocks to Watch Today: Infosys, IRFC, Honasa Consumer, Rashi Peripherals, City Union Bank, Delhivery, Clay... - Moneycontrol.com",
-          "type": "company news",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Record Date",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPNVdlNlRDUFl4ZjNfOXJ6RDRwbkQxblY1RGR1QWNJcGQ1RnlySGp2R3RrU1QxcUhUalNnSTFRWktieGh1YlJBT2RfNy1WT01xaFM1Wmw4aElmTnFmOGZJdmpPVGNoWEVNVlhxNUdUNEpnVlhMd1dVc0hpdUZlQTNaOS1GOERoNVZVeVNnMEdjN3RleFBWcUQ2SnpicVdtQ1BxbW9IVTFRMzFwS2o0ZTVJek1MOVNOeFpmcUxlcTRtaEJCN3N4NGNMZUs4SnB5cFFwNS14X2FPY2ZMUm5GZWc2bmQ0QkxaSVV5c1RXWXU2YU5YU3dBMFdNc2kwTEVZUUE3QkV4WmlfenJkUEtqa3ZBR3NOSjR3QmlpWGtBMUIycUt6d9IBpwJBVV95cUxNZm1GZTQ3bTdqUXhOdmtmVmp1UVkxeXlKZ2xfN3RObjBuQVNVa1VJQ0FzUDVQWGNlVjEtYkhSWks5NkdMUjdBenhJcU5YRndZMUtnYnBQb2pKdWtnb1V1azRzOVhaNlpTUlFWM2tTbHVCMjhfOGkwamJnUE1WTnNaQUl1QkVPMktqT3JkeGNBQVRtUEpMZ3hJSXJWZnpkbV92TnNYTDBKUzFMMGtNcXRtVFN2czJVVzdmcGxlSXJjSTN3QUV2MFVYLXp1SGl0Q3lJa3hweC0xMnVJVWFDdEwzU2FEWTVONmRzMlZZOHBYY0RENHFXY3NMRDFlcmp4RVl4MjBGakU4V1ROVGhPbGFXWEQ3cDFLSTFodVZaMUxYaTc3cldoTnJr?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Aditya Birla Capital Limited",
-      "symbol": "ABCAPITAL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 395.65,
-      "catalysts": [
-        {
-          "label": "Stocks To Buy Today: Kush Bohra Recommends Aditya Birla Capital, IKS And More \u2014 Check Target Price",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stocks-to-buy-today-kush-bohra-recommends-aditya-birla-capital-iks-and-more-check-target-price-11684148#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Goodluck India Limited",
@@ -256,12 +168,12 @@
       "gossipCount": 1,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.2,
+      "predictionScore": 6.1,
       "confidence": 78,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1414.9,
+      "lastClose": 1403.4,
       "catalysts": [
         {
           "label": "KMEW Secures IWAI Ferry Project Deal | Goodluck India Wins Defence Supply Order | Top Buzzing Stocks Today - Equitymaster",
@@ -288,6 +200,111 @@
         }
       ],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Apex Ecotech Limited",
+      "symbol": "APEXECO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 77,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Structural Digital Database",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Onward Technologies Limited",
+      "symbol": "ONWARDTEC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 77,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Cipla Limited",
+      "symbol": "CIPLA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1440.1,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Disclosure under SEBI Takeover Regulations",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Texmaco Rail & Engineering Limited",
@@ -360,62 +377,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Apex Ecotech Limited",
-      "symbol": "APEXECO",
+      "company": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 70,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Cipla Limited",
-      "symbol": "CIPLA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 69,
+      "predictionScore": 2.8,
+      "confidence": 68,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1444.5,
+      "technicalConfidence": 83,
+      "lastClose": 979.7,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Sensex Today Trades Higher | Nifty Above 24,100 | Bajaj Finance & HDFC Bank Top Gainers - Equitymaster",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Disclosure under SEBI Takeover Regulations",
+          "label": "Allotment of Securities",
           "type": "announcement",
           "verified": true
         },
@@ -426,7 +408,13 @@
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWHhvX0xjTTBhb3k1UmU1bVU3NjNrbUpONUNZZ0dTeGVhMWpzWmpMMW15MC1fVlhKVXRKU0phRnpJMnMwanA5Rkh2T3BCX0pZZXRoZk1FdzJZdjBwSmg2VC1hNVhCOGJXcjI1aUh3cXRCclVJeXFybGRSM3lzb2E4M00xRms2T1hjTVd0VkNWLXhQelZQUlJudm14QjNFNUhyU1FscGxiUmJ2emNlcWE1dzNUQmZydkYteW4xOG9rdkdBaS1vekRqMVd1bnJIdTJaMFluUmwtR0VPNEk?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -467,188 +455,19 @@
   ],
   "tomorrow": [
     {
-      "company": "CARE Ratings Limited",
-      "symbol": "CARERATING",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 8.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1675.4,
-      "catalysts": [
-        {
-          "label": "Supreme Industries, CARE Ratings, Nippon Life Dividend Record Date: Last Day To Buy Shares To Qualify",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/supreme-industries-care-ratings-nippon-life-dividend-record-date-last-day-to-buy-shares-to-qualify-11683926#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Bharti Airtel Limited",
-      "symbol": "BHARTIARTL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1871.5,
-      "catalysts": [
-        {
-          "label": "Bharti Airtel Stock In Focus As S&P Global Upgrades To BBB+ Over Africa, India Biz Growth",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Stocks to Watch Today: HCL Tech, Bharti Airtel, Avience Biomedicals, Delhivery, Pine Labs, NLC India,... - Moneycontrol.com",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating- Revision",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/bharti-airtel-stock-in-focus-as-s-p-global-upgrades-to-bbb-over-africa-india-biz-growth-11684007#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNRlFIZkNzQnhvRmRJRlJjWDlPczlkMGlFaG56Rzh2TVUzT2tueUswMk5QemZpblZrd2x4ZFZKcVhtTG0xQW9HWEtacHpFVHl1YWtoQnIzQXNHVXF4RmFFNDh6dnhsZUdxVzJKVXB4SXNnUE8wYVpxaWZhMUwwZThzMDJQQXlxNFhIMWVwV0lSTzhJaGJwZEp5LUtYQ1hHdWpMTF85LXlBbi1QUnY3QTVfOEotZDZLS2FDcjZmanU0VTJfblg3QTE0TzlBRElSNjhBckRMWjN3ZUl5Qjd1WmxjS0hxU2JEM0JJTmVmbTI0T1JpRkNyLWczRlNZbU9oNF91ajNET3FrdDRfR1BPdVRaLXcteVpjMVItNXFHaXdJT1lhYTFVTUNj0gGsAkFVX3lxTFBsVmg2eTB4amEyallUbElwaVU4TzRPX3JFV0czc2JZZGg4OUZtOVdaMjJvd2pCMnlRQkhPQmdrMkhLd2xxcWQwY1NuM2Q2Qzd4UUg4M1Z2aC1VWTBHRnByd3V5YWpLRHctYkViSmVwZ1RhelZYNjh4NGIwdzFUakVrWjRYb09YaDh4Zm9RM3B2UUJsQWdHTnJOYUhRZ1JlcVZtclFHWXBkcGRYbnVlaVdXZGU0ZWpMS19uLVRQal85aGlHNEk5amZtdjBiUVg0TXBmdFZ3LWt2VHZrdHJKSjZVSEhzbnlmUlE2OWlETm9YNktqakliRXJaTmdzRWtDUEN3Tm5LdlFlaDB1TmNmN1BhVWx2NjExeXppbllFQ2FERHhpNFdCRVZnZGNCRg?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Aditya Birla Capital Limited",
-      "symbol": "ABCAPITAL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 395.65,
-      "catalysts": [
-        {
-          "label": "Stocks To Buy Today: Kush Bohra Recommends Aditya Birla Capital, IKS And More \u2014 Check Target Price",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stocks-to-buy-today-kush-bohra-recommends-aditya-birla-capital-iks-and-more-check-target-price-11684148#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "City Union Bank Limited",
-      "symbol": "CUB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 205.1,
-      "catalysts": [
-        {
-          "label": "Stocks to Watch Today: Infosys, IRFC, Honasa Consumer, Rashi Peripherals, City Union Bank, Delhivery, Clay... - Moneycontrol.com",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPNVdlNlRDUFl4ZjNfOXJ6RDRwbkQxblY1RGR1QWNJcGQ1RnlySGp2R3RrU1QxcUhUalNnSTFRWktieGh1YlJBT2RfNy1WT01xaFM1Wmw4aElmTnFmOGZJdmpPVGNoWEVNVlhxNUdUNEpnVlhMd1dVc0hpdUZlQTNaOS1GOERoNVZVeVNnMEdjN3RleFBWcUQ2SnpicVdtQ1BxbW9IVTFRMzFwS2o0ZTVJek1MOVNOeFpmcUxlcTRtaEJCN3N4NGNMZUs4SnB5cFFwNS14X2FPY2ZMUm5GZWc2bmQ0QkxaSVV5c1RXWXU2YU5YU3dBMFdNc2kwTEVZUUE3QkV4WmlfenJkUEtqa3ZBR3NOSjR3QmlpWGtBMUIycUt6d9IBpwJBVV95cUxNZm1GZTQ3bTdqUXhOdmtmVmp1UVkxeXlKZ2xfN3RObjBuQVNVa1VJQ0FzUDVQWGNlVjEtYkhSWks5NkdMUjdBenhJcU5YRndZMUtnYnBQb2pKdWtnb1V1azRzOVhaNlpTUlFWM2tTbHVCMjhfOGkwamJnUE1WTnNaQUl1QkVPMktqT3JkeGNBQVRtUEpMZ3hJSXJWZnpkbV92TnNYTDBKUzFMMGtNcXRtVFN2czJVVzdmcGxlSXJjSTN3QUV2MFVYLXp1SGl0Q3lJa3hweC0xMnVJVWFDdEwzU2FEWTVONmRzMlZZOHBYY0RENHFXY3NMRDFlcmp4RVl4MjBGakU4V1ROVGhPbGFXWEQ3cDFLSTFodVZaMUxYaTc3cldoTnJr?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.8,
+      "predictionScore": -5.8,
       "confidence": 90,
-      "riskLevel": "Standard",
+      "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1057.5,
+      "lastClose": 1041.0,
       "catalysts": [
         {
           "label": "Sensex Today Trades Higher | Nifty Above 23,850 | Tech Mahindra & Infosys Top Gainers - Equitymaster",
@@ -661,26 +480,72 @@
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [],
+      "risks": [
+        {
+          "label": "Stock Market News Today Live Updates: Nifty, Sensex Off Day's High; IT Stocks Decline As Tech Mahindra, Infosys Drag",
+          "type": "company news",
+          "verified": true
+        }
+      ],
       "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-fno-expiry-futures-11683875#publisher=newsstand",
+          "verified": true
+        },
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdHFiLWJvZ0RyS3RvQnpDRHNyUG1kUzB4bXBOaXBKY3ZPYzFaeDRibDE3VmZqVDVHbTk3ZWVIdEQ0N28xT0R4NEdKY1ZDeTM4Mk81X3BHOExaLUw4SmJ6TE1PUFphY0toZ0RLOFRZU0JEY1lQejRUcy1hQUN0UDBWd3dpVC13OXVRMFhWNThfdzdCcVo5U2RwZnlkNlZSWk9DNEZnUWtjdUJIUTRydUQ3YTgxczVIcWlad3FMcUhWQWdMZzJkWEIybkM0MVExUDdxTEkzeEtMS1BSQQ?oc=5",
           "verified": true
         }
       ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1099.0,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -689,7 +554,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1394.1,
+      "lastClose": 1377.8,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -697,12 +562,47 @@
           "verified": true
         },
         {
-          "label": "Credit Rating",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Credit Rating",
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HEG Limited",
+      "symbol": "HEG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -2.4,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 522.35,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -719,12 +619,12 @@
       "gossipCount": 1,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 7.7,
-      "confidence": 89,
+      "predictionScore": 7.6,
+      "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1414.9,
+      "lastClose": 1403.4,
       "catalysts": [
         {
           "label": "KMEW Secures IWAI Ferry Project Deal | Goodluck India Wins Defence Supply Order | Top Buzzing Stocks Today - Equitymaster",
@@ -753,19 +653,19 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Cipla Limited",
-      "symbol": "CIPLA",
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 80,
+      "predictionScore": 3.2,
+      "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1444.5,
+      "technicalConfidence": 67,
+      "lastClose": 1388.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -773,7 +673,153 @@
           "verified": true
         },
         {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Cipla Limited",
+      "symbol": "CIPLA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 87,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1440.1,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Disclosure under SEBI Takeover Regulations",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.0,
+      "confidence": 77,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 979.7,
+      "catalysts": [
+        {
+          "label": "Sensex Today Trades Higher | Nifty Above 24,100 | Bajaj Finance & HDFC Bank Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Allotment of Securities",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWHhvX0xjTTBhb3k1UmU1bVU3NjNrbUpONUNZZ0dTeGVhMWpzWmpMMW15MC1fVlhKVXRKU0phRnpJMnMwanA5Rkh2T3BCX0pZZXRoZk1FdzJZdjBwSmg2VC1hNVhCOGJXcjI1aUh3cXRCclVJeXFybGRSM3lzb2E4M00xRms2T1hjTVd0VkNWLXhQelZQUlJudm14QjNFNUhyU1FscGxiUmJ2emNlcWE1dzNUQmZydkYteW4xOG9rdkdBaS1vekRqMVd1bnJIdTJaMFluUmwtR0VPNEk?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Apex Ecotech Limited",
+      "symbol": "APEXECO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 77,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Structural Digital Database",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Onward Technologies Limited",
+      "symbol": "ONWARDTEC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 77,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         },
@@ -849,76 +895,6 @@
         },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Apex Ecotech Limited",
-      "symbol": "APEXECO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 70,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Dr. Reddy's Laboratories Limited",
-      "symbol": "DRREDDY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 67,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1358.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
