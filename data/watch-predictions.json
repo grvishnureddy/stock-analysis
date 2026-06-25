@@ -1,28 +1,64 @@
 {
-  "generatedAt": "2026-06-25T09:46:48+00:00",
+  "generatedAt": "2026-06-25T12:34:44+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1387.5,
+      "catalysts": [
+        {
+          "label": "ICICI Bank Q1FY27 Results: Date, Dividend, Share Price History, Earnings Call Schedule And More",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/icici-bank-q1fy27-results-date-dividend-share-price-history-earnings-call-schedule-and-more-11685436#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -4.3,
+      "predictionScore": -3.3,
       "confidence": 90,
-      "riskLevel": "Medium",
+      "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1041.0,
+      "lastClose": 1041.2,
       "catalysts": [
-        {
-          "label": "Sensex Today Trades Higher | Nifty Above 23,850 | Tech Mahindra & Infosys Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
@@ -32,28 +68,16 @@
           "label": "Updates",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Stock Market News Today Live Updates: Nifty, Sensex Off Day's High; IT Stocks Decline As Tech Mahindra, Infosys Drag",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-fno-expiry-futures-11683875#publisher=newsstand",
-          "verified": true
         },
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdHFiLWJvZ0RyS3RvQnpDRHNyUG1kUzB4bXBOaXBKY3ZPYzFaeDRibDE3VmZqVDVHbTk3ZWVIdEQ0N28xT0R4NEdKY1ZDeTM4Mk81X3BHOExaLUw4SmJ6TE1PUFphY0toZ0RLOFRZU0JEY1lQejRUcy1hQUN0UDBWd3dpVC13OXVRMFhWNThfdzdCcVo5U2RwZnlkNlZSWk9DNEZnUWtjdUJIUTRydUQ3YTgxczVIcWlad3FMcUhWQWdMZzJkWEIybkM0MVExUDdxTEkzeEtMS1BSQQ?oc=5",
+          "label": "Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "HCL Technologies Limited",
@@ -68,7 +92,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1099.0,
+      "lastClose": 1100.7,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -103,7 +127,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1377.8,
+      "lastClose": 1377.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -126,27 +150,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
+      "company": "Bajaj Auto Limited",
+      "symbol": "BAJAJ-AUTO",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 81,
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 67,
-      "lastClose": 1388.2,
+      "lastClose": 9843.0,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         },
@@ -159,47 +183,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Goodluck India Limited",
-      "symbol": "GOODLUCK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 1,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 6.1,
-      "confidence": 78,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1403.4,
-      "catalysts": [
-        {
-          "label": "KMEW Secures IWAI Ferry Project Deal | Goodluck India Wins Defence Supply Order | Top Buzzing Stocks Today - Equitymaster",
-          "type": "contract",
-          "verified": false
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa2ludlZfODMzMlNEWUxmenkwUm1xZ2k2SGNQRFBNbXpSYjdscndCTUJycDlocFRNNkR0cnlSWHVHQlEtRWt1QktjUjRkakNGbFFYSFBRUDc5NGlTM0RrakpSRDNuak44MnR1UDIzRW5EX3Frbk9pSUxvOF85VTBPVVEyd2JWMjZKSl9XSk5kd2ZWQnZsNXhTY3hqbE12aWh0X1VXR0JqdzZ4aER6cXh4eWI4OFRsRkhWZVRDWmxiSVNFeTFrSXFPSTlZa09CUlQ1ZEtBdmFTNVExLTFqVUJuUDNDZDQ2QlhYMmp2NURiaDhneE5sTXlaSw?oc=5",
-          "verified": false
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Apex Ecotech Limited",
@@ -342,6 +325,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Rajshree Polypack Limited",
+      "symbol": "RPPL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Clarification - Financial Results",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "VA Tech Wabag Limited",
       "symbol": "WABAG",
       "exchange": "NSE",
@@ -377,32 +395,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bajaj Finance Limited",
-      "symbol": "BAJFINANCE",
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 68,
+      "predictionScore": 2.2,
+      "confidence": 67,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 979.7,
+      "technicalConfidence": 67,
+      "lastClose": 144.72,
       "catalysts": [
         {
-          "label": "Sensex Today Trades Higher | Nifty Above 24,100 | Bajaj Finance & HDFC Bank Top Gainers - Equitymaster",
+          "label": "Gold Loans Emerge As Fastest-Growing Retail Credit Segment; Portfolio Seen Touching Rs 25 Lakh Crore By FY28",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Allotment of Securities",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -410,70 +428,71 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWHhvX0xjTTBhb3k1UmU1bVU3NjNrbUpONUNZZ0dTeGVhMWpzWmpMMW15MC1fVlhKVXRKU0phRnpJMnMwanA5Rkh2T3BCX0pZZXRoZk1FdzJZdjBwSmg2VC1hNVhCOGJXcjI1aUh3cXRCclVJeXFybGRSM3lzb2E4M00xRms2T1hjTVd0VkNWLXhQelZQUlJudm14QjNFNUhyU1FscGxiUmJ2emNlcWE1dzNUQmZydkYteW4xOG9rdkdBaS1vekRqMVd1bnJIdTJaMFluUmwtR0VPNEk?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/gold-loans-emerge-as-fastest-growing-retail-credit-segment-portfolio-seen-touching-rs-25-lakh-crore-by-fy28-11686178#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "GP Eco Solutions India Limited",
-      "symbol": "GPECO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 63,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
     {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1387.5,
+      "catalysts": [
+        {
+          "label": "ICICI Bank Q1FY27 Results: Date, Dividend, Share Price History, Earnings Call Schedule And More",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/icici-bank-q1fy27-results-date-dividend-share-price-history-earnings-call-schedule-and-more-11685436#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -5.8,
+      "predictionScore": -4.8,
       "confidence": 90,
-      "riskLevel": "Medium",
+      "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1041.0,
+      "lastClose": 1041.2,
       "catalysts": [
-        {
-          "label": "Sensex Today Trades Higher | Nifty Above 23,850 | Tech Mahindra & Infosys Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
@@ -483,28 +502,16 @@
           "label": "Updates",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Stock Market News Today Live Updates: Nifty, Sensex Off Day's High; IT Stocks Decline As Tech Mahindra, Infosys Drag",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-fno-expiry-futures-11683875#publisher=newsstand",
-          "verified": true
         },
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdHFiLWJvZ0RyS3RvQnpDRHNyUG1kUzB4bXBOaXBKY3ZPYzFaeDRibDE3VmZqVDVHbTk3ZWVIdEQ0N28xT0R4NEdKY1ZDeTM4Mk81X3BHOExaLUw4SmJ6TE1PUFphY0toZ0RLOFRZU0JEY1lQejRUcy1hQUN0UDBWd3dpVC13OXVRMFhWNThfdzdCcVo5U2RwZnlkNlZSWk9DNEZnUWtjdUJIUTRydUQ3YTgxczVIcWlad3FMcUhWQWdMZzJkWEIybkM0MVExUDdxTEkzeEtMS1BSQQ?oc=5",
+          "label": "Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "HCL Technologies Limited",
@@ -519,7 +526,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1099.0,
+      "lastClose": 1100.7,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -554,7 +561,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1377.8,
+      "lastClose": 1377.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -577,32 +584,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HEG Limited",
-      "symbol": "HEG",
+      "company": "Bajaj Auto Limited",
+      "symbol": "BAJAJ-AUTO",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -2.4,
+      "predictionScore": -3.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 522.35,
+      "technicalConfidence": 67,
+      "lastClose": 9843.0,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -612,60 +619,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Goodluck India Limited",
-      "symbol": "GOODLUCK",
+      "company": "HEG Limited",
+      "symbol": "HEG",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 1,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 7.6,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1403.4,
-      "catalysts": [
-        {
-          "label": "KMEW Secures IWAI Ferry Project Deal | Goodluck India Wins Defence Supply Order | Top Buzzing Stocks Today - Equitymaster",
-          "type": "contract",
-          "verified": false
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa2ludlZfODMzMlNEWUxmenkwUm1xZ2k2SGNQRFBNbXpSYjdscndCTUJycDlocFRNNkR0cnlSWHVHQlEtRWt1QktjUjRkakNGbFFYSFBRUDc5NGlTM0RrakpSRDNuak44MnR1UDIzRW5EX3Frbk9pSUxvOF85VTBPVVEyd2JWMjZKSl9XSk5kd2ZWQnZsNXhTY3hqbE12aWh0X1VXR0JqdzZ4aER6cXh4eWI4OFRsRkhWZVRDWmxiSVNFeTFrSXFPSTlZa09CUlQ1ZEtBdmFTNVExLTFqVUJuUDNDZDQ2QlhYMmp2NURiaDhneE5sTXlaSw?oc=5",
-          "verified": false
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 16,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 88,
+      "direction": "Negative watch",
+      "predictionScore": -2.4,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1388.2,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 520.05,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -673,7 +639,7 @@
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
@@ -720,47 +686,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bajaj Finance Limited",
-      "symbol": "BAJFINANCE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 979.7,
-      "catalysts": [
-        {
-          "label": "Sensex Today Trades Higher | Nifty Above 24,100 | Bajaj Finance & HDFC Bank Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWHhvX0xjTTBhb3k1UmU1bVU3NjNrbUpONUNZZ0dTeGVhMWpzWmpMMW15MC1fVlhKVXRKU0phRnpJMnMwanA5Rkh2T3BCX0pZZXRoZk1FdzJZdjBwSmg2VC1hNVhCOGJXcjI1aUh3cXRCclVJeXFybGRSM3lzb2E4M00xRms2T1hjTVd0VkNWLXhQelZQUlJudm14QjNFNUhyU1FscGxiUmJ2emNlcWE1dzNUQmZydkYteW4xOG9rdkdBaS1vekRqMVd1bnJIdTJaMFluUmwtR0VPNEk?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -869,38 +794,79 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "VA Tech Wabag Limited",
-      "symbol": "WABAG",
+      "company": "Asian Hotels (East) Limited",
+      "symbol": "AHLEAST",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 70,
+      "direction": "Negative watch",
+      "predictionScore": -4.1,
+      "confidence": 74,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 149.25,
       "catalysts": [
         {
-          "label": "General Updates",
+          "label": "Financial Results/Dividend/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
+          "label": "Disclosure under SEBI Takeover Regulations",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 74,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 144.72,
+      "catalysts": [
+        {
+          "label": "Gold Loans Emerge As Fastest-Growing Retail Credit Segment; Portfolio Seen Touching Rs 25 Lakh Crore By FY28",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/gold-loans-emerge-as-fastest-growing-retail-credit-segment-portfolio-seen-touching-rs-25-lakh-crore-by-fy28-11686178#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
