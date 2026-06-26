@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T04:42:11+00:00",
+  "generatedAt": "2026-06-26T09:53:52+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -118,7 +118,7 @@
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -135,12 +135,12 @@
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -185,6 +185,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "VA Tech Wabag Limited",
+      "symbol": "WABAG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 77,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Onward Technologies Limited",
       "symbol": "ONWARDTEC",
       "exchange": "NSE",
@@ -206,6 +241,41 @@
         },
         {
           "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mindteck (India) Limited",
+      "symbol": "MINDTECK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 75,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 205.49,
+      "catalysts": [
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
@@ -255,67 +325,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "VA Tech Wabag Limited",
-      "symbol": "WABAG",
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 70,
+      "predictionScore": 3.2,
+      "confidence": 74,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 144.72,
       "catalysts": [
         {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Indian Railway Finance Corporation Limited",
-      "symbol": "IRFC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 68,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 91.77,
-      "catalysts": [
-        {
-          "label": "Centre Raises Rs 2,100 Crore From Share Sale Of IRFC",
+          "label": "Will AI Replace Apps Like Swiggy Or Zomato Anytime Soon? Here's What BofA Said",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Offer for sale",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -324,11 +359,11 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/centre-raises-rs-2-100-crore-from-share-sale-of-irfc-11688202#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/business/will-ai-replace-apps-like-swiggy-zomato-and-makemytrip-bofa-says-not-so-fast-11689636#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Dr. Reddy's Laboratories Limited",
@@ -392,41 +427,6 @@
         },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Innovision Limited",
-      "symbol": "INNOVISION",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 66,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Awarding of order(s)/contract(s)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Awarding of order(s)/contract(s)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Awarding of order(s)/contract(s)",
           "type": "announcement",
           "verified": true
         }
@@ -552,7 +552,7 @@
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -569,12 +569,12 @@
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -619,6 +619,82 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Mindteck (India) Limited",
+      "symbol": "MINDTECK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 84,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 205.49,
+      "catalysts": [
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.2,
+      "confidence": 81,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 144.72,
+      "catalysts": [
+        {
+          "label": "Will AI Replace Apps Like Swiggy Or Zomato Anytime Soon? Here's What BofA Said",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/will-ai-replace-apps-like-swiggy-zomato-and-makemytrip-bofa-says-not-so-fast-11689636#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Dhara Rail Projects Limited",
       "symbol": "DHARARAIL",
       "exchange": "NSE",
@@ -654,44 +730,38 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Indian Railway Finance Corporation Limited",
-      "symbol": "IRFC",
+      "company": "VA Tech Wabag Limited",
+      "symbol": "WABAG",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
       "confidence": 77,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 91.77,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
-        {
-          "label": "Centre Raises Rs 2,100 Crore From Share Sale Of IRFC",
-          "type": "company news",
-          "verified": true
-        },
         {
           "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Offer for sale",
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/centre-raises-rs-2-100-crore-from-share-sale-of-irfc-11688202#publisher=newsstand",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -791,76 +861,6 @@
         },
         {
           "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Dr. Reddy's Laboratories Limited",
-      "symbol": "DRREDDY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1350.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1387.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
