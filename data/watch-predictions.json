@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T04:18:35+00:00",
+  "generatedAt": "2026-06-27T09:07:17+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,18 +11,13 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
+      "predictionScore": -4.3,
       "confidence": 90,
-      "riskLevel": "Standard",
+      "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
       "lastClose": 1041.2,
       "catalysts": [
-        {
-          "label": "Sensex Today Trades Higher | Nifty Above 23,850 | Tech Mahindra & Infosys Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
@@ -32,17 +27,28 @@
           "label": "Updates",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
+        },
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdHFiLWJvZ0RyS3RvQnpDRHNyUG1kUzB4bXBOaXBKY3ZPYzFaeDRibDE3VmZqVDVHbTk3ZWVIdEQ0N28xT0R4NEdKY1ZDeTM4Mk81X3BHOExaLUw4SmJ6TE1PUFphY0toZ0RLOFRZU0JEY1lQejRUcy1hQUN0UDBWd3dpVC13OXVRMFhWNThfdzdCcVo5U2RwZnlkNlZSWk9DNEZnUWtjdUJIUTRydUQ3YTgxczVIcWlad3FMcUhWQWdMZzJkWEIybkM0MVExUDdxTEkzeEtMS1BSQQ?oc=5",
+          "label": "Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "risks": [
+        {
+          "label": "Weekly Market Wrap: NIFTY50, SENSEX end lower as metal, IT indices fall 4%; Infosys leads losses - Upstox",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVBLVE5SQUFDUVhPSUQ0SmZxbnFrczR4cGZvMGJkWWQ3a21QYzRXRlBUMS0tTDJvOGxObVN6akNuLW5vUGs1MDZsNFNuSV9TaVoyeEN3aUNaenlnaEhyaFhfYTdheTYyXzItUEZORmJzMzQ3cWI1bHg5blhPdzNMVUFzWGxCbGdkZEhFRkY0X0JNSVI0c05CZ3JBQXRYSmlsN21DS1pORFk2VW45bGo4TUJNQjREaUFUU0ZkNHdxa2dhVWtGMFEtUEpQNFhZLWVGdlBDMDdaU2hXZXMtaGxnaUtpSXlmQQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "HCL Technologies Limited",
@@ -106,6 +112,41 @@
         },
         {
           "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Patel Integrated Logistics Limited",
+      "symbol": "PATINTLOG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.8,
+      "confidence": 89,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Buyback",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Buyback",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         }
@@ -220,41 +261,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Patel Integrated Logistics Limited",
-      "symbol": "PATINTLOG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Buyback",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Onward Technologies Limited",
       "symbol": "ONWARDTEC",
       "exchange": "NSE",
@@ -360,6 +366,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Vikran Engineering Limited",
+      "symbol": "VIKRAN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "CIE Automotive India Limited",
       "symbol": "CIEINDIA",
       "exchange": "NSE",
@@ -393,41 +434,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Nuvoco Vistas Corporation Limited",
-      "symbol": "NUVOCO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 68,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 306.2,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -439,18 +445,13 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.8,
+      "predictionScore": -5.8,
       "confidence": 90,
-      "riskLevel": "Standard",
+      "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
       "lastClose": 1041.2,
       "catalysts": [
-        {
-          "label": "Sensex Today Trades Higher | Nifty Above 23,850 | Tech Mahindra & Infosys Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
@@ -460,17 +461,28 @@
           "label": "Updates",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
+        },
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdHFiLWJvZ0RyS3RvQnpDRHNyUG1kUzB4bXBOaXBKY3ZPYzFaeDRibDE3VmZqVDVHbTk3ZWVIdEQ0N28xT0R4NEdKY1ZDeTM4Mk81X3BHOExaLUw4SmJ6TE1PUFphY0toZ0RLOFRZU0JEY1lQejRUcy1hQUN0UDBWd3dpVC13OXVRMFhWNThfdzdCcVo5U2RwZnlkNlZSWk9DNEZnUWtjdUJIUTRydUQ3YTgxczVIcWlad3FMcUhWQWdMZzJkWEIybkM0MVExUDdxTEkzeEtMS1BSQQ?oc=5",
+          "label": "Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "risks": [
+        {
+          "label": "Weekly Market Wrap: NIFTY50, SENSEX end lower as metal, IT indices fall 4%; Infosys leads losses - Upstox",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVBLVE5SQUFDUVhPSUQ0SmZxbnFrczR4cGZvMGJkWWQ3a21QYzRXRlBUMS0tTDJvOGxObVN6akNuLW5vUGs1MDZsNFNuSV9TaVoyeEN3aUNaenlnaEhyaFhfYTdheTYyXzItUEZORmJzMzQ3cWI1bHg5blhPdzNMVUFzWGxCbGdkZEhFRkY0X0JNSVI0c05CZ3JBQXRYSmlsN21DS1pORFk2VW45bGo4TUJNQjREaUFUU0ZkNHdxa2dhVWtGMFEtUEpQNFhZLWVGdlBDMDdaU2hXZXMtaGxnaUtpSXlmQQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Cipla Limited",
@@ -616,7 +628,7 @@
       "company": "HEG Limited",
       "symbol": "HEG",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
+      "confirmedNewsCount": 15,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -633,12 +645,47 @@
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Patel Integrated Logistics Limited",
+      "symbol": "PATINTLOG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.8,
+      "confidence": 89,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Buyback",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Buyback",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         }
@@ -814,41 +861,6 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Patel Integrated Logistics Limited",
-      "symbol": "PATINTLOG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Buyback",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
