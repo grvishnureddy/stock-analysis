@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T19:48:35+00:00",
+  "generatedAt": "2026-06-28T21:32:10+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -147,6 +147,41 @@
         },
         {
           "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "SEPC Limited",
+      "symbol": "SEPC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 89,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 6.59,
+      "catalysts": [
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Resignation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         }
@@ -342,6 +377,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Astral Limited",
+      "symbol": "ASTRAL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 75,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1486.9,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Star Health and Allied Insurance Company Limited",
       "symbol": "STARHEALTH",
       "exchange": "NSE",
@@ -368,82 +438,6 @@
         },
         {
           "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1387.5,
-      "catalysts": [
-        {
-          "label": "Mcap of 6 of top-10 most valued firms surges by \u20b988,678 crore; ICICI Bank biggest gainer - Mint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMy1rWlI4OEtmTm5xUElneXE2VFBvaFo4d1VlZWZSNUNtSGRYXzdHRDNicjRPbWVhQVJuVzhGSmNxVlRmRnQ1S0NnbkRzd05iaWdoY19EVXZsTmNvTFllMGlaSjFoam8tT3hDeHJ2bDVZWnpZV1NQSjZuY2xzUVA3d2FWVXp5UXFjbV90M0pZejVzcmVqUHY5eFRWcElhZ3BHWWVxODlEMVNCSkh3bXlOMk9ZZ1ZDcjFBcjFLMFVmcXZuWGlUOExubFN3eEtVbWxoQWNzczI4Q1RwY0tWaGI3VFFhejJNN28yVXRVZtIB8gFBVV95cUxQVDU0dmZJbHlZY3h6WWN1ZlFPXzFXTUdwMDYwOXlrR3hjbmlGZm5VUTl4OGIxbjBaOHRsM1pFc2tqUm5iNlduYVpsSUE3TGFWb1BwbmpSVWRGLWVsUTRQZFg5TTY1ckJWQmxGOHJrSlRhZFltY0lOZkpKOS03VmFaVGVsYlFRUlBvQWF0TjBWM2tYTmxQanM3bUNXZzFYTmVVMlZvaG1EVnJNbFc4Snp5NF9JYjY5VFJKLUl3WERCMExnbXNvc05jaWtnM0RNNG9BRTNyZWM5VTFMU0xWaEhWS0hfMGhKZ2Jzb2FRVUE1cHBiZw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mahindra Logistics Limited",
-      "symbol": "MAHLOG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 368.0,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -618,6 +612,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "SEPC Limited",
+      "symbol": "SEPC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 6.59,
+      "catalysts": [
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Resignation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Resignation of Director/KMP/SMP",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Mindteck (India) Limited",
       "symbol": "MINDTECK",
       "exchange": "NSE",
@@ -758,6 +787,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Astral Limited",
+      "symbol": "ASTRAL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 84,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1486.9,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Star Health and Allied Insurance Company Limited",
       "symbol": "STARHEALTH",
       "exchange": "NSE",
@@ -831,76 +895,6 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mahindra Logistics Limited",
-      "symbol": "MAHLOG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 368.0,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "CIE Automotive India Limited",
-      "symbol": "CIEINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 471.3,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
