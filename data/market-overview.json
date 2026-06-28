@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T23:19:37+00:00",
+  "updatedAt": "2026-06-28T04:54:27+00:00",
   "instruments": [
     {
       "name": "Nifty 50",
@@ -1114,30 +1114,14 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY AUTO",
-      "price": 26583.35,
-      "asOf": "2026-06-19",
-      "change1d": -0.61,
-      "change1w": 1.1,
-      "change1m": 2.58,
+      "price": 26977.75,
+      "asOf": "2026-06-25",
+      "change1d": 2.25,
+      "change1w": 0.86,
+      "change1m": 1.88,
       "rangeLow": 25681.8,
-      "rangeHigh": 26977.5,
+      "rangeHigh": 26977.75,
       "chart": [
-        {
-          "date": "2026-03-13",
-          "close": 24195.1
-        },
-        {
-          "date": "2026-03-16",
-          "close": 24599.1
-        },
-        {
-          "date": "2026-03-17",
-          "close": 25117.1
-        },
-        {
-          "date": "2026-03-18",
-          "close": 25598.85
-        },
         {
           "date": "2026-03-19",
           "close": 24509.9
@@ -1381,6 +1365,22 @@
         {
           "date": "2026-06-19",
           "close": 26583.35
+        },
+        {
+          "date": "2026-06-22",
+          "close": 26703.45
+        },
+        {
+          "date": "2026-06-23",
+          "close": 26496.5
+        },
+        {
+          "date": "2026-06-24",
+          "close": 26384.35
+        },
+        {
+          "date": "2026-06-25",
+          "close": 26977.75
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXAUTO"
@@ -1391,30 +1391,14 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY METAL",
-      "price": 13020.8,
-      "asOf": "2026-06-19",
-      "change1d": 0.08,
-      "change1w": 1.29,
-      "change1m": -1.26,
-      "rangeLow": 12733.6,
+      "price": 12445.65,
+      "asOf": "2026-06-25",
+      "change1d": -1.37,
+      "change1w": -4.34,
+      "change1m": -7.76,
+      "rangeLow": 12445.65,
       "rangeHigh": 13718.3,
       "chart": [
-        {
-          "date": "2026-03-13",
-          "close": 11292.5
-        },
-        {
-          "date": "2026-03-16",
-          "close": 11318.0
-        },
-        {
-          "date": "2026-03-17",
-          "close": 11637.35
-        },
-        {
-          "date": "2026-03-18",
-          "close": 11625.45
-        },
         {
           "date": "2026-03-19",
           "close": 11249.35
@@ -1658,6 +1642,22 @@
         {
           "date": "2026-06-19",
           "close": 13020.8
+        },
+        {
+          "date": "2026-06-22",
+          "close": 13091.2
+        },
+        {
+          "date": "2026-06-23",
+          "close": 12669.1
+        },
+        {
+          "date": "2026-06-24",
+          "close": 12618.75
+        },
+        {
+          "date": "2026-06-25",
+          "close": 12445.65
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXMETAL"
@@ -2221,11 +2221,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 4078.7,
+      "price": 4096.3,
       "asOf": "2026-06-26",
-      "change1d": 1.2,
-      "change1w": -3.44,
-      "change1m": -8.29,
+      "change1d": 1.63,
+      "change1w": -3.03,
+      "change1m": -7.9,
       "rangeLow": 3990.3,
       "rangeHigh": 4560.5,
       "chart": [
@@ -2487,7 +2487,7 @@
         },
         {
           "date": "2026-06-26",
-          "close": 4078.7
+          "close": 4096.3
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF"
@@ -2498,11 +2498,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 59.22,
+      "price": 59.67,
       "asOf": "2026-06-26",
-      "change1d": 1.49,
-      "change1w": -10.61,
-      "change1m": -20.62,
+      "change1d": 2.26,
+      "change1w": -9.93,
+      "change1m": -20.01,
       "rangeLow": 58.05,
       "rangeHigh": 75.64,
       "chart": [
@@ -2764,7 +2764,7 @@
         },
         {
           "date": "2026-06-26",
-          "close": 59.22
+          "close": 59.67
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/SI%3DF"
@@ -2775,11 +2775,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / lb",
-      "price": 6.14,
+      "price": 6.21,
       "asOf": "2026-06-26",
-      "change1d": 1.15,
-      "change1w": -3.61,
-      "change1m": -2.54,
+      "change1d": 2.31,
+      "change1w": -2.51,
+      "change1m": -1.43,
       "rangeLow": 5.94,
       "rangeHigh": 6.65,
       "chart": [
@@ -3041,7 +3041,7 @@
         },
         {
           "date": "2026-06-26",
-          "close": 6.14
+          "close": 6.21
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/HG%3DF"
@@ -4034,7 +4034,7 @@
         "symbol": "PERSISTENT",
         "company": "Persistent Systems Ltd.",
         "industry": "Information Technology",
-        "lastPrice": 4846.5,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -4136,7 +4136,7 @@
         "symbol": "HEROMOTOCO",
         "company": "Hero MotoCorp Ltd.",
         "industry": "Automobile and Auto Components",
-        "lastPrice": 4905.0,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
