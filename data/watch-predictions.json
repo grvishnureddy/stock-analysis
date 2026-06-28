@@ -1,8 +1,59 @@
 {
-  "generatedAt": "2026-06-28T09:35:11+00:00",
+  "generatedAt": "2026-06-28T12:00:12+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 8.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 980.4,
+      "catalysts": [
+        {
+          "label": "Dividend Stocks To Watch Next Week: Bajaj Finance, M&M, Tech Mahindra, Welspun Corp, Biocon \u2014 Check Amount, Record Date",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Corporate Actions This Week: Bajaj Finance, Biocon, Bharat Forge, M&M To Trade Ex-Dividend | Full List",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Sensex Today Trades Higher | Nifty Above 24,100 | Bajaj Finance & HDFC Bank Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/dividend-stocks-to-watch-next-week-bajaj-finance-m-m-tech-mahindra-welspun-corp-biocon-check-amount-record-date-11698422#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-bajaj-finance-biocon-bharat-forge-m-m-tech-mahindra-welspun-enterprises-to-trade-ex-dividend-full-list-11698361#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZDJ5Wld1YWxQb2NkLVhOb3Fhck40SXJDc2NCVXlrbzZTd0daa1N2dmpsdFZ3aWgzbWV6R0ZYTDRKZFRLRjNxaGpBS21lT1Q1Q3o4cWo0TjJYZVoxVnJqTnFPMi1PUnBFRkh1QkpSaHJqclI3MTZZU0VYSVN0b0lvQVpyZjl0QlVfODNuc0JEd0tremw2V01INUR4Rm9hSnMwV2EzZ3NBVEhKZ2xwejFXTUdMY1NRUnM4cnhsVHlra2t3RDZabzg1WkZHYS1Ic0dGSUpLN2h6NzI0TVU1?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
     {
       "company": "Infosys Limited",
       "symbol": "INFY",
@@ -399,44 +450,60 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "Mahindra Logistics Limited",
-      "symbol": "MAHLOG",
+      "company": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
-      "horizon": "today",
+      "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 74,
+      "predictionScore": 10.0,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 368.0,
+      "technicalConfidence": 83,
+      "lastClose": 980.4,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
+          "label": "Dividend Stocks To Watch Next Week: Bajaj Finance, M&M, Tech Mahindra, Welspun Corp, Biocon \u2014 Check Amount, Record Date",
+          "type": "corporate action",
           "verified": true
         },
         {
-          "label": "Trading Window",
-          "type": "announcement",
+          "label": "Corporate Actions This Week: Bajaj Finance, Biocon, Bharat Forge, M&M To Trade Ex-Dividend | Full List",
+          "type": "corporate action",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
+          "label": "Sensex Today Trades Higher | Nifty Above 24,100 | Bajaj Finance & HDFC Bank Top Gainers - Equitymaster",
+          "type": "company news",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/dividend-stocks-to-watch-next-week-bajaj-finance-m-m-tech-mahindra-welspun-corp-biocon-check-amount-record-date-11698422#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-bajaj-finance-biocon-bharat-forge-m-m-tech-mahindra-welspun-enterprises-to-trade-ex-dividend-full-list-11698361#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZDJ5Wld1YWxQb2NkLVhOb3Fhck40SXJDc2NCVXlrbzZTd0daa1N2dmpsdFZ3aWgzbWV6R0ZYTDRKZFRLRjNxaGpBS21lT1Q1Q3o4cWo0TjJYZVoxVnJqTnFPMi1PUnBFRkh1QkpSaHJqclI3MTZZU0VYSVN0b0lvQVpyZjl0QlVfODNuc0JEd0tremw2V01INUR4Rm9hSnMwV2EzZ3NBVEhKZ2xwejFXTUdMY1NRUnM4cnhsVHlra2t3RDZabzg1WkZHYS1Ic0dGSUpLN2h6NzI0TVU1?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
     {
       "company": "Infosys Limited",
       "symbol": "INFY",
@@ -826,41 +893,6 @@
         },
         {
           "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "CIE Automotive India Limited",
-      "symbol": "CIEINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 471.3,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
