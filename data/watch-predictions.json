@@ -1,8 +1,84 @@
 {
-  "generatedAt": "2026-06-29T11:25:45+00:00",
+  "generatedAt": "2026-06-29T16:13:48+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "Yes Bank Limited",
+      "symbol": "YESBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 6.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 25.09,
+      "catalysts": [
+        {
+          "label": "Yes Bank To Raise Up To Rs 16,000 Crore Via Debt, Equity",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Fund Raising",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/yes-bank-to-raise-up-to-rs-15-000-crore-via-debt-equity-11703166#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Patel Integrated Logistics Limited",
+      "symbol": "PATINTLOG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Buyback",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Buyback",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
     {
       "company": "Persistent Systems Limited",
       "symbol": "PERSISTENT",
@@ -83,7 +159,7 @@
       "company": "Karur Vysya Bank Limited",
       "symbol": "KARURVYSYA",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -100,12 +176,47 @@
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Cessation",
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Master Components Limited",
+      "symbol": "MASTER",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -118,7 +229,7 @@
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -130,12 +241,53 @@
       "lastClose": 1356.8,
       "catalysts": [
         {
+          "label": "CFO Shuffle: Puneet Sharma Trades Axis Bank For HDFC Bank",
+          "type": "company news",
+          "verified": true
+        },
+        {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
           "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/cfo-shuffle-puneet-sharma-trades-axis-bank-for-hdfc-bank-11703181#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tech Mahindra Limited",
+      "symbol": "TECHM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1433.8,
+      "catalysts": [
+        {
+          "label": "Tech Mahindra To Deploy Perplexity AI Across Sales, Customer-Facing Teams",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Sale or disposal",
           "type": "announcement",
           "verified": true
         },
@@ -146,77 +298,77 @@
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/technology/tech-mahindra-to-deploy-perplexity-ai-across-sales-customer-facing-teams-11702919#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Hindustan Aeronautics Limited",
-      "symbol": "HAL",
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 5.6,
-      "confidence": 89,
+      "direction": "Negative watch",
+      "predictionScore": -2.0,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
-      "lastClose": 4342.8,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1102.4,
       "catalysts": [
         {
-          "label": "Dividend Alert: HAL Announces Rs 10 Final Payout \u2014 Check Record Date",
-          "type": "corporate action",
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Change in Auditors",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Record Date",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/dividend-alert-hal-announces-rs-10-final-payout-check-record-date-share-price-dividend-history-11701605#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Patel Integrated Logistics Limited",
-      "symbol": "PATINTLOG",
+      "company": "Texmaco Rail & Engineering Limited",
+      "symbol": "TEXRAIL",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.8,
-      "confidence": 89,
+      "predictionScore": 4.5,
+      "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Buyback",
+          "label": "Disclosure under SEBI Takeover Regulations",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Buyback",
+          "label": "Disclosure under SEBI Takeover Regulations",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Disclosure under SEBI Takeover Regulations",
           "type": "announcement",
           "verified": true
         }
@@ -294,177 +446,37 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mindteck (India) Limited",
-      "symbol": "MINDTECK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 82,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 203.45,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Onward Technologies Limited",
-      "symbol": "ONWARDTEC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "MphasiS Limited",
-      "symbol": "MPHASIS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 2207.8,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Texmaco Rail & Engineering Limited",
-      "symbol": "TEXRAIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
     {
-      "company": "Hindustan Aeronautics Limited",
-      "symbol": "HAL",
+      "company": "Yes Bank Limited",
+      "symbol": "YESBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.1,
+      "predictionScore": 7.5,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
-      "lastClose": 4342.8,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 25.09,
       "catalysts": [
         {
-          "label": "Dividend Alert: HAL Announces Rs 10 Final Payout \u2014 Check Record Date",
+          "label": "Yes Bank To Raise Up To Rs 16,000 Crore Via Debt, Equity",
           "type": "corporate action",
           "verified": true
         },
         {
-          "label": "Change in Auditors",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Record Date",
-          "type": "announcement",
+          "label": "Fund Raising",
+          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -472,7 +484,7 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/dividend-alert-hal-announces-rs-10-final-payout-check-record-date-share-price-dividend-history-11701605#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/yes-bank-to-raise-up-to-rs-15-000-crore-via-debt-equity-11703166#publisher=newsstand",
           "verified": true
         }
       ],
@@ -558,7 +570,7 @@
       "company": "Karur Vysya Bank Limited",
       "symbol": "KARURVYSYA",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -575,12 +587,12 @@
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Cessation",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         }
@@ -628,7 +640,7 @@
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -640,6 +652,11 @@
       "lastClose": 1356.8,
       "catalysts": [
         {
+          "label": "CFO Shuffle: Puneet Sharma Trades Axis Bank For HDFC Bank",
+          "type": "company news",
+          "verified": true
+        },
+        {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
@@ -648,9 +665,86 @@
           "label": "Change in Management",
           "type": "announcement",
           "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/cfo-shuffle-puneet-sharma-trades-axis-bank-for-hdfc-bank-11703181#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tech Mahindra Limited",
+      "symbol": "TECHM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1433.8,
+      "catalysts": [
+        {
+          "label": "Tech Mahindra To Deploy Perplexity AI Across Sales, Customer-Facing Teams",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Sale or disposal",
+          "type": "announcement",
+          "verified": true
         },
         {
           "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/technology/tech-mahindra-to-deploy-perplexity-ai-across-sales-customer-facing-teams-11702919#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Foseco India Limited",
+      "symbol": "FOSECOIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 5323.4,
+      "catalysts": [
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -695,6 +789,76 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Patel Integrated Logistics Limited",
+      "symbol": "PATINTLOG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Buyback",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Buyback",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1102.4,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "ICICI Bank Limited",
       "symbol": "ICICIBANK",
       "exchange": "NSE",
@@ -721,146 +885,6 @@
         },
         {
           "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HEG Limited",
-      "symbol": "HEG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.4,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 517.2,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Patel Integrated Logistics Limited",
-      "symbol": "PATINTLOG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Buyback",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Buyback",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "MphasiS Limited",
-      "symbol": "MPHASIS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 2207.8,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Star Health and Allied Insurance Company Limited",
-      "symbol": "STARHEALTH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 584.75,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         }
