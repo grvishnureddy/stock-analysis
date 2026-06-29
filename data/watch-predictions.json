@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T21:46:33+00:00",
+  "generatedAt": "2026-06-29T23:18:31+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -219,7 +219,7 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZlRFZkhYbHB5WVYyb2NsUnVhYW5NMXA2YTFQeWo5eG82SjFRVVZHbjNia1NEVnYzbmJrNEZTWDJOVlp1VWxHa3gzazBSWURkaUZiMW5lM05IVFplU3BFa1B5X2xCOVoxNHVaU19HNVFYeENMeEJMWHNRREd3aS16RHBzSHEwdHNLbVdNc3E3OEhQVTJwcTZLdWVaZVRyLU9GNVlpMFFPWEZKX2pnMEVBSzBMc0hlRGpHRU04ai1FMFl4MlE3VHlvenN3WlBRMG80Nmt5d0dZTk0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMzdST3dUT1gzNllERHR4ZjJneGx3eFRFOUltM2FjY2UwRXB4WmRKWUQwYWdxNlJJay1OR1VqbndHMU5OQkVTeWFFQjdIeVlhVEctVmFsUnJKUkpwLXpiMk1JWVQ1dEVzMTZLNkxjUkNkZUZXOTMwZy1YLWZ1VmJNNk9FdWxDTVdDbWx0TnJWRUtKTURpaERfaXV3OFFTNHMtRDk0ZVhGanBKUGQxSF9SeTdtT0F1MFhaSDZ2cm9UODVhcVpYME92R3poVEZQSFV4dmZRd3VTRVU?oc=5",
           "verified": true
         }
       ],
@@ -296,6 +296,47 @@
         {
           "label": "NDTV Business",
           "url": "https://www.ndtvprofit.com/business/three-c-suite-exits-in-two-days-bandhan-bank-axis-cfos-resign-after-kotak-ceo-confirms-departure-11703641#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1387.5,
+      "catalysts": [
+        {
+          "label": "Mcap of 6 of top-10 most valued firms surges by \u20b988,678 crore; ICICI Bank biggest gainer - Mint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMy1rWlI4OEtmTm5xUElneXE2VFBvaFo4d1VlZWZSNUNtSGRYXzdHRDNicjRPbWVhQVJuVzhGSmNxVlRmRnQ1S0NnbkRzd05iaWdoY19EVXZsTmNvTFllMGlaSjFoam8tT3hDeHJ2bDVZWnpZV1NQSjZuY2xzUVA3d2FWVXp5UXFjbV90M0pZejVzcmVqUHY5eFRWcElhZ3BHWWVxODlEMVNCSkh3bXlOMk9ZZ1ZDcjFBcjFLMFVmcXZuWGlUOExubFN3eEtVbWxoQWNzczI4Q1RwY0tWaGI3VFFhejJNN28yVXRVZtIB8gFBVV95cUxQVDU0dmZJbHlZY3h6WWN1ZlFPXzFXTUdwMDYwOXlrR3hjbmlGZm5VUTl4OGIxbjBaOHRsM1pFc2tqUm5iNlduYVpsSUE3TGFWb1BwbmpSVWRGLWVsUTRQZFg5TTY1ckJWQmxGOHJrSlRhZFltY0lOZkpKOS03VmFaVGVsYlFRUlBvQWF0TjBWM2tYTmxQanM3bUNXZzFYTmVVMlZvaG1EVnJNbFc4Snp5NF9JYjY5VFJKLUl3WERCMExnbXNvc05jaWtnM0RNNG9BRTNyZWM5VTFMU0xWaEhWS0hfMGhKZ2Jzb2FRVUE1cHBiZw?oc=5",
           "verified": true
         }
       ],
@@ -380,41 +421,6 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1387.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -705,7 +711,7 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZlRFZkhYbHB5WVYyb2NsUnVhYW5NMXA2YTFQeWo5eG82SjFRVVZHbjNia1NEVnYzbmJrNEZTWDJOVlp1VWxHa3gzazBSWURkaUZiMW5lM05IVFplU3BFa1B5X2xCOVoxNHVaU19HNVFYeENMeEJMWHNRREd3aS16RHBzSHEwdHNLbVdNc3E3OEhQVTJwcTZLdWVaZVRyLU9GNVlpMFFPWEZKX2pnMEVBSzBMc0hlRGpHRU04ai1FMFl4MlE3VHlvenN3WlBRMG80Nmt5d0dZTk0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMzdST3dUT1gzNllERHR4ZjJneGx3eFRFOUltM2FjY2UwRXB4WmRKWUQwYWdxNlJJay1OR1VqbndHMU5OQkVTeWFFQjdIeVlhVEctVmFsUnJKUkpwLXpiMk1JWVQ1dEVzMTZLNkxjUkNkZUZXOTMwZy1YLWZ1VmJNNk9FdWxDTVdDbWx0TnJWRUtKTURpaERfaXV3OFFTNHMtRDk0ZVhGanBKUGQxSF9SeTdtT0F1MFhaSDZ2cm9UODVhcVpYME92R3poVEZQSFV4dmZRd3VTRVU?oc=5",
           "verified": true
         }
       ],
@@ -858,10 +864,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -870,15 +876,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 796.3,
+      "lastClose": 1387.5,
       "catalysts": [
         {
-          "label": "HDFC Bank Appoints Ex-Finance Secy Rajiv Kumar As Part-Time Chairman",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Who Is Rajiv Kumar, The Architect Of Mega PSB Mergers Tapped To Helm HDFC Bank",
+          "label": "Mcap of 6 of top-10 most valued firms surges by \u20b988,678 crore; ICICI Bank biggest gainer - Mint",
           "type": "company news",
           "verified": true
         },
@@ -886,18 +887,18 @@
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
         }
       ],
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/hdfc-bank-appoints-ex-finance-secy-rajiv-kumar-as-part-time-chairman-11703646#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/who-is-rajiv-kumar-the-architect-of-mega-bank-mergers-tapped-to-helm-hdfc-bank-11703991#publisher=newsstand",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMy1rWlI4OEtmTm5xUElneXE2VFBvaFo4d1VlZWZSNUNtSGRYXzdHRDNicjRPbWVhQVJuVzhGSmNxVlRmRnQ1S0NnbkRzd05iaWdoY19EVXZsTmNvTFllMGlaSjFoam8tT3hDeHJ2bDVZWnpZV1NQSjZuY2xzUVA3d2FWVXp5UXFjbV90M0pZejVzcmVqUHY5eFRWcElhZ3BHWWVxODlEMVNCSkh3bXlOMk9ZZ1ZDcjFBcjFLMFVmcXZuWGlUOExubFN3eEtVbWxoQWNzczI4Q1RwY0tWaGI3VFFhejJNN28yVXRVZtIB8gFBVV95cUxQVDU0dmZJbHlZY3h6WWN1ZlFPXzFXTUdwMDYwOXlrR3hjbmlGZm5VUTl4OGIxbjBaOHRsM1pFc2tqUm5iNlduYVpsSUE3TGFWb1BwbmpSVWRGLWVsUTRQZFg5TTY1ckJWQmxGOHJrSlRhZFltY0lOZkpKOS03VmFaVGVsYlFRUlBvQWF0TjBWM2tYTmxQanM3bUNXZzFYTmVVMlZvaG1EVnJNbFc4Snp5NF9JYjY5VFJKLUl3WERCMExnbXNvc05jaWtnM0RNNG9BRTNyZWM5VTFMU0xWaEhWS0hfMGhKZ2Jzb2FRVUE1cHBiZw?oc=5",
           "verified": true
         }
       ],
