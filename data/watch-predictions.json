@@ -1,48 +1,42 @@
 {
-  "generatedAt": "2026-06-29T16:13:48+00:00",
+  "generatedAt": "2026-06-29T18:26:51+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "Yes Bank Limited",
-      "symbol": "YESBANK",
+      "company": "Master Components Limited",
+      "symbol": "MASTER",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
+      "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 25.09,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Yes Bank To Raise Up To Rs 16,000 Crore Via Debt, Equity",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Fund Raising",
-          "type": "upcoming event",
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/yes-bank-to-raise-up-to-rs-15-000-crore-via-debt-equity-11703166#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Patel Integrated Logistics Limited",
@@ -78,6 +72,53 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bandhan Bank Limited",
+      "symbol": "BANDHANBNK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.5,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 17,
+      "lastClose": 202.33,
+      "catalysts": [
+        {
+          "label": "Resignation of Director/KMP/SMP",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Bandhan Bank CFO Rajeev Mantri Quits To Pursue 'Career Growth'",
+          "type": "risk",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/bandhan-bank-cfo-rajeev-mantri-quits-to-pursue-career-growth-11703599#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Persistent Systems Limited",
@@ -191,41 +232,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Master Components Limited",
-      "symbol": "MASTER",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
@@ -241,7 +247,7 @@
       "lastClose": 1356.8,
       "catalysts": [
         {
-          "label": "CFO Shuffle: Puneet Sharma Trades Axis Bank For HDFC Bank",
+          "label": "Three C-Suite Exits In Two Days: Bandhan Bank, Axis CFOs Resign After Kotak CEO Confirms Departure",
           "type": "company news",
           "verified": true
         },
@@ -260,48 +266,7 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/cfo-shuffle-puneet-sharma-trades-axis-bank-for-hdfc-bank-11703181#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Tech Mahindra Limited",
-      "symbol": "TECHM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1433.8,
-      "catalysts": [
-        {
-          "label": "Tech Mahindra To Deploy Perplexity AI Across Sales, Customer-Facing Teams",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Sale or disposal",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/technology/tech-mahindra-to-deploy-perplexity-ai-across-sales-customer-facing-teams-11702919#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/business/three-c-suite-exits-in-two-days-bandhan-bank-axis-cfos-resign-after-kotak-ceo-confirms-departure-11703641#publisher=newsstand",
           "verified": true
         }
       ],
@@ -446,50 +411,44 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
+    },
     {
-      "company": "Yes Bank Limited",
-      "symbol": "YESBANK",
+      "company": "Foseco India Limited",
+      "symbol": "FOSECOIND",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
-      "horizon": "tomorrow",
+      "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 7.5,
-      "confidence": 90,
+      "predictionScore": 2.8,
+      "confidence": 82,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 25.09,
+      "technicalConfidence": 83,
+      "lastClose": 5323.4,
       "catalysts": [
         {
-          "label": "Yes Bank To Raise Up To Rs 16,000 Crore Via Debt, Equity",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Fund Raising",
-          "type": "upcoming event",
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/yes-bank-to-raise-up-to-rs-15-000-crore-via-debt-equity-11703166#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    }
+  ],
+  "tomorrow": [
     {
       "company": "Persistent Systems Limited",
       "symbol": "PERSISTENT",
@@ -637,6 +596,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Master Components Limited",
+      "symbol": "MASTER",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
@@ -652,7 +646,7 @@
       "lastClose": 1356.8,
       "catalysts": [
         {
-          "label": "CFO Shuffle: Puneet Sharma Trades Axis Bank For HDFC Bank",
+          "label": "Three C-Suite Exits In Two Days: Bandhan Bank, Axis CFOs Resign After Kotak CEO Confirms Departure",
           "type": "company news",
           "verified": true
         },
@@ -671,48 +665,7 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/cfo-shuffle-puneet-sharma-trades-axis-bank-for-hdfc-bank-11703181#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Tech Mahindra Limited",
-      "symbol": "TECHM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1433.8,
-      "catalysts": [
-        {
-          "label": "Tech Mahindra To Deploy Perplexity AI Across Sales, Customer-Facing Teams",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Sale or disposal",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/technology/tech-mahindra-to-deploy-perplexity-ai-across-sales-customer-facing-teams-11702919#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/business/three-c-suite-exits-in-two-days-bandhan-bank-axis-cfos-resign-after-kotak-ceo-confirms-departure-11703641#publisher=newsstand",
           "verified": true
         }
       ],
@@ -822,6 +775,53 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bandhan Bank Limited",
+      "symbol": "BANDHANBNK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.8,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 17,
+      "lastClose": 202.33,
+      "catalysts": [
+        {
+          "label": "Resignation of Director/KMP/SMP",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Bandhan Bank CFO Rajeev Mantri Quits To Pursue 'Career Growth'",
+          "type": "risk",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/bandhan-bank-cfo-rajeev-mantri-quits-to-pursue-career-growth-11703599#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "HCL Technologies Limited",
