@@ -1,22 +1,63 @@
 {
-  "generatedAt": "2026-06-29T05:02:11+00:00",
+  "generatedAt": "2026-06-29T11:25:45+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
+      "company": "Persistent Systems Limited",
+      "symbol": "PERSISTENT",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -4.1,
+      "predictionScore": -3.3,
       "confidence": 90,
-      "riskLevel": "Medium",
+      "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1036.5,
+      "lastClose": 4298.5,
+      "catalysts": [
+        {
+          "label": "Sensex Today Ends 372 Points Lower | Nifty Below 23,950 | Persistent Systems Down 10% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZlRFZkhYbHB5WVYyb2NsUnVhYW5NMXA2YTFQeWo5eG82SjFRVVZHbjNia1NEVnYzbmJrNEZTWDJOVlp1VWxHa3gzazBSWURkaUZiMW5lM05IVFplU3BFa1B5X2xCOVoxNHVaU19HNVFYeENMeEJMWHNRREd3aS16RHBzSHEwdHNLbVdNc3E3OEhQVTJwcTZLdWVaZVRyLU9GNVlpMFFPWEZKX2pnMEVBSzBMc0hlRGpHRU04ai1FMFl4MlE3VHlvenN3WlBRMG80Nmt5d0dZTk0?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1036.7,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -34,66 +75,8 @@
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "Weekly Market Wrap: NIFTY50, SENSEX end lower as metal, IT indices fall 4%; Infosys leads losses - Upstox",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVBLVE5SQUFDUVhPSUQ0SmZxbnFrczR4cGZvMGJkWWQ3a21QYzRXRlBUMS0tTDJvOGxObVN6akNuLW5vUGs1MDZsNFNuSV9TaVoyeEN3aUNaenlnaEhyaFhfYTdheTYyXzItUEZORmJzMzQ3cWI1bHg5blhPdzNMVUFzWGxCbGdkZEhFRkY0X0JNSVI0c05CZ3JBQXRYSmlsN21DS1pORFk2VW45bGo4TUJNQjREaUFUU0ZkNHdxa2dhVWtGMFEtUEpQNFhZLWVGdlBDMDdaU2hXZXMtaGxnaUtpSXlmQQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Astral Limited",
-      "symbol": "ASTRAL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1378.9,
-      "catalysts": [
-        {
-          "label": "Stock Picks Today: HDFC Bank, CG Power, Astral, Eternal, Yes Bank, IT Companies, And More On Brokerages' Radar",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Astral Target Price Trimmed, Yet Motilal Oswal Remains Bullish \u2014 What's Driving the Call?",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stock-picks-today-hdfc-bank-cg-power-astral-eternal-gmr-airports-yes-bank-it-companies-one-97-communications-and-more-on-brokerages-radar-11696227#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/astral-target-price-trimmed-yet-motilal-oswal-remains-bullish-whats-driving-the-call-11700317#publisher=newsstand",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -109,7 +92,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 295.25,
+      "lastClose": 298.85,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -132,54 +115,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "SEPC Limited",
-      "symbol": "SEPC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 6.47,
-      "catalysts": [
-        {
-          "label": "Clarification - Financial Results",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Resignation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
+      "predictionScore": 2.8,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1390.9,
+      "technicalConfidence": 83,
+      "lastClose": 1356.8,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -187,7 +135,7 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         },
@@ -202,39 +150,45 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HCL Technologies Limited",
-      "symbol": "HCLTECH",
+      "company": "Hindustan Aeronautics Limited",
+      "symbol": "HAL",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.0,
-      "confidence": 90,
+      "direction": "Positive watch",
+      "predictionScore": 5.6,
+      "confidence": 89,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1100.8,
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 4342.8,
       "catalysts": [
         {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
+          "label": "Dividend Alert: HAL Announces Rs 10 Final Payout \u2014 Check Record Date",
+          "type": "corporate action",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Change in Auditors",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Record Date",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/dividend-alert-hal-announces-rs-10-final-payout-check-record-date-share-price-dividend-history-11701605#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Patel Integrated Logistics Limited",
@@ -272,6 +226,76 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1387.6,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Cipla Limited",
+      "symbol": "CIPLA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1454.1,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Mindteck (India) Limited",
       "symbol": "MINDTECK",
       "exchange": "NSE",
@@ -284,7 +308,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 204.01,
+      "lastClose": 203.45,
       "catalysts": [
         {
           "label": "Copy of Newspaper Publication",
@@ -305,88 +329,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bajaj Finance Limited",
-      "symbol": "BAJFINANCE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 6.2,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 986.4,
-      "catalysts": [
-        {
-          "label": "Bajaj Holdings, Bajaj Finance, Bajaj Finserv, Maharashtra Scooters, Welspun Corp  \u2014 Dividend Record Date Last Day To Buy Shares To Qualify",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/bajaj-holdings-bajaj-finance-bajaj-finserv-maharashtra-scooters-welspun-corp-dividend-record-date-last-day-to-buy-shares-to-qualify-11700358#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "SKF India Limited",
-      "symbol": "SKFINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 6.1,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1673.2,
-      "catalysts": [
-        {
-          "label": "We Wouldn't Be Too Quick To Buy SKF India Limited (NSE:SKFINDIA) Before It Goes Ex-Dividend - simplywall.st",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY0lWXzNTcUN0OHBhVmVmOGpEZklqQ0hjTFhFakpoekowVEcybTF5bjRsTzJIS181ejhJekVZeTFjMUtvRjAwZGdhVmwxT1M4WTZYc25kdlg3bHBYS3V2bkpXZ3RlWFJ5ZGR6aS02dlBxektsZWlwdXVnbEk0cWxiYnpiVlhUZkNvRTB5Nk9VeWhCUW5waUpDUkplOF9JTEdrb1BQU2c5d2k5Z2VnQWF2YjIzX1cxQ0JobVl2dUdDbUdFVTVRYkJ0aE12aWRlUDVNUWtuaGR30gHbAUFVX3lxTE5raUs4Mk9UVXVVamdjNUFwd21oQUxfT1lyT3VlY3BUX2szZENDVV9WMk5DdllCQmpRUU1sdjByNXdRR0RJZmdPNlQ2cGR2blU2Z3d4T19uZHoxN1F3VUlQbjZId0xCdzYtZExPQkc5MnZxTnlYajZ0UVJ0RXNkY0hQOFlCN0RjUEJMT3ZOTjZGVnZtb1FkdEVRdkRFMFpVZWUySUtabWI2WXZHcVJfY21NR25oa21xLUhmQzJvYnFsYmg0RVA1OXNSVmlPNVdtbnhBd25wSmFNeW9wYw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Onward Technologies Limited",
@@ -424,33 +366,105 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Power Finance Corporation Limited",
-      "symbol": "PFC",
+      "company": "MphasiS Limited",
+      "symbol": "MPHASIS",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.4,
-      "confidence": 77,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 76,
       "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 424.35,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 2207.8,
       "catalysts": [
         {
-          "label": "PFC, REC Shares In Focus As Merger Gets Board Approval: Check Share Swap Ratio, Loan Book, Fundraising Details",
-          "type": "corporate action",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Amalgamation/Merger",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Other business matters",
-          "type": "upcoming event",
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Texmaco Rail & Engineering Limited",
+      "symbol": "TEXRAIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 74,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Disclosure under SEBI Takeover Regulations",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    }
+  ],
+  "tomorrow": [
+    {
+      "company": "Hindustan Aeronautics Limited",
+      "symbol": "HAL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 4342.8,
+      "catalysts": [
+        {
+          "label": "Dividend Alert: HAL Announces Rs 10 Final Payout \u2014 Check Record Date",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -458,28 +472,67 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/pfc-rec-shares-in-focus-as-merger-gets-board-approval-check-share-swap-ratio-loan-book-fundraising-details-11700416#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/dividend-alert-hal-announces-rs-10-final-payout-check-record-date-share-price-dividend-history-11701605#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Persistent Systems Limited",
+      "symbol": "PERSISTENT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 4298.5,
+      "catalysts": [
+        {
+          "label": "Sensex Today Ends 372 Points Lower | Nifty Below 23,950 | Persistent Systems Down 10% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZlRFZkhYbHB5WVYyb2NsUnVhYW5NMXA2YTFQeWo5eG82SjFRVVZHbjNia1NEVnYzbmJrNEZTWDJOVlp1VWxHa3gzazBSWURkaUZiMW5lM05IVFplU3BFa1B5X2xCOVoxNHVaU19HNVFYeENMeEJMWHNRREd3aS16RHBzSHEwdHNLbVdNc3E3OEhQVTJwcTZLdWVaZVRyLU9GNVlpMFFPWEZKX2pnMEVBSzBMc0hlRGpHRU04ai1FMFl4MlE3VHlvenN3WlBRMG80Nmt5d0dZTk0?oc=5",
           "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
+    },
     {
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -5.6,
+      "predictionScore": -4.8,
       "confidence": 90,
-      "riskLevel": "Medium",
+      "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1036.5,
+      "lastClose": 1036.7,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -497,66 +550,8 @@
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "Weekly Market Wrap: NIFTY50, SENSEX end lower as metal, IT indices fall 4%; Infosys leads losses - Upstox",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVBLVE5SQUFDUVhPSUQ0SmZxbnFrczR4cGZvMGJkWWQ3a21QYzRXRlBUMS0tTDJvOGxObVN6akNuLW5vUGs1MDZsNFNuSV9TaVoyeEN3aUNaenlnaEhyaFhfYTdheTYyXzItUEZORmJzMzQ3cWI1bHg5blhPdzNMVUFzWGxCbGdkZEhFRkY0X0JNSVI0c05CZ3JBQXRYSmlsN21DS1pORFk2VW45bGo4TUJNQjREaUFUU0ZkNHdxa2dhVWtGMFEtUEpQNFhZLWVGdlBDMDdaU2hXZXMtaGxnaUtpSXlmQQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Astral Limited",
-      "symbol": "ASTRAL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1378.9,
-      "catalysts": [
-        {
-          "label": "Stock Picks Today: HDFC Bank, CG Power, Astral, Eternal, Yes Bank, IT Companies, And More On Brokerages' Radar",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Astral Target Price Trimmed, Yet Motilal Oswal Remains Bullish \u2014 What's Driving the Call?",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stock-picks-today-hdfc-bank-cg-power-astral-eternal-gmr-airports-yes-bank-it-companies-one-97-communications-and-more-on-brokerages-radar-11696227#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/astral-target-price-trimmed-yet-motilal-oswal-remains-bullish-whats-driving-the-call-11700317#publisher=newsstand",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -572,7 +567,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 295.25,
+      "lastClose": 298.85,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -595,32 +590,67 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "SEPC Limited",
-      "symbol": "SEPC",
+      "company": "Cipla Limited",
+      "symbol": "CIPLA",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 6.47,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1454.1,
       "catalysts": [
         {
-          "label": "Clarification - Financial Results",
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 1356.8,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Resignation",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -642,7 +672,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 204.01,
+      "lastClose": 203.45,
       "catalysts": [
         {
           "label": "Copy of Newspaper Publication",
@@ -665,10 +695,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -677,7 +707,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1390.9,
+      "lastClose": 1387.6,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -685,47 +715,12 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
           "label": "General Updates",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HCL Technologies Limited",
-      "symbol": "HCLTECH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1100.8,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
         },
         {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
+          "label": "Record Date",
           "type": "announcement",
           "verified": true
         }
@@ -747,7 +742,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 50,
-      "lastClose": 526.0,
+      "lastClose": 517.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -805,105 +800,58 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bajaj Finance Limited",
-      "symbol": "BAJFINANCE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 7.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 986.4,
-      "catalysts": [
-        {
-          "label": "Bajaj Holdings, Bajaj Finance, Bajaj Finserv, Maharashtra Scooters, Welspun Corp  \u2014 Dividend Record Date Last Day To Buy Shares To Qualify",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/bajaj-holdings-bajaj-finance-bajaj-finserv-maharashtra-scooters-welspun-corp-dividend-record-date-last-day-to-buy-shares-to-qualify-11700358#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "SKF India Limited",
-      "symbol": "SKFINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 7.1,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1673.2,
-      "catalysts": [
-        {
-          "label": "We Wouldn't Be Too Quick To Buy SKF India Limited (NSE:SKFINDIA) Before It Goes Ex-Dividend - simplywall.st",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY0lWXzNTcUN0OHBhVmVmOGpEZklqQ0hjTFhFakpoekowVEcybTF5bjRsTzJIS181ejhJekVZeTFjMUtvRjAwZGdhVmwxT1M4WTZYc25kdlg3bHBYS3V2bkpXZ3RlWFJ5ZGR6aS02dlBxektsZWlwdXVnbEk0cWxiYnpiVlhUZkNvRTB5Nk9VeWhCUW5waUpDUkplOF9JTEdrb1BQU2c5d2k5Z2VnQWF2YjIzX1cxQ0JobVl2dUdDbUdFVTVRYkJ0aE12aWRlUDVNUWtuaGR30gHbAUFVX3lxTE5raUs4Mk9UVXVVamdjNUFwd21oQUxfT1lyT3VlY3BUX2szZENDVV9WMk5DdllCQmpRUU1sdjByNXdRR0RJZmdPNlQ2cGR2blU2Z3d4T19uZHoxN1F3VUlQbjZId0xCdzYtZExPQkc5MnZxTnlYajZ0UVJ0RXNkY0hQOFlCN0RjUEJMT3ZOTjZGVnZtb1FkdEVRdkRFMFpVZWUySUtabWI2WXZHcVJfY21NR25oa21xLUhmQzJvYnFsYmg0RVA1OXNSVmlPNVdtbnhBd25wSmFNeW9wYw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Bharat Bijlee Limited",
-      "symbol": "BBL",
+      "company": "MphasiS Limited",
+      "symbol": "MPHASIS",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
       "confidence": 87,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2832.3,
+      "lastClose": 2207.8,
       "catalysts": [
         {
-          "label": "Shareholders meeting",
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Star Health and Allied Insurance Company Limited",
+      "symbol": "STARHEALTH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 81,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 584.75,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
@@ -912,7 +860,7 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         }
