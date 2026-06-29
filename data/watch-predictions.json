@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T18:26:51+00:00",
+  "generatedAt": "2026-06-29T21:46:33+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -74,51 +74,115 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bandhan Bank Limited",
-      "symbol": "BANDHANBNK",
+      "company": "Infosys Limited",
+      "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.5,
+      "predictionScore": -3.3,
       "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 202.33,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1041.2,
       "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Ceigall India Limited",
+      "symbol": "CEIGALL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 382.2,
+      "catalysts": [
+        {
+          "label": "Ceigall India board approves change in director - Business Standard",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Change in Management",
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnVlZDJHUk40OTl0R2tKSGpPbW1PZmF4WnpYaTItMHRMcEhXM0MtMXNyZEJHV0F4LWw3V3ZSRWdNclRxR3U4SHNYeUY5MkU2bzVxSW5ZYy1zbkRVSi1yVHRyZXZBLTIyZk9ScVpYT1h1TzlzRUFrdkV4Mno4UHNObzlFSXN1QTM5RWtnNi02NkNJVW9Ea1ZpRGw0WGdrQ2lEQnZ0ZVptSEMtSkhRakJ0Q1RyN1AxSDU2SjI2RW5DLU11V1VfdlN0c9IBzgFBVV95cUxPeEwwSjUyc3BzeThYNC1BSjBjTFFjNWUzQ0VGX0ZKTEpjLVdLTlJPbVJxM3FrUHdHSnlFNXJoZHp4cVFOdGpoMVhuQjFiT2lwMEhtYzlhOHplX0w0N1hobUNHZF9OSklTX3FjVUlQVUpId0YyTWd6UVlteXViWE14ZjJWblNmWnp2eWRiRUFYZmtvX00yYTBOSVlwMnd3akhkOC1MVHVBS0ItTFA4X29JZTViSkFOSThJUUpkRGpDbnhxLU00UklYWk1sZGtpdw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Foseco India Limited",
+      "symbol": "FOSECOIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 5191.4,
+      "catalysts": [
+        {
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "Bandhan Bank CFO Rajeev Mantri Quits To Pursue 'Career Growth'",
-          "type": "risk",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/bandhan-bank-cfo-rajeev-mantri-quits-to-pursue-career-growth-11703599#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Persistent Systems Limited",
@@ -128,12 +192,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
+      "predictionScore": -2.8,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 4298.5,
+      "technicalConfidence": 83,
+      "lastClose": 4841.5,
       "catalysts": [
         {
           "label": "Sensex Today Ends 372 Points Lower | Nifty Below 23,950 | Persistent Systems Down 10% - Equitymaster",
@@ -162,67 +226,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
       "exchange": "NSE",
       "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
+      "predictionScore": -2.6,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1036.7,
+      "lastClose": 1100.7,
       "catalysts": [
         {
-          "label": "Financial Results",
+          "label": "Financial Results/Dividend",
           "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
           "verified": true
         },
         {
           "label": "Updates",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 298.85,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
         },
         {
-          "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -239,12 +268,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.8,
+      "predictionScore": 2.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 1356.8,
+      "technicalConfidence": 67,
+      "lastClose": 1377.2,
       "catalysts": [
         {
           "label": "Three C-Suite Exits In Two Days: Bandhan Bank, Axis CFOs Resign After Kotak CEO Confirms Departure",
@@ -270,41 +299,6 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HCL Technologies Limited",
-      "symbol": "HCLTECH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1102.4,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -343,6 +337,52 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 796.3,
+      "catalysts": [
+        {
+          "label": "HDFC Bank Appoints Ex-Finance Secy Rajiv Kumar As Part-Time Chairman",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Who Is Rajiv Kumar, The Architect Of Mega PSB Mergers Tapped To Helm HDFC Bank",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/hdfc-bank-appoints-ex-finance-secy-rajiv-kumar-as-part-time-chairman-11703646#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/who-is-rajiv-kumar-the-architect-of-mega-bank-mergers-tapped-to-helm-hdfc-bank-11703991#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "ICICI Bank Limited",
       "symbol": "ICICIBANK",
       "exchange": "NSE",
@@ -355,7 +395,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1387.6,
+      "lastClose": 1387.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -390,7 +430,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1454.1,
+      "lastClose": 1440.1,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -411,85 +451,9 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Foseco India Limited",
-      "symbol": "FOSECOIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 82,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 5323.4,
-      "catalysts": [
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
-    {
-      "company": "Persistent Systems Limited",
-      "symbol": "PERSISTENT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 4298.5,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends 372 Points Lower | Nifty Below 23,950 | Persistent Systems Down 10% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZlRFZkhYbHB5WVYyb2NsUnVhYW5NMXA2YTFQeWo5eG82SjFRVVZHbjNia1NEVnYzbmJrNEZTWDJOVlp1VWxHa3gzazBSWURkaUZiMW5lM05IVFplU3BFa1B5X2xCOVoxNHVaU19HNVFYeENMeEJMWHNRREd3aS16RHBzSHEwdHNLbVdNc3E3OEhQVTJwcTZLdWVaZVRyLU9GNVlpMFFPWEZKX2pnMEVBSzBMc0hlRGpHRU04ai1FMFl4MlE3VHlvenN3WlBRMG80Nmt5d0dZTk0?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
     {
       "company": "Infosys Limited",
       "symbol": "INFY",
@@ -503,7 +467,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1036.7,
+      "lastClose": 1041.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -526,10 +490,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
+      "company": "Ceigall India Limited",
+      "symbol": "CEIGALL",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -538,20 +502,61 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 298.85,
+      "lastClose": 382.2,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Ceigall India board approves change in director - Business Standard",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Credit Rating",
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Credit Rating",
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnVlZDJHUk40OTl0R2tKSGpPbW1PZmF4WnpYaTItMHRMcEhXM0MtMXNyZEJHV0F4LWw3V3ZSRWdNclRxR3U4SHNYeUY5MkU2bzVxSW5ZYy1zbkRVSi1yVHRyZXZBLTIyZk9ScVpYT1h1TzlzRUFrdkV4Mno4UHNObzlFSXN1QTM5RWtnNi02NkNJVW9Ea1ZpRGw0WGdrQ2lEQnZ0ZVptSEMtSkhRakJ0Q1RyN1AxSDU2SjI2RW5DLU11V1VfdlN0c9IBzgFBVV95cUxPeEwwSjUyc3BzeThYNC1BSjBjTFFjNWUzQ0VGX0ZKTEpjLVdLTlJPbVJxM3FrUHdHSnlFNXJoZHp4cVFOdGpoMVhuQjFiT2lwMEhtYzlhOHplX0w0N1hobUNHZF9OSklTX3FjVUlQVUpId0YyTWd6UVlteXViWE14ZjJWblNmWnp2eWRiRUFYZmtvX00yYTBOSVlwMnd3akhkOC1MVHVBS0ItTFA4X29JZTViSkFOSThJUUpkRGpDbnhxLU00UklYWk1sZGtpdw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Foseco India Limited",
+      "symbol": "FOSECOIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 5191.4,
+      "catalysts": [
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -573,7 +578,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1454.1,
+      "lastClose": 1440.1,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -631,32 +636,67 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
+      "direction": "Negative watch",
+      "predictionScore": -4.1,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 1356.8,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1100.7,
       "catalysts": [
         {
-          "label": "Three C-Suite Exits In Two Days: Bandhan Bank, Axis CFOs Resign After Kotak CEO Confirms Departure",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
+          "label": "Financial Results/Dividend",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Change in Management",
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Persistent Systems Limited",
+      "symbol": "PERSISTENT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 4841.5,
+      "catalysts": [
+        {
+          "label": "Sensex Today Ends 372 Points Lower | Nifty Below 23,950 | Persistent Systems Down 10% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -664,16 +704,16 @@
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/three-c-suite-exits-in-two-days-bandhan-bank-axis-cfos-resign-after-kotak-ceo-confirms-departure-11703641#publisher=newsstand",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZlRFZkhYbHB5WVYyb2NsUnVhYW5NMXA2YTFQeWo5eG82SjFRVVZHbjNia1NEVnYzbmJrNEZTWDJOVlp1VWxHa3gzazBSWURkaUZiMW5lM05IVFplU3BFa1B5X2xCOVoxNHVaU19HNVFYeENMeEJMWHNRREd3aS16RHBzSHEwdHNLbVdNc3E3OEhQVTJwcTZLdWVaZVRyLU9GNVlpMFFPWEZKX2pnMEVBSzBMc0hlRGpHRU04ai1FMFl4MlE3VHlvenN3WlBRMG80Nmt5d0dZTk0?oc=5",
           "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Foseco India Limited",
-      "symbol": "FOSECOIND",
+      "company": "Star Health and Allied Insurance Company Limited",
+      "symbol": "STARHEALTH",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
@@ -684,20 +724,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 5323.4,
+      "lastClose": 577.1,
       "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
         {
           "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         }
@@ -719,7 +759,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 203.45,
+      "lastClose": 205.49,
       "catalysts": [
         {
           "label": "Copy of Newspaper Publication",
@@ -777,90 +817,49 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bandhan Bank Limited",
-      "symbol": "BANDHANBNK",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.8,
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
       "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 202.33,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1377.2,
       "catalysts": [
         {
-          "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
+          "label": "Three C-Suite Exits In Two Days: Bandhan Bank, Axis CFOs Resign After Kotak CEO Confirms Departure",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
           "label": "Change in Management",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Bandhan Bank CFO Rajeev Mantri Quits To Pursue 'Career Growth'",
-          "type": "risk",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/bandhan-bank-cfo-rajeev-mantri-quits-to-pursue-career-growth-11703599#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "HCL Technologies Limited",
-      "symbol": "HCLTECH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1102.4,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/three-c-suite-exits-in-two-days-bandhan-bank-axis-cfos-resign-after-kotak-ceo-confirms-departure-11703641#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
@@ -871,26 +870,37 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1387.6,
+      "lastClose": 796.3,
       "catalysts": [
+        {
+          "label": "HDFC Bank Appoints Ex-Finance Secy Rajiv Kumar As Part-Time Chairman",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Who Is Rajiv Kumar, The Architect Of Mega PSB Mergers Tapped To Helm HDFC Bank",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/hdfc-bank-appoints-ex-finance-secy-rajiv-kumar-as-part-time-chairman-11703646#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/who-is-rajiv-kumar-the-architect-of-mega-bank-mergers-tapped-to-helm-hdfc-bank-11703991#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
