@@ -1,13 +1,54 @@
 {
-  "generatedAt": "2026-06-29T23:18:31+00:00",
+  "generatedAt": "2026-06-30T04:36:17+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
+      "company": "Kirloskar Oil Engines Limited",
+      "symbol": "KIRLOSENG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 7.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 2366.9,
+      "catalysts": [
+        {
+          "label": "Kirloskar Oil Engines in Focus: Multiple Growth Triggers Keep Motilal Oswal Bullish \u2014 Check Revised Target Price",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/kirloskar-oil-engines-in-focus-multiple-growth-triggers-keep-motilal-oswal-bullish-check-revised-target-price-11705370#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Master Components Limited",
       "symbol": "MASTER",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -74,8 +115,43 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1365.9,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Persistent Systems Limited",
+      "symbol": "PERSISTENT",
       "exchange": "NSE",
       "confirmedNewsCount": 10,
       "gossipCount": 0,
@@ -86,7 +162,48 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1041.2,
+      "lastClose": 4285.5,
+      "catalysts": [
+        {
+          "label": "Sensex Today Ends 372 Points Lower | Nifty Below 23,950 | Persistent Systems Down 10% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTDhnT1BseWpybktMTVdCSlB2aXFsU3BOQW1LVDB1MjRDbVJZNVlEdkllNmRUT0tUUWtXREVPWkFHSkdTZmhsM2xZSF9kTGkwMGszeHE0ZmM2VWpmOE1EN3VMdTE1SC1fczZEOUhUUFI4MjZJYWJIUkp5LTRnZF9Vd2Jocy1LQnd5MV9hT3EyVWFtY1pVWEpHeWhyX1U5bDlzQ2wySDZRaG0xWkNYNDBWYUtUYmxEaW1IOXpjLVlCVEZteVNTNXR3WVVDaEV0VzFfQVhxTURCZVkwQQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1013.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -109,73 +226,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Ceigall India Limited",
-      "symbol": "CEIGALL",
+      "company": "Karur Vysya Bank Limited",
+      "symbol": "KARURVYSYA",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "predictionScore": 2.8,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 382.2,
+      "technicalConfidence": 83,
+      "lastClose": 296.75,
       "catalysts": [
         {
-          "label": "Ceigall India board approves change in director - Business Standard",
-          "type": "company news",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Resignation of Director/KMP/SMP",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnVlZDJHUk40OTl0R2tKSGpPbW1PZmF4WnpYaTItMHRMcEhXM0MtMXNyZEJHV0F4LWw3V3ZSRWdNclRxR3U4SHNYeUY5MkU2bzVxSW5ZYy1zbkRVSi1yVHRyZXZBLTIyZk9ScVpYT1h1TzlzRUFrdkV4Mno4UHNObzlFSXN1QTM5RWtnNi02NkNJVW9Ea1ZpRGw0WGdrQ2lEQnZ0ZVptSEMtSkhRakJ0Q1RyN1AxSDU2SjI2RW5DLU11V1VfdlN0c9IBzgFBVV95cUxPeEwwSjUyc3BzeThYNC1BSjBjTFFjNWUzQ0VGX0ZKTEpjLVdLTlJPbVJxM3FrUHdHSnlFNXJoZHp4cVFOdGpoMVhuQjFiT2lwMEhtYzlhOHplX0w0N1hobUNHZF9OSklTX3FjVUlQVUpId0YyTWd6UVlteXViWE14ZjJWblNmWnp2eWRiRUFYZmtvX00yYTBOSVlwMnd3akhkOC1MVHVBS0ItTFA4X29JZTViSkFOSThJUUpkRGpDbnhxLU00UklYWk1sZGtpdw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Foseco India Limited",
-      "symbol": "FOSECOIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 5191.4,
-      "catalysts": [
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         }
@@ -185,32 +261,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Persistent Systems Limited",
-      "symbol": "PERSISTENT",
+      "company": "JK Cement Limited",
+      "symbol": "JKCEMENT",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 4841.5,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 5359.5,
       "catalysts": [
         {
-          "label": "Sensex Today Ends 372 Points Lower | Nifty Below 23,950 | Persistent Systems Down 10% - Equitymaster",
+          "label": "UltraTech, Ambuja, JK Cement: Cement makers set for a tough Q1 as cost pressures refuse to ease - Upstox",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -219,7 +295,7 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMzdST3dUT1gzNllERHR4ZjJneGx3eFRFOUltM2FjY2UwRXB4WmRKWUQwYWdxNlJJay1OR1VqbndHMU5OQkVTeWFFQjdIeVlhVEctVmFsUnJKUkpwLXpiMk1JWVQ1dEVzMTZLNkxjUkNkZUZXOTMwZy1YLWZ1VmJNNk9FdWxDTVdDbWx0TnJWRUtKTURpaERfaXV3OFFTNHMtRDk0ZVhGanBKUGQxSF9SeTdtT0F1MFhaSDZ2cm9UODVhcVpYME92R3poVEZQSFV4dmZRd3VTRVU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV1dXUFo5Zmp0TjJSZWdoWWpRSDZrT2NaVlJJMzZXbXdDSHQweFBpRll3cWJ5ZUlJRWs4aEhlWUJObzM4M0NYNnd3dXlpalVxalRzVWFmTTdoZW1CcXNlX1Z2Vnp4QTd0QVJFdHplSmtlQnRaNHhzcUlUZWpNYkpOVlRSalpBUTZfVVhUQjM1d21wX09LN3c4SWR3S2wxdktRZnlYanZmd1dfT19BcGQ4a0g4TE5DT1V4LTQ5WDZzaktpM19INnVWWldpdmdFZXlaaTh0VC1JLWxiZmRuSVVKSmF3NjFSeVk?oc=5",
           "verified": true
         }
       ],
@@ -233,12 +309,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -2.6,
+      "predictionScore": -2.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1100.7,
+      "technicalConfidence": 83,
+      "lastClose": 1087.8,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -261,219 +337,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 14,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1377.2,
-      "catalysts": [
-        {
-          "label": "Three C-Suite Exits In Two Days: Bandhan Bank, Axis CFOs Resign After Kotak CEO Confirms Departure",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/three-c-suite-exits-in-two-days-bandhan-bank-axis-cfos-resign-after-kotak-ceo-confirms-departure-11703641#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1387.5,
-      "catalysts": [
-        {
-          "label": "Mcap of 6 of top-10 most valued firms surges by \u20b988,678 crore; ICICI Bank biggest gainer - Mint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMy1rWlI4OEtmTm5xUElneXE2VFBvaFo4d1VlZWZSNUNtSGRYXzdHRDNicjRPbWVhQVJuVzhGSmNxVlRmRnQ1S0NnbkRzd05iaWdoY19EVXZsTmNvTFllMGlaSjFoam8tT3hDeHJ2bDVZWnpZV1NQSjZuY2xzUVA3d2FWVXp5UXFjbV90M0pZejVzcmVqUHY5eFRWcElhZ3BHWWVxODlEMVNCSkh3bXlOMk9ZZ1ZDcjFBcjFLMFVmcXZuWGlUOExubFN3eEtVbWxoQWNzczI4Q1RwY0tWaGI3VFFhejJNN28yVXRVZtIB8gFBVV95cUxQVDU0dmZJbHlZY3h6WWN1ZlFPXzFXTUdwMDYwOXlrR3hjbmlGZm5VUTl4OGIxbjBaOHRsM1pFc2tqUm5iNlduYVpsSUE3TGFWb1BwbmpSVWRGLWVsUTRQZFg5TTY1ckJWQmxGOHJrSlRhZFltY0lOZkpKOS03VmFaVGVsYlFRUlBvQWF0TjBWM2tYTmxQanM3bUNXZzFYTmVVMlZvaG1EVnJNbFc4Snp5NF9JYjY5VFJKLUl3WERCMExnbXNvc05jaWtnM0RNNG9BRTNyZWM5VTFMU0xWaEhWS0hfMGhKZ2Jzb2FRVUE1cHBiZw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Texmaco Rail & Engineering Limited",
-      "symbol": "TEXRAIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 796.3,
-      "catalysts": [
-        {
-          "label": "HDFC Bank Appoints Ex-Finance Secy Rajiv Kumar As Part-Time Chairman",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Who Is Rajiv Kumar, The Architect Of Mega PSB Mergers Tapped To Helm HDFC Bank",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/hdfc-bank-appoints-ex-finance-secy-rajiv-kumar-as-part-time-chairman-11703646#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/who-is-rajiv-kumar-the-architect-of-mega-bank-mergers-tapped-to-helm-hdfc-bank-11703991#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Cipla Limited",
-      "symbol": "CIPLA",
+      "company": "L&T Technology Services Limited",
+      "symbol": "LTTS",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1440.1,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
-    {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 90,
+      "predictionScore": -3.3,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1041.2,
+      "lastClose": 3118.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -481,7 +357,7 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
@@ -496,19 +372,54 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Astral Limited",
+      "symbol": "ASTRAL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1353.0,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Ceigall India Limited",
       "symbol": "CEIGALL",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
-      "horizon": "tomorrow",
+      "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
+      "predictionScore": 2.8,
+      "confidence": 82,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 382.2,
+      "technicalConfidence": 83,
+      "lastClose": 398.4,
       "catalysts": [
         {
           "label": "Ceigall India board approves change in director - Business Standard",
@@ -535,12 +446,55 @@
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    }
+  ],
+  "tomorrow": [
+    {
+      "company": "Kirloskar Oil Engines Limited",
+      "symbol": "KIRLOSENG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 8.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 2366.9,
+      "catalysts": [
+        {
+          "label": "Kirloskar Oil Engines in Focus: Multiple Growth Triggers Keep Motilal Oswal Bullish \u2014 Check Revised Target Price",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/kirloskar-oil-engines-in-focus-multiple-growth-triggers-keep-motilal-oswal-bullish-check-revised-target-price-11705370#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Foseco India Limited",
-      "symbol": "FOSECOIND",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -549,20 +503,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 5191.4,
+      "lastClose": 1365.9,
       "catalysts": [
         {
-          "label": "Trading Window",
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -572,19 +526,60 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Cipla Limited",
-      "symbol": "CIPLA",
+      "company": "Persistent Systems Limited",
+      "symbol": "PERSISTENT",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1440.1,
+      "lastClose": 4285.5,
+      "catalysts": [
+        {
+          "label": "Sensex Today Ends 372 Points Lower | Nifty Below 23,950 | Persistent Systems Down 10% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTDhnT1BseWpybktMTVdCSlB2aXFsU3BOQW1LVDB1MjRDbVJZNVlEdkllNmRUT0tUUWtXREVPWkFHSkdTZmhsM2xZSF9kTGkwMGszeHE0ZmM2VWpmOE1EN3VMdTE1SC1fczZEOUhUUFI4MjZJYWJIUkp5LTRnZF9Vd2Jocy1LQnd5MV9hT3EyVWFtY1pVWEpHeWhyX1U5bDlzQ2wySDZRaG0xWkNYNDBWYUtUYmxEaW1IOXpjLVlCVEZteVNTNXR3WVVDaEV0VzFfQVhxTURCZVkwQQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1013.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -592,12 +587,82 @@
           "verified": true
         },
         {
-          "label": "Change in Auditors",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "L&T Technology Services Limited",
+      "symbol": "LTTS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 3118.2,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Astral Limited",
+      "symbol": "ASTRAL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1353.0,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         }
@@ -610,7 +675,7 @@
       "company": "Master Components Limited",
       "symbol": "MASTER",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -642,32 +707,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HCL Technologies Limited",
-      "symbol": "HCLTECH",
+      "company": "Karur Vysya Bank Limited",
+      "symbol": "KARURVYSYA",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.1,
+      "direction": "Positive watch",
+      "predictionScore": 4.0,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1100.7,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 296.75,
       "catalysts": [
         {
-          "label": "Financial Results/Dividend",
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         }
@@ -677,32 +742,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Persistent Systems Limited",
-      "symbol": "PERSISTENT",
+      "company": "Ceigall India Limited",
+      "symbol": "CEIGALL",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
+      "direction": "Positive watch",
+      "predictionScore": 4.0,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 4841.5,
+      "lastClose": 398.4,
       "catalysts": [
         {
-          "label": "Sensex Today Ends 372 Points Lower | Nifty Below 23,950 | Persistent Systems Down 10% - Equitymaster",
+          "label": "Ceigall India board approves change in director - Business Standard",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
@@ -711,7 +776,7 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMzdST3dUT1gzNllERHR4ZjJneGx3eFRFOUltM2FjY2UwRXB4WmRKWUQwYWdxNlJJay1OR1VqbndHMU5OQkVTeWFFQjdIeVlhVEctVmFsUnJKUkpwLXpiMk1JWVQ1dEVzMTZLNkxjUkNkZUZXOTMwZy1YLWZ1VmJNNk9FdWxDTVdDbWx0TnJWRUtKTURpaERfaXV3OFFTNHMtRDk0ZVhGanBKUGQxSF9SeTdtT0F1MFhaSDZ2cm9UODVhcVpYME92R3poVEZQSFV4dmZRd3VTRVU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnVlZDJHUk40OTl0R2tKSGpPbW1PZmF4WnpYaTItMHRMcEhXM0MtMXNyZEJHV0F4LWw3V3ZSRWdNclRxR3U4SHNYeUY5MkU2bzVxSW5ZYy1zbkRVSi1yVHRyZXZBLTIyZk9ScVpYT1h1TzlzRUFrdkV4Mno4UHNObzlFSXN1QTM5RWtnNi02NkNJVW9Ea1ZpRGw0WGdrQ2lEQnZ0ZVptSEMtSkhRakJ0Q1RyN1AxSDU2SjI2RW5DLU11V1VfdlN0c9IBzgFBVV95cUxPeEwwSjUyc3BzeThYNC1BSjBjTFFjNWUzQ0VGX0ZKTEpjLVdLTlJPbVJxM3FrUHdHSnlFNXJoZHp4cVFOdGpoMVhuQjFiT2lwMEhtYzlhOHplX0w0N1hobUNHZF9OSklTX3FjVUlQVUpId0YyTWd6UVlteXViWE14ZjJWblNmWnp2eWRiRUFYZmtvX00yYTBOSVlwMnd3akhkOC1MVHVBS0ItTFA4X29JZTViSkFOSThJUUpkRGpDbnhxLU00UklYWk1sZGtpdw?oc=5",
           "verified": true
         }
       ],
@@ -730,7 +795,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 577.1,
+      "lastClose": 577.4,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -753,8 +818,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Mindteck (India) Limited",
-      "symbol": "MINDTECK",
+      "company": "The India Cements Limited",
+      "symbol": "INDIACEM",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
@@ -765,20 +830,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 205.49,
+      "lastClose": 375.85,
       "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
         {
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         }
@@ -820,88 +885,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 14,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1377.2,
-      "catalysts": [
-        {
-          "label": "Three C-Suite Exits In Two Days: Bandhan Bank, Axis CFOs Resign After Kotak CEO Confirms Departure",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/three-c-suite-exits-in-two-days-bandhan-bank-axis-cfos-resign-after-kotak-ceo-confirms-departure-11703641#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1387.5,
-      "catalysts": [
-        {
-          "label": "Mcap of 6 of top-10 most valued firms surges by \u20b988,678 crore; ICICI Bank biggest gainer - Mint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMy1rWlI4OEtmTm5xUElneXE2VFBvaFo4d1VlZWZSNUNtSGRYXzdHRDNicjRPbWVhQVJuVzhGSmNxVlRmRnQ1S0NnbkRzd05iaWdoY19EVXZsTmNvTFllMGlaSjFoam8tT3hDeHJ2bDVZWnpZV1NQSjZuY2xzUVA3d2FWVXp5UXFjbV90M0pZejVzcmVqUHY5eFRWcElhZ3BHWWVxODlEMVNCSkh3bXlOMk9ZZ1ZDcjFBcjFLMFVmcXZuWGlUOExubFN3eEtVbWxoQWNzczI4Q1RwY0tWaGI3VFFhejJNN28yVXRVZtIB8gFBVV95cUxQVDU0dmZJbHlZY3h6WWN1ZlFPXzFXTUdwMDYwOXlrR3hjbmlGZm5VUTl4OGIxbjBaOHRsM1pFc2tqUm5iNlduYVpsSUE3TGFWb1BwbmpSVWRGLWVsUTRQZFg5TTY1ckJWQmxGOHJrSlRhZFltY0lOZkpKOS03VmFaVGVsYlFRUlBvQWF0TjBWM2tYTmxQanM3bUNXZzFYTmVVMlZvaG1EVnJNbFc4Snp5NF9JYjY5VFJKLUl3WERCMExnbXNvc05jaWtnM0RNNG9BRTNyZWM5VTFMU0xWaEhWS0hfMGhKZ2Jzb2FRVUE1cHBiZw?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
