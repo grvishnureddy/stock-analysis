@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T12:23:28+00:00",
+  "generatedAt": "2026-07-02T16:18:05+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -65,6 +65,41 @@
         },
         {
           "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Texmaco Rail & Engineering Limited",
+      "symbol": "TEXRAIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 6.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -179,11 +214,46 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Adani Energy Solutions Limited",
+      "symbol": "ADANIENSOL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1556.9,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
+      "confirmedNewsCount": 9,
+      "gossipCount": 1,
       "horizon": "today",
       "direction": "Negative watch",
       "predictionScore": -2.8,
@@ -227,9 +297,9 @@
           "verified": true
         },
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQTNaX055YmdHUW5rTlFST25fTFY3THJEQ3VqNnBoMVdlVmh1OFpqSnVnTHdzZThtSndnVzdSUG96WjlrbmNiZzhvZXdEdVNBZDI0Q1czb1VvMFpaTmFfVE4yNG5pUVd1SFBNc0hBNkxmaHhlSUxLTm9zTm9PckhTb2ZKc2JSM01fUEkxNElaQlphOHZreWFJZWNBQ29pWGdreTRMVGhEeGp4bmpkQ0xUV19RSGtqNUxNdTk5c2pwMTY0cjh3cmNUSTNDWVU4VHZ1SllEN2tNQUJtU2hxV3poQTdTQnhJZ2kyLUl4aFJR0gHzAUFVX3lxTE5rdUdUZEpKN2tyUFNCVjRtZmoyTGsxdjRnNW4zMWg4eWMzTmNlSjZNMUxSZS1aaU9PX3hLcXRpYnRxbnpzbGhOUjd6MjItR3VhZ0xlcU1DeEI1M3BOUFIxTGtPSW9XM2dPVjJaU2Fmb0tCcWdvVzFPdnZ5cmRzZ045VnhPOGdINWZ6VmxBZTY2clJOX1BkcGZKVEJQcDh2Unl1bk1YTWhRVFRIRTE1QWk0QVBXLURsXzdKUVdGRVlfMVpmbHNtcHZPVG96UmluaVo0VC1ScjVhRWRiM25YcDFYV2lwRFhzYTRFLWRNMVJIUWx2Yw?oc=5",
-          "verified": true
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/lifestyle/explained-why-is-infosys-trending-amid-taylor-swift-travis-kelce-wedding-rumours-11718753#publisher=newsstand",
+          "verified": false
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
@@ -373,76 +443,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mahindra & Mahindra Financial Services Limited",
-      "symbol": "M&MFIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 318.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating- Others",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "SML Mahindra Limited",
-      "symbol": "SMLMAH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 4006.6,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Monthly Business Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -508,6 +508,41 @@
         },
         {
           "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Texmaco Rail & Engineering Limited",
+      "symbol": "TEXRAIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -625,8 +660,8 @@
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
+      "confirmedNewsCount": 9,
+      "gossipCount": 1,
       "horizon": "tomorrow",
       "direction": "Negative watch",
       "predictionScore": -4.0,
@@ -670,9 +705,9 @@
           "verified": true
         },
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQTNaX055YmdHUW5rTlFST25fTFY3THJEQ3VqNnBoMVdlVmh1OFpqSnVnTHdzZThtSndnVzdSUG96WjlrbmNiZzhvZXdEdVNBZDI0Q1czb1VvMFpaTmFfVE4yNG5pUVd1SFBNc0hBNkxmaHhlSUxLTm9zTm9PckhTb2ZKc2JSM01fUEkxNElaQlphOHZreWFJZWNBQ29pWGdreTRMVGhEeGp4bmpkQ0xUV19RSGtqNUxNdTk5c2pwMTY0cjh3cmNUSTNDWVU4VHZ1SllEN2tNQUJtU2hxV3poQTdTQnhJZ2kyLUl4aFJR0gHzAUFVX3lxTE5rdUdUZEpKN2tyUFNCVjRtZmoyTGsxdjRnNW4zMWg4eWMzTmNlSjZNMUxSZS1aaU9PX3hLcXRpYnRxbnpzbGhOUjd6MjItR3VhZ0xlcU1DeEI1M3BOUFIxTGtPSW9XM2dPVjJaU2Fmb0tCcWdvVzFPdnZ5cmRzZ045VnhPOGdINWZ6VmxBZTY2clJOX1BkcGZKVEJQcDh2Unl1bk1YTWhRVFRIRTE1QWk0QVBXLURsXzdKUVdGRVlfMVpmbHNtcHZPVG96UmluaVo0VC1ScjVhRWRiM25YcDFYV2lwRFhzYTRFLWRNMVJIUWx2Yw?oc=5",
-          "verified": true
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/lifestyle/explained-why-is-infosys-trending-amid-taylor-swift-travis-kelce-wedding-rumours-11718753#publisher=newsstand",
+          "verified": false
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
@@ -711,6 +746,41 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Adani Energy Solutions Limited",
+      "symbol": "ADANIENSOL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1556.9,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Gillette India Limited",
@@ -783,41 +853,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Adani Energy Solutions Limited",
-      "symbol": "ADANIENSOL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1556.9,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Tech Mahindra Limited",
       "symbol": "TECHM",
       "exchange": "NSE",
@@ -844,41 +879,6 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Canara Robeco Asset Management Company Limited",
-      "symbol": "CRAMC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 255.76,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
