@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T09:35:11+00:00",
+  "generatedAt": "2026-07-02T12:23:28+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,11 +7,11 @@
       "company": "Master Components Limited",
       "symbol": "MASTER",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 7.5,
+      "predictionScore": 9.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -19,17 +19,17 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Awarding of order(s)/contract(s)",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -42,11 +42,11 @@
       "company": "Railtel Corporation Of India Limited",
       "symbol": "RAILTEL",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
+      "predictionScore": 7.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -54,17 +54,17 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        },
-        {
           "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         }
@@ -112,7 +112,7 @@
       "company": "Karur Vysya Bank Limited",
       "symbol": "KARURVYSYA",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -121,7 +121,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 294.3,
+      "lastClose": 293.95,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -129,12 +129,138 @@
           "verified": true
         },
         {
-          "label": "Change in Management",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Disclosure under SEBI Takeover Regulations",
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Cipla Limited",
+      "symbol": "CIPLA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1456.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1040.9,
+      "catalysts": [
+        {
+          "label": "Today's Market: Sensex Today Rallies 579 Points | Nifty Above 24,150 | Infosys Up 5% - Indian Stock Market News - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "IT rebound fuels market rally; Infosys leads Nifty gainers with nearly 6% jump - Fortune India",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Sensex Today Rallies 504 Points | Nifty Above 24,150 | Infosys & TCS Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTW1vZEQzai1wclNvdEZtdldENzQtalhlZklVZEozT1VieENGc3kwYnVLMlNNazlRelFDYkdCUUUxWkk0aVdqMTZ5aWtqelVmakVVNHphc2p4QnRCUG8zQjFMSmJJdnA0dS13Y1dIQ3FfWW9DX05xOTdES2JpOTgtbzRwdnN4QW9LWTlLTExaRDNabHhVQ19xSTh3SjJUU3VEQlU0ZVE5S3dPcEhhdVBYUDB4Wks5QlZ0TmJwQ015OU4?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOem45alJKaVZCVzVzT0RzQWpJekVyM25Nd1pCTG41SEthRVlZU1l0aFV1ZEpWQ2hCR3NDbGpqc3BrU3ZQemRYSFlmMmpYRmhDOTVNZUI1bUsyUXozSmEySWItSU5uU191X1NYTHRsVF8yMDFEM3NFNlpGZnNrX0JSOV9HVFZLMlVhcVpRbjFrak1RYUUtTVc2QVpXRXZlQVd1SWx3bVB1a2h2WncyOV9EaHViM3JmMWxHYXFNedIBygFBVV95cUxQeUk3TWhJdmRLalVodHJmNnR4bE5FQ24wY2MxNDAzbnFzR1ZfUzJ2VmI4LXpRdmljQ3lUd3JzQkpDN2huOUxPREpvQUFOTURRLWptOUt1eXYwRl9heUFNSVRCNDFCWU5GZ3NrQm1NVDlubmdQdjBXbHBVLUlnQnlUekEwM1paTDJBT0FLYS1SdGRBQ1VRbmpTU1NKN3ZlOFdvR3dkOTM2aGNvOEJFRGxXT0UyLUxQNnZsRjNjc0c5dHlRaTZZQmlkcWN3?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT1pqVEFkR21TdDgxeW1sV0lJR21VbGtWdDJFbW54dzlHRUpBcV8wYUdMUWFpbEk2MjRkY0k0TDlJZjVqdi0zYTFGM1JiUV9SRFJJOUdRQzhvQzhRWFhNV25IdUNWMlNWaE0tWnAzbnZiWXh2Ym5KR1VGN3Vzam1pQ0FDd0tRbS15TXhidlZOWmt4MHhzdGFjZHVBaExxanRZR3Q5ZTV2cEx0VGNsQVdlTzc5Q2IwOExQQUhYSVJtb1RPdWJVeFdicDc4dXJhdjdn?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQTNaX055YmdHUW5rTlFST25fTFY3THJEQ3VqNnBoMVdlVmh1OFpqSnVnTHdzZThtSndnVzdSUG96WjlrbmNiZzhvZXdEdVNBZDI0Q1czb1VvMFpaTmFfVE4yNG5pUVd1SFBNc0hBNkxmaHhlSUxLTm9zTm9PckhTb2ZKc2JSM01fUEkxNElaQlphOHZreWFJZWNBQ29pWGdreTRMVGhEeGp4bmpkQ0xUV19RSGtqNUxNdTk5c2pwMTY0cjh3cmNUSTNDWVU4VHZ1SllEN2tNQUJtU2hxV3poQTdTQnhJZ2kyLUl4aFJR0gHzAUFVX3lxTE5rdUdUZEpKN2tyUFNCVjRtZmoyTGsxdjRnNW4zMWg4eWMzTmNlSjZNMUxSZS1aaU9PX3hLcXRpYnRxbnpzbGhOUjd6MjItR3VhZ0xlcU1DeEI1M3BOUFIxTGtPSW9XM2dPVjJaU2Fmb0tCcWdvVzFPdnZ5cmRzZ045VnhPOGdINWZ6VmxBZTY2clJOX1BkcGZKVEJQcDh2Unl1bk1YTWhRVFRIRTE1QWk0QVBXLURsXzdKUVdGRVlfMVpmbHNtcHZPVG96UmluaVo0VC1ScjVhRWRiM25YcDFYV2lwRFhzYTRFLWRNMVJIUWx2Yw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "MphasiS Limited",
+      "symbol": "MPHASIS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 2245.4,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -147,7 +273,7 @@
       "company": "Poonawalla Fincorp Limited",
       "symbol": "POONAWALLA",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -156,7 +282,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 455.6,
+      "lastClose": 456.9,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -164,12 +290,12 @@
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -191,7 +317,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 372.55,
+      "lastClose": 372.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -200,6 +326,76 @@
         },
         {
           "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra Holidays & Resorts India Limited",
+      "symbol": "MHRIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 237.36,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra & Mahindra Financial Services Limited",
+      "symbol": "M&MFIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 318.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating- Others",
           "type": "announcement",
           "verified": true
         },
@@ -226,7 +422,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 4005.0,
+      "lastClose": 4006.6,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -247,187 +443,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1364.8,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1039.0,
-      "catalysts": [
-        {
-          "label": "Sensex Today Rallies 504 Points | Nifty Above 24,150 | Infosys & TCS Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT1pqVEFkR21TdDgxeW1sV0lJR21VbGtWdDJFbW54dzlHRUpBcV8wYUdMUWFpbEk2MjRkY0k0TDlJZjVqdi0zYTFGM1JiUV9SRFJJOUdRQzhvQzhRWFhNV25IdUNWMlNWaE0tWnAzbnZiWXh2Ym5KR1VGN3Vzam1pQ0FDd0tRbS15TXhidlZOWmt4MHhzdGFjZHVBaExxanRZR3Q5ZTV2cEx0VGNsQVdlTzc5Q2IwOExQQUhYSVJtb1RPdWJVeFdicDc4dXJhdjdn?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Gillette India Limited",
-      "symbol": "GILLETTE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 7615.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "MphasiS Limited",
-      "symbol": "MPHASIS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 2240.3,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Dr. Reddy's Laboratories Limited",
-      "symbol": "DRREDDY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 1347.9,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -435,7 +450,42 @@
       "company": "Master Components Limited",
       "symbol": "MASTER",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 14,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 9.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Railtel Corporation Of India Limited",
+      "symbol": "RAILTEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -447,77 +497,7 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Awarding of order(s)/contract(s)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
           "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Avantel Limited",
-      "symbol": "AVANTEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 179.65,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Railtel Corporation Of India Limited",
-      "symbol": "RAILTEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         },
@@ -527,7 +507,7 @@
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         }
@@ -540,7 +520,7 @@
       "company": "Karur Vysya Bank Limited",
       "symbol": "KARURVYSYA",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -549,7 +529,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 294.3,
+      "lastClose": 293.95,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -557,12 +537,47 @@
           "verified": true
         },
         {
-          "label": "Change in Management",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Disclosure under SEBI Takeover Regulations",
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Cipla Limited",
+      "symbol": "CIPLA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1456.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
           "type": "announcement",
           "verified": true
         }
@@ -610,7 +625,7 @@
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -619,21 +634,21 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1039.0,
+      "lastClose": 1040.9,
       "catalysts": [
         {
-          "label": "Sensex Today Rallies 504 Points | Nifty Above 24,150 | Infosys & TCS Top Gainers - Equitymaster",
+          "label": "Today's Market: Sensex Today Rallies 579 Points | Nifty Above 24,150 | Infosys Up 5% - Indian Stock Market News - Equitymaster",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "IT rebound fuels market rally; Infosys leads Nifty gainers with nearly 6% jump - Fortune India",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
+          "label": "Sensex Today Rallies 504 Points | Nifty Above 24,150 | Infosys & TCS Top Gainers - Equitymaster",
+          "type": "company news",
           "verified": true
         }
       ],
@@ -641,10 +656,60 @@
       "sources": [
         {
           "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTW1vZEQzai1wclNvdEZtdldENzQtalhlZklVZEozT1VieENGc3kwYnVLMlNNazlRelFDYkdCUUUxWkk0aVdqMTZ5aWtqelVmakVVNHphc2p4QnRCUG8zQjFMSmJJdnA0dS13Y1dIQ3FfWW9DX05xOTdES2JpOTgtbzRwdnN4QW9LWTlLTExaRDNabHhVQ19xSTh3SjJUU3VEQlU0ZVE5S3dPcEhhdVBYUDB4Wks5QlZ0TmJwQ015OU4?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOem45alJKaVZCVzVzT0RzQWpJekVyM25Nd1pCTG41SEthRVlZU1l0aFV1ZEpWQ2hCR3NDbGpqc3BrU3ZQemRYSFlmMmpYRmhDOTVNZUI1bUsyUXozSmEySWItSU5uU191X1NYTHRsVF8yMDFEM3NFNlpGZnNrX0JSOV9HVFZLMlVhcVpRbjFrak1RYUUtTVc2QVpXRXZlQVd1SWx3bVB1a2h2WncyOV9EaHViM3JmMWxHYXFNedIBygFBVV95cUxQeUk3TWhJdmRLalVodHJmNnR4bE5FQ24wY2MxNDAzbnFzR1ZfUzJ2VmI4LXpRdmljQ3lUd3JzQkpDN2huOUxPREpvQUFOTURRLWptOUt1eXYwRl9heUFNSVRCNDFCWU5GZ3NrQm1NVDlubmdQdjBXbHBVLUlnQnlUekEwM1paTDJBT0FLYS1SdGRBQ1VRbmpTU1NKN3ZlOFdvR3dkOTM2aGNvOEJFRGxXT0UyLUxQNnZsRjNjc0c5dHlRaTZZQmlkcWN3?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT1pqVEFkR21TdDgxeW1sV0lJR21VbGtWdDJFbW54dzlHRUpBcV8wYUdMUWFpbEk2MjRkY0k0TDlJZjVqdi0zYTFGM1JiUV9SRFJJOUdRQzhvQzhRWFhNV25IdUNWMlNWaE0tWnAzbnZiWXh2Ym5KR1VGN3Vzam1pQ0FDd0tRbS15TXhidlZOWmt4MHhzdGFjZHVBaExxanRZR3Q5ZTV2cEx0VGNsQVdlTzc5Q2IwOExQQUhYSVJtb1RPdWJVeFdicDc4dXJhdjdn?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQTNaX055YmdHUW5rTlFST25fTFY3THJEQ3VqNnBoMVdlVmh1OFpqSnVnTHdzZThtSndnVzdSUG96WjlrbmNiZzhvZXdEdVNBZDI0Q1czb1VvMFpaTmFfVE4yNG5pUVd1SFBNc0hBNkxmaHhlSUxLTm9zTm9PckhTb2ZKc2JSM01fUEkxNElaQlphOHZreWFJZWNBQ29pWGdreTRMVGhEeGp4bmpkQ0xUV19RSGtqNUxNdTk5c2pwMTY0cjh3cmNUSTNDWVU4VHZ1SllEN2tNQUJtU2hxV3poQTdTQnhJZ2kyLUl4aFJR0gHzAUFVX3lxTE5rdUdUZEpKN2tyUFNCVjRtZmoyTGsxdjRnNW4zMWg4eWMzTmNlSjZNMUxSZS1aaU9PX3hLcXRpYnRxbnpzbGhOUjd6MjItR3VhZ0xlcU1DeEI1M3BOUFIxTGtPSW9XM2dPVjJaU2Fmb0tCcWdvVzFPdnZ5cmRzZ045VnhPOGdINWZ6VmxBZTY2clJOX1BkcGZKVEJQcDh2Unl1bk1YTWhRVFRIRTE1QWk0QVBXLURsXzdKUVdGRVlfMVpmbHNtcHZPVG96UmluaVo0VC1ScjVhRWRiM25YcDFYV2lwRFhzYTRFLWRNMVJIUWx2Yw?oc=5",
           "verified": true
         }
       ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "MphasiS Limited",
+      "symbol": "MPHASIS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 2245.4,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -660,7 +725,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 7615.0,
+      "lastClose": 7613.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -683,41 +748,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "MphasiS Limited",
-      "symbol": "MPHASIS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 2240.3,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Dr. Reddy's Laboratories Limited",
       "symbol": "DRREDDY",
       "exchange": "NSE",
@@ -730,7 +760,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 1347.9,
+      "lastClose": 1345.7,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -765,7 +795,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1556.5,
+      "lastClose": 1556.9,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -800,7 +830,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1419.5,
+      "lastClose": 1421.3,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -835,7 +865,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 255.45,
+      "lastClose": 255.76,
       "catalysts": [
         {
           "label": "Financial Results",
