@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T04:11:48+00:00",
+  "generatedAt": "2026-07-03T07:41:20+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -144,39 +144,51 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
+      "company": "Avenue Supermarts Limited",
+      "symbol": "DMART",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "direction": "Negative watch",
+      "predictionScore": -3.0,
       "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 293.8,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 3992.8,
       "catalysts": [
         {
-          "label": "Financial Results",
+          "label": "Financial Results/Fund Raising",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Change in Management",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "risks": [
+        {
+          "label": "DMart Operator Avenue Supermarts Shares Sink 5% As Q1 Business Update Disappoints Brokerages",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/avenue-supermarts-share-price-dmart-operators-shares-sink-5-as-q1-business-update-disappoints-brokerages-11721168#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Poonawalla Fincorp Limited",
@@ -191,7 +203,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 457.7,
+      "lastClose": 464.75,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -226,7 +238,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 238.05,
+      "lastClose": 237.25,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -249,6 +261,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "JSW Steel Limited",
+      "symbol": "JSWSTEEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1233.5,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Amalgamation/Merger",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Gillette India Limited",
       "symbol": "GILLETTE",
       "exchange": "NSE",
@@ -261,7 +308,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 7658.0,
+      "lastClose": 7590.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -284,19 +331,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Mahindra Lifespace Developers Limited",
-      "symbol": "MAHLIFE",
+      "company": "Mahindra & Mahindra Financial Services Limited",
+      "symbol": "M&MFIN",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 88,
+      "predictionScore": 2.8,
+      "confidence": 89,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 372.05,
+      "technicalConfidence": 83,
+      "lastClose": 330.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -304,7 +351,7 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Credit Rating- Others",
           "type": "announcement",
           "verified": true
         },
@@ -319,19 +366,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "JSW Steel Limited",
-      "symbol": "JSWSTEEL",
+      "company": "Mahindra Lifespace Developers Limited",
+      "symbol": "MAHLIFE",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.2,
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
       "confidence": 88,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1244.1,
+      "lastClose": 371.15,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -339,7 +386,7 @@
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
@@ -366,7 +413,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 470.25,
+      "lastClose": 471.55,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -386,47 +433,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Avenue Supermarts Limited",
-      "symbol": "DMART",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.0,
-      "confidence": 84,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 4004.7,
-      "catalysts": [
-        {
-          "label": "Stock Picks Today: Avenue Supermarts, HUL, Marico, PNB, Bajaj Finance, Tata Consumer, And More On Brokerages' Radar",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stock-picks-today-avenue-supermarts-hul-marico-pnb-bajaj-finance-tata-consumer-and-more-on-brokerages-radar-11720689#publisher=newsstand",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
@@ -467,6 +473,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1453.8,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Dividend",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Avantel Limited",
       "symbol": "AVANTEL",
       "exchange": "NSE",
@@ -479,7 +520,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 177.45,
+      "lastClose": 177.58,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -572,41 +613,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 293.8,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Newgen Software Technologies Limited",
       "symbol": "NEWGEN",
       "exchange": "NSE",
@@ -642,6 +648,53 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Avenue Supermarts Limited",
+      "symbol": "DMART",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.2,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 3992.8,
+      "catalysts": [
+        {
+          "label": "Financial Results/Fund Raising",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "DMart Operator Avenue Supermarts Shares Sink 5% As Q1 Business Update Disappoints Brokerages",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/avenue-supermarts-share-price-dmart-operators-shares-sink-5-as-q1-business-update-disappoints-brokerages-11721168#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Gillette India Limited",
       "symbol": "GILLETTE",
       "exchange": "NSE",
@@ -654,7 +707,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 7658.0,
+      "lastClose": 7590.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -668,6 +721,41 @@
         },
         {
           "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra & Mahindra Financial Services Limited",
+      "symbol": "M&MFIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 330.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating- Others",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -723,41 +811,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Dr. Reddy's Laboratories Limited",
-      "symbol": "DRREDDY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 1367.7,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Poonawalla Fincorp Limited",
       "symbol": "POONAWALLA",
       "exchange": "NSE",
@@ -770,7 +823,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 457.7,
+      "lastClose": 464.75,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -805,7 +858,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 238.05,
+      "lastClose": 237.25,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -819,41 +872,6 @@
         },
         {
           "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mahindra Lifespace Developers Limited",
-      "symbol": "MAHLIFE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 372.05,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
