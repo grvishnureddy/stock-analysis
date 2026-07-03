@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T11:02:05+00:00",
+  "generatedAt": "2026-07-03T14:34:20+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -142,6 +142,41 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 1459.8,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Ujjivan Small Finance Bank Limited",
@@ -387,41 +422,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mahindra & Mahindra Financial Services Limited",
-      "symbol": "M&MFIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 334.05,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating- Others",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -569,7 +569,7 @@
       "company": "Nestle India Limited",
       "symbol": "NESTLEIND",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -591,7 +591,7 @@
           "verified": true
         },
         {
-          "label": "Record Date",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -822,19 +822,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Poonawalla Fincorp Limited",
-      "symbol": "POONAWALLA",
+      "company": "L&T Technology Services Limited",
+      "symbol": "LTTS",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 460.95,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 3206.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -842,12 +842,12 @@
           "verified": true
         },
         {
-          "label": "Allotment of Securities",
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
