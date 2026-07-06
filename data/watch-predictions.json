@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T11:06:22+00:00",
+  "generatedAt": "2026-07-06T15:56:47+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -77,7 +77,7 @@
       "company": "Nestle India Limited",
       "symbol": "NESTLEIND",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -94,7 +94,7 @@
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         },
@@ -214,6 +214,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Indian Bank",
+      "symbol": "INDIANB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 786.9,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Ujjivan Small Finance Bank Limited",
       "symbol": "UJJIVANSFB",
       "exchange": "NSE",
@@ -240,41 +275,6 @@
         },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mahindra & Mahindra Limited",
-      "symbol": "M&M",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 3201.2,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -354,6 +354,57 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.1,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 829.85,
+      "catalysts": [
+        {
+          "label": "Sensex Today Trades Higher | Nifty Above 24,350 | Bharat Elec & HDFC Bank Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Stocks to watch: HDFC Bank, Vedanta, NBCC India among shares in focus today; check list here - livemint.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Indian shares rise to 10-week high; HDFC Bank leads after strong Q1 growth - Reuters",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRktUSTBBeV9Pbk5RdkxTVkZ2Y1VSeHNQY2JlYXMxUXpxVTRtSXhIazQ5ajluNE1LQ01SUzVxal9Rby1MRl9LbUNNTjF3VG9pNEJKaHVQbEhpUnF5MjRGZ29XUEwtQkVRQWV2dFU4VFUwaEVlank3enRPTTJrNEhWa09GdnFmcGNnSlFGc2Y4eU92WFdjc2pkNzRyRWE3cXM0QVFKQTV2SlJ5YmViWkJraEJzRFJPa2QtNTZDVmRtU2ZfOHQtZXZncGtmR2ozQjVkU2VTSm9zbXpiUQ?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVklWT0s4NTJUeVU2WVhxLTB1T0paLVBfOUh4TWRoVzAzdEhyQXNSWERHVHY4WURnMEFsbldvc1Bic0pRTHFmdFFxOE9xdmlDaHd2NTMyemk0NkhVUjdqRTlYamxLV2xUVF9qTFBYS3RNRTlBZ29nZi1BMXN3SV9YS1N0ejZyZ19XQVVfQVVuRVJ0Q2p0WlRNUTJ3MEtWdmFMU2tUcXJMdEFkRHhtS2F4ajg4ejhnelRxd00yRWtHamdGMFhPX2laYmYzZ3JnRm1nN2lIN0hqTnFEbmRzWUlwZHJhNFduUU5pRkJMNUFfZ9IB9AFBVV95cUxPM3dVNkN2VGVabXFMNlBtUGxPb19nNmljTmNJcS1zXzBHMUMyakNLcW9ZMWd1WmFUQUVPU185TXJESnBaVzZaSjRDR3lHS0hFbHZockwwaTF3ZkRFdWNRdFlHNGwxeDZVRlpxTGR4UUFmal9sVl8xbk5qVWpmb011ZEFxalZJUTZkTl9rSWlCcFAwY0twZWtrVDhmek5Id2lYZ3R5MkhUZmtrQTBja0QtX2I3RW1kUEl3cVNhMkRsdDdyWEttZ1pDLVAxTTB1MnRqR3lMeE5Edk5vTFo5Y0dlTHRrZVZpdzhKTTB5N0JpX1ctZy1m?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREQtVVJtV3Q4TTZ2WXltcmxiS24tUzY2ZWxBM2JVYVpuMm9UNTNKb3Mzb1Z4aGpyZEs0VFAtNW5RY0djZ0U2YzNySG1jWkwtS2V4RmhkM3pocm4zLU1xQWtNZEpfTzdOLURIZE1fdWgtcVNnZmZKNXZ3T3BCWExTY0NOWTZIN0xmaWRHV3M2dTlmZDJWTVY2MGlNNEcyRGQ4ZlZZaFhmVjJfTXpQeFAwVGdn?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Avantel Limited",
       "symbol": "AVANTEL",
       "exchange": "NSE",
@@ -387,41 +438,6 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Cyient DLM Limited",
-      "symbol": "CYIENTDLM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 502.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -464,7 +480,7 @@
       "company": "Nestle India Limited",
       "symbol": "NESTLEIND",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -481,7 +497,7 @@
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         },
@@ -636,6 +652,41 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Indian Bank",
+      "symbol": "INDIANB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 786.9,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Ujjivan Small Finance Bank Limited",
       "symbol": "UJJIVANSFB",
       "exchange": "NSE",
@@ -741,6 +792,57 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 829.85,
+      "catalysts": [
+        {
+          "label": "Sensex Today Trades Higher | Nifty Above 24,350 | Bharat Elec & HDFC Bank Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Stocks to watch: HDFC Bank, Vedanta, NBCC India among shares in focus today; check list here - livemint.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Indian shares rise to 10-week high; HDFC Bank leads after strong Q1 growth - Reuters",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRktUSTBBeV9Pbk5RdkxTVkZ2Y1VSeHNQY2JlYXMxUXpxVTRtSXhIazQ5ajluNE1LQ01SUzVxal9Rby1MRl9LbUNNTjF3VG9pNEJKaHVQbEhpUnF5MjRGZ29XUEwtQkVRQWV2dFU4VFUwaEVlank3enRPTTJrNEhWa09GdnFmcGNnSlFGc2Y4eU92WFdjc2pkNzRyRWE3cXM0QVFKQTV2SlJ5YmViWkJraEJzRFJPa2QtNTZDVmRtU2ZfOHQtZXZncGtmR2ozQjVkU2VTSm9zbXpiUQ?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVklWT0s4NTJUeVU2WVhxLTB1T0paLVBfOUh4TWRoVzAzdEhyQXNSWERHVHY4WURnMEFsbldvc1Bic0pRTHFmdFFxOE9xdmlDaHd2NTMyemk0NkhVUjdqRTlYamxLV2xUVF9qTFBYS3RNRTlBZ29nZi1BMXN3SV9YS1N0ejZyZ19XQVVfQVVuRVJ0Q2p0WlRNUTJ3MEtWdmFMU2tUcXJMdEFkRHhtS2F4ajg4ejhnelRxd00yRWtHamdGMFhPX2laYmYzZ3JnRm1nN2lIN0hqTnFEbmRzWUlwZHJhNFduUU5pRkJMNUFfZ9IB9AFBVV95cUxPM3dVNkN2VGVabXFMNlBtUGxPb19nNmljTmNJcS1zXzBHMUMyakNLcW9ZMWd1WmFUQUVPU185TXJESnBaVzZaSjRDR3lHS0hFbHZockwwaTF3ZkRFdWNRdFlHNGwxeDZVRlpxTGR4UUFmal9sVl8xbk5qVWpmb011ZEFxalZJUTZkTl9rSWlCcFAwY0twZWtrVDhmek5Id2lYZ3R5MkhUZmtrQTBja0QtX2I3RW1kUEl3cVNhMkRsdDdyWEttZ1pDLVAxTTB1MnRqR3lMeE5Edk5vTFo5Y0dlTHRrZVZpdzhKTTB5N0JpX1ctZy1m?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREQtVVJtV3Q4TTZ2WXltcmxiS24tUzY2ZWxBM2JVYVpuMm9UNTNKb3Mzb1Z4aGpyZEs0VFAtNW5RY0djZ0U2YzNySG1jWkwtS2V4RmhkM3pocm4zLU1xQWtNZEpfTzdOLURIZE1fdWgtcVNnZmZKNXZ3T3BCWExTY0NOWTZIN0xmaWRHV3M2dTlmZDJWTVY2MGlNNEcyRGQ4ZlZZaFhmVjJfTXpQeFAwVGdn?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Dr. Reddy's Laboratories Limited",
       "symbol": "DRREDDY",
       "exchange": "NSE",
@@ -767,76 +869,6 @@
         },
         {
           "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mahindra & Mahindra Limited",
-      "symbol": "M&M",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 3201.2,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Poonawalla Fincorp Limited",
-      "symbol": "POONAWALLA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 476.35,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
           "type": "announcement",
           "verified": true
         }
