@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T21:49:39+00:00",
+  "generatedAt": "2026-07-06T23:33:48+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -74,6 +74,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1473.7,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Newgen Software Technologies Limited",
       "symbol": "NEWGEN",
       "exchange": "NSE",
@@ -109,19 +144,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Nestle India Limited",
-      "symbol": "NESTLEIND",
+      "company": "Adani Energy Solutions Limited",
+      "symbol": "ADANIENSOL",
       "exchange": "NSE",
       "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.2,
+      "predictionScore": 3.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 1459.8,
+      "lastClose": 1622.8,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -129,7 +164,7 @@
           "verified": true
         },
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
@@ -205,76 +240,6 @@
         },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Yes Bank Limited",
-      "symbol": "YESBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 24.39,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "JSW Steel Limited",
-      "symbol": "JSWSTEEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 1230.2,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -366,7 +331,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 1374.1,
+      "lastClose": 1367.9,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -401,8 +366,13 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 801.05,
+      "lastClose": 829.85,
       "catalysts": [
+        {
+          "label": "Indian shares rise to 10-week high; HDFC Bank leads after strong Q1 growth - Reuters",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "Sensex Today Trades Higher | Nifty Above 24,350 | Bharat Elec & HDFC Bank Top Gainers - Equitymaster",
           "type": "company news",
@@ -412,15 +382,15 @@
           "label": "Stocks to watch: HDFC Bank, Vedanta, NBCC India among shares in focus today; check list here - livemint.com",
           "type": "company news",
           "verified": true
-        },
-        {
-          "label": "Indian shares rise to 10-week high; HDFC Bank leads after strong Q1 growth - Reuters",
-          "type": "company news",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREQtVVJtV3Q4TTZ2WXltcmxiS24tUzY2ZWxBM2JVYVpuMm9UNTNKb3Mzb1Z4aGpyZEs0VFAtNW5RY0djZ0U2YzNySG1jWkwtS2V4RmhkM3pocm4zLU1xQWtNZEpfTzdOLURIZE1fdWgtcVNnZmZKNXZ3T3BCWExTY0NOWTZIN0xmaWRHV3M2dTlmZDJWTVY2MGlNNEcyRGQ4ZlZZaFhmVjJfTXpQeFAwVGdn?oc=5",
+          "verified": true
+        },
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRktUSTBBeV9Pbk5RdkxTVkZ2Y1VSeHNQY2JlYXMxUXpxVTRtSXhIazQ5ajluNE1LQ01SUzVxal9Rby1MRl9LbUNNTjF3VG9pNEJKaHVQbEhpUnF5MjRGZ29XUEwtQkVRQWV2dFU4VFUwaEVlank3enRPTTJrNEhWa09GdnFmcGNnSlFGc2Y4eU92WFdjc2pkNzRyRWE3cXM0QVFKQTV2SlJ5YmViWkJraEJzRFJPa2QtNTZDVmRtU2ZfOHQtZXZncGtmR2ozQjVkU2VTSm9zbXpiUQ?oc=5",
@@ -430,14 +400,44 @@
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVklWT0s4NTJUeVU2WVhxLTB1T0paLVBfOUh4TWRoVzAzdEhyQXNSWERHVHY4WURnMEFsbldvc1Bic0pRTHFmdFFxOE9xdmlDaHd2NTMyemk0NkhVUjdqRTlYamxLV2xUVF9qTFBYS3RNRTlBZ29nZi1BMXN3SV9YS1N0ejZyZ19XQVVfQVVuRVJ0Q2p0WlRNUTJ3MEtWdmFMU2tUcXJMdEFkRHhtS2F4ajg4ejhnelRxd00yRWtHamdGMFhPX2laYmYzZ3JnRm1nN2lIN0hqTnFEbmRzWUlwZHJhNFduUU5pRkJMNUFfZ9IB9AFBVV95cUxPM3dVNkN2VGVabXFMNlBtUGxPb19nNmljTmNJcS1zXzBHMUMyakNLcW9ZMWd1WmFUQUVPU185TXJESnBaVzZaSjRDR3lHS0hFbHZockwwaTF3ZkRFdWNRdFlHNGwxeDZVRlpxTGR4UUFmal9sVl8xbk5qVWpmb011ZEFxalZJUTZkTl9rSWlCcFAwY0twZWtrVDhmek5Id2lYZ3R5MkhUZmtrQTBja0QtX2I3RW1kUEl3cVNhMkRsdDdyWEttZ1pDLVAxTTB1MnRqR3lMeE5Edk5vTFo5Y0dlTHRrZVZpdzhKTTB5N0JpX1ctZy1m?oc=5",
           "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREQtVVJtV3Q4TTZ2WXltcmxiS24tUzY2ZWxBM2JVYVpuMm9UNTNKb3Mzb1Z4aGpyZEs0VFAtNW5RY0djZ0U2YzNySG1jWkwtS2V4RmhkM3pocm4zLU1xQWtNZEpfTzdOLURIZE1fdWgtcVNnZmZKNXZ3T3BCWExTY0NOWTZIN0xmaWRHV3M2dTlmZDJWTVY2MGlNNEcyRGQ4ZlZZaFhmVjJfTXpQeFAwVGdn?oc=5",
-          "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Kfin Technologies Limited",
+      "symbol": "KFINTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 880.05,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Cessation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -475,6 +475,41 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1473.7,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Avantel Limited",
@@ -547,19 +582,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Nestle India Limited",
-      "symbol": "NESTLEIND",
+      "company": "Adani Energy Solutions Limited",
+      "symbol": "ADANIENSOL",
       "exchange": "NSE",
       "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.5,
+      "predictionScore": 4.8,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 1459.8,
+      "lastClose": 1622.8,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -567,7 +602,7 @@
           "verified": true
         },
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
@@ -734,8 +769,13 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 801.05,
+      "lastClose": 829.85,
       "catalysts": [
+        {
+          "label": "Indian shares rise to 10-week high; HDFC Bank leads after strong Q1 growth - Reuters",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "Sensex Today Trades Higher | Nifty Above 24,350 | Bharat Elec & HDFC Bank Top Gainers - Equitymaster",
           "type": "company news",
@@ -745,15 +785,15 @@
           "label": "Stocks to watch: HDFC Bank, Vedanta, NBCC India among shares in focus today; check list here - livemint.com",
           "type": "company news",
           "verified": true
-        },
-        {
-          "label": "Indian shares rise to 10-week high; HDFC Bank leads after strong Q1 growth - Reuters",
-          "type": "company news",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREQtVVJtV3Q4TTZ2WXltcmxiS24tUzY2ZWxBM2JVYVpuMm9UNTNKb3Mzb1Z4aGpyZEs0VFAtNW5RY0djZ0U2YzNySG1jWkwtS2V4RmhkM3pocm4zLU1xQWtNZEpfTzdOLURIZE1fdWgtcVNnZmZKNXZ3T3BCWExTY0NOWTZIN0xmaWRHV3M2dTlmZDJWTVY2MGlNNEcyRGQ4ZlZZaFhmVjJfTXpQeFAwVGdn?oc=5",
+          "verified": true
+        },
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRktUSTBBeV9Pbk5RdkxTVkZ2Y1VSeHNQY2JlYXMxUXpxVTRtSXhIazQ5ajluNE1LQ01SUzVxal9Rby1MRl9LbUNNTjF3VG9pNEJKaHVQbEhpUnF5MjRGZ29XUEwtQkVRQWV2dFU4VFUwaEVlank3enRPTTJrNEhWa09GdnFmcGNnSlFGc2Y4eU92WFdjc2pkNzRyRWE3cXM0QVFKQTV2SlJ5YmViWkJraEJzRFJPa2QtNTZDVmRtU2ZfOHQtZXZncGtmR2ozQjVkU2VTSm9zbXpiUQ?oc=5",
@@ -763,48 +803,8 @@
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVklWT0s4NTJUeVU2WVhxLTB1T0paLVBfOUh4TWRoVzAzdEhyQXNSWERHVHY4WURnMEFsbldvc1Bic0pRTHFmdFFxOE9xdmlDaHd2NTMyemk0NkhVUjdqRTlYamxLV2xUVF9qTFBYS3RNRTlBZ29nZi1BMXN3SV9YS1N0ejZyZ19XQVVfQVVuRVJ0Q2p0WlRNUTJ3MEtWdmFMU2tUcXJMdEFkRHhtS2F4ajg4ejhnelRxd00yRWtHamdGMFhPX2laYmYzZ3JnRm1nN2lIN0hqTnFEbmRzWUlwZHJhNFduUU5pRkJMNUFfZ9IB9AFBVV95cUxPM3dVNkN2VGVabXFMNlBtUGxPb19nNmljTmNJcS1zXzBHMUMyakNLcW9ZMWd1WmFUQUVPU185TXJESnBaVzZaSjRDR3lHS0hFbHZockwwaTF3ZkRFdWNRdFlHNGwxeDZVRlpxTGR4UUFmal9sVl8xbk5qVWpmb011ZEFxalZJUTZkTl9rSWlCcFAwY0twZWtrVDhmek5Id2lYZ3R5MkhUZmtrQTBja0QtX2I3RW1kUEl3cVNhMkRsdDdyWEttZ1pDLVAxTTB1MnRqR3lMeE5Edk5vTFo5Y0dlTHRrZVZpdzhKTTB5N0JpX1ctZy1m?oc=5",
           "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREQtVVJtV3Q4TTZ2WXltcmxiS24tUzY2ZWxBM2JVYVpuMm9UNTNKb3Mzb1Z4aGpyZEs0VFAtNW5RY0djZ0U2YzNySG1jWkwtS2V4RmhkM3pocm4zLU1xQWtNZEpfTzdOLURIZE1fdWgtcVNnZmZKNXZ3T3BCWExTY0NOWTZIN0xmaWRHV3M2dTlmZDJWTVY2MGlNNEcyRGQ4ZlZZaFhmVjJfTXpQeFAwVGdn?oc=5",
-          "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Yes Bank Limited",
-      "symbol": "YESBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 24.39,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -820,7 +820,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 1374.1,
+      "lastClose": 1367.9,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -843,19 +843,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "JSW Steel Limited",
-      "symbol": "JSWSTEEL",
+      "company": "Poonawalla Fincorp Limited",
+      "symbol": "POONAWALLA",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1230.2,
+      "lastClose": 460.95,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -863,12 +863,12 @@
           "verified": true
         },
         {
-          "label": "Credit Rating",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Allotment of Securities",
           "type": "announcement",
           "verified": true
         }
