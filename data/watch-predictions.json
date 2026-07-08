@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T14:43:07+00:00",
+  "generatedAt": "2026-07-08T17:53:55+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,7 +7,7 @@
       "company": "Innovision Limited",
       "symbol": "INNOVISION",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -19,17 +19,17 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Change in Director(s)",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -182,7 +182,7 @@
       "company": "Poonawalla Fincorp Limited",
       "symbol": "POONAWALLA",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -199,12 +199,12 @@
           "verified": true
         },
         {
-          "label": "Reply to Clarification- Financial results",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Reply to Clarification- Financial results",
           "type": "announcement",
           "verified": true
         }
@@ -246,57 +246,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Indian Bank",
-      "symbol": "INDIANB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 772.4,
-      "catalysts": [
-        {
-          "label": "South Indian Bank Shares Fall 10% Amid Market Crash; RBI Approves 3-Year Term For New CEO",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "South Indian Bank shares drop 9% after RBI approves three-year term for new CEO - CNBC TV18",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "South Indian Bank receives RBI approval for appointment of MD & CEO - Business Standard",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/south-indian-bank-shares-crash-10-percent-after-rbi-approves-appointment-of-new-md-ceo-11742277#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSGNVb0l1T3dVUXJXY1JBQUM0ZDB2TFdhc3laS0FUMVRZSUZhNnVSVkZiLXlLWEFiODVQYk9fdzVuOFB3OFBWSkJHcTIzNDlHeU5KOEUzSmp0SUl5QUVTZjk1cjhRTkVEM0FEWVUtRlJrS25udnZTU0k1WlA2dTBQSnRRY2RYeENpLTNlVlFwQkl4OVVzRkI3RWlONVRfdXV4Sno3WVZSXzdzQjFKZXNqN3lCSDFBN05hVlQ0TVZ30gHDAUFVX3lxTE4yZ1V1TFBFRHpLN1hLcGtZeEVCNUJVbzBXN1VYX1ZvWUhwMEVocE1ibXhEWUE2b2pTSEktYU1ERi16WDJ0UFo1cDMzT3JnX1c5d1hhMURVc21wYkJGUmdqcjQteVhydlJfdzF1Y2JMdE9XNFE5cG81cWJKZ0U5aXB6Q2ZQVVR3OXo1cE83bXplTW5xVnNmMnpEa19wS0VrbXdOSnJ4bnZMXzBhYWI1OWdpSUdqaXVBbjJIcUtzU2wzbUNpUQ?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdjF3V3RFLWMxbVJnSnQzU1BtT2lTaGgyVnFodG9rU1EyZFRTa3N4REVxSlJ0ME9qZ0hfMmRYUTVSUExoVGNGdm4wWE1zY05rQk0tLVNaRTd6QVZQaV91M3kwa012aW5mbUhqUk1lUm0tX3hha01FV2NKOGtNTV9tMWZpeU83VldnV2FvY3RyN3lJODl0aWFqMm5JRUZkcDFrZGtNUVlYeThTZjhpdzBUX0VvNGVKRzk0dmF2c3cydzNzQVd4OTdONmh1RkVuV1FrQ1B3ZzFsYjBPUDdELTVLVdIB5gFBVV95cUxQeHpKVjBmMlk2cTdUUnEybFBjX05BUHZ0QVlnWjd0ZDlwYVM1S0NQWU5VVHplUVl1LWJ4UmEwZ19pLWtZTTQ4dDRmeUdjR01MSWlzOVY5QUdmUHd5cnRGVzJBdFI4dUpGMlN0SGxEVklCem5QVVNSWHp6WFFsZWh1Zjg5QWdjUXdUdHBUcW93NUgxWWNKenhDRmZ1Rmw5T3NqczFHOThib3BzSTdCeUhJVmxtYWZPcm1LZC14VlA0V3I1SlRfWE4yM0czLU5jWmVncWJVVlVvc0hvOXhXTlZVM2R0N1lPZw?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -449,6 +398,41 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Medplus Health Services Limited",
+      "symbol": "MEDPLUS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 816.2,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -456,7 +440,7 @@
       "company": "Innovision Limited",
       "symbol": "INNOVISION",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -468,17 +452,17 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Change in Director(s)",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -712,7 +696,7 @@
       "company": "Poonawalla Fincorp Limited",
       "symbol": "POONAWALLA",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -729,12 +713,12 @@
           "verified": true
         },
         {
-          "label": "Reply to Clarification- Financial results",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Reply to Clarification- Financial results",
           "type": "announcement",
           "verified": true
         }
@@ -776,57 +760,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Indian Bank",
-      "symbol": "INDIANB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 772.4,
-      "catalysts": [
-        {
-          "label": "South Indian Bank Shares Fall 10% Amid Market Crash; RBI Approves 3-Year Term For New CEO",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "South Indian Bank shares drop 9% after RBI approves three-year term for new CEO - CNBC TV18",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "South Indian Bank receives RBI approval for appointment of MD & CEO - Business Standard",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/south-indian-bank-shares-crash-10-percent-after-rbi-approves-appointment-of-new-md-ceo-11742277#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSGNVb0l1T3dVUXJXY1JBQUM0ZDB2TFdhc3laS0FUMVRZSUZhNnVSVkZiLXlLWEFiODVQYk9fdzVuOFB3OFBWSkJHcTIzNDlHeU5KOEUzSmp0SUl5QUVTZjk1cjhRTkVEM0FEWVUtRlJrS25udnZTU0k1WlA2dTBQSnRRY2RYeENpLTNlVlFwQkl4OVVzRkI3RWlONVRfdXV4Sno3WVZSXzdzQjFKZXNqN3lCSDFBN05hVlQ0TVZ30gHDAUFVX3lxTE4yZ1V1TFBFRHpLN1hLcGtZeEVCNUJVbzBXN1VYX1ZvWUhwMEVocE1ibXhEWUE2b2pTSEktYU1ERi16WDJ0UFo1cDMzT3JnX1c5d1hhMURVc21wYkJGUmdqcjQteVhydlJfdzF1Y2JMdE9XNFE5cG81cWJKZ0U5aXB6Q2ZQVVR3OXo1cE83bXplTW5xVnNmMnpEa19wS0VrbXdOSnJ4bnZMXzBhYWI1OWdpSUdqaXVBbjJIcUtzU2wzbUNpUQ?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdjF3V3RFLWMxbVJnSnQzU1BtT2lTaGgyVnFodG9rU1EyZFRTa3N4REVxSlJ0ME9qZ0hfMmRYUTVSUExoVGNGdm4wWE1zY05rQk0tLVNaRTd6QVZQaV91M3kwa012aW5mbUhqUk1lUm0tX3hha01FV2NKOGtNTV9tMWZpeU83VldnV2FvY3RyN3lJODl0aWFqMm5JRUZkcDFrZGtNUVlYeThTZjhpdzBUX0VvNGVKRzk0dmF2c3cydzNzQVd4OTdONmh1RkVuV1FrQ1B3ZzFsYjBPUDdELTVLVdIB5gFBVV95cUxQeHpKVjBmMlk2cTdUUnEybFBjX05BUHZ0QVlnWjd0ZDlwYVM1S0NQWU5VVHplUVl1LWJ4UmEwZ19pLWtZTTQ4dDRmeUdjR01MSWlzOVY5QUdmUHd5cnRGVzJBdFI4dUpGMlN0SGxEVklCem5QVVNSWHp6WFFsZWh1Zjg5QWdjUXdUdHBUcW93NUgxWWNKenhDRmZ1Rmw5T3NqczFHOThib3BzSTdCeUhJVmxtYWZPcm1LZC14VlA0V3I1SlRfWE4yM0czLU5jWmVncWJVVlVvc0hvOXhXTlZVM2R0N1lPZw?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -891,6 +824,41 @@
         },
         {
           "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Jana Small Finance Bank Limited",
+      "symbol": "JSFB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 441.2,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         }
