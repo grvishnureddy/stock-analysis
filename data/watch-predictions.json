@@ -1,22 +1,57 @@
 {
-  "generatedAt": "2026-07-08T10:32:04+00:00",
+  "generatedAt": "2026-07-08T14:43:07+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "Nestle India Limited",
-      "symbol": "NESTLEIND",
+      "company": "Innovision Limited",
+      "symbol": "INNOVISION",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 6.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Change in Director(s)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Adani Energy Solutions Limited",
+      "symbol": "ADANIENSOL",
       "exchange": "NSE",
       "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.8,
+      "predictionScore": 3.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1450.5,
+      "technicalConfidence": 83,
+      "lastClose": 1655.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -29,7 +64,7 @@
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -147,7 +182,7 @@
       "company": "Poonawalla Fincorp Limited",
       "symbol": "POONAWALLA",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -164,12 +199,12 @@
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Reply to Clarification- Financial results",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Issue of Securities",
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         }
@@ -217,7 +252,7 @@
       "company": "Indian Bank",
       "symbol": "INDIANB",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -229,6 +264,11 @@
       "lastClose": 772.4,
       "catalysts": [
         {
+          "label": "South Indian Bank Shares Fall 10% Amid Market Crash; RBI Approves 3-Year Term For New CEO",
+          "type": "company news",
+          "verified": true
+        },
+        {
           "label": "South Indian Bank shares drop 9% after RBI approves three-year term for new CEO - CNBC TV18",
           "type": "company news",
           "verified": true
@@ -237,15 +277,15 @@
           "label": "South Indian Bank receives RBI approval for appointment of MD & CEO - Business Standard",
           "type": "company news",
           "verified": true
-        },
-        {
-          "label": "South Indian Bank appoints Mahesh Muralidhar Pai as MD & CEO from Oct 1 - Business Standard",
-          "type": "company news",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/south-indian-bank-shares-crash-10-percent-after-rbi-approves-appointment-of-new-md-ceo-11742277#publisher=newsstand",
+          "verified": true
+        },
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSGNVb0l1T3dVUXJXY1JBQUM0ZDB2TFdhc3laS0FUMVRZSUZhNnVSVkZiLXlLWEFiODVQYk9fdzVuOFB3OFBWSkJHcTIzNDlHeU5KOEUzSmp0SUl5QUVTZjk1cjhRTkVEM0FEWVUtRlJrS25udnZTU0k1WlA2dTBQSnRRY2RYeENpLTNlVlFwQkl4OVVzRkI3RWlONVRfdXV4Sno3WVZSXzdzQjFKZXNqN3lCSDFBN05hVlQ0TVZ30gHDAUFVX3lxTE4yZ1V1TFBFRHpLN1hLcGtZeEVCNUJVbzBXN1VYX1ZvWUhwMEVocE1ibXhEWUE2b2pTSEktYU1ERi16WDJ0UFo1cDMzT3JnX1c5d1hhMURVc21wYkJGUmdqcjQteVhydlJfdzF1Y2JMdE9XNFE5cG81cWJKZ0U5aXB6Q2ZQVVR3OXo1cE83bXplTW5xVnNmMnpEa19wS0VrbXdOSnJ4bnZMXzBhYWI1OWdpSUdqaXVBbjJIcUtzU2wzbUNpUQ?oc=5",
@@ -254,11 +294,6 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdjF3V3RFLWMxbVJnSnQzU1BtT2lTaGgyVnFodG9rU1EyZFRTa3N4REVxSlJ0ME9qZ0hfMmRYUTVSUExoVGNGdm4wWE1zY05rQk0tLVNaRTd6QVZQaV91M3kwa012aW5mbUhqUk1lUm0tX3hha01FV2NKOGtNTV9tMWZpeU83VldnV2FvY3RyN3lJODl0aWFqMm5JRUZkcDFrZGtNUVlYeThTZjhpdzBUX0VvNGVKRzk0dmF2c3cydzNzQVd4OTdONmh1RkVuV1FrQ1B3ZzFsYjBPUDdELTVLVdIB5gFBVV95cUxQeHpKVjBmMlk2cTdUUnEybFBjX05BUHZ0QVlnWjd0ZDlwYVM1S0NQWU5VVHplUVl1LWJ4UmEwZ19pLWtZTTQ4dDRmeUdjR01MSWlzOVY5QUdmUHd5cnRGVzJBdFI4dUpGMlN0SGxEVklCem5QVVNSWHp6WFFsZWh1Zjg5QWdjUXdUdHBUcW93NUgxWWNKenhDRmZ1Rmw5T3NqczFHOThib3BzSTdCeUhJVmxtYWZPcm1LZC14VlA0V3I1SlRfWE4yM0czLU5jWmVncWJVVlVvc0hvOXhXTlZVM2R0N1lPZw?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRHdkT2d0b1dmaGRuQ3IxcDZNN2ROdV9MYklyUjlnVlpHdHU3NngweHYwTk1GU3d4MV9RWUJIVm5STVFQdWVIaHVUT0Q3NHRkZ1BUY2FhTm1aZHJTN0dwY3R2N1UyUjVGYm9KdUhDSFYxdTN6ZUktOEhYTGxTQnd3SUppRHhDTVRuWVl6R0dRLUpNZEtHb0UtTEJtbVpCUmVXcFkyRWdqUzRnRFpmVXZJOHcyd185RXV6ZEozd1BVLVFERl9rMTJNZmUzVlZZQ2g0WTVVSkV2N1BDQ1RGbnNfNU1xT1pDZ9IB6wFBVV95cUxNZ3RpdE5xQTc2X0FQLXNuSm5IRWlQcWkyV29BOXZrLXVJUjNnMDV0QjJsNWtNcFp2MjJxZ1pMYmU0dDRNWm1ZZENhcEFmTVFTeVJuRHQyQnVqREhPVkIydG9XOWtWZTJ5R1FBc1IzQUpIT3R2aVEzOC1nT3dyemVyek9nTS1IZXBNQXlhRmQzcXA4bjhQMVZYQWdhd3hMTXM1cXcxOElxSmNKeWtJMS1iVkRpUjdkbXhtSFAwYVdWVFVKY1FzYjJVTDFVeVI5Wi1zbmIxNjhqTTliS29ZXzRud2s2c2tGTkFaejhB?oc=5",
           "verified": true
         }
       ],
@@ -291,6 +326,87 @@
         },
         {
           "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Simbhaoli Sugars Limited",
+      "symbol": "SIMBHALS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.9,
+      "confidence": 89,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 6.7,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Reply to Clarification- Financial results",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Defaults on Payment of Interest/Principal",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Fraud/Default/Arrest",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Muthoot Capital Services Limited",
+      "symbol": "MUTHOOTCAP",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 217.82,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         }
@@ -333,69 +449,36 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "Adani Energy Solutions Limited",
-      "symbol": "ADANIENSOL",
+      "company": "Innovision Limited",
+      "symbol": "INNOVISION",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
-      "horizon": "today",
+      "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.5,
-      "confidence": 87,
+      "predictionScore": 6.0,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 1655.5,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Change in Director(s)",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Medplus Health Services Limited",
-      "symbol": "MEDPLUS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 816.2,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         }
@@ -403,89 +486,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Simbhaoli Sugars Limited",
-      "symbol": "SIMBHALS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.9,
-      "confidence": 82,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 6.7,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Reply to Clarification- Financial results",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Reply to Clarification- Financial results",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Defaults on Payment of Interest/Principal",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Fraud/Default/Arrest",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    }
-  ],
-  "tomorrow": [
-    {
-      "company": "Nestle India Limited",
-      "symbol": "NESTLEIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1450.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "L&T Finance Limited",
@@ -523,6 +523,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Adani Energy Solutions Limited",
+      "symbol": "ADANIENSOL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 1655.5,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "ICICI Bank Limited",
       "symbol": "ICICIBANK",
       "exchange": "NSE",
@@ -593,41 +628,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Adani Energy Solutions Limited",
-      "symbol": "ADANIENSOL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 1655.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Medplus Health Services Limited",
       "symbol": "MEDPLUS",
       "exchange": "NSE",
@@ -663,10 +663,56 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Simbhaoli Sugars Limited",
+      "symbol": "SIMBHALS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.7,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 6.7,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Reply to Clarification- Financial results",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Defaults on Payment of Interest/Principal",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Fraud/Default/Arrest",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Poonawalla Fincorp Limited",
       "symbol": "POONAWALLA",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -683,12 +729,12 @@
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Reply to Clarification- Financial results",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Issue of Securities",
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         }
@@ -736,7 +782,7 @@
       "company": "Indian Bank",
       "symbol": "INDIANB",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -748,6 +794,11 @@
       "lastClose": 772.4,
       "catalysts": [
         {
+          "label": "South Indian Bank Shares Fall 10% Amid Market Crash; RBI Approves 3-Year Term For New CEO",
+          "type": "company news",
+          "verified": true
+        },
+        {
           "label": "South Indian Bank shares drop 9% after RBI approves three-year term for new CEO - CNBC TV18",
           "type": "company news",
           "verified": true
@@ -756,15 +807,15 @@
           "label": "South Indian Bank receives RBI approval for appointment of MD & CEO - Business Standard",
           "type": "company news",
           "verified": true
-        },
-        {
-          "label": "South Indian Bank appoints Mahesh Muralidhar Pai as MD & CEO from Oct 1 - Business Standard",
-          "type": "company news",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/south-indian-bank-shares-crash-10-percent-after-rbi-approves-appointment-of-new-md-ceo-11742277#publisher=newsstand",
+          "verified": true
+        },
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSGNVb0l1T3dVUXJXY1JBQUM0ZDB2TFdhc3laS0FUMVRZSUZhNnVSVkZiLXlLWEFiODVQYk9fdzVuOFB3OFBWSkJHcTIzNDlHeU5KOEUzSmp0SUl5QUVTZjk1cjhRTkVEM0FEWVUtRlJrS25udnZTU0k1WlA2dTBQSnRRY2RYeENpLTNlVlFwQkl4OVVzRkI3RWlONVRfdXV4Sno3WVZSXzdzQjFKZXNqN3lCSDFBN05hVlQ0TVZ30gHDAUFVX3lxTE4yZ1V1TFBFRHpLN1hLcGtZeEVCNUJVbzBXN1VYX1ZvWUhwMEVocE1ibXhEWUE2b2pTSEktYU1ERi16WDJ0UFo1cDMzT3JnX1c5d1hhMURVc21wYkJGUmdqcjQteVhydlJfdzF1Y2JMdE9XNFE5cG81cWJKZ0U5aXB6Q2ZQVVR3OXo1cE83bXplTW5xVnNmMnpEa19wS0VrbXdOSnJ4bnZMXzBhYWI1OWdpSUdqaXVBbjJIcUtzU2wzbUNpUQ?oc=5",
@@ -773,11 +824,6 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdjF3V3RFLWMxbVJnSnQzU1BtT2lTaGgyVnFodG9rU1EyZFRTa3N4REVxSlJ0ME9qZ0hfMmRYUTVSUExoVGNGdm4wWE1zY05rQk0tLVNaRTd6QVZQaV91M3kwa012aW5mbUhqUk1lUm0tX3hha01FV2NKOGtNTV9tMWZpeU83VldnV2FvY3RyN3lJODl0aWFqMm5JRUZkcDFrZGtNUVlYeThTZjhpdzBUX0VvNGVKRzk0dmF2c3cydzNzQVd4OTdONmh1RkVuV1FrQ1B3ZzFsYjBPUDdELTVLVdIB5gFBVV95cUxQeHpKVjBmMlk2cTdUUnEybFBjX05BUHZ0QVlnWjd0ZDlwYVM1S0NQWU5VVHplUVl1LWJ4UmEwZ19pLWtZTTQ4dDRmeUdjR01MSWlzOVY5QUdmUHd5cnRGVzJBdFI4dUpGMlN0SGxEVklCem5QVVNSWHp6WFFsZWh1Zjg5QWdjUXdUdHBUcW93NUgxWWNKenhDRmZ1Rmw5T3NqczFHOThib3BzSTdCeUhJVmxtYWZPcm1LZC14VlA0V3I1SlRfWE4yM0czLU5jWmVncWJVVlVvc0hvOXhXTlZVM2R0N1lPZw?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRHdkT2d0b1dmaGRuQ3IxcDZNN2ROdV9MYklyUjlnVlpHdHU3NngweHYwTk1GU3d4MV9RWUJIVm5STVFQdWVIaHVUT0Q3NHRkZ1BUY2FhTm1aZHJTN0dwY3R2N1UyUjVGYm9KdUhDSFYxdTN6ZUktOEhYTGxTQnd3SUppRHhDTVRuWVl6R0dRLUpNZEtHb0UtTEJtbVpCUmVXcFkyRWdqUzRnRFpmVXZJOHcyd185RXV6ZEozd1BVLVFERl9rMTJNZmUzVlZZQ2g0WTVVSkV2N1BDQ1RGbnNfNU1xT1pDZ9IB6wFBVV95cUxNZ3RpdE5xQTc2X0FQLXNuSm5IRWlQcWkyV29BOXZrLXVJUjNnMDV0QjJsNWtNcFp2MjJxZ1pMYmU0dDRNWm1ZZENhcEFmTVFTeVJuRHQyQnVqREhPVkIydG9XOWtWZTJ5R1FBc1IzQUpIT3R2aVEzOC1nT3dyemVyek9nTS1IZXBNQXlhRmQzcXA4bjhQMVZYQWdhd3hMTXM1cXcxOElxSmNKeWtJMS1iVkRpUjdkbXhtSFAwYVdWVFVKY1FzYjJVTDFVeVI5Wi1zbmIxNjhqTTliS29ZXzRud2s2c2tGTkFaejhB?oc=5",
           "verified": true
         }
       ],
@@ -819,50 +865,15 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Jana Small Finance Bank Limited",
-      "symbol": "JSFB",
+      "company": "Muthoot Capital Services Limited",
+      "symbol": "MUTHOOTCAP",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 441.2,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Muthoot Capital Services Limited",
-      "symbol": "MUTHOOTCAP",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 3.2,
-      "confidence": 88,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
@@ -874,12 +885,12 @@
           "verified": true
         },
         {
-          "label": "Change in Management",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Change in Director(s)",
+          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         }
