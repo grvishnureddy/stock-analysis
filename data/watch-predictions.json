@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T11:21:06+00:00",
+  "generatedAt": "2026-07-09T15:36:08+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -39,10 +39,61 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Tata Consultancy Services Limited",
+      "symbol": "TCS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 2049.5,
+      "catalysts": [
+        {
+          "label": "TCS Q1 Results Live: Wage Hikes Impacted Margins By 170 Basis Points; BSFI Segment Led Growth",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Indian shares edge up; focus on TCS earnings, Mideast developments - Reuters",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "TCS Q1 Concall: AI Dominates Campus Hiring But Deals Are 'Not Long Term'",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/tcs-q1-results-live-updates-share-price-dividend-q1fy27-update-11747057#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2pYT0Y3aVhLbmFNa3R1QnlsdkFkTFFHY3puR3lLalR2ODZCYkRPUXJuNjN4Z1lMdFp4WVJ6bmg4TlEycUE5NG10cnM4NVpocElPWWZ0eHg2cHVFcjVidEp5cldhMnZKdlhGem5XVC1lU05PN09sLUx6eFVmOWJrMXh1MF9mWlhOdTZ3UmRwUTJsaWRsdE5Fb3I3cmpVYWpOMnhvVVRGZjctcUREOGkybkZJVQ?oc=5",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/tcs-q1-concall-ai-dominates-campus-hiring-but-deals-are-not-long-term-11750114#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "HCL Technologies Limited",
       "symbol": "HCLTECH",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -59,12 +110,12 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -144,6 +195,76 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Can Fin Homes Limited",
+      "symbol": "CANFINHOME",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 916.1,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Kotak Mahindra Bank Limited",
+      "symbol": "KOTAKBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 377.15,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "JSW Steel Limited",
       "symbol": "JSWSTEEL",
       "exchange": "NSE",
@@ -179,82 +300,6 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVl9LOVJpdmhXX05PTW9iRHR4TGNvRmp6d2Z3V1VxWXQyWjc0eUZmMVpzM2p5dUJaRVlUY0JaM3dWcFBhVVY2N25OTlNxSDNvSU5aMmxLc3Bjc3haVmVyU3ZrMktlZEsxMzVBREpLbllMaU1GZVM4ZlhWSTd4eXQ1bGFhNC1pNUI1eU1YUk5hU2dydWw4QlZybGhrbDdfV1N6ZFBQX09pZ0pKLUlCUG93cHp6bUhRazU0b1VVTldOUGFhUW9LVERzSnJtclXSAdIBQVVfeXFMTmgtWHNwX0VMOTBpZW5TZjd2MloxRnhsWmdZQ2hqRFhMTWxBWFNFU2tYSnJTWFp6dW9IWGw3bkp0eGVrV1lyaTRvakVNbTJ2cmRVNU5TbTc4cF9CUVNrT014SnpHN1NNc0JYSHVkeVNRRHhQZ3hjWkxGVFdjMGtrZU9yZkNkMVlFVlBJQ2NwZkllXzdzT0lHMlI1RGpVNFJZRjRHMTAtSU8tQWpuQWxBSU1XQ3M1MmxFYl9ydXdhUHlkOTllWmZVZWcwcWNLUDZYbXp3?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Kotak Mahindra Bank Limited",
-      "symbol": "KOTAKBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 377.15,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Tata Consultancy Services Limited",
-      "symbol": "TCS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.8,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 2049.5,
-      "catalysts": [
-        {
-          "label": "TCS Q1 Results 2026 Live Updates: Shares Trade Lower Ahead Of Earnings; Focus On Revenue, Dividend, Hiring",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/tcs-q1-results-live-updates-share-price-dividend-q1fy27-update-11747057#publisher=newsstand",
           "verified": true
         }
       ],
@@ -331,32 +376,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Adani Energy Solutions Limited",
-      "symbol": "ADANIENSOL",
+      "company": "Anand Rathi Wealth Limited",
+      "symbol": "ANANDRATHI",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
+      "predictionScore": 2.2,
+      "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1618.5,
+      "technicalConfidence": 67,
+      "lastClose": 2095.6,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
+          "label": "Integrated Filing- Financial",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -392,41 +437,6 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1380.7,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         }
@@ -476,7 +486,7 @@
       "company": "HCL Technologies Limited",
       "symbol": "HCLTECH",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -493,12 +503,12 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -543,6 +553,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Can Fin Homes Limited",
+      "symbol": "CANFINHOME",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 916.1,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Anand Rathi Share and Stock Brokers Limited",
       "symbol": "ARSSBL",
       "exchange": "NSE",
@@ -578,38 +623,54 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Adani Energy Solutions Limited",
-      "symbol": "ADANIENSOL",
+      "company": "Tata Consultancy Services Limited",
+      "symbol": "TCS",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.8,
+      "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1618.5,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 2049.5,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "TCS Q1 Results Live: Wage Hikes Impacted Margins By 170 Basis Points; BSFI Segment Led Growth",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Credit Rating",
-          "type": "announcement",
+          "label": "Indian shares edge up; focus on TCS earnings, Mideast developments - Reuters",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
+          "label": "TCS Q1 Concall: AI Dominates Campus Hiring But Deals Are 'Not Long Term'",
+          "type": "company news",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/tcs-q1-results-live-updates-share-price-dividend-q1fy27-update-11747057#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2pYT0Y3aVhLbmFNa3R1QnlsdkFkTFFHY3puR3lLalR2ODZCYkRPUXJuNjN4Z1lMdFp4WVJ6bmg4TlEycUE5NG10cnM4NVpocElPWWZ0eHg2cHVFcjVidEp5cldhMnZKdlhGem5XVC1lU05PN09sLUx6eFVmOWJrMXh1MF9mWlhOdTZ3UmRwUTJsaWRsdE5Fb3I3cmpVYWpOMnhvVVRGZjctcUREOGkybkZJVQ?oc=5",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/tcs-q1-concall-ai-dominates-campus-hiring-but-deals-are-not-long-term-11750114#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -651,7 +712,7 @@
       "company": "Kotak Mahindra Bank Limited",
       "symbol": "KOTAKBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -668,12 +729,82 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Record Date",
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "The India Cements Limited",
+      "symbol": "INDIACEM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 372.05,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Anand Rathi Wealth Limited",
+      "symbol": "ANANDRATHI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 2095.6,
+      "catalysts": [
+        {
+          "label": "Integrated Filing- Financial",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -750,111 +881,6 @@
         },
         {
           "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Muthoot Capital Services Limited",
-      "symbol": "MUTHOOTCAP",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 217.71,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1380.7,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 295.65,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         }
