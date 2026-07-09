@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T07:57:16+00:00",
+  "generatedAt": "2026-07-09T11:21:06+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -51,7 +51,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1156.6,
+      "lastClose": 1150.4,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -86,7 +86,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 573.05,
+      "lastClose": 572.75,
       "catalysts": [
         {
           "label": "Financial Results/Fund Raising",
@@ -121,7 +121,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 465.0,
+      "lastClose": 463.85,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -144,6 +144,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "JSW Steel Limited",
+      "symbol": "JSWSTEEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1225.8,
+      "catalysts": [
+        {
+          "label": "JSW Steel Q1: Crude steel output rises 3%; India operations at 94% capacity utilisation - CNBC TV18",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVl9LOVJpdmhXX05PTW9iRHR4TGNvRmp6d2Z3V1VxWXQyWjc0eUZmMVpzM2p5dUJaRVlUY0JaM3dWcFBhVVY2N25OTlNxSDNvSU5aMmxLc3Bjc3haVmVyU3ZrMktlZEsxMzVBREpLbllMaU1GZVM4ZlhWSTd4eXQ1bGFhNC1pNUI1eU1YUk5hU2dydWw4QlZybGhrbDdfV1N6ZFBQX09pZ0pKLUlCUG93cHp6bUhRazU0b1VVTldOUGFhUW9LVERzSnJtclXSAdIBQVVfeXFMTmgtWHNwX0VMOTBpZW5TZjd2MloxRnhsWmdZQ2hqRFhMTWxBWFNFU2tYSnJTWFp6dW9IWGw3bkp0eGVrV1lyaTRvakVNbTJ2cmRVNU5TbTc4cF9CUVNrT014SnpHN1NNc0JYSHVkeVNRRHhQZ3hjWkxGVFdjMGtrZU9yZkNkMVlFVlBJQ2NwZkllXzdzT0lHMlI1RGpVNFJZRjRHMTAtSU8tQWpuQWxBSU1XQ3M1MmxFYl9ydXdhUHlkOTllWmZVZWcwcWNLUDZYbXp3?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Kotak Mahindra Bank Limited",
       "symbol": "KOTAKBANK",
       "exchange": "NSE",
@@ -151,12 +192,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
+      "predictionScore": -2.8,
+      "confidence": 89,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 370.0,
+      "technicalConfidence": 83,
+      "lastClose": 377.15,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -179,68 +220,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Indian Bank",
-      "symbol": "INDIANB",
+      "company": "Tata Consultancy Services Limited",
+      "symbol": "TCS",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
+      "direction": "Positive watch",
+      "predictionScore": 3.8,
+      "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 786.8,
+      "technicalConfidence": 50,
+      "lastClose": 2049.5,
       "catalysts": [
         {
-          "label": "South Indian Bank shares drop 9% after RBI approves three-year term for new CEO - CNBC TV18",
-          "type": "company news",
+          "label": "TCS Q1 Results 2026 Live Updates: Shares Trade Lower Ahead Of Earnings; Focus On Revenue, Dividend, Hiring",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSGNVb0l1T3dVUXJXY1JBQUM0ZDB2TFdhc3laS0FUMVRZSUZhNnVSVkZiLXlLWEFiODVQYk9fdzVuOFB3OFBWSkJHcTIzNDlHeU5KOEUzSmp0SUl5QUVTZjk1cjhRTkVEM0FEWVUtRlJrS25udnZTU0k1WlA2dTBQSnRRY2RYeENpLTNlVlFwQkl4OVVzRkI3RWlONVRfdXV4Sno3WVZSXzdzQjFKZXNqN3lCSDFBN05hVlQ0TVZ30gHDAUFVX3lxTE4yZ1V1TFBFRHpLN1hLcGtZeEVCNUJVbzBXN1VYX1ZvWUhwMEVocE1ibXhEWUE2b2pTSEktYU1ERi16WDJ0UFo1cDMzT3JnX1c5d1hhMURVc21wYkJGUmdqcjQteVhydlJfdzF1Y2JMdE9XNFE5cG81cWJKZ0U5aXB6Q2ZQVVR3OXo1cE83bXplTW5xVnNmMnpEa19wS0VrbXdOSnJ4bnZMXzBhYWI1OWdpSUdqaXVBbjJIcUtzU2wzbUNpUQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "JSW Steel Limited",
-      "symbol": "JSWSTEEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 1232.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
@@ -251,95 +251,14 @@
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Simbhaoli Sugars Limited",
-      "symbol": "SIMBHALS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.9,
-      "confidence": 89,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 6.6,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Reply to Clarification- Financial results",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Defaults on Payment of Interest/Principal",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Fraud/Default/Arrest",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Anand Rathi Wealth Limited",
-      "symbol": "ANANDRATHI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 6.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 2071.6,
-      "catalysts": [
-        {
-          "label": "Q1 Results Live Updates: GM Breweries Net Profit Jumps 45.6%, TCS, Anand Rathi Earnings In Focus On July 9",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-july-9-2026-tcs-anand-rathi-gm-breweries-and-more-11747358#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/tcs-q1-results-live-updates-share-price-dividend-q1fy27-update-11747057#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Axis Bank Limited",
@@ -354,7 +273,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
-      "lastClose": 1302.5,
+      "lastClose": 1297.6,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -389,7 +308,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 217.53,
+      "lastClose": 217.71,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -412,6 +331,76 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Adani Energy Solutions Limited",
+      "symbol": "ADANIENSOL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1618.5,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Indian Bank",
+      "symbol": "INDIANB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 793.15,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "ICICI Bank Limited",
       "symbol": "ICICIBANK",
       "exchange": "NSE",
@@ -424,7 +413,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1383.7,
+      "lastClose": 1380.7,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -448,88 +437,6 @@
     }
   ],
   "tomorrow": [
-    {
-      "company": "Anand Rathi Wealth Limited",
-      "symbol": "ANANDRATHI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 7.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 2071.6,
-      "catalysts": [
-        {
-          "label": "Q1 Results Live Updates: GM Breweries Net Profit Jumps 45.6%, TCS, Anand Rathi Earnings In Focus On July 9",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-july-9-2026-tcs-anand-rathi-gm-breweries-and-more-11747358#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Avantel Limited",
-      "symbol": "AVANTEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 184.14,
-      "catalysts": [
-        {
-          "label": "Stocks to buy: Nagaraj Shetti recommends Avantel, Jtekt India shares to buy in the short-term - livemint.com",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc0g2MUVOZzE2VTU5aTA3OWNqZGJ3UnQ5bkUtZ0szMk00SEE3R3B5RkV5aTZSbXNybV8tYlg3TWdMWFBmWWxkc0FMNkFocjRLdTR5U1p1QTRPazk5ejg3NUNlbXJub25qY2VyWkhndzlRRDZSbmtUaFhYVUxsUm5UM1JMckIyTGZwVUlmTHRLVWI1MTNKYW1UMUkweXI4UXJhRTE5dGRPT3E4SUhpb0NsYWxkQ281N09rWTg2QzlnMWNRY2dubzNHV1JvTEJSTXQ0RE1yMWZTbTFMV3ZkSko2Y285NjNXaU1ROTR6ZXlXSnV0QQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
     {
       "company": "Innovision Limited",
       "symbol": "INNOVISION",
@@ -578,7 +485,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1156.6,
+      "lastClose": 1150.4,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -613,7 +520,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 465.0,
+      "lastClose": 463.85,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -636,41 +543,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Kotak Mahindra Bank Limited",
-      "symbol": "KOTAKBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 370.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Anand Rathi Share and Stock Brokers Limited",
       "symbol": "ARSSBL",
       "exchange": "NSE",
@@ -683,7 +555,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 573.05,
+      "lastClose": 572.75,
       "catalysts": [
         {
           "label": "Financial Results/Fund Raising",
@@ -706,19 +578,19 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Simbhaoli Sugars Limited",
-      "symbol": "SIMBHALS",
+      "company": "Adani Energy Solutions Limited",
+      "symbol": "ADANIENSOL",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.7,
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
       "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 6.6,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1618.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -726,36 +598,25 @@
           "verified": true
         },
         {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Reply to Clarification- Financial results",
-          "type": "announcement",
-          "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "Defaults on Payment of Interest/Principal",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Fraud/Default/Arrest",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
+      "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Indian Bank",
       "symbol": "INDIANB",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -764,13 +625,8 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 786.8,
+      "lastClose": 793.15,
       "catalysts": [
-        {
-          "label": "South Indian Bank shares drop 9% after RBI approves three-year term for new CEO - CNBC TV18",
-          "type": "company news",
-          "verified": true
-        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
@@ -780,23 +636,57 @@
           "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
+        },
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSGNVb0l1T3dVUXJXY1JBQUM0ZDB2TFdhc3laS0FUMVRZSUZhNnVSVkZiLXlLWEFiODVQYk9fdzVuOFB3OFBWSkJHcTIzNDlHeU5KOEUzSmp0SUl5QUVTZjk1cjhRTkVEM0FEWVUtRlJrS25udnZTU0k1WlA2dTBQSnRRY2RYeENpLTNlVlFwQkl4OVVzRkI3RWlONVRfdXV4Sno3WVZSXzdzQjFKZXNqN3lCSDFBN05hVlQ0TVZ30gHDAUFVX3lxTE4yZ1V1TFBFRHpLN1hLcGtZeEVCNUJVbzBXN1VYX1ZvWUhwMEVocE1ibXhEWUE2b2pTSEktYU1ERi16WDJ0UFo1cDMzT3JnX1c5d1hhMURVc21wYkJGUmdqcjQteVhydlJfdzF1Y2JMdE9XNFE5cG81cWJKZ0U5aXB6Q2ZQVVR3OXo1cE83bXplTW5xVnNmMnpEa19wS0VrbXdOSnJ4bnZMXzBhYWI1OWdpSUdqaXVBbjJIcUtzU2wzbUNpUQ?oc=5",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Kotak Mahindra Bank Limited",
+      "symbol": "KOTAKBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 377.15,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "JSW Steel Limited",
       "symbol": "JSWSTEEL",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -805,8 +695,13 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
-      "lastClose": 1232.5,
+      "lastClose": 1225.8,
       "catalysts": [
+        {
+          "label": "JSW Steel Q1: Crude steel output rises 3%; India operations at 94% capacity utilisation - CNBC TV18",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
@@ -816,15 +711,16 @@
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVl9LOVJpdmhXX05PTW9iRHR4TGNvRmp6d2Z3V1VxWXQyWjc0eUZmMVpzM2p5dUJaRVlUY0JaM3dWcFBhVVY2N25OTlNxSDNvSU5aMmxLc3Bjc3haVmVyU3ZrMktlZEsxMzVBREpLbllMaU1GZVM4ZlhWSTd4eXQ1bGFhNC1pNUI1eU1YUk5hU2dydWw4QlZybGhrbDdfV1N6ZFBQX09pZ0pKLUlCUG93cHp6bUhRazU0b1VVTldOUGFhUW9LVERzSnJtclXSAdIBQVVfeXFMTmgtWHNwX0VMOTBpZW5TZjd2MloxRnhsWmdZQ2hqRFhMTWxBWFNFU2tYSnJTWFp6dW9IWGw3bkp0eGVrV1lyaTRvakVNbTJ2cmRVNU5TbTc4cF9CUVNrT014SnpHN1NNc0JYSHVkeVNRRHhQZ3hjWkxGVFdjMGtrZU9yZkNkMVlFVlBJQ2NwZkllXzdzT0lHMlI1RGpVNFJZRjRHMTAtSU8tQWpuQWxBSU1XQ3M1MmxFYl9ydXdhUHlkOTllWmZVZWcwcWNLUDZYbXp3?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -840,7 +736,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
-      "lastClose": 1302.5,
+      "lastClose": 1297.6,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -875,7 +771,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 217.53,
+      "lastClose": 217.71,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -889,6 +785,76 @@
         },
         {
           "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1380.7,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Karur Vysya Bank Limited",
+      "symbol": "KARURVYSYA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 87,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 295.65,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         }
