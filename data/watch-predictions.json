@@ -1,64 +1,28 @@
 {
-  "generatedAt": "2026-07-10T12:39:14+00:00",
+  "generatedAt": "2026-07-10T16:35:40+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "Advait Energy Transitions Limited",
-      "symbol": "ADVAIT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 12.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Advait Energy Transitions Share Price Rises On Order Win",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/advait-energy-transitions-limited-shares-rose-near-2-upon-order-win-11753499#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Innovision Limited",
       "symbol": "INNOVISION",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
+      "predictionScore": 7.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Shareholders meeting",
           "type": "announcement",
@@ -68,9 +32,39 @@
           "label": "Change in Director(s)",
           "type": "announcement",
           "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Advait Energy Transitions Limited",
+      "symbol": "ADVAIT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 7.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
         },
         {
-          "label": "Change in Management",
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -78,6 +72,47 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "L&T Finance Limited",
+      "symbol": "LTF",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 5.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 321.25,
+      "catalysts": [
+        {
+          "label": "L&T Finance Q1 Results: Profit Surges 29% To Record High On Solid Retail Book Growth",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/l-t-finance-q1-results-profit-surges-29-percent-to-record-high-on-solid-retail-book-growth-11754897#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "HCL Technologies Limited",
@@ -150,45 +185,10 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Kotak Mahindra Bank Limited",
-      "symbol": "KOTAKBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 377.6,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Indian Bank",
       "symbol": "INDIANB",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 11,
       "gossipCount": 1,
       "horizon": "today",
       "direction": "Positive watch",
@@ -311,6 +311,57 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Tata Consultancy Services Limited",
+      "symbol": "TCS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.4,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Sensex, Nifty open in green lifted by IT stocks as TCS earnings cheer markets - India Today",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "From Gift Nifty, TCS Q1 results to US tech stocks rally: 10 key things that changed for Indian stock market overnight - livemint.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Sensex Today Rallies 762 Points | Nifty Above 24,150 | TCS & Tech Mahindra Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNWEwR2hYTlowMi1pb283al9UUkwwUmpVbEJGWFU2RVk3bWRxSjdZSWU4anlSQW1jRWZ1TkRJMTdGNlUyNkd6aTN1WnF3bXAyY2lqelFiZDhOTmZwOWlxTzZJdmNHNmUwXzg3YWo3Q0laa0VJZHJaOFNtbVM1aXFaUjVzb2tPWGNHT3pCdk84cU80NHBnSlVmSWpJb1A2akNadjE2VDhQMXBodTZrUHlUYjJlYTdEWFp6ZW1Oc0lvOVU4WWNRVUsxSWwxeTNTSk1td2NsVUY3SkZYMFJyc1p1aTBRemNZbVHSAewBQVVfeXFMTTdDTldCeVpmYUtoNnFPN0xJWUh1ZkJzUkdoUW42WTRNRFVuUTBYX1FIaE1GVm1uSWZOczFKdV9oUFlvMmVEeWNTVEM3UlVNT1hyLVVuVTlxcVBOX1lIUnpsV2hESjFIUlNFVnliUENid0tTamVHa2F1TllXNmJvYXNKbWJON3U2VnEzVVNHb2d5ZHJydXlwYnlxcDluNm1NZ0xYVVUxYmE1SWJyekZUc0ctOTYySTdUWmFHbVo5akdTclpHMDh3Y0xCX1J6UzBBN3dZMVpyZTFfQnJsdjRaVXNGRm5DRFlqT0tnYnU?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOMnh5TE5FOVRwNmxtSFJ6MWlBN1RpLU1KTXpJLUF5TF9fNEI5WjlsdHJMUlljejc2amJJZWd5Z0ZVanZpeEpKZGJOaVI2UU1TYnJXSndWa1V0RzhZSGluc0JYaW5qdUNJTTBOajVKUHRFeHJSTU5QdWVqM2VpRFZFS015aFF4SEdFNVlDLXN2bzR4b29fMkRVRURmWHc2bTktcnd5TGRaMVBRZVZqTElzMlM1LVp1TkZ1QVEyNkttRENyTnNOU0JFM05CZmtiMzVtZTl1WDNDR1RsX0lsRDd0RFczWmVkT1c0Q0RqYnBTOGFEbWhWTFRXZlpVM0ZsUkFPcEZnQUxBTUlpNEM4OHpfV2xLTdIBmAJBVV95cUxPNENSVEN3SjRtTlRFU1VfUjRYc0h1Q3dneVpCS3ZQc1lkREZhdy1XbXFySUd6SWoxT0NyTmplb0djRy1kRURuNFc4aW55d3pPbVJWRlh2NFRNS0pNLWp3a0lhZy1aU1BGQ3NRb001TF9Dal9qQllWSlBkYkhoV0hvQlRoU2JlZm5BTlZudDRuS0RrRkFFU0xvUFpBRzhmX09CT0gxbC1PdDFKN1BzTW50OGpwYnRQNjh6MG1TRGh2REdiVDhQRUhNODY2b09uTnV1VjJWRUg5NkNvak5hblhnLXdWLXRienZ5eHd0dllXVUZON1hjZGlHd2pwdUF1My16MHR3eEQ2aEtOUkZDYlE3aGI1a1RQdnJZ?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa2RzYVl3Z29pRnpCOTJXUmJsRjRxd2tJN0lpNEV1NzJLRm8tX2p4b0xjVExWekFQOEp5d1lwbWZ3ajA1OHM4bE0wZVRSRG1RbE05ckk5cE9mZmxsei00dTczWlpkaGNISDFTa2NBVU9MbHpsQk5fVmVrWGNmSm03MVBqNUsxbndabGw5TnlRODQ0QXBpYTVrQjdUUmhyRFhXcWNIbVQ4bUU2ejFDWmRCVEpHbnktRzlhR01kOVRpb29DSlZYMjJEeTZhZmdHTVZEVVJoRDNLOF95REE?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "ICICI Bank Limited",
       "symbol": "ICICIBANK",
       "exchange": "NSE",
@@ -414,100 +465,29 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Aditya Birla Money Limited",
-      "symbol": "BIRLAMONEY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 149.9,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
     {
-      "company": "Advait Energy Transitions Limited",
-      "symbol": "ADVAIT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 12.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Advait Energy Transitions Share Price Rises On Order Win",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/advait-energy-transitions-limited-shares-rose-near-2-upon-order-win-11753499#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Innovision Limited",
       "symbol": "INNOVISION",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
+      "predictionScore": 7.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Shareholders meeting",
           "type": "announcement",
@@ -517,9 +497,80 @@
           "label": "Change in Director(s)",
           "type": "announcement",
           "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "L&T Finance Limited",
+      "symbol": "LTF",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 7.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 321.25,
+      "catalysts": [
+        {
+          "label": "L&T Finance Q1 Results: Profit Surges 29% To Record High On Solid Retail Book Growth",
+          "type": "results",
+          "verified": true
         },
         {
-          "label": "Change in Management",
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/l-t-finance-q1-results-profit-surges-29-percent-to-record-high-on-solid-retail-book-growth-11754897#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Advait Energy Transitions Limited",
+      "symbol": "ADVAIT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 7.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -567,7 +618,7 @@
       "company": "Indian Bank",
       "symbol": "INDIANB",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 11,
       "gossipCount": 1,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -617,41 +668,6 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Kotak Mahindra Bank Limited",
-      "symbol": "KOTAKBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 377.6,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -725,6 +741,41 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "BOROSIL RENEWABLES LIMITED",
+      "symbol": "BORORENEW",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 640.55,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "News Verification",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Aditya Birla Money Limited",
       "symbol": "BIRLAMONEY",
       "exchange": "NSE",
@@ -751,41 +802,6 @@
         },
         {
           "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "L&T Finance Limited",
-      "symbol": "LTF",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 321.25,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
