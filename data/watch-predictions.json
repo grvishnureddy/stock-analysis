@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T21:15:19+00:00",
+  "generatedAt": "2026-07-13T23:15:39+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -284,52 +284,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Indian Bank",
-      "symbol": "INDIANB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Q1 results: TCS, DMart, Indian Bank among 31 companies with four straight quarters of profit growth - Upstox",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Indian Bank's winning formula: deliberately slower growth - livemint.com",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZjNRV2hkRm92d0tsZmxya0o5ZXZYV2E3ZXh4YUppVVN5S2toZzVaX1BjVlJhNFVJelRrTXpNbHlDSVQtbHpibFRyd0xZejZhS1lLUzl5WGVGaUZoV3V1M09LOUgyQTBoS0dfN0pDUkFtRkRjdGc4VjJfMlBFQ2FCeDBaanRpaEVZY3NReTdjWHlieG5EemZWaWFrVndoSGtUWUw2ZmUtOVoyamVMZF9rdkJqNUU2T0xlc0Q1LXpKZWtob1hhZHhfR2lVRUdxR2haNFFPbUVYQXBMZHZNS2daeVhIUGhrY0hiMTFHb28xbXBZN3VBVDE3dDJhNmVtZw?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM05JaXFrVlJDUDJfVEdWUHBhZ215VDRJUzhxamw1SkNnVkNqR0ZMR1NCbHJTYm50ekx6NFY4RERvVVB2S01MLUs1d0k1a18tUnVycHM0N040TzlMenlEMTNLN0VqU19hdTZ2cmRid0p0TGlLZnR0VHRXZ2JNTVNjVDNieW9PT3BTNS0zRlM2amV0UVpnaVJyUVBZSlp2X1JvS0U1eG0tVHBpUFlVcjNVbGlha1hPUFhrUFg4R2hNONIBxAFBVV95cUxPdDlRZUY0dHZwSUxvQlM2TGpCOUlEQlRLLUl4LWI2NG5DOTFFb191THllQ082M2o4QjI0NjZZM2hfLXJ0OTlTR0FNbXp6c2cxcUhkb2I5LWcwNVVqcEVXWDQwV0lmeVBzSjJGckxwOGw5WlhTcHMwNXVKTTFOU0RYdTZzSzdKV0NHWTI5SzVpQ1VZRU5VdlExM3ZibEdqS2hvemptU1lCcFFDLWJxc3JGVk94aWZnWGJWOTBsUHpFVklReERt?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "ICICI Prudential Asset Management Company Limited",
       "symbol": "ICICIAMC",
       "exchange": "NSE",
@@ -427,6 +381,41 @@
         {
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Khaitan Chemicals & Fertilizers Limited",
+      "symbol": "KHAICHEM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 51.58,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         }
       ],
