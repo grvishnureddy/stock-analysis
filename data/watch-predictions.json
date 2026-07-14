@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T11:48:16+00:00",
+  "generatedAt": "2026-07-14T14:16:38+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -39,14 +39,49 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Jindal Saw Limited",
-      "symbol": "JINDALSAW",
+      "company": "Innovision Limited",
+      "symbol": "INNOVISION",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.1,
+      "predictionScore": 6.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Jindal Saw Limited",
+      "symbol": "JINDALSAW",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.1,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Neutral",
@@ -54,17 +89,17 @@
       "lastClose": 258.85,
       "catalysts": [
         {
-          "label": "Q1 Results Today Live Updates: Jindal Saw Profit Falls 75%; L&T Technology Services, Tata Elxsi And More To Report",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Jindal SAW Q1 Results: Profit Shrinks By A Fourth Even As Revenue Rises 9%",
+          "label": "Q1 Results Today Live Updates: Jindal Saw Profit Falls 75%; Tata Elxsi Profit Drops 23%",
           "type": "results",
           "verified": true
         },
         {
           "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -74,11 +109,6 @@
         {
           "label": "NDTV Business",
           "url": "https://www.ndtvprofit.com/markets/q1-results-today-live-updates-l-t-technology-services-tata-elxsi-and-more-to-report-earnings-today-july-14-11768402#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/jindal-saw-q1-results-profit-shrinks-by-a-fourth-even-as-revenue-rises-9-11769499#publisher=newsstand",
           "verified": true
         }
       ],
@@ -111,6 +141,41 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Anand Rathi Share and Stock Brokers Limited",
+      "symbol": "ARSSBL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 581.25,
+      "catalysts": [
+        {
+          "label": "Issue of Securities",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Allotment of Securities",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Acquisition",
           "type": "announcement",
           "verified": true
         }
@@ -190,6 +255,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Madhya Bharat Agro Products Limited",
+      "symbol": "MBAPL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 124.0,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Can Fin Homes Limited",
       "symbol": "CANFINHOME",
       "exchange": "NSE",
@@ -225,45 +325,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Madhya Bharat Agro Products Limited",
-      "symbol": "MBAPL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 124.0,
-      "catalysts": [
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "ICICI Bank Limited",
       "symbol": "ICICIBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -285,7 +350,7 @@
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -293,6 +358,41 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Manaksia Coated Metals & Industries Limited",
+      "symbol": "MANAKCOAT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 129.14,
+      "catalysts": [
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Dhampur Bio Organics Limited",
@@ -328,111 +428,6 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Anand Rathi Share and Stock Brokers Limited",
-      "symbol": "ARSSBL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.5,
-      "confidence": 84,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 581.25,
-      "catalysts": [
-        {
-          "label": "Financial Results/Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "BOROSIL RENEWABLES LIMITED",
-      "symbol": "BORORENEW",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 634.6,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Cessation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Muthoot Capital Services Limited",
-      "symbol": "MUTHOOTCAP",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 222.12,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -470,52 +465,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Jindal Saw Limited",
-      "symbol": "JINDALSAW",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 7.1,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
-      "lastClose": 258.85,
-      "catalysts": [
-        {
-          "label": "Q1 Results Today Live Updates: Jindal Saw Profit Falls 75%; L&T Technology Services, Tata Elxsi And More To Report",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Jindal SAW Q1 Results: Profit Shrinks By A Fourth Even As Revenue Rises 9%",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-today-live-updates-l-t-technology-services-tata-elxsi-and-more-to-report-earnings-today-july-14-11768402#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/jindal-saw-q1-results-profit-shrinks-by-a-fourth-even-as-revenue-rises-9-11769499#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Menon Bearings Limited",
@@ -588,10 +537,80 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Innovision Limited",
+      "symbol": "INNOVISION",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "RBL Bank Limited",
+      "symbol": "RBLBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.6,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 377.95,
+      "catalysts": [
+        {
+          "label": "Financial Results/Fund Raising",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating- New",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Madhya Bharat Agro Products Limited",
       "symbol": "MBAPL",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -603,7 +622,7 @@
       "lastClose": 124.0,
       "catalysts": [
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
@@ -613,8 +632,8 @@
           "verified": true
         },
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -661,7 +680,7 @@
       "company": "Anand Rathi Share and Stock Brokers Limited",
       "symbol": "ARSSBL",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -673,8 +692,8 @@
       "lastClose": 581.25,
       "catalysts": [
         {
-          "label": "Financial Results/Fund Raising",
-          "type": "upcoming event",
+          "label": "Issue of Securities",
+          "type": "announcement",
           "verified": true
         },
         {
@@ -683,13 +702,54 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Acquisition",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Jindal Saw Limited",
+      "symbol": "JINDALSAW",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 258.85,
+      "catalysts": [
+        {
+          "label": "Q1 Results Today Live Updates: Jindal Saw Profit Falls 75%; Tata Elxsi Profit Drops 23%",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-today-live-updates-l-t-technology-services-tata-elxsi-and-more-to-report-earnings-today-july-14-11768402#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -789,76 +849,6 @@
         },
         {
           "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1407.7,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Muthoot Capital Services Limited",
-      "symbol": "MUTHOOTCAP",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 222.12,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         }
