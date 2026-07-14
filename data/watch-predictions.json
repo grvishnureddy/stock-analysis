@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T03:37:09+00:00",
+  "generatedAt": "2026-07-14T06:27:16+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -39,60 +39,54 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharat Heavy Electricals Limited",
-      "symbol": "BHEL",
+      "company": "Menon Bearings Limited",
+      "symbol": "MENONBE",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.0,
+      "predictionScore": 4.1,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 409.1,
+      "technicalConfidence": 100,
+      "lastClose": 177.0,
       "catalysts": [
         {
-          "label": "Upcoming dividends, bonus issues, stock splits this week: TCS, Kotak Mahindra Bank, BHEL, Dabur India, MRF, UTI AMC, others in focus - Upstox",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
+          "label": "Financial Results/Dividend",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQazhjWmxVamk5Vy1ZeHNOOWYzWnBjdFlibHdpMlQ2YmVqaWZ1aXdfdGdvUjh5WkFQU1RfdjhSLXRGUGI2WEdVUEZkY1puTG1HbHoweVN1NW0tNENySE92bWIxTDJwRkZGWXhrelZHWTFkTTZ2eXgxM3NkLW9WeFk5aVhndnJSMlcxaU1EVDFaZ3F1SXlER3pfUm1pY1U0ZnFDc2JqU3J3TGN2WEI5aG1IVnFXX1VycTZLTS1mNG5jVFd4UXBhekY4QkNzMmdZWHdDN2liWWt3Ung0amZKS0V4UVFOU1BtVkpjTEhKaWZDSmtBdUlNdDVibmJ3Qm1kYzAwMnN3OHVVcTNXTjllaHR3?oc=5",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Kotak Mahindra Bank Limited",
       "symbol": "KOTAKBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -2.8,
+      "predictionScore": -3.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 384.65,
+      "technicalConfidence": 100,
+      "lastClose": 379.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -100,12 +94,12 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -122,12 +116,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.8,
+      "predictionScore": 3.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 477.0,
+      "technicalConfidence": 100,
+      "lastClose": 469.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -150,6 +144,76 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Bharat Heavy Electricals Limited",
+      "symbol": "BHEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 406.7,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Madhya Bharat Agro Products Limited",
+      "symbol": "MBAPL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 125.0,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Anand Rathi Share and Stock Brokers Limited",
       "symbol": "ARSSBL",
       "exchange": "NSE",
@@ -162,7 +226,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 570.45,
+      "lastClose": 585.4,
       "catalysts": [
         {
           "label": "Financial Results/Fund Raising",
@@ -197,7 +261,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 16.79,
+      "lastClose": 16.8,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -232,7 +296,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 921.5,
+      "lastClose": 905.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -255,8 +319,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Aditya Birla Money Limited",
-      "symbol": "BIRLAMONEY",
+      "company": "BOROSIL RENEWABLES LIMITED",
+      "symbol": "BORORENEW",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -267,7 +331,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 149.9,
+      "lastClose": 641.05,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -275,49 +339,14 @@
           "verified": true
         },
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "label": "Cessation",
           "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Muthoot Capital Services Limited",
-      "symbol": "MUTHOOTCAP",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 222.39,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
           "verified": true
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
@@ -325,63 +354,28 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Innovision Limited",
-      "symbol": "INNOVISION",
+      "company": "Indian Bank",
+      "symbol": "INDIANB",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 80,
+      "predictionScore": 3.6,
+      "confidence": 81,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Awarding of order(s)/contract(s)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Billionbrains Garage Ventures Limited",
-      "symbol": "GROWW",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.7,
-      "confidence": 79,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 208.18,
-      "catalysts": [
-        {
-          "label": "Groww Q1 Results: Date, Time, Dividend News, Earnings Call Schedule And More",
+          "label": "Q1 results: TCS, DMart, Indian Bank among 31 companies with four straight quarters of profit growth - Upstox",
           "type": "results",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Indian Bank's winning formula: deliberately slower growth - livemint.com",
+          "type": "company news",
           "verified": true
         },
         {
@@ -393,47 +387,52 @@
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/groww-q1-results-date-time-dividend-news-earnings-call-schedule-and-more-11764191#publisher=newsstand",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZjNRV2hkRm92d0tsZmxya0o5ZXZYV2E3ZXh4YUppVVN5S2toZzVaX1BjVlJhNFVJelRrTXpNbHlDSVQtbHpibFRyd0xZejZhS1lLUzl5WGVGaUZoV3V1M09LOUgyQTBoS0dfN0pDUkFtRkRjdGc4VjJfMlBFQ2FCeDBaanRpaEVZY3NReTdjWHlieG5EemZWaWFrVndoSGtUWUw2ZmUtOVoyamVMZF9rdkJqNUU2T0xlc0Q1LXpKZWtob1hhZHhfR2lVRUdxR2haNFFPbUVYQXBMZHZNS2daeVhIUGhrY0hiMTFHb28xbXBZN3VBVDE3dDJhNmVtZw?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM05JaXFrVlJDUDJfVEdWUHBhZ215VDRJUzhxamw1SkNnVkNqR0ZMR1NCbHJTYm50ekx6NFY4RERvVVB2S01MLUs1d0k1a18tUnVycHM0N040TzlMenlEMTNLN0VqU19hdTZ2cmRid0p0TGlLZnR0VHRXZ2JNTVNjVDNieW9PT3BTNS0zRlM2amV0UVpnaVJyUVBZSlp2X1JvS0U1eG0tVHBpUFlVcjNVbGlha1hPUFhrUFg4R2hNONIBxAFBVV95cUxPdDlRZUY0dHZwSUxvQlM2TGpCOUlEQlRLLUl4LWI2NG5DOTFFb191THllQ082M2o4QjI0NjZZM2hfLXJ0OTlTR0FNbXp6c2cxcUhkb2I5LWcwNVVqcEVXWDQwV0lmeVBzSjJGckxwOGw5WlhTcHMwNXVKTTFOU0RYdTZzSzdKV0NHWTI5SzVpQ1VZRU5VdlExM3ZibEdqS2hvemptU1lCcFFDLWJxc3JGVk94aWZnWGJWOTBsUHpFVklReERt?oc=5",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "The Federal Bank  Limited",
-      "symbol": "FEDERALBNK",
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 79,
+      "predictionScore": 2.2,
+      "confidence": 81,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 332.5,
+      "lastClose": 1407.2,
       "catalysts": [
         {
-          "label": "Financial Results/Fund Raising",
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -473,25 +472,55 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharat Heavy Electricals Limited",
-      "symbol": "BHEL",
+      "company": "Menon Bearings Limited",
+      "symbol": "MENONBE",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.5,
+      "predictionScore": 6.1,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 409.1,
+      "technicalConfidence": 100,
+      "lastClose": 177.0,
       "catalysts": [
         {
-          "label": "Upcoming dividends, bonus issues, stock splits this week: TCS, Kotak Mahindra Bank, BHEL, Dabur India, MRF, UTI AMC, others in focus - Upstox",
-          "type": "corporate action",
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
           "verified": true
         },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Bharat Heavy Electricals Limited",
+      "symbol": "BHEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 406.7,
+      "catalysts": [
         {
           "label": "Financial Results",
           "type": "upcoming event",
@@ -501,156 +530,9 @@
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQazhjWmxVamk5Vy1ZeHNOOWYzWnBjdFlibHdpMlQ2YmVqaWZ1aXdfdGdvUjh5WkFQU1RfdjhSLXRGUGI2WEdVUEZkY1puTG1HbHoweVN1NW0tNENySE92bWIxTDJwRkZGWXhrelZHWTFkTTZ2eXgxM3NkLW9WeFk5aVhndnJSMlcxaU1EVDFaZ3F1SXlER3pfUm1pY1U0ZnFDc2JqU3J3TGN2WEI5aG1IVnFXX1VycTZLTS1mNG5jVFd4UXBhekY4QkNzMmdZWHdDN2liWWt3Ung0amZKS0V4UVFOU1BtVkpjTEhKaWZDSmtBdUlNdDVibmJ3Qm1kYzAwMnN3OHVVcTNXTjllaHR3?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Billionbrains Garage Ventures Limited",
-      "symbol": "GROWW",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 208.18,
-      "catalysts": [
-        {
-          "label": "Groww Q1 Results: Date, Time, Dividend News, Earnings Call Schedule And More",
-          "type": "results",
-          "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/groww-q1-results-date-time-dividend-news-earnings-call-schedule-and-more-11764191#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Aditya Birla Money Limited",
-      "symbol": "BIRLAMONEY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 149.9,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "BOROSIL RENEWABLES LIMITED",
-      "symbol": "BORORENEW",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 640.55,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Fedbank Financial Services Limited",
-      "symbol": "FEDFINA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 159.34,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -663,7 +545,7 @@
       "company": "Madhya Bharat Agro Products Limited",
       "symbol": "MBAPL",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -672,20 +554,55 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 131.25,
+      "lastClose": 125.0,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Credit Rating",
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "BOROSIL RENEWABLES LIMITED",
+      "symbol": "BORORENEW",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 641.05,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Cessation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -707,7 +624,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 570.45,
+      "lastClose": 585.4,
       "catalysts": [
         {
           "label": "Financial Results/Fund Raising",
@@ -730,6 +647,76 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Kotak Mahindra Bank Limited",
+      "symbol": "KOTAKBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 379.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Poonawalla Fincorp Limited",
+      "symbol": "POONAWALLA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 469.5,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Issue of Securities",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Allotment of Securities",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Jaiprakash Power Ventures Limited",
       "symbol": "JPPOWER",
       "exchange": "NSE",
@@ -742,7 +729,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 16.79,
+      "lastClose": 16.8,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -777,7 +764,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 921.5,
+      "lastClose": 905.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -800,27 +787,62 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Kotak Mahindra Bank Limited",
-      "symbol": "KOTAKBANK",
+      "company": "Ksolves India Limited",
+      "symbol": "KSOLVES",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 90,
+      "direction": "Positive watch",
+      "predictionScore": 6.1,
+      "confidence": 88,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 384.65,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 298.65,
       "catalysts": [
         {
-          "label": "Financial Results",
+          "label": "Financial Results/Dividend",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Disclosure under SEBI Takeover Regulations",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Dhampur Bio Organics Limited",
+      "symbol": "DBOL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.1,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 116.62,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         },
@@ -832,42 +854,7 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Poonawalla Fincorp Limited",
-      "symbol": "POONAWALLA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 477.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Issue of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     }
   ]
 }
