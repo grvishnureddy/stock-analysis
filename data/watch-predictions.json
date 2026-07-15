@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T15:54:46+00:00",
+  "generatedAt": "2026-07-15T17:41:25+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -432,6 +432,47 @@
   ],
   "tomorrow": [
     {
+      "company": "Tech Mahindra Limited",
+      "symbol": "TECHM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 7.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1498.7,
+      "catalysts": [
+        {
+          "label": "Tech Mahindra Q1 Results: Should You Buy, Sell Or Hold Shares Amid Mid-Teen Profit Growth Forecast?",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Q1 FY27 results scheduled 2026-07-16",
+          "type": "result",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/tech-mahindra-q1-results-tomorrow-should-you-buy-sell-or-hold-shares-amid-mid-teen-profit-growth-forecast-11776326#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Ksolves India Limited",
       "symbol": "KSOLVES",
       "exchange": "NSE",
@@ -821,41 +862,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "The Federal Bank  Limited",
-      "symbol": "FEDERALBNK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 327.55,
-      "catalysts": [
-        {
-          "label": "Financial Results/Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
     }
   ]
 }
