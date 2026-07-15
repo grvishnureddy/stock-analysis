@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-07-15T10:17:31+00:00",
+  "generatedAt": "2026-07-15T14:13:09+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "Fedbank Financial Services Limited",
-      "symbol": "FEDFINA",
+      "company": "Angel One Limited",
+      "symbol": "ANGELONE",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.3,
+      "predictionScore": 6.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 163.55,
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 343.4,
       "catalysts": [
         {
-          "label": "Fedbank Financial Q1 Results: Net Profit Rises 52% To Rs 114 Crore, Total Income up 30%",
+          "label": "Angel One Q1 Results: Profit Dives 28% As Margins Narrow; Dividend Declared \u2014 Check Record Date",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Indian broker Angel One's profit doubles on higher trading - Reuters",
           "type": "results",
           "verified": true
         },
         {
           "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -38,7 +38,12 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/fedbank-financial-q1-result-net-profit-rises-52-to-rs-114-crore-total-income-up-30-percent-11773606#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/angel-one-q1-results-profit-dives-28-percent-as-margins-narrow-dividend-declared-11775372#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlBQTXdGOWJld1RUX1FnMUE2T1RjU2VfNmcxb2VVdm9faUtYaU9ZY3Znd2pGelJON0hzWGFTTWV0Q0NTbk9QR0w4ZG5kdnNLbTYwTUMtWXlnSkVfaDJnUlViN1VILWlRZWZ3aGpNandCdlZ5RVpPdFZ3QUl0U3FZaDNyb29WTWhMVnUyUDRJWDJ0TDNvdTgwSUsySWZ5OFJGX2dCSQ?oc=5",
           "verified": true
         }
       ],
@@ -115,6 +120,41 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Jana Small Finance Bank Limited",
+      "symbol": "JSFB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 488.9,
+      "catalysts": [
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Kotak Mahindra Bank Limited",
       "symbol": "KOTAKBANK",
       "exchange": "NSE",
@@ -150,6 +190,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Fedbank Financial Services Limited",
+      "symbol": "FEDFINA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 163.55,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Navkar Corporation Limited",
       "symbol": "NAVKARCORP",
       "exchange": "NSE",
@@ -176,41 +251,6 @@
         },
         {
           "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 305.4,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -290,51 +330,45 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "L&T Technology Services Limited",
-      "symbol": "LTTS",
+      "company": "Sai Silks (Kalamandir) Limited",
+      "symbol": "KALAMANDIR",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 96.95,
       "catalysts": [
         {
-          "label": "L&T Technology Services Shares Jump 6% After Q1 Profit Growth, Margin Expansion",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/l-t-technology-services-shares-jump-6-after-q1-profit-growth-margin-expansion-11773199#publisher=newsstand",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Billionbrains Garage Ventures Limited",
       "symbol": "GROWW",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -346,17 +380,17 @@
       "lastClose": 216.33,
       "catalysts": [
         {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -399,71 +433,36 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Jana Small Finance Bank Limited",
-      "symbol": "JSFB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 488.9,
-      "catalysts": [
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
     {
-      "company": "Fedbank Financial Services Limited",
-      "symbol": "FEDFINA",
+      "company": "Angel One Limited",
+      "symbol": "ANGELONE",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 8.3,
+      "predictionScore": 7.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 163.55,
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 343.4,
       "catalysts": [
         {
-          "label": "Fedbank Financial Q1 Results: Net Profit Rises 52% To Rs 114 Crore, Total Income up 30%",
+          "label": "Angel One Q1 Results: Profit Dives 28% As Margins Narrow; Dividend Declared \u2014 Check Record Date",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Indian broker Angel One's profit doubles on higher trading - Reuters",
           "type": "results",
           "verified": true
         },
         {
           "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -472,7 +471,53 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/fedbank-financial-q1-result-net-profit-rises-52-to-rs-114-crore-total-income-up-30-percent-11773606#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/angel-one-q1-results-profit-dives-28-percent-as-margins-narrow-dividend-declared-11775372#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlBQTXdGOWJld1RUX1FnMUE2T1RjU2VfNmcxb2VVdm9faUtYaU9ZY3Znd2pGelJON0hzWGFTTWV0Q0NTbk9QR0w4ZG5kdnNLbTYwTUMtWXlnSkVfaDJnUlViN1VILWlRZWZ3aGpNandCdlZ5RVpPdFZ3QUl0U3FZaDNyb29WTWhMVnUyUDRJWDJ0TDNvdTgwSUsySWZ5OFJGX2dCSQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Tech Mahindra Limited",
+      "symbol": "TECHM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 7.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1498.7,
+      "catalysts": [
+        {
+          "label": "Tech Mahindra Q1 Preview: Profit Expected To Rise 17%, Margins Seen Improving",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Q1 FY27 results scheduled 2026-07-16",
+          "type": "result",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/tech-mahindra-q1-preview-results-expected-to-show-revenue-and-profit-growth-11769410#publisher=newsstand",
           "verified": true
         }
       ],
@@ -549,6 +594,76 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Jana Small Finance Bank Limited",
+      "symbol": "JSFB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 488.9,
+      "catalysts": [
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Fedbank Financial Services Limited",
+      "symbol": "FEDFINA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 163.55,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Navkar Corporation Limited",
       "symbol": "NAVKARCORP",
       "exchange": "NSE",
@@ -645,41 +760,6 @@
         },
         {
           "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Jana Small Finance Bank Limited",
-      "symbol": "JSFB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 488.9,
-      "catalysts": [
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -759,45 +839,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 305.4,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Billionbrains Garage Ventures Limited",
       "symbol": "GROWW",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -809,17 +854,17 @@
       "lastClose": 216.33,
       "catalysts": [
         {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -827,41 +872,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "The Federal Bank  Limited",
-      "symbol": "FEDERALBNK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 327.55,
-      "catalysts": [
-        {
-          "label": "Financial Results/Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
     }
   ]
 }
