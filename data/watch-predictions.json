@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T17:42:22+00:00",
+  "generatedAt": "2026-07-16T19:36:07+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,7 +7,7 @@
       "company": "Menon Bearings Limited",
       "symbol": "MENONBE",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -16,8 +16,13 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 190.17,
+      "lastClose": 181.12,
       "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Record Date",
           "type": "announcement",
@@ -27,56 +32,10 @@
           "label": "Dividend",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Aurum PropTech Limited",
-      "symbol": "AURUM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 241.19,
-      "catalysts": [
-        {
-          "label": "Aurum PropTech To Acquire 100% Stakes Of Housing.com For Rs 458 Crore",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Issue of Securities",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/aurum-proptech-to-acquire-100-stakes-of-housing-com-for-rs-458-crore-bets-on-ai-powered-real-estate-platform-11781110#publisher=newsstand",
-          "verified": true
-        }
-      ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -92,7 +51,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 210.61,
+      "lastClose": 208.47,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -115,47 +74,6 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Tata Consultancy Services Limited",
-      "symbol": "TCS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 16,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Wipro Vs TCS Vs HCLTech: Deal Wins To Guidance, What Q1 Numbers Of Indian IT Majors Reveal",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/wipro-vs-tcs-vs-hcltech-deal-wins-to-guidance-what-q1-numbers-of-indian-it-majors-reveal-11781191#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Kotak Mahindra Bank Limited",
       "symbol": "KOTAKBANK",
       "exchange": "NSE",
@@ -168,7 +86,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 377.15,
+      "lastClose": 378.4,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -177,41 +95,6 @@
         },
         {
           "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Lombard General Insurance Company Limited",
-      "symbol": "ICICIGI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1623.8,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
@@ -238,7 +121,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 385.05,
+      "lastClose": 390.85,
       "catalysts": [
         {
           "label": "Investor Presentation",
@@ -273,7 +156,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 116.25,
+      "lastClose": 116.09,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -308,7 +191,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 435.4,
+      "lastClose": 417.95,
       "catalysts": [
         {
           "label": "General Updates",
@@ -343,7 +226,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 472.15,
+      "lastClose": 475.55,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -366,6 +249,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Aurum PropTech Limited",
+      "symbol": "AURUM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 250.82,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Issue of Securities",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Amendment to AOA/MOA",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Tech Mahindra Limited",
       "symbol": "TECHM",
       "exchange": "NSE",
@@ -378,7 +296,7 @@
       "riskLevel": "Medium",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1510.3,
+      "lastClose": 1498.7,
       "catalysts": [
         {
           "label": "Sensex Today Trades Higher | Nifty Above 24,100 | HCL Tech & Tech Mahindra Top Gainers - Equitymaster",
@@ -418,10 +336,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Onward Technologies Limited",
-      "symbol": "ONWARDTEC",
+      "company": "ICICI Lombard General Insurance Company Limited",
+      "symbol": "ICICIGI",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -430,21 +348,91 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 288.2,
+      "lastClose": 1814.6,
       "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Oberoi Realty Limited",
+      "symbol": "OBEROIRLTY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.1,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1887.7,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Cessation",
+          "label": "Appointment",
           "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "BOROSIL RENEWABLES LIMITED",
+      "symbol": "BORORENEW",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 620.5,
+      "catalysts": [
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -455,32 +443,32 @@
   ],
   "tomorrow": [
     {
-      "company": "Menon Bearings Limited",
-      "symbol": "MENONBE",
+      "company": "Oberoi Realty Limited",
+      "symbol": "OBEROIRLTY",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
+      "predictionScore": 6.1,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 190.17,
+      "technicalConfidence": 100,
+      "lastClose": 1887.7,
       "catalysts": [
         {
-          "label": "Record Date",
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
@@ -490,44 +478,38 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Aurum PropTech Limited",
-      "symbol": "AURUM",
+      "company": "Menon Bearings Limited",
+      "symbol": "MENONBE",
       "exchange": "NSE",
       "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.6,
+      "predictionScore": 6.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 241.19,
+      "technicalConfidence": 83,
+      "lastClose": 181.12,
       "catalysts": [
         {
-          "label": "Aurum PropTech To Acquire 100% Stakes Of Housing.com For Rs 458 Crore",
-          "type": "company news",
+          "label": "Investor Presentation",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Record Date",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Issue of Securities",
+          "label": "Dividend",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/aurum-proptech-to-acquire-100-stakes-of-housing-com-for-rs-458-crore-bets-on-ai-powered-real-estate-platform-11781110#publisher=newsstand",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -543,7 +525,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 385.05,
+      "lastClose": 390.85,
       "catalysts": [
         {
           "label": "Investor Presentation",
@@ -578,7 +560,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 116.25,
+      "lastClose": 116.09,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -613,7 +595,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 435.4,
+      "lastClose": 417.95,
       "catalysts": [
         {
           "label": "General Updates",
@@ -648,7 +630,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 472.15,
+      "lastClose": 475.55,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -671,6 +653,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Can Fin Homes Limited",
+      "symbol": "CANFINHOME",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 904.9,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "D.B.Corp Limited",
       "symbol": "DBCORP",
       "exchange": "NSE",
@@ -683,7 +700,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 210.61,
+      "lastClose": 208.47,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -718,7 +735,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 304.15,
+      "lastClose": 305.4,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -753,7 +770,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1418.2,
+      "lastClose": 1416.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -776,6 +793,41 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "The Federal Bank  Limited",
+      "symbol": "FEDERALBNK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 327.55,
+      "catalysts": [
+        {
+          "label": "Financial Results/Fund Raising",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Tech Mahindra Limited",
       "symbol": "TECHM",
       "exchange": "NSE",
@@ -788,7 +840,7 @@
       "riskLevel": "Medium",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1510.3,
+      "lastClose": 1498.7,
       "catalysts": [
         {
           "label": "Sensex Today Trades Higher | Nifty Above 24,100 | HCL Tech & Tech Mahindra Top Gainers - Equitymaster",
@@ -825,76 +877,6 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Kotak Mahindra Bank Limited",
-      "symbol": "KOTAKBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 377.15,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Lombard General Insurance Company Limited",
-      "symbol": "ICICIGI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1623.8,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
