@@ -1,59 +1,8 @@
 {
-  "generatedAt": "2026-07-16T14:25:59+00:00",
+  "generatedAt": "2026-07-16T17:42:22+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
-    {
-      "company": "Tech Mahindra Limited",
-      "symbol": "TECHM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1510.3,
-      "catalysts": [
-        {
-          "label": "Tech Mahindra Q1 Results: Profit Falls Short Of Street Estimates; Revenue Up 4%",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Sensex Today Trades Higher | Nifty Above 24,100 | HCL Tech & Tech Mahindra Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Tech Mahindra Q1 Attrition Slips To 11.8%; IT Headcount Falls Below 75,000",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/tech-mahindra-q1-results-profit-falls-short-of-street-estimates-revenue-up-4-11779493#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWjJOby1maUs1d2dNTFpaeFoyOUthR0pSdE9tT1pwMDlOc3YwcWtVZTg4b1BqRkl3ejFRRmM4cE42ZmtqM2xXZWFLcjJtaWFmVDRUckpmVEdHRk1NRGRYaE55MzNFd2Z5T2ZBZDNXWlJoQWVCNXZHVGRFWFNHRkkxSUp4MHJDWXBFTnluMUlXVHdTZXFZY2ViWTdiU2lMczVLRUxhZERxTjY0SWdBanRKZ2UxM0RKU2NKYjFmaXN2aE8tcHJPeUJleUNKR0lpc3dHWEp3LWZyWnVfcGc?oc=5",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/tech-mahindra-q1-attrition-slips-to-11-8-headcount-falls-below-75-000-11779563#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
     {
       "company": "Menon Bearings Limited",
       "symbol": "MENONBE",
@@ -93,7 +42,7 @@
       "company": "Aurum PropTech Limited",
       "symbol": "AURUM",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -105,6 +54,11 @@
       "lastClose": 241.19,
       "catalysts": [
         {
+          "label": "Aurum PropTech To Acquire 100% Stakes Of Housing.com For Rs 458 Crore",
+          "type": "company news",
+          "verified": true
+        },
+        {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
@@ -113,15 +67,16 @@
           "label": "Issue of Securities",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Amendment to AOA/MOA",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/aurum-proptech-to-acquire-100-stakes-of-housing-com-for-rs-458-crore-bets-on-ai-powered-real-estate-platform-11781110#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -158,6 +113,47 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Tata Consultancy Services Limited",
+      "symbol": "TCS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 16,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Wipro Vs TCS Vs HCLTech: Deal Wins To Guidance, What Q1 Numbers Of Indian IT Majors Reveal",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/wipro-vs-tcs-vs-hcltech-deal-wins-to-guidance-what-q1-numbers-of-indian-it-majors-reveal-11781191#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Kotak Mahindra Bank Limited",
@@ -230,6 +226,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "5Paisa Capital Limited",
+      "symbol": "5PAISA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 385.05,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Navkar Corporation Limited",
       "symbol": "NAVKARCORP",
       "exchange": "NSE",
@@ -257,6 +288,41 @@
         {
           "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bharat Heavy Electricals Limited",
+      "symbol": "BHEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 435.4,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -300,127 +366,74 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharat Heavy Electricals Limited",
-      "symbol": "BHEL",
+      "company": "Tech Mahindra Limited",
+      "symbol": "TECHM",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "predictionScore": 2.3,
       "confidence": 90,
-      "riskLevel": "Standard",
+      "riskLevel": "Medium",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 435.4,
+      "lastClose": 1510.3,
       "catalysts": [
         {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
+          "label": "Sensex Today Trades Higher | Nifty Above 24,100 | HCL Tech & Tech Mahindra Top Gainers - Equitymaster",
+          "type": "company news",
           "verified": true
         },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "360 ONE WAM LIMITED",
-      "symbol": "360ONE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1081.3,
-      "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
+          "label": "Acquisition",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Newgen Software Technologies Limited",
-      "symbol": "NEWGEN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 541.95,
-      "catalysts": [
+      "risks": [
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
+          "label": "Tech Mahindra To Roll Out Salary Hikes From Q2 In Phases",
+          "type": "company news",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/tech-mahindra-to-roll-out-salary-hikes-from-q2-in-phases-11781409#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWjJOby1maUs1d2dNTFpaeFoyOUthR0pSdE9tT1pwMDlOc3YwcWtVZTg4b1BqRkl3ejFRRmM4cE42ZmtqM2xXZWFLcjJtaWFmVDRUckpmVEdHRk1NRGRYaE55MzNFd2Z5T2ZBZDNXWlJoQWVCNXZHVGRFWFNHRkkxSUp4MHJDWXBFTnluMUlXVHdTZXFZY2ViWTdiU2lMczVLRUxhZERxTjY0SWdBanRKZ2UxM0RKU2NKYjFmaXN2aE8tcHJPeUJleUNKR0lpc3dHWEp3LWZyWnVfcGc?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Onward Technologies Limited",
       "symbol": "ONWARDTEC",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 2.2,
-      "confidence": 88,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
       "lastClose": 288.2,
       "catalysts": [
         {
-          "label": "Cessation",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
@@ -430,7 +443,7 @@
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Cessation",
           "type": "announcement",
           "verified": true
         }
@@ -441,57 +454,6 @@
     }
   ],
   "tomorrow": [
-    {
-      "company": "Tech Mahindra Limited",
-      "symbol": "TECHM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 7.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1510.3,
-      "catalysts": [
-        {
-          "label": "Tech Mahindra Q1 Results: Profit Falls Short Of Street Estimates; Revenue Up 4%",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Sensex Today Trades Higher | Nifty Above 24,100 | HCL Tech & Tech Mahindra Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Tech Mahindra Q1 Attrition Slips To 11.8%; IT Headcount Falls Below 75,000",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/tech-mahindra-q1-results-profit-falls-short-of-street-estimates-revenue-up-4-11779493#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWjJOby1maUs1d2dNTFpaeFoyOUthR0pSdE9tT1pwMDlOc3YwcWtVZTg4b1BqRkl3ejFRRmM4cE42ZmtqM2xXZWFLcjJtaWFmVDRUckpmVEdHRk1NRGRYaE55MzNFd2Z5T2ZBZDNXWlJoQWVCNXZHVGRFWFNHRkkxSUp4MHJDWXBFTnluMUlXVHdTZXFZY2ViWTdiU2lMczVLRUxhZERxTjY0SWdBanRKZ2UxM0RKU2NKYjFmaXN2aE8tcHJPeUJleUNKR0lpc3dHWEp3LWZyWnVfcGc?oc=5",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/tech-mahindra-q1-attrition-slips-to-11-8-headcount-falls-below-75-000-11779563#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
     {
       "company": "Menon Bearings Limited",
       "symbol": "MENONBE",
@@ -531,7 +493,7 @@
       "company": "Aurum PropTech Limited",
       "symbol": "AURUM",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -543,6 +505,11 @@
       "lastClose": 241.19,
       "catalysts": [
         {
+          "label": "Aurum PropTech To Acquire 100% Stakes Of Housing.com For Rs 458 Crore",
+          "type": "company news",
+          "verified": true
+        },
+        {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
@@ -551,16 +518,52 @@
           "label": "Issue of Securities",
           "type": "announcement",
           "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/aurum-proptech-to-acquire-100-stakes-of-housing-com-for-rs-458-crore-bets-on-ai-powered-real-estate-platform-11781110#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "5Paisa Capital Limited",
+      "symbol": "5PAISA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 385.05,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
         },
         {
-          "label": "Amendment to AOA/MOA",
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Navkar Corporation Limited",
@@ -598,6 +601,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Bharat Heavy Electricals Limited",
+      "symbol": "BHEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 435.4,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Poonawalla Fincorp Limited",
       "symbol": "POONAWALLA",
       "exchange": "NSE",
@@ -624,76 +662,6 @@
         },
         {
           "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bharat Heavy Electricals Limited",
-      "symbol": "BHEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 435.4,
-      "catalysts": [
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "5Paisa Capital Limited",
-      "symbol": "5PAISA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 385.05,
-      "catalysts": [
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -735,47 +703,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Heritage Foods Limited",
-      "symbol": "HERITGFOOD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.9,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 335.65,
-      "catalysts": [
-        {
-          "label": "Heritage Foods Q1 Results: Net Profit Plummets 38% As Margin Shrinks",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/heritage-foods-q1-results-net-profit-plummets-38-as-margin-shrinks-11779980#publisher=newsstand",
-          "verified": true
-        }
-      ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -849,6 +776,58 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Tech Mahindra Limited",
+      "symbol": "TECHM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.3,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1510.3,
+      "catalysts": [
+        {
+          "label": "Sensex Today Trades Higher | Nifty Above 24,100 | HCL Tech & Tech Mahindra Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Acquisition",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Tech Mahindra To Roll Out Salary Hikes From Q2 In Phases",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/tech-mahindra-to-roll-out-salary-hikes-from-q2-in-phases-11781409#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWjJOby1maUs1d2dNTFpaeFoyOUthR0pSdE9tT1pwMDlOc3YwcWtVZTg4b1BqRkl3ejFRRmM4cE42ZmtqM2xXZWFLcjJtaWFmVDRUckpmVEdHRk1NRGRYaE55MzNFd2Z5T2ZBZDNXWlJoQWVCNXZHVGRFWFNHRkkxSUp4MHJDWXBFTnluMUlXVHdTZXFZY2ViWTdiU2lMczVLRUxhZERxTjY0SWdBanRKZ2UxM0RKU2NKYjFmaXN2aE8tcHJPeUJleUNKR0lpc3dHWEp3LWZyWnVfcGc?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Kotak Mahindra Bank Limited",
       "symbol": "KOTAKBANK",
       "exchange": "NSE",
@@ -870,6 +849,41 @@
         },
         {
           "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ICICI Lombard General Insurance Company Limited",
+      "symbol": "ICICIGI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1623.8,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
