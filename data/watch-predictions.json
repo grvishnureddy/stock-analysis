@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T03:40:14+00:00",
+  "generatedAt": "2026-07-16T06:33:56+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -16,10 +16,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 417.95,
+      "lastClose": 420.3,
       "catalysts": [
         {
-          "label": "Wipro, Tech Mahindra, BHEL, ITC Hotels, Ceat Q1 Results Today \u2014 Earnings Estimates",
+          "label": "Q1 Results Live Updates: Tech Mahindra, BHEL, Wipro, ITC Hotels, Jio Financial Earnings In Focus",
           "type": "results",
           "verified": true
         },
@@ -38,7 +38,7 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/wipro-jio-financial-services-tech-mahindra-bhel-polycab-piramal-finance-itc-hotels-ceat-q1-results-today-earnings-estimates-11775004#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-tech-mahindra-bhel-wipro-itc-hotels-jio-financial-among-40-firms-11778057#publisher=newsstand",
           "verified": true
         }
       ],
@@ -52,12 +52,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.5,
+      "predictionScore": 4.1,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 181.12,
+      "technicalConfidence": 100,
+      "lastClose": 176.12,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -80,6 +80,41 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "D.B.Corp Limited",
+      "symbol": "DBCORP",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 218.67,
+      "catalysts": [
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Kotak Mahindra Bank Limited",
       "symbol": "KOTAKBANK",
       "exchange": "NSE",
@@ -92,7 +127,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 378.4,
+      "lastClose": 379.6,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -115,54 +150,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Navkar Corporation Limited",
-      "symbol": "NAVKARCORP",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 116.09,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "ICICI Lombard General Insurance Company Limited",
       "symbol": "ICICIGI",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 88,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1814.6,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1611.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -185,6 +185,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Navkar Corporation Limited",
+      "symbol": "NAVKARCORP",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 115.25,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Karur Vysya Bank Limited",
       "symbol": "KARURVYSYA",
       "exchange": "NSE",
@@ -197,7 +232,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 305.4,
+      "lastClose": 307.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -232,7 +267,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1887.7,
+      "lastClose": 1881.7,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -255,47 +290,6 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Angel One Limited",
-      "symbol": "ANGELONE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.6,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Indian broker Angel One's profit doubles on higher trading - Reuters",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlBQTXdGOWJld1RUX1FnMUE2T1RjU2VfNmcxb2VVdm9faUtYaU9ZY3Znd2pGelJON0hzWGFTTWV0Q0NTbk9QR0w4ZG5kdnNLbTYwTUMtWXlnSkVfaDJnUlViN1VILWlRZWZ3aGpNandCdlZ5RVpPdFZ3QUl0U3FZaDNyb29WTWhMVnUyUDRJWDJ0TDNvdTgwSUsySWZ5OFJGX2dCSQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "ICICI Bank Limited",
       "symbol": "ICICIBANK",
       "exchange": "NSE",
@@ -308,7 +302,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1416.2,
+      "lastClose": 1412.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -343,7 +337,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 327.55,
+      "lastClose": 327.7,
       "catalysts": [
         {
           "label": "Financial Results/Fund Raising",
@@ -413,7 +407,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 215.48,
+      "lastClose": 220.22,
       "catalysts": [
         {
           "label": "Financial Results/Fund Raising/Other business matters",
@@ -450,10 +444,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 417.95,
+      "lastClose": 420.3,
       "catalysts": [
         {
-          "label": "Wipro, Tech Mahindra, BHEL, ITC Hotels, Ceat Q1 Results Today \u2014 Earnings Estimates",
+          "label": "Q1 Results Live Updates: Tech Mahindra, BHEL, Wipro, ITC Hotels, Jio Financial Earnings In Focus",
           "type": "results",
           "verified": true
         },
@@ -472,10 +466,45 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/wipro-jio-financial-services-tech-mahindra-bhel-polycab-piramal-finance-itc-hotels-ceat-q1-results-today-earnings-estimates-11775004#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-tech-mahindra-bhel-wipro-itc-hotels-jio-financial-among-40-firms-11778057#publisher=newsstand",
           "verified": true
         }
       ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Menon Bearings Limited",
+      "symbol": "MENONBE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 176.12,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -491,7 +520,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1887.7,
+      "lastClose": 1881.7,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -526,7 +555,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 116.09,
+      "lastClose": 115.25,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -561,7 +590,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 904.9,
+      "lastClose": 904.65,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -596,7 +625,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 475.55,
+      "lastClose": 470.35,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -619,10 +648,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Menon Bearings Limited",
-      "symbol": "MENONBE",
+      "company": "D.B.Corp Limited",
+      "symbol": "DBCORP",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -630,21 +659,21 @@
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 181.12,
+      "technicalConfidence": 67,
+      "lastClose": 218.67,
       "catalysts": [
         {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Record Date",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -666,7 +695,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 305.4,
+      "lastClose": 307.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -701,7 +730,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1416.2,
+      "lastClose": 1412.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -736,7 +765,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 327.55,
+      "lastClose": 327.7,
       "catalysts": [
         {
           "label": "Financial Results/Fund Raising",
@@ -771,7 +800,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 378.4,
+      "lastClose": 379.6,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -800,13 +829,13 @@
       "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1814.6,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1611.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -820,41 +849,6 @@
         },
         {
           "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Indo Thai Securities Limited",
-      "symbol": "INDOTHAI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 86,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 215.48,
-      "catalysts": [
-        {
-          "label": "Financial Results/Fund Raising/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
