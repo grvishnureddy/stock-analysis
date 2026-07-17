@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T19:35:47+00:00",
+  "updatedAt": "2026-07-17T21:10:01+00:00",
   "instruments": [
     {
       "name": "Nifty 50",
@@ -2221,11 +2221,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 4007.5,
+      "price": 4022.4,
       "asOf": "2026-07-17",
-      "change1d": 0.55,
-      "change1w": -2.35,
-      "change1m": -7.47,
+      "change1d": 0.92,
+      "change1w": -1.99,
+      "change1m": -7.12,
       "rangeLow": 3985.6,
       "rangeHigh": 4358.9,
       "chart": [
@@ -2487,7 +2487,7 @@
         },
         {
           "date": "2026-07-17",
-          "close": 4007.5
+          "close": 4022.4
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF"
@@ -2498,11 +2498,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 56.13,
+      "price": 56.22,
       "asOf": "2026-07-17",
-      "change1d": 0.41,
-      "change1w": -6.15,
-      "change1m": -19.7,
+      "change1d": 0.57,
+      "change1w": -6.0,
+      "change1m": -19.57,
       "rangeLow": 55.9,
       "rangeHigh": 70.7,
       "chart": [
@@ -2764,7 +2764,7 @@
         },
         {
           "date": "2026-07-17",
-          "close": 56.13
+          "close": 56.22
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/SI%3DF"
@@ -2775,11 +2775,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / lb",
-      "price": 6.25,
+      "price": 6.27,
       "asOf": "2026-07-17",
-      "change1d": -0.79,
-      "change1w": 0.32,
-      "change1m": -3.7,
+      "change1d": -0.48,
+      "change1w": 0.64,
+      "change1m": -3.39,
       "rangeLow": 5.94,
       "rangeHigh": 6.49,
       "chart": [
@@ -3041,7 +3041,7 @@
         },
         {
           "date": "2026-07-17",
-          "close": 6.25
+          "close": 6.27
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/HG%3DF"
@@ -3052,13 +3052,13 @@
       "type": "energy",
       "market": "Global",
       "unit": "USD / barrel",
-      "price": 81.43,
+      "price": 81.8,
       "asOf": "2026-07-17",
-      "change1d": 3.14,
-      "change1w": 14.03,
-      "change1m": 7.07,
+      "change1d": 3.61,
+      "change1w": 14.55,
+      "change1m": 7.56,
       "rangeLow": 68.55,
-      "rangeHigh": 81.43,
+      "rangeHigh": 81.8,
       "chart": [
         {
           "date": "2026-04-15",
@@ -3318,7 +3318,7 @@
         },
         {
           "date": "2026-07-17",
-          "close": 81.43
+          "close": 81.8
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/CL%3DF"
@@ -3327,646 +3327,582 @@
   "components": {
     "NIFTY 50": [
       {
-        "symbol": "ADANIENT",
-        "company": "Adani Enterprises Ltd.",
-        "industry": "Metals & Mining",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "ADANIPORTS",
-        "company": "Adani Ports and Special Economic Zone Ltd.",
-        "industry": "Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "APOLLOHOSP",
-        "company": "Apollo Hospitals Enterprise Ltd.",
-        "industry": "Healthcare",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "ASIANPAINT",
-        "company": "Asian Paints Ltd.",
-        "industry": "Consumer Durables",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "AXISBANK",
-        "company": "Axis Bank Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": 1328.5,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "BAJAJ-AUTO",
-        "company": "Bajaj Auto Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": 10443.0,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "BAJFINANCE",
-        "company": "Bajaj Finance Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "BAJAJFINSV",
-        "company": "Bajaj Finserv Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "BEL",
-        "company": "Bharat Electronics Ltd.",
-        "industry": "Capital Goods",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "BHARTIARTL",
-        "company": "Bharti Airtel Ltd.",
-        "industry": "Telecommunication",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "CIPLA",
-        "company": "Cipla Ltd.",
-        "industry": "Healthcare",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "COALINDIA",
-        "company": "Coal India Ltd.",
-        "industry": "Oil Gas & Consumable Fuels",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "DRREDDY",
-        "company": "Dr. Reddy's Laboratories Ltd.",
-        "industry": "Healthcare",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "EICHERMOT",
-        "company": "Eicher Motors Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "ETERNAL",
-        "company": "Eternal Ltd.",
-        "industry": "Consumer Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "GRASIM",
-        "company": "Grasim Industries Ltd.",
-        "industry": "Construction Materials",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "HCLTECH",
-        "company": "HCL Technologies Ltd.",
-        "industry": "Information Technology",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
         "symbol": "HDFCBANK",
-        "company": "HDFC Bank Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": 819.6,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "HDFCLIFE",
-        "company": "HDFC Life Insurance Company Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "HINDALCO",
-        "company": "Hindalco Industries Ltd.",
-        "industry": "Metals & Mining",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "HINDUNILVR",
-        "company": "Hindustan Unilever Ltd.",
-        "industry": "Fast Moving Consumer Goods",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "HDFC Bank Limited",
+        "lastPrice": 769,
+        "change": 9.85,
+        "pChange": 1.3,
+        "volume": 25604071,
+        "marketCap": 11739461007370.23
       },
       {
         "symbol": "ICICIBANK",
-        "company": "ICICI Bank Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": 1444.3,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "ITC",
-        "company": "ITC Ltd.",
-        "industry": "Fast Moving Consumer Goods",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "INFY",
-        "company": "Infosys Ltd.",
-        "industry": "Information Technology",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "INDIGO",
-        "company": "InterGlobe Aviation Ltd.",
-        "industry": "Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "JSWSTEEL",
-        "company": "JSW Steel Ltd.",
-        "industry": "Metals & Mining",
-        "lastPrice": 1237.3,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "JIOFIN",
-        "company": "Jio Financial Services Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "KOTAKBANK",
-        "company": "Kotak Mahindra Bank Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": 389.95,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "LT",
-        "company": "Larsen & Toubro Ltd.",
-        "industry": "Construction",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "M&M",
-        "company": "Mahindra & Mahindra Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "MARUTI",
-        "company": "Maruti Suzuki India Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "ICICI Bank Limited",
+        "lastPrice": 1267.2,
+        "change": 24.4,
+        "pChange": 1.96,
+        "volume": 11601085,
+        "marketCap": 9047753363975.65
       },
       {
         "symbol": "MAXHEALTH",
-        "company": "Max Healthcare Institute Ltd.",
-        "industry": "Healthcare",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "Max Healthcare Institute Limited",
+        "lastPrice": 1023.05,
+        "change": -68.05,
+        "pChange": -6.24,
+        "volume": 11711405,
+        "marketCap": 759178865055.08
       },
       {
-        "symbol": "NTPC",
-        "company": "NTPC Ltd.",
-        "industry": "Power",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "NESTLEIND",
-        "company": "Nestle India Ltd.",
-        "industry": "Fast Moving Consumer Goods",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "ONGC",
-        "company": "Oil & Natural Gas Corporation Ltd.",
-        "industry": "Oil Gas & Consumable Fuels",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "POWERGRID",
-        "company": "Power Grid Corporation of India Ltd.",
-        "industry": "Power",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "symbol": "INFY",
+        "company": "Infosys Limited",
+        "lastPrice": 1175,
+        "change": -6.2,
+        "pChange": -0.52,
+        "volume": 8803066,
+        "marketCap": 4108403010778.69
       },
       {
         "symbol": "RELIANCE",
-        "company": "Reliance Industries Ltd.",
-        "industry": "Oil Gas & Consumable Fuels",
-        "lastPrice": 1327.2,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "Reliance Industries Limited",
+        "lastPrice": 1358,
+        "change": 8.4,
+        "pChange": 0.62,
+        "volume": 7105813,
+        "marketCap": 9146748936108.15
       },
       {
-        "symbol": "SBILIFE",
-        "company": "SBI Life Insurance Company Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "symbol": "BHARTIARTL",
+        "company": "Bharti Airtel Limited",
+        "lastPrice": 1872.7,
+        "change": -12.6,
+        "pChange": -0.67,
+        "volume": 5099120,
+        "marketCap": 5732082458859
       },
       {
-        "symbol": "SHRIRAMFIN",
-        "company": "Shriram Finance Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "symbol": "ITC",
+        "company": "ITC Limited",
+        "lastPrice": 302.05,
+        "change": -6,
+        "pChange": -1.95,
+        "volume": 30751752,
+        "marketCap": 2903162785508.05
+      },
+      {
+        "symbol": "WIPRO",
+        "company": "Wipro Limited",
+        "lastPrice": 202.97,
+        "change": 3.23,
+        "pChange": 1.62,
+        "volume": 40014399,
+        "marketCap": 578905986232.4
+      },
+      {
+        "symbol": "M&M",
+        "company": "Mahindra & Mahindra Limited",
+        "lastPrice": 3085,
+        "change": -14,
+        "pChange": -0.45,
+        "volume": 2407171,
+        "marketCap": 2749029157498.63
       },
       {
         "symbol": "SBIN",
         "company": "State Bank of India",
-        "industry": "Financial Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "lastPrice": 949.6,
+        "change": -1.3,
+        "pChange": -0.14,
+        "volume": 7807192,
+        "marketCap": 3929552632451.47
       },
       {
         "symbol": "SUNPHARMA",
-        "company": "Sun Pharmaceutical Industries Ltd.",
-        "industry": "Healthcare",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "Sun Pharmaceutical Industries Limited",
+        "lastPrice": 1840,
+        "change": -51.3,
+        "pChange": -2.71,
+        "volume": 3610732,
+        "marketCap": 1942744404410.96
+      },
+      {
+        "symbol": "AXISBANK",
+        "company": "Axis Bank Limited",
+        "lastPrice": 1287,
+        "change": 33.7,
+        "pChange": 2.69,
+        "volume": 5016900,
+        "marketCap": 3684581985655.38
       },
       {
         "symbol": "TCS",
-        "company": "Tata Consultancy Services Ltd.",
-        "industry": "Information Technology",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "Tata Consultancy Services Limited",
+        "lastPrice": 2317.9,
+        "change": -9.3,
+        "pChange": -0.4,
+        "volume": 2617262,
+        "marketCap": 2360359218296.39
       },
       {
-        "symbol": "TATACONSUM",
-        "company": "Tata Consumer Products Ltd.",
-        "industry": "Fast Moving Consumer Goods",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "symbol": "ETERNAL",
+        "company": "ETERNAL LIMITED",
+        "lastPrice": 242.8,
+        "change": 0.75,
+        "pChange": 0.31,
+        "volume": 23537777,
+        "marketCap": 1744066877742.76
       },
       {
-        "symbol": "TMPV",
-        "company": "Tata Motors Passenger Vehicles Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "symbol": "LT",
+        "company": "Larsen & Toubro Limited",
+        "lastPrice": 3933,
+        "change": 42.5,
+        "pChange": 1.09,
+        "volume": 1330428,
+        "marketCap": 4605256389427.11
       },
       {
-        "symbol": "TATASTEEL",
-        "company": "Tata Steel Ltd.",
-        "industry": "Metals & Mining",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "symbol": "MARUTI",
+        "company": "Maruti Suzuki India Limited",
+        "lastPrice": 12995,
+        "change": -15,
+        "pChange": -0.12,
+        "volume": 387975,
+        "marketCap": 1700374667560.37
       },
       {
-        "symbol": "TECHM",
-        "company": "Tech Mahindra Ltd.",
-        "industry": "Information Technology",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "symbol": "SHRIRAMFIN",
+        "company": "Shriram Finance Limited",
+        "lastPrice": 942,
+        "change": 27.25,
+        "pChange": 2.98,
+        "volume": 5414742,
+        "marketCap": 1315564168380.6
       },
       {
-        "symbol": "TITAN",
-        "company": "Titan Company Ltd.",
-        "industry": "Consumer Durables",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "symbol": "APOLLOHOSP",
+        "company": "Apollo Hospitals Enterprise Limited",
+        "lastPrice": 8350,
+        "change": 41.5,
+        "pChange": 0.5,
+        "volume": 564876,
+        "marketCap": 856822742528.96
       },
       {
         "symbol": "TRENT",
-        "company": "Trent Ltd.",
-        "industry": "Consumer Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "Trent Limited",
+        "lastPrice": 4303,
+        "change": 132.6,
+        "pChange": 3.18,
+        "volume": 1087977,
+        "marketCap": 952079246326.52
+      },
+      {
+        "symbol": "TATASTEEL",
+        "company": "Tata Steel Limited",
+        "lastPrice": 209.35,
+        "change": 0.77,
+        "pChange": 0.37,
+        "volume": 22023114,
+        "marketCap": 1725496495362.66
+      },
+      {
+        "symbol": "NTPC",
+        "company": "NTPC Limited",
+        "lastPrice": 389,
+        "change": 0.2,
+        "pChange": 0.05,
+        "volume": 11755213,
+        "marketCap": 1839021264127.1
+      },
+      {
+        "symbol": "HINDALCO",
+        "company": "Hindalco Industries Limited",
+        "lastPrice": 1110.1,
+        "change": 10.8,
+        "pChange": 0.98,
+        "volume": 4136312,
+        "marketCap": 1602318714550.48
+      },
+      {
+        "symbol": "POWERGRID",
+        "company": "Power Grid Corporation of India Limited",
+        "lastPrice": 294.15,
+        "change": -5.4,
+        "pChange": -1.8,
+        "volume": 15105294,
+        "marketCap": 1328488445274.44
+      },
+      {
+        "symbol": "BAJFINANCE",
+        "company": "Bajaj Finance Limited",
+        "lastPrice": 916.55,
+        "change": 8.9,
+        "pChange": 0.98,
+        "volume": 4811990,
+        "marketCap": 2446424303884.56
+      },
+      {
+        "symbol": "COALINDIA",
+        "company": "Coal India Limited",
+        "lastPrice": 456.5,
+        "change": -3.7,
+        "pChange": -0.8,
+        "volume": 9201635,
+        "marketCap": 1033533566969.07
+      },
+      {
+        "symbol": "ASIANPAINT",
+        "company": "Asian Paints Limited",
+        "lastPrice": 2636.7,
+        "change": 37.9,
+        "pChange": 1.46,
+        "volume": 1556434,
+        "marketCap": 1188831590834.86
+      },
+      {
+        "symbol": "KOTAKBANK",
+        "company": "Kotak Mahindra Bank Limited",
+        "lastPrice": 384.6,
+        "change": 3.75,
+        "pChange": 0.98,
+        "volume": 10348359,
+        "marketCap": 2823504827548.88
       },
       {
         "symbol": "ULTRACEMCO",
-        "company": "UltraTech Cement Ltd.",
-        "industry": "Construction Materials",
-        "lastPrice": 11727.0,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "UltraTech Cement Limited",
+        "lastPrice": 11588,
+        "change": 114,
+        "pChange": 0.99,
+        "volume": 340427,
+        "marketCap": 1368430632156.49
       },
       {
-        "symbol": "WIPRO",
-        "company": "Wipro Ltd.",
-        "industry": "Information Technology",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "symbol": "BEL",
+        "company": "Bharat Electronics Limited",
+        "lastPrice": 416.5,
+        "change": -3.9,
+        "pChange": -0.93,
+        "volume": 9175611,
+        "marketCap": 1487605637170.27
+      },
+      {
+        "symbol": "EICHERMOT",
+        "company": "Eicher Motors Limited",
+        "lastPrice": 6985,
+        "change": 93,
+        "pChange": 1.35,
+        "volume": 512596,
+        "marketCap": 958563532512.46
+      },
+      {
+        "symbol": "ONGC",
+        "company": "Oil & Natural Gas Corporation Limited",
+        "lastPrice": 289.95,
+        "change": -5.9,
+        "pChange": -1.99,
+        "volume": 11563330,
+        "marketCap": 1123174047267.82
+      },
+      {
+        "symbol": "JIOFIN",
+        "company": "Jio Financial Services Limited",
+        "lastPrice": 238.89,
+        "change": 3.11,
+        "pChange": 1.32,
+        "volume": 13517010,
+        "marketCap": 812004501360.47
+      },
+      {
+        "symbol": "TITAN",
+        "company": "Titan Company Limited",
+        "lastPrice": 4099,
+        "change": 15.9,
+        "pChange": 0.39,
+        "volume": 768112,
+        "marketCap": 1686685662199.9
+      },
+      {
+        "symbol": "HINDUNILVR",
+        "company": "Hindustan Unilever Limited",
+        "lastPrice": 2205,
+        "change": 26,
+        "pChange": 1.19,
+        "volume": 1382889,
+        "marketCap": 1951257877351.83
+      },
+      {
+        "symbol": "INDIGO",
+        "company": "InterGlobe Aviation Limited",
+        "lastPrice": 4432,
+        "change": 29,
+        "pChange": 0.66,
+        "volume": 675234,
+        "marketCap": 999884263212.81
+      },
+      {
+        "symbol": "ADANIENT",
+        "company": "Adani Enterprises Limited",
+        "lastPrice": 2719.1,
+        "change": 21.5,
+        "pChange": 0.8,
+        "volume": 1094843,
+        "marketCap": 777031958386.55
+      },
+      {
+        "symbol": "GRASIM",
+        "company": "Grasim Industries Limited",
+        "lastPrice": 3160,
+        "change": 5.5,
+        "pChange": 0.17,
+        "volume": 906466,
+        "marketCap": 1199654497157.64
+      },
+      {
+        "symbol": "ADANIPORTS",
+        "company": "Adani Ports and Special Economic Zone Limited",
+        "lastPrice": 1785,
+        "change": -8.3,
+        "pChange": -0.46,
+        "volume": 1487044,
+        "marketCap": 1313159090152.61
+      },
+      {
+        "symbol": "DRREDDY",
+        "company": "Dr. Reddy's Laboratories Limited",
+        "lastPrice": 1310,
+        "change": -8.5,
+        "pChange": -0.64,
+        "volume": 2002451,
+        "marketCap": 796071103793.12
+      },
+      {
+        "symbol": "TMPV",
+        "company": "Tata Motors Passenger Vehicles Limited",
+        "lastPrice": 363.95,
+        "change": 2.6,
+        "pChange": 0.72,
+        "volume": 6934910,
+        "marketCap": 760111444830.48
+      },
+      {
+        "symbol": "HCLTECH",
+        "company": "HCL Technologies Limited",
+        "lastPrice": 1167,
+        "change": -1.2,
+        "pChange": -0.1,
+        "volume": 2044782,
+        "marketCap": 1228030493890.17
+      },
+      {
+        "symbol": "BAJAJ-AUTO",
+        "company": "Bajaj Auto Limited",
+        "lastPrice": 10566,
+        "change": -101,
+        "pChange": -0.95,
+        "volume": 207805,
+        "marketCap": 1167436994775.05
+      },
+      {
+        "symbol": "TATACONSUM",
+        "company": "TATA CONSUMER PRODUCTS LIMITED",
+        "lastPrice": 1192,
+        "change": -2.9,
+        "pChange": -0.24,
+        "volume": 1808205,
+        "marketCap": 773978542217.24
+      },
+      {
+        "symbol": "HDFCLIFE",
+        "company": "HDFC Life Insurance Company Limited",
+        "lastPrice": 615,
+        "change": 0.65,
+        "pChange": 0.11,
+        "volume": 3481863,
+        "marketCap": 659549657335.09
+      },
+      {
+        "symbol": "NESTLEIND",
+        "company": "Nestle India Limited",
+        "lastPrice": 1423.8,
+        "change": 17.3,
+        "pChange": 1.23,
+        "volume": 1306017,
+        "marketCap": 1017983579058.54
+      },
+      {
+        "symbol": "SBILIFE",
+        "company": "SBI Life Insurance Company Limited",
+        "lastPrice": 1860.9,
+        "change": 1,
+        "pChange": 0.05,
+        "volume": 934443,
+        "marketCap": 833502134528.93
+      },
+      {
+        "symbol": "CIPLA",
+        "company": "Cipla Limited",
+        "lastPrice": 1392.9,
+        "change": -9,
+        "pChange": -0.64,
+        "volume": 917323,
+        "marketCap": 781443044084.22
+      },
+      {
+        "symbol": "TECHM",
+        "company": "Tech Mahindra Limited",
+        "lastPrice": 1424.2,
+        "change": 4.2,
+        "pChange": 0.3,
+        "volume": 654078,
+        "marketCap": 901782960556.51
+      },
+      {
+        "symbol": "JSWSTEEL",
+        "company": "JSW Steel Limited",
+        "lastPrice": 1287.5,
+        "change": 6.2,
+        "pChange": 0.48,
+        "volume": 588674,
+        "marketCap": 1203755517949.87
+      },
+      {
+        "symbol": "BAJAJFINSV",
+        "company": "Bajaj Finserv Limited",
+        "lastPrice": 1771,
+        "change": 18.8,
+        "pChange": 1.07,
+        "volume": 392442,
+        "marketCap": 1019312820737.78
       }
     ],
     "NIFTY BANK": [
       {
-        "symbol": "AUBANK",
-        "company": "AU Small Finance Bank Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "AXISBANK",
-        "company": "Axis Bank Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": 1328.5,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "BANKBARODA",
-        "company": "Bank of Baroda",
-        "industry": "Financial Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "CANBK",
-        "company": "Canara Bank",
-        "industry": "Financial Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "FEDERALBNK",
-        "company": "Federal Bank Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": 349.0,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
         "symbol": "HDFCBANK",
-        "company": "HDFC Bank Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": 819.6,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "HDFC Bank Limited",
+        "lastPrice": 758.8,
+        "change": -0.7,
+        "pChange": -0.09,
+        "volume": 34664725,
+        "marketCap": 11583749040822.54
       },
       {
         "symbol": "ICICIBANK",
-        "company": "ICICI Bank Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": 1444.3,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "IDFCFIRSTB",
-        "company": "IDFC First Bank Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "INDUSINDBK",
-        "company": "IndusInd Bank Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "KOTAKBANK",
-        "company": "Kotak Mahindra Bank Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": 389.95,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "PNB",
-        "company": "Punjab National Bank",
-        "industry": "Financial Services",
-        "lastPrice": 105.77,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "ICICI Bank Limited",
+        "lastPrice": 1244.4,
+        "change": 7.1,
+        "pChange": 0.57,
+        "volume": 14394386,
+        "marketCap": 8884962347010.18
       },
       {
         "symbol": "SBIN",
         "company": "State Bank of India",
-        "industry": "Financial Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "lastPrice": 950,
+        "change": -0.9,
+        "pChange": -0.09,
+        "volume": 11756520,
+        "marketCap": 3931207877873.73
+      },
+      {
+        "symbol": "AXISBANK",
+        "company": "Axis Bank Limited",
+        "lastPrice": 1252,
+        "change": 2.2,
+        "pChange": 0.18,
+        "volume": 5171528,
+        "marketCap": 3584082478234.33
+      },
+      {
+        "symbol": "KOTAKBANK",
+        "company": "Kotak Mahindra Bank Limited",
+        "lastPrice": 381.5,
+        "change": -1.7,
+        "pChange": -0.44,
+        "volume": 10133840,
+        "marketCap": 2800746468304.47
+      },
+      {
+        "symbol": "YESBANK",
+        "company": "Yes Bank Limited",
+        "lastPrice": 21.6,
+        "change": -0.4,
+        "pChange": -1.82,
+        "volume": 130253122,
+        "marketCap": 378262152763.16
+      },
+      {
+        "symbol": "CANBK",
+        "company": "Canara Bank",
+        "lastPrice": 128.15,
+        "change": 0.49,
+        "pChange": 0.38,
+        "volume": 18615692,
+        "marketCap": 430843864987.9
+      },
+      {
+        "symbol": "PNB",
+        "company": "Punjab National Bank",
+        "lastPrice": 101.84,
+        "change": -0.38,
+        "pChange": -0.37,
+        "volume": 21569101,
+        "marketCap": 350164447733.76
+      },
+      {
+        "symbol": "BANKBARODA",
+        "company": "Bank of Baroda",
+        "lastPrice": 263,
+        "change": -0.55,
+        "pChange": -0.21,
+        "volume": 8207070,
+        "marketCap": 486558977265.28
+      },
+      {
+        "symbol": "FEDERALBNK",
+        "company": "The Federal Bank  Limited",
+        "lastPrice": 284,
+        "change": -5.9,
+        "pChange": -2.04,
+        "volume": 6916472,
+        "marketCap": 697499054884.04
+      },
+      {
+        "symbol": "INDUSINDBK",
+        "company": "IndusInd Bank Limited",
+        "lastPrice": 903,
+        "change": 5.85,
+        "pChange": 0.65,
+        "volume": 2144884,
+        "marketCap": 593037558483.94
       },
       {
         "symbol": "UNIONBANK",
         "company": "Union Bank of India",
-        "industry": "Financial Services",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "lastPrice": 160.6,
+        "change": 1.6,
+        "pChange": 1.01,
+        "volume": 8330372,
+        "marketCap": 309460985035.66
       },
       {
-        "symbol": "YESBANK",
-        "company": "Yes Bank Ltd.",
-        "industry": "Financial Services",
-        "lastPrice": 23.61,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "symbol": "AUBANK",
+        "company": "AU Small Finance Bank Limited",
+        "lastPrice": 964.4,
+        "change": -9.6,
+        "pChange": -0.99,
+        "volume": 1349805,
+        "marketCap": 544196621180.04
+      },
+      {
+        "symbol": "IDFCFIRSTB",
+        "company": "IDFC First Bank Limited",
+        "lastPrice": 68.38,
+        "change": 0.17,
+        "pChange": 0.25,
+        "volume": 12011357,
+        "marketCap": 452078776004.27
       }
     ],
     "NIFTY IT": [
@@ -4073,154 +4009,139 @@
     ],
     "NIFTY AUTO": [
       {
-        "symbol": "ASHOKLEY",
-        "company": "Ashok Leyland Ltd.",
-        "industry": "Capital Goods",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "BAJAJ-AUTO",
-        "company": "Bajaj Auto Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": 10443.0,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "BHARATFORG",
-        "company": "Bharat Forge Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "BOSCHLTD",
-        "company": "Bosch Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "EICHERMOT",
-        "company": "Eicher Motors Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "EXIDEIND",
-        "company": "Exide Industries Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "HEROMOTOCO",
-        "company": "Hero MotoCorp Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "symbol": "MOTHERSON",
+        "company": "Samvardhana Motherson International Limited",
+        "lastPrice": 131.33,
+        "change": -0.16,
+        "pChange": -0.12,
+        "volume": 56355040,
+        "marketCap": 579605351114.91
       },
       {
         "symbol": "M&M",
-        "company": "Mahindra & Mahindra Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "MARUTI",
-        "company": "Maruti Suzuki India Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "MOTHERSON",
-        "company": "Samvardhana Motherson International Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
-      },
-      {
-        "symbol": "SONACOMS",
-        "company": "Sona BLW Precision Forgings Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "Mahindra & Mahindra Limited",
+        "lastPrice": 3119.9,
+        "change": 27.6,
+        "pChange": 0.89,
+        "volume": 2330606,
+        "marketCap": 2780128385244.72
       },
       {
         "symbol": "TVSMOTOR",
-        "company": "TVS Motor Company Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "TVS Motor Company Limited",
+        "lastPrice": 3365,
+        "change": 81.6,
+        "pChange": 2.49,
+        "volume": 1265474,
+        "marketCap": 3940213381209.99
+      },
+      {
+        "symbol": "BAJAJ-AUTO",
+        "company": "Bajaj Auto Limited",
+        "lastPrice": 10462.5,
+        "change": 257.5,
+        "pChange": 2.52,
+        "volume": 379649,
+        "marketCap": 1156001283156.73
+      },
+      {
+        "symbol": "MARUTI",
+        "company": "Maruti Suzuki India Limited",
+        "lastPrice": 13004,
+        "change": 48,
+        "pChange": 0.37,
+        "volume": 300695,
+        "marketCap": 1701552302959.22
+      },
+      {
+        "symbol": "ASHOKLEY",
+        "company": "Ashok Leyland Limited",
+        "lastPrice": 154,
+        "change": 2.62,
+        "pChange": 1.73,
+        "volume": 24202471,
+        "marketCap": 439385771806.42
       },
       {
         "symbol": "TMPV",
-        "company": "Tata Motors Passenger Vehicles Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "Tata Motors Passenger Vehicles Limited",
+        "lastPrice": 360.85,
+        "change": -0.35,
+        "pChange": -0.1,
+        "volume": 9875276,
+        "marketCap": 753637078903.91
+      },
+      {
+        "symbol": "EICHERMOT",
+        "company": "Eicher Motors Limited",
+        "lastPrice": 6859,
+        "change": -23.5,
+        "pChange": -0.34,
+        "volume": 455047,
+        "marketCap": 941272336364.06
+      },
+      {
+        "symbol": "HEROMOTOCO",
+        "company": "Hero MotoCorp Limited",
+        "lastPrice": 4965,
+        "change": -42.5,
+        "pChange": -0.85,
+        "volume": 416572,
+        "marketCap": 642693053318.33
+      },
+      {
+        "symbol": "BHARATFORG",
+        "company": "Bharat Forge Limited",
+        "lastPrice": 1895,
+        "change": 37.7,
+        "pChange": 2.03,
+        "volume": 953954,
+        "marketCap": 503710154778.48
       },
       {
         "symbol": "TIINDIA",
-        "company": "Tube Investments of India Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "Tube Investments of India Limited",
+        "lastPrice": 2984.1,
+        "change": 91.9,
+        "pChange": 3.18,
+        "volume": 485097,
+        "marketCap": 317946275365.34
+      },
+      {
+        "symbol": "BOSCHLTD",
+        "company": "Bosch Limited",
+        "lastPrice": 36715,
+        "change": -415,
+        "pChange": -1.12,
+        "volume": 38556,
+        "marketCap": 317545151002.97
       },
       {
         "symbol": "UNOMINDA",
-        "company": "UNO Minda Ltd.",
-        "industry": "Automobile and Auto Components",
-        "lastPrice": null,
-        "change": null,
-        "pChange": null,
-        "volume": null,
-        "marketCap": null
+        "company": "UNO Minda Limited",
+        "lastPrice": 1050,
+        "change": -1.9,
+        "pChange": -0.18,
+        "volume": 805812,
+        "marketCap": 190205481522.14
+      },
+      {
+        "symbol": "SONACOMS",
+        "company": "Sona BLW Precision Forgings Limited",
+        "lastPrice": 589.2,
+        "change": 9.45,
+        "pChange": 1.63,
+        "volume": 1366708,
+        "marketCap": 263409738294.8
+      },
+      {
+        "symbol": "EXIDEIND",
+        "company": "Exide Industries Limited",
+        "lastPrice": 339.9,
+        "change": -4.75,
+        "pChange": -1.38,
+        "volume": 2206260,
+        "marketCap": 154208381250
       }
     ],
     "NIFTY METAL": [
