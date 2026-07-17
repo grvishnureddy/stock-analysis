@@ -1,36 +1,36 @@
 {
-  "generatedAt": "2026-07-17T10:13:37+00:00",
+  "generatedAt": "2026-07-17T11:44:02+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "Bank of India",
-      "symbol": "BANKINDIA",
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 7.0,
+      "predictionScore": 6.0,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1444.3,
       "catalysts": [
         {
-          "label": "Q1 Results Live Updates: Havells' Margin Contracts, Federal Bank Profit Up 37%; Tata Tech, RIL, JSW Steel In Focus",
+          "label": "ICICI Bank Q1 Preview: Loan Growth Supports Earnings Despite Margin Dip",
           "type": "results",
           "verified": true
         },
         {
-          "label": "Central Bank Of India Shares Fall 2% Despite 13% Rise In Q1 Profit",
-          "type": "results",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Central Bank Of India Q1 Result: Profit Rises 13% To Rs 1,324 Crore, Gross NPA At 2.60%",
-          "type": "results",
+          "label": "Fund Raising",
+          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -38,26 +38,52 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-july-17-tata-technologies-ril-jsw-steel-federal-bank-among-30-firms-to-announce-earnings-today-11782776#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/central-bank-of-india-shares-fall-2-despite-13-rise-in-q1-profit-11783708#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/central-bank-of-india-q1-result-profit-rises-13-to-rs-1-324-crore-gross-npa-at-2-60-11783588#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzlHOXFSQ1JBTkI3YkltUFFXZ3VMQ0duMnFNb1VNbFV5aGE0c3FuT0hjb0tfODJQVjJoSnNEXzRTbm5mMl9udUhvMFlBTTZwdHpTQ0JEckg4Tm1oX2dyTFFLa3VibGdWNklzVzNYUWJPd3lxVTVaQzM3MnFiRjllOGR3RFhkNWxETTJJa05PWno0Q3BaYmhJNE1uQUtuMll4X3Z4WXFYT1dvTlhKVUFtU2VYdHctVDFXV2J4LXJtVEt5WnJFZlNQQzhEWVUyZmxNTmRJaHZwN3DSAd4BQVVfeXFMTXAtR3dfSFVlWEwtR2tjRjVFWU1YeHM0SHNkLXhHZWlELUxBMzh1WHJMLVZJWVAyVmFTdGp1c2dGNHRqelo0MGU3MHNMYzJ6YkFSZENaWHJCZTh1VkFmWlhJa2Jua2hPOFFtMm9fLWFjWE1hU2N6Ym1OM09ma2YzTmZBbGYxbUc2bGI0bFNkXzR5ZEVGeUtUYUhZeXhPUDdUSllraVFkS0NZQUluX3JtVDJ4MUZJOHQzVEpJX3gwbUEzZFBvX1NzTXFsQUp6aFVLcEl4Z2pDZkFQZTg0RlhB?oc=5",
+          "url": "https://www.ndtvprofit.com/markets/icici-bank-q1-preview-loan-growth-supports-earnings-despite-margin-dip-11784015#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Bandhan Bank Limited",
+      "symbol": "BANDHANBNK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 213.25,
+      "catalysts": [
+        {
+          "label": "Buy, Sell Or Hold: Canara Bank, BHEL, Polycab India, Balrampur Chini, Bandhan Bank, Tata Elxsi  \u2014 Ask Profit",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-canara-bank-bhel-polycab-india-balrampur-chini-bandhan-bank-tata-elxsi-ask-profit-11783381#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Shyam Metalics and Energy Limited",
@@ -95,47 +121,6 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "HCL Technologies Limited",
-      "symbol": "HCLTECH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 18,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Wipro Vs TCS Vs HCL Tech Dividend: Who Pays What? Record Dates, Amounts, Key Details",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Acquisition",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/wipro-vs-tcs-vs-hcl-tech-dividend-who-pays-what-record-dates-amounts-11782450#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Aurum PropTech Limited",
       "symbol": "AURUM",
       "exchange": "NSE",
@@ -171,32 +156,32 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
+      "company": "Oberoi Realty Limited",
+      "symbol": "OBEROIRLTY",
       "exchange": "NSE",
       "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.1,
+      "predictionScore": 3.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1444.3,
+      "technicalConfidence": 67,
+      "lastClose": 1894.8,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Record Date",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Fund Raising",
-          "type": "upcoming event",
+          "label": "Dividend",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -204,6 +189,41 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Poonawalla Fincorp Limited",
+      "symbol": "POONAWALLA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 477.3,
+      "catalysts": [
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "ICICI Lombard General Insurance Company Limited",
@@ -241,45 +261,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Poonawalla Fincorp Limited",
-      "symbol": "POONAWALLA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 477.3,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Central Bank of India",
       "symbol": "CENTRALBK",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -291,12 +276,47 @@
       "lastClose": 31.66,
       "catalysts": [
         {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "The Federal Bank  Limited",
+      "symbol": "FEDERALBNK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.4,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 349.0,
+      "catalysts": [
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
@@ -308,7 +328,53 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Havells India Limited",
+      "symbol": "HAVELLS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.1,
+      "confidence": 86,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 1187.3,
+      "catalysts": [
+        {
+          "label": "Havells India Q1 Results: Revenue grows 20% from last year; Higher spends impact margins - CNBC TV18",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Havells Q1 Results: Profit Falls To Rs 290 Crore, Misses Estimates; Lloyd Business Stays In The Red",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUHBJRHNlclJ2WXdBUmtzVDF6T0pvNm5KSFNwb0FlOEhqMmxaUFd3LVFVU0tIUHF1SktyOE5YZTJnUVJpMUJTVFgySDhhWVFlbnFzMmRCRG81ZjFUU2llV0dNeWNvMDNhYnFwZkUtbnBmc0c5Yk5xdzRrNjU1c29uUDdhRVFHeGZNbFgwVlh0VVlocUUyZjR6d3JRb19CRzV6V0Y4X3hYcnBGRldFc09ZS3YwYTNtbmpMOFpVUFF6ZjFkQ1U1dmFhM2lMUdIB0AFBVV95cUxOTk5mMFBDY3BaUkgwcm8zWVVxNHROWVRpU2dsUWZxWnMwcnY5dnhSYV9ESVhDQ1FuYXdXTFVlcU5lc3NOQ3hnNjJsWW50bXVqai0xWVV1bnpzTWE5YlA3TjRKTWQ5SFc1QUtRNW1TY3pGajJzY1BnODQ4NVh4aG1qSWhxVTJ5YVYtS3NTZTJwOUpoOGxrTURGazIzbWJKWGJuU05TbGtYMnliN2JZa1FIbEhTQXREZjFHOFdyM296UWE2RjJRdGpnRkx6TmZCdGpY?oc=5",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/havells-q1-results-profit-falls-to-rs-290-crore-misses-estimates-lloyd-business-stays-in-the-red-11783916#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Karur Vysya Bank Limited",
@@ -346,22 +412,141 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Havells India Limited",
-      "symbol": "HAVELLS",
+      "company": "Tata Technologies Limited",
+      "symbol": "TATATECH",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.1,
-      "confidence": 79,
+      "predictionScore": 3.3,
+      "confidence": 83,
       "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
-      "lastClose": 1187.3,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 758.05,
       "catalysts": [
         {
-          "label": "Havells India Q1 FY27 results: Net profit slips nearly 17% on rising A&P spends, revenue rises to \u20b96,518 crore - Upstox",
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    }
+  ],
+  "tomorrow": [
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 8.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1444.3,
+      "catalysts": [
+        {
+          "label": "ICICI Bank Q1 Preview: Loan Growth Supports Earnings Despite Margin Dip",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Fund Raising",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/icici-bank-q1-preview-loan-growth-supports-earnings-despite-margin-dip-11784015#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Bandhan Bank Limited",
+      "symbol": "BANDHANBNK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 213.25,
+      "catalysts": [
+        {
+          "label": "Buy, Sell Or Hold: Canara Bank, BHEL, Polycab India, Balrampur Chini, Bandhan Bank, Tata Elxsi  \u2014 Ask Profit",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-canara-bank-bhel-polycab-india-balrampur-chini-bandhan-bank-tata-elxsi-ask-profit-11783381#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Globus Spirits Limited",
+      "symbol": "GLOBUSSPR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 932.2,
+      "catalysts": [
+        {
+          "label": "Globus Spirits Q1 Result: Profit Rises 49% To Rs 26 Crore, Revenue Up 21%",
           "type": "results",
           "verified": true
         },
@@ -379,140 +564,12 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR0xTWnpNLXl4N3doeTBVUDRvUURMLUtaeUcwU3lwaEViV2tlc2gxYmF6dkdfS3hZcHdzbi1zdjhMSlJaV05XYWJ1VmtPcXJKNTNjUHZfbmFqQmlQQk5ZS2N2aUo3YWZOR1R3akROd0FzUExyWl9TX2J4Q2tkZUNMbC01NzZ3LUlYMDRnNU05QlN5OTY2TDFtRV93QU5BbW1NaGNtQjA0emloNm4xbHg2X3ZwY3dpSFBya0RWSzNvY0R1bV9wSTVxTWdWb25nNmlfZElXVWxqdzBfLU5ZY0hUcDNFVGVKYXc?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/globus-spirits-q1-result-profit-rises-49-to-rs-26-crore-revenue-up-21-11783954#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Advait Energy Transitions Limited",
-      "symbol": "ADVAIT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Indo Thai Securities Limited",
-      "symbol": "INDOTHAI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 219.84,
-      "catalysts": [
-        {
-          "label": "Financial Results/Fund Raising/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
-    {
-      "company": "Bank of India",
-      "symbol": "BANKINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 7.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Q1 Results Live Updates: Havells' Margin Contracts, Federal Bank Profit Up 37%; Tata Tech, RIL, JSW Steel In Focus",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Central Bank Of India Shares Fall 2% Despite 13% Rise In Q1 Profit",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Central Bank Of India Q1 Result: Profit Rises 13% To Rs 1,324 Crore, Gross NPA At 2.60%",
-          "type": "results",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-july-17-tata-technologies-ril-jsw-steel-federal-bank-among-30-firms-to-announce-earnings-today-11782776#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/central-bank-of-india-shares-fall-2-despite-13-rise-in-q1-profit-11783708#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/central-bank-of-india-q1-result-profit-rises-13-to-rs-1-324-crore-gross-npa-at-2-60-11783588#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzlHOXFSQ1JBTkI3YkltUFFXZ3VMQ0duMnFNb1VNbFV5aGE0c3FuT0hjb0tfODJQVjJoSnNEXzRTbm5mMl9udUhvMFlBTTZwdHpTQ0JEckg4Tm1oX2dyTFFLa3VibGdWNklzVzNYUWJPd3lxVTVaQzM3MnFiRjllOGR3RFhkNWxETTJJa05PWno0Q3BaYmhJNE1uQUtuMll4X3Z4WXFYT1dvTlhKVUFtU2VYdHctVDFXV2J4LXJtVEt5WnJFZlNQQzhEWVUyZmxNTmRJaHZwN3DSAd4BQVVfeXFMTXAtR3dfSFVlWEwtR2tjRjVFWU1YeHM0SHNkLXhHZWlELUxBMzh1WHJMLVZJWVAyVmFTdGp1c2dGNHRqelo0MGU3MHNMYzJ6YkFSZENaWHJCZTh1VkFmWlhJa2Jua2hPOFFtMm9fLWFjWE1hU2N6Ym1OM09ma2YzTmZBbGYxbUc2bGI0bFNkXzR5ZEVGeUtUYUhZeXhPUDdUSllraVFkS0NZQUluX3JtVDJ4MUZJOHQzVEpJX3gwbUEzZFBvX1NzTXFsQUp6aFVLcEl4Z2pDZkFQZTg0RlhB?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Shyam Metalics and Energy Limited",
@@ -541,41 +598,6 @@
         },
         {
           "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.1,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1444.3,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         }
@@ -623,7 +645,7 @@
       "company": "Poonawalla Fincorp Limited",
       "symbol": "POONAWALLA",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -635,17 +657,17 @@
       "lastClose": 477.3,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -653,6 +675,76 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tata Technologies Limited",
+      "symbol": "TATATECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 758.05,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Oberoi Realty Limited",
+      "symbol": "OBEROIRLTY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1894.8,
+      "catalysts": [
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Dividend",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Karur Vysya Bank Limited",
@@ -690,44 +782,38 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HCL Technologies Limited",
-      "symbol": "HCLTECH",
+      "company": "Tatva Chintan Pharma Chem Limited",
+      "symbol": "TATVA",
       "exchange": "NSE",
-      "confirmedNewsCount": 18,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 1428.1,
       "catalysts": [
         {
-          "label": "Wipro Vs TCS Vs HCL Tech Dividend: Who Pays What? Record Dates, Amounts, Key Details",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Acquisition",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Capacity addition",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Director(s)",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/wipro-vs-tcs-vs-hcl-tech-dividend-who-pays-what-record-dates-amounts-11782450#publisher=newsstand",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -766,102 +852,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Central Bank of India",
-      "symbol": "CENTRALBK",
+      "company": "Havells India Limited",
+      "symbol": "HAVELLS",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 31.66,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "JSW Infrastructure Limited",
-      "symbol": "JSWINFRA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 342.15,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Havells India Limited",
-      "symbol": "HAVELLS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 4.1,
-      "confidence": 86,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Neutral",
       "technicalConfidence": 33,
       "lastClose": 1187.3,
       "catalysts": [
         {
-          "label": "Havells India Q1 FY27 results: Net profit slips nearly 17% on rising A&P spends, revenue rises to \u20b96,518 crore - Upstox",
+          "label": "Havells India Q1 Results: Revenue grows 20% from last year; Higher spends impact margins - CNBC TV18",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Havells Q1 Results: Profit Falls To Rs 290 Crore, Misses Estimates; Lloyd Business Stays In The Red",
           "type": "results",
           "verified": true
         },
         {
           "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -870,46 +886,16 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR0xTWnpNLXl4N3doeTBVUDRvUURMLUtaeUcwU3lwaEViV2tlc2gxYmF6dkdfS3hZcHdzbi1zdjhMSlJaV05XYWJ1VmtPcXJKNTNjUHZfbmFqQmlQQk5ZS2N2aUo3YWZOR1R3akROd0FzUExyWl9TX2J4Q2tkZUNMbC01NzZ3LUlYMDRnNU05QlN5OTY2TDFtRV93QU5BbW1NaGNtQjA0emloNm4xbHg2X3ZwY3dpSFBya0RWSzNvY0R1bV9wSTVxTWdWb25nNmlfZElXVWxqdzBfLU5ZY0hUcDNFVGVKYXc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUHBJRHNlclJ2WXdBUmtzVDF6T0pvNm5KSFNwb0FlOEhqMmxaUFd3LVFVU0tIUHF1SktyOE5YZTJnUVJpMUJTVFgySDhhWVFlbnFzMmRCRG81ZjFUU2llV0dNeWNvMDNhYnFwZkUtbnBmc0c5Yk5xdzRrNjU1c29uUDdhRVFHeGZNbFgwVlh0VVlocUUyZjR6d3JRb19CRzV6V0Y4X3hYcnBGRldFc09ZS3YwYTNtbmpMOFpVUFF6ZjFkQ1U1dmFhM2lMUdIB0AFBVV95cUxOTk5mMFBDY3BaUkgwcm8zWVVxNHROWVRpU2dsUWZxWnMwcnY5dnhSYV9ESVhDQ1FuYXdXTFVlcU5lc3NOQ3hnNjJsWW50bXVqai0xWVV1bnpzTWE5YlA3TjRKTWQ5SFc1QUtRNW1TY3pGajJzY1BnODQ4NVh4aG1qSWhxVTJ5YVYtS3NTZTJwOUpoOGxrTURGazIzbWJKWGJuU05TbGtYMnliN2JZa1FIbEhTQXREZjFHOFdyM296UWE2RjJRdGpnRkx6TmZCdGpY?oc=5",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/havells-q1-results-profit-falls-to-rs-290-crore-misses-estimates-lloyd-business-stays-in-the-red-11783916#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Indo Thai Securities Limited",
-      "symbol": "INDOTHAI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 86,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 219.84,
-      "catalysts": [
-        {
-          "label": "Financial Results/Fund Raising/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
 }
