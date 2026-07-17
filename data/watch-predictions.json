@@ -1,54 +1,8 @@
 {
-  "generatedAt": "2026-07-17T15:43:44+00:00",
+  "generatedAt": "2026-07-17T17:33:30+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
-    {
-      "company": "Reliance Industries Limited",
-      "symbol": "RELIANCE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 6.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1327.2,
-      "catalysts": [
-        {
-          "label": "Reliance Industries Q1 Results: Profit Rises 23% As O2C, Oil & Gas Margins Expand; Retail Stays A Drag",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Reliance Industries Q1 Results LIVE: Profit Up 23%, Margins Expand",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/reliance-industries-q1-results-profit-rises-23-as-o2c-oil-gas-margins-expand-retail-stays-a-drag-11785390#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/reliance-industries-q1-results-live-revenue-profit-jio-retail-o2c-guidance-dividend-share-price-updates-11782889#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
     {
       "company": "Shyam Metalics and Energy Limited",
       "symbol": "SHYAMMETL",
@@ -158,7 +112,7 @@
       "company": "Oberoi Realty Limited",
       "symbol": "OBEROIRLTY",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -170,17 +124,17 @@
       "lastClose": 1894.8,
       "catalysts": [
         {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
           "type": "announcement",
           "verified": true
         }
@@ -286,6 +240,41 @@
         },
         {
           "label": "Trading Plan under PIT",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tata Technologies Limited",
+      "symbol": "TATATECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 758.05,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -448,52 +437,6 @@
   ],
   "tomorrow": [
     {
-      "company": "Reliance Industries Limited",
-      "symbol": "RELIANCE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 7.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1327.2,
-      "catalysts": [
-        {
-          "label": "Reliance Industries Q1 Results: Profit Rises 23% As O2C, Oil & Gas Margins Expand; Retail Stays A Drag",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Reliance Industries Q1 Results LIVE: Profit Up 23%, Margins Expand",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/reliance-industries-q1-results-profit-rises-23-as-o2c-oil-gas-margins-expand-retail-stays-a-drag-11785390#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/reliance-industries-q1-results-live-revenue-profit-jio-retail-o2c-guidance-dividend-share-price-updates-11782889#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Shyam Metalics and Energy Limited",
       "symbol": "SHYAMMETL",
       "exchange": "NSE",
@@ -637,7 +580,7 @@
       "company": "Tata Technologies Limited",
       "symbol": "TATATECH",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -649,17 +592,17 @@
       "lastClose": 758.05,
       "catalysts": [
         {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -672,7 +615,7 @@
       "company": "Oberoi Realty Limited",
       "symbol": "OBEROIRLTY",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -684,17 +627,17 @@
       "lastClose": 1894.8,
       "catalysts": [
         {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
           "type": "announcement",
           "verified": true
         }
@@ -887,6 +830,41 @@
           "verified": true
         }
       ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "The Federal Bank  Limited",
+      "symbol": "FEDERALBNK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 349.0,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Fresh news and technical indicators agree."
     }
   ]
