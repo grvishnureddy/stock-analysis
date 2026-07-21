@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T06:44:11+00:00",
+  "generatedAt": "2026-07-21T10:35:41+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -16,7 +16,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 193.6,
+      "lastClose": 189.13,
       "catalysts": [
         {
           "label": "Fund Raising",
@@ -36,6 +36,82 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "TVS Motor Company Limited",
+      "symbol": "TVSMOTOR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 3792.0,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Granules India Limited",
+      "symbol": "GRANULES",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.6,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 875.7,
+      "catalysts": [
+        {
+          "label": "Granules India shares surge over 3% after net profit surges 59% in June quarter - Upstox",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWEZvZ21Pc1oyTm40Z3BlSkE2MkdtN05oam5NSThZZEdYVG9MQ3Ytd0ZiUDNkS2FKWHR2U1NQZEZzbTVqWlVKZ2VqMm5Jc0llTDlhcWtzYVI1QmNabTZkZFNHSjZxdmdpZFJWWjhRWkxNbDNUMnJ3aksxR2xfY0V4MnpPZ2JFZVZsZ0xiWFdMQlhVVWVrYVVSXzIxRGRoUTBxLVFYZG44bFZ4YUx2MktTRXJHYnZFMWlnVXg3RmR4d3FXWlRsU1FtUmkxOHpZdm9IN0E?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -74,10 +150,45 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Bajaj Auto Limited",
+      "symbol": "BAJAJ-AUTO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 10403.5,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Central Mine Planning & Design Institute Limited",
       "symbol": "CMPDI",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -89,23 +200,212 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "Coal India unit CMPDI shares jump 7% after Q1 results; Stock lacks free float - CNBC TV18",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Corrigendum",
           "type": "announcement",
           "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNWwwb29waXdoMldYWXdmanRGUTc3QU9aMmNSNmh0ZWd4aWxNcl9aSW54bmU1V3R1bGVpWGxHR041aW9Nd21iZzNhYXVOY0o4cG5EOU11ME5HY2tjN2tyNU95Z3gxblFWZ3g5dnpmNUlQTFlwbHVFNHYydUQ2UEFPV1VLVG81RmE5eDZzME9JNHcyczJpbS1ycndJZ2pWNG5jYnZZM3pINzNCU1pPZVVWQnFSc0otQXp1TS1PMHR3OXc1eU1yNnfSAcsBQVVfeXFMT0lSdVVWenJWQVA3d3QtOC1pUmprdWFUdHExZF80NWpfUzFlX0RtMld3MnBhMUl5QkRULUZnTnh2ek1UN0tpOWtONF81ME5RUG95UnZxbGVLekticjRDcS1lNFl0SjJLMWN4M3JwRHFXNHZOVW1KbmpWTGtRR1RFNXl1OGNhcHRHMkM3cWV3a3kwM1dDeWd2NzBhZGFsUlZScjNLWkhUSW0zcFdkT2NtRnZQY18xWVhsUzI4RHJpd2Y5Wmx1OVpweWZFNE0?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Adani Energy Solutions Limited",
+      "symbol": "ADANIENSOL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 5.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1741.6,
+      "catalysts": [
+        {
+          "label": "Adani Energy Q1 Results: Profit More Than Doubles, Revenue Jumps 42%",
+          "type": "results",
+          "verified": true
         },
         {
-          "label": "Record Date",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Dividend",
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/adani-energy-q1-results-profit-more-than-doubles-revenue-jumps-42-11800337#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Servotech Renewable Power System Limited",
+      "symbol": "SERVOTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 87,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 100.48,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Rallis India Limited",
+      "symbol": "RALLIS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.9,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "SBI Mutual Fund books partial profit in Rallis India. Shareholding slips to 7.12% - livemint.com",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Rallis India Q1 PAT jumps 32% YoY to Rs 125 crore; revenue rises 7% - Business Standard",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Rallis India standalone net profit rises 31.58% in the June 2026 quarter - Business Standard",
+          "type": "results",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT3Y5NlFCSEZ1UE1TellHNThYZUs3ZndxbTFHQnhpYmozbWhFTVhnTXM4WkRINWpGdnhJcW9UUnNQaV9US2F6Mk9zX1hmYkx5cjJFMFdJTlp2TF9WU3JfYmNUV2pIZndNTEo2WVBmdzJKMWhkdnhkRVBMYnE1TjUtQWljVE9XWFBIOFdtTTFudXlDUnBiR012UnlyYWxSVmtJR21UZWhsb1Rkb3F6R1AyOTZ1c3pacHdoalJMWC1TVjBtT0xCenpSWE5UYk42ZGVKUTJaSEdPX1dTVkJWRlFuUHFn0gHnAUFVX3lxTE5oSUQ5c19zSGNFME4tVTNCbmg2akVOMnhxRFRHRFNMeTlOMjZ0MnBKUHRLMThSNF9XRXFqa3o4S0xFTlFpcGxpY092RFl2T2w1RWVlNkVVeXROWDdlaFA4RzN5V2tsR3RmZWZSMGV6bHFFUHRnenBpQ2tMVjYtZ2JVdkhnckNqS1BHM2RFRFdNVllMZzZOWmN3d1liX281NkljM1NnMHdsTi1OdndSRlhrTjM0bVYzbU43ZXU5dWlYdXNGSGIzZHJrdlp6QWhmSHZMVUltTW5wcmdVdTFEZE54ampaLUx1UQ?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcmtVZ3VVZ0otV0JHYm5Ka09UZF9OTEdlbW90bkw1U09JX0dlaDhZbkt3QnhzWEg4ZTQ3ZmxWbnZEYjNSSnVfa1B6SDlzUU1xcW1Ba3lxd3l4Vnoyempvc2RTQ1Rya0ROTC1XTUJFdzhpbXpQdzFwNFpCeEk1TzZVQzJ5dk5JYlBxQU05c2lVRDdxeF83Q1BsMHF4X3hIWUFoY01GVVdudlpjSjc5ODNZM1ZtWWVsd1NhQ1JFM3R1NFZtSTByYkZwWTlnNGYxcUFIRjBISXlVeGJZeS1EWi1J0gHkAUFVX3lxTFB5cFhrWVRSN0hjOXkwVG93Wk1zTldYRDlrNWJQQklnczgyTHhtVWthcmtPNy1VZDhGVXFVSlFtVVNvZjZRRFUtRFh6anhaaHlJWWNiQ3VHRmFyRjJIenpnSDZqV0ZvTmlKaUJmZC1SSnU3aFpmLU9fdW9LbDQ3SC1fc0I1R0dpcHB1RlNoSW1wVmp0eEpUM1pJTkJpQm9TNlBSRWFBY2FhdGo3WjRyWk9MVHJabjdsQkNVZGppQ0UtY012Z0I2NW0xOHpVQmV2X21lbTluWVhiV2pSQUpUSjBjaXo2Qw?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeHI2QnFrYTl6WmI1SXNhdXpSeEZFcXFBR3VTcko2WDBGLU9qMkZWaWpDV0xBRGZzcl9SWjVESWRGb2RBM2Fpclk4R2NZQ2R6aE5rcUF3S0wxV0FMbnY1UlR4ZHNTRmVVSkE3SnQ5ODBFR3hINVFLTEdKV29xWWdRSUFKTzNyT3BDYmVaVlgwc1BrMjFNS0hMYllWUlBZdzQ3NDZVUEhCclJ5U2tMTm82UEkzaGQ4NDlTbDNST090YVhCTUFBWnhzUnhya2lORDY5N2NxcWJpR01hVGxhTlJ3WFNBOXk3VWlK0gHuAUFVX3lxTE10YWdNNGFnLTNmbC1GVzRYcGliV3NTalZ6Y084b0x4bXBWZk1hdFJ2aDM1VjBPTG5HMlBUTUd5ZW8zdFFXM1dSQ2JzVjc0SFlSM2xvUnZZMmduaHFNaF8wX2N1TkVSemY3TTFvTmJPTkRFWWs0bG0zbzJuLWZqbDZXbmQ0Y1VkZmNBWEhlYmFiVXUzOWVCbDlGUjdyMTdSUE1xeE41VmpEcS1vZHMzcnZTQWVYS0huQ1llRkg4SVJ4alZ4U1FyaEJNWk9LRW0zclZjV0xBRDFEcVB3Qi1YTEhVajhGT051R2Q4MVp5R2c?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "SBI Funds Management Limited",
+      "symbol": "SBIFUNDS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.9,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "SBI Funds Management IPO listing date today. GMP, analysts signal strong debut of shares in Indian stock market - livemint.com",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "SBI Funds Management poised for strong India debut after $1 billion IPO - Business Standard",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "SBI Funds Management share price: Stock lists at 6.85% premium on NSE; here's how much investors made per lot - Upstox",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOczR3VUEyek9WYm1WOFR1bEVLbW91QTJwQU83MGVVaHd1MUZBMXdwUWNhSEl4cDN0dDdqRlJCVk9SdHNYWGZPTnI2ZDNkLTkxT01CSUxwakpLQTJxbnNDcDJTcVEyU2pWN21odXJPTDQwTjZXekRHYXE3UkdDRUNwV3pmZmUzb2RyMjh0R3F4Y0pIbjlBY0JzZGVsSllybF83ZEtIUkZuMmNKSTFxOU9wV2oxY1VMV3U3emhrSjJsZnItc0NlUTR3aWlBWUR2R3FxRVcxbnlhb1Vpb3BLSkViUUFlanctWXJEdEE0TlpjcmQ2SFZCN1M3MNIB_gFBVV95cUxQZDlIYVA2MS1RVjJ3NmpvbzlYMGFDQUwxWUlXQ3VTd0hvYjJaZFBZQWxiOHk0U0JGVEhXcjNtd3B0TGc3ZlMzLVJCTFItZkNuLWh6eGcwUTZ5eV96bGJsU3Nsc0VrOUdUUFZTMi1BY3VHTFd6dUxGRFFUU3VEWTY3NEtWc1gwY05uWHowd0FiV3pPMjRvZHVvcm1HeTU1WFoyMU95R0RaaXFGRndpaDJMeF9scDljU3hHd2sySEJLOFRVZEdJNjdfNjVneURWWlRpcmQxc0hheURCWEZfVWhPOUcwSkVQRW5UUkRPNUVkUVVJQ1Q0YnJkcDNObDZadw?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUEN6bVdUZzY0X3NlbUdWSEQzQ3hFS2gyLTNoWGZSYjBBV3ZxcDRNNXF5S1Uwa3J3ZjZ3NDRfYzhTTW5xN09BN0VTWkpsWkhoVkx1cUJXbkxZYlJ1UzlVb2FpZ1I4VUcwd2hjSlVxNlFxZS1lOEFWY3VURkl4VjhNQVRPRnlRWVAwZHVKM0tpUWY1N19rdy1oLXBLVUxCc3ZqWEtZZ1dUYTVBMXFHZUF4V0NPc1VVU2ZmT0lVNXRhWWhHRnRhRzFvY25mWFkzWlEwblHSAdcBQVVfeXFMUHhMUmpBbXRwUEdZYUhpdXJ4ajFGSnhMdkVUdHVYTy00dTc3S0dEaWJnOFR2eHhRMGtfTzVTZVU4aE05U2FMc0oxQm9NTF9EVGZoTlpKLWFiS2hoR1MxNUlxc1RCYldLOVdhNnJDaHBMcWFJaTNYYmdibzd0a2JoVXJCdEpFYjZaTGphQzk4S01zSmhZSXJqTm1FSXkwQzFuLUlPWVV5aTVVY2NSaTZtbG1sUkdxWWdJUGloT3c5V2NtRjkwemE0RWtrbm44TWtVd2RkWGx4bHM?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbXZINXRDUnhHYmFyQ0dZQmhpc21DZS1CWVhURnJVRUtpTmlqVWRwM2xOaFR6XzR6dy1LZ2VmaTRRcGMtRFFQQTFDVDN2TUphbGNXU0dsRFowWFV3LVlaOTVkYWZsdk1heS1yb3ZRSlVRbmpVTFlaaGkzOVd0SUlyRmEzMUxSR1VVY0RJci1yclhhQ3MtMXkxMUhGdE1EaE82OGNSYUd3S0RrbEU0aU5IMWE5MkdpYzhtdlNsMnF3eGZMNThRcGs1dnIzRWtCcXJMZGV3ME1vTW1FMVpTVnY3TG9kemFmdVFfejhvRzQ3blEzV29w?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVXRRTnBJTGs5RzVwUUdoZVNYUVVJcnQ5N3R3VHB6Vkd1T3Q5ZVBFT0c2ZjdVcmRROG56QXZpOGE5VEhuLXhCUFBDRE9lRjNmdkloQ1ozWlJ3R1pFX2VDNkVWa0hxNEYwcl9ra1lETkZsMGVLSjZRR1lPckNGTmdGTGljNFk2SXRRWTBaZG5XdG1FVUR5ZlFRUjVrSGJlanlaMEY3RDNwZkU4SXNmYktGZTVhZ2dFMmh3UE51dko0TE94LXZMM25lOElnenNPaUtsUXl3?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -121,7 +421,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 281.6,
+      "lastClose": 285.05,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -144,8 +444,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bandhan Bank Limited",
-      "symbol": "BANDHANBNK",
+      "company": "JSW Infrastructure Limited",
+      "symbol": "JSWINFRA",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -156,225 +456,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 211.36,
+      "lastClose": 344.55,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Plan under PIT",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Gandhar Oil Refinery (India) Limited",
-      "symbol": "GANDHAR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 79,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 225.5,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "3i Infotech Limited",
-      "symbol": "3IINFOLTD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.2,
-      "confidence": 78,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 18.65,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Tanla Platforms Limited",
-      "symbol": "TANLA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 569.75,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "IIFL Finance Limited",
-      "symbol": "IIFL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 571.65,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Medplus Health Services Limited",
-      "symbol": "MEDPLUS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 786.1,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "InfoBeans Technologies Limited",
-      "symbol": "INFOBEAN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 169.78,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         },
@@ -382,39 +467,46 @@
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "Tips Music Limited",
-      "symbol": "TIPSMUSIC",
+      "company": "Servotech Renewable Power System Limited",
+      "symbol": "SERVOTECH",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
-      "horizon": "today",
+      "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 74,
+      "predictionScore": 6.8,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 715.6,
+      "lastClose": 100.48,
       "catalysts": [
-        {
-          "label": "Buyback",
-          "type": "upcoming event",
-          "verified": true
-        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -422,9 +514,83 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
-    }
-  ],
-  "tomorrow": [
+    },
+    {
+      "company": "Adani Energy Solutions Limited",
+      "symbol": "ADANIENSOL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1741.6,
+      "catalysts": [
+        {
+          "label": "Adani Energy Q1 Results: Profit More Than Doubles, Revenue Jumps 42%",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/adani-energy-q1-results-profit-more-than-doubles-revenue-jumps-42-11800337#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "TVS Motor Company Limited",
+      "symbol": "TVSMOTOR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 3792.0,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
     {
       "company": "Aye Finance Limited",
       "symbol": "AYE",
@@ -438,7 +604,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 193.6,
+      "lastClose": 189.13,
       "catalysts": [
         {
           "label": "Fund Raising",
@@ -473,7 +639,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 18.65,
+      "lastClose": 19.12,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -496,6 +662,41 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "JSW Infrastructure Limited",
+      "symbol": "JSWINFRA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 344.55,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Bandhan Bank Limited",
       "symbol": "BANDHANBNK",
       "exchange": "NSE",
@@ -508,7 +709,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 211.36,
+      "lastClose": 208.83,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -531,6 +732,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Smartworks Coworking Spaces Limited",
+      "symbol": "SMARTWORKS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 500.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Capacity addition",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Tanla Platforms Limited",
       "symbol": "TANLA",
       "exchange": "NSE",
@@ -543,7 +779,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 569.75,
+      "lastClose": 564.55,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -566,8 +802,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "IIFL Finance Limited",
-      "symbol": "IIFL",
+      "company": "E2E Networks Limited",
+      "symbol": "E2E",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
@@ -578,21 +814,21 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 571.65,
+      "lastClose": 446.4,
       "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
           "verified": true
         }
       ],
@@ -601,45 +837,51 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "InfoBeans Technologies Limited",
-      "symbol": "INFOBEAN",
+      "company": "Granules India Limited",
+      "symbol": "GRANULES",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
+      "predictionScore": 4.9,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 169.78,
+      "technicalConfidence": 50,
+      "lastClose": 875.7,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Granules India shares surge over 3% after net profit surges 59% in June quarter - Upstox",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
           "verified": true
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWEZvZ21Pc1oyTm40Z3BlSkE2MkdtN05oam5NSThZZEdYVG9MQ3Ytd0ZiUDNkS2FKWHR2U1NQZEZzbTVqWlVKZ2VqMm5Jc0llTDlhcWtzYVI1QmNabTZkZFNHSjZxdmdpZFJWWjhRWkxNbDNUMnJ3aksxR2xfY0V4MnpPZ2JFZVZsZ0xiWFdMQlhVVWVrYVVSXzIxRGRoUTBxLVFYZG44bFZ4YUx2MktTRXJHYnZFMWlnVXg3RmR4d3FXWlRsU1FtUmkxOHpZdm9IN0E?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Gandhar Oil Refinery (India) Limited",
-      "symbol": "GANDHAR",
+      "company": "Bajaj Auto Limited",
+      "symbol": "BAJAJ-AUTO",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -647,203 +889,28 @@
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 225.5,
+      "technicalConfidence": 83,
+      "lastClose": 10403.5,
       "catalysts": [
         {
-          "label": "Financial Results/Dividend/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Go Digit General Insurance Limited",
-      "symbol": "GODIGIT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 281.6,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Shyam Metalics and Energy Limited",
-      "symbol": "SHYAMMETL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 15,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Central Mine Planning & Design Institute Limited",
-      "symbol": "CMPDI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Corrigendum",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Tips Music Limited",
-      "symbol": "TIPSMUSIC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.1,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 715.6,
-      "catalysts": [
-        {
-          "label": "Buyback",
-          "type": "upcoming event",
           "verified": true
         },
         {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "SRF Limited",
-      "symbol": "SRF",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.8,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2941.0,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend/Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Q1 FY27 results scheduled 2026-07-22",
-          "type": "result",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
 }
