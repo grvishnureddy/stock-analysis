@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T14:25:06+00:00",
+  "generatedAt": "2026-07-22T17:43:49+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,7 +11,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 8.9,
+      "predictionScore": 8.8,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -53,7 +53,7 @@
       "company": "SRF Limited",
       "symbol": "SRF",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -65,17 +65,17 @@
       "lastClose": 2867.2,
       "catalysts": [
         {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Record Date",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Capacity addition",
           "type": "announcement",
           "verified": true
         }
@@ -88,7 +88,7 @@
       "company": "Gandhar Oil Refinery (India) Limited",
       "symbol": "GANDHAR",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
+      "confirmedNewsCount": 16,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -100,17 +100,17 @@
       "lastClose": 236.19,
       "catalysts": [
         {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -123,7 +123,7 @@
       "company": "HFCL Limited",
       "symbol": "HFCL",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -140,12 +140,12 @@
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -164,7 +164,7 @@
       "company": "IndusInd Bank Limited",
       "symbol": "INDUSINDBK",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -181,12 +181,12 @@
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -272,10 +272,45 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Tanla Platforms Limited",
+      "symbol": "TANLA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 561.6,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Mahindra Holidays & Resorts India Limited",
       "symbol": "MHRIL",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -292,12 +327,12 @@
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -416,41 +451,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "IIFL Finance Limited",
-      "symbol": "IIFL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 570.35,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Cessation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -462,7 +462,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 10.9,
+      "predictionScore": 10.8,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -504,7 +504,7 @@
       "company": "SRF Limited",
       "symbol": "SRF",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -516,17 +516,17 @@
       "lastClose": 2867.2,
       "catalysts": [
         {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Record Date",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Capacity addition",
           "type": "announcement",
           "verified": true
         }
@@ -609,7 +609,7 @@
       "company": "Gandhar Oil Refinery (India) Limited",
       "symbol": "GANDHAR",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
+      "confirmedNewsCount": 16,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -621,17 +621,17 @@
       "lastClose": 236.19,
       "catalysts": [
         {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -644,7 +644,7 @@
       "company": "HFCL Limited",
       "symbol": "HFCL",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -661,12 +661,12 @@
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -685,7 +685,7 @@
       "company": "IndusInd Bank Limited",
       "symbol": "INDUSINDBK",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -702,12 +702,12 @@
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -749,6 +749,41 @@
         },
         {
           "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tanla Platforms Limited",
+      "symbol": "TANLA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 561.6,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -828,8 +863,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HEG Limited",
-      "symbol": "HEG",
+      "company": "Stylam Industries Limited",
+      "symbol": "STYLAMIND",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
@@ -840,10 +875,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 598.85,
+      "lastClose": 3587.4,
       "catalysts": [
         {
-          "label": "General Updates",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
@@ -855,41 +890,6 @@
         {
           "label": "Financial Results",
           "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Tanla Platforms Limited",
-      "symbol": "TANLA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 561.6,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
           "verified": true
         }
       ],
