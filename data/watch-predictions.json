@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T14:35:08+00:00",
+  "generatedAt": "2026-07-23T17:49:49+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,7 +11,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 8.9,
+      "predictionScore": 7.9,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Neutral",
@@ -19,17 +19,17 @@
       "lastClose": 1047.4,
       "catalysts": [
         {
-          "label": "Infosys Q1 Results Live Updates: India's Second-Largest IT Giant's Profit Falls 9%; Margin Guidance Retained",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Infosys Q1 Results: Net Profit Falls 8.6% But Meets Expectations; Revenue Rises",
+          "label": "2.1x Revenue Surge, 95% Stock Gain: Key Infosys Stats Under Salil Parekh Years",
           "type": "results",
           "verified": true
         },
         {
           "label": "Infosys Skips Dividend Announcement Amid Fall In Q1 Net Profit",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Infosys Bets On Rupee Tailwind, 'Project Maximus' To Shield Margins From Upcoming Salary Hikes",
           "type": "results",
           "verified": true
         }
@@ -38,12 +38,7 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/infosys-q1-results-live-updates-q1-earnings-revenue-profit-dividend-guidance-infosys-share-price-updates-july-23-11809542#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/infosys-q1-results-net-profit-falls-8-6-percent-but-meets-expectations-revenue-rises-11811113#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/business/2-1x-revenue-surge-95-stock-gain-key-infosys-stats-under-salil-parekh-years-11812793#publisher=newsstand",
           "verified": true
         },
         {
@@ -53,11 +48,86 @@
         },
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/infosys-appoints-ashiss-kumar-dash-as-ceo-designate-till-march-2027-11811124#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/business/infosys-bets-on-rupee-tailwind-project-maximus-to-shield-margins-from-upcoming-salary-hikes-11812803#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmdnWk1kZ21IZXh6TzZCVFFNZXJKTWx6azVYSHZrRFdUSkVVZTlVUzlIWl82ODhfbXBEazkzNmhLVGZucEZVZXpUN25acmMzejB5OXJWMEkzTHRpemVKS3o0bUt3UTJDZUJ5OWVDNE9yTnBVbExGUEktZ2dKOHV6cUJHOUdTdXpqbUg5TDVCdDdQZUZWSXFmRDZfN0FIeWdv?oc=5",
           "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ROUTE MOBILE LIMITED",
+      "symbol": "ROUTE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 600.45,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "3i Infotech Limited",
+      "symbol": "3IINFOLTD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 20.43,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Cipla Limited",
@@ -165,6 +235,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Go Digit General Insurance Limited",
+      "symbol": "GODIGIT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 280.85,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Kellton Tech Solutions Limited",
       "symbol": "KELLTONTEC",
       "exchange": "NSE",
@@ -191,41 +296,6 @@
         },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Go Digit General Insurance Limited",
-      "symbol": "GODIGIT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 280.85,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -305,6 +375,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Cyient Limited",
+      "symbol": "CYIENT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.6,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 830.65,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Gandhar Oil Refinery (India) Limited",
       "symbol": "GANDHAR",
       "exchange": "NSE",
@@ -344,117 +449,6 @@
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Central Mine Planning & Design Institute Limited",
-      "symbol": "CMPDI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Corrigendum",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "SRF Limited",
-      "symbol": "SRF",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Today's Market: Sensex Today Ends 364 Points Lower | Nifty Below 23,900 | SRF Down 9% - Indian Stock Market News - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkFrc05pLVpRdVFtWDU3YzFpbm11MlNFZTZIMmIxaW5uRUotdjFZMkpfSHBJNTNZdFZ1bjlfVUd6UU5FcmtkcWlJRUlDc01sUjVVRnpQUk9MZ2xZS0JIb0gzVWxvY0JiekQyWjVzMlpYYnFVTFBqTzNldHRxenZRV1RfLVRyWWVhLWVseVBEOUctdHNrbEdaQk1ZVzBGOG9oR1FkUnRiWVZFMzJsS1MtSHVfQUVpelpFeFFsOHU4QlBvRUU?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mahindra Lifespace Developers Limited",
-      "symbol": "MAHLIFE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 377.5,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure of material issue",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure of material issue",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -466,7 +460,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 9.4,
+      "predictionScore": 8.4,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Neutral",
@@ -474,17 +468,17 @@
       "lastClose": 1047.4,
       "catalysts": [
         {
-          "label": "Infosys Q1 Results Live Updates: India's Second-Largest IT Giant's Profit Falls 9%; Margin Guidance Retained",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Infosys Q1 Results: Net Profit Falls 8.6% But Meets Expectations; Revenue Rises",
+          "label": "2.1x Revenue Surge, 95% Stock Gain: Key Infosys Stats Under Salil Parekh Years",
           "type": "results",
           "verified": true
         },
         {
           "label": "Infosys Skips Dividend Announcement Amid Fall In Q1 Net Profit",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Infosys Bets On Rupee Tailwind, 'Project Maximus' To Shield Margins From Upcoming Salary Hikes",
           "type": "results",
           "verified": true
         }
@@ -493,12 +487,7 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/infosys-q1-results-live-updates-q1-earnings-revenue-profit-dividend-guidance-infosys-share-price-updates-july-23-11809542#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/infosys-q1-results-net-profit-falls-8-6-percent-but-meets-expectations-revenue-rises-11811113#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/business/2-1x-revenue-surge-95-stock-gain-key-infosys-stats-under-salil-parekh-years-11812793#publisher=newsstand",
           "verified": true
         },
         {
@@ -508,11 +497,51 @@
         },
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/infosys-appoints-ashiss-kumar-dash-as-ceo-designate-till-march-2027-11811124#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/business/infosys-bets-on-rupee-tailwind-project-maximus-to-shield-margins-from-upcoming-salary-hikes-11812803#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmdnWk1kZ21IZXh6TzZCVFFNZXJKTWx6azVYSHZrRFdUSkVVZTlVUzlIWl82ODhfbXBEazkzNmhLVGZucEZVZXpUN25acmMzejB5OXJWMEkzTHRpemVKS3o0bUt3UTJDZUJ5OWVDNE9yTnBVbExGUEktZ2dKOHV6cUJHOUdTdXpqbUg5TDVCdDdQZUZWSXFmRDZfN0FIeWdv?oc=5",
           "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ROUTE MOBILE LIMITED",
+      "symbol": "ROUTE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 600.45,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Alldigi Tech Limited",
@@ -550,6 +579,41 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Gujarat Alkalies and Chemicals Limited",
+      "symbol": "GUJALKALI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 644.0,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "GRP Limited",
       "symbol": "GRPLTD",
       "exchange": "NSE",
@@ -585,8 +649,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Gujarat Alkalies and Chemicals Limited",
-      "symbol": "GUJALKALI",
+      "company": "Chennai Petroleum Corporation Limited",
+      "symbol": "CHENNPETRO",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
@@ -597,10 +661,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 644.0,
+      "lastClose": 1269.6,
       "catalysts": [
         {
-          "label": "General Updates",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
@@ -610,7 +674,77 @@
           "verified": true
         },
         {
-          "label": "Financial Results/Other business matters",
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Suryoday Small Finance Bank Limited",
+      "symbol": "SURYODAY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 194.31,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Fineotex Chemical Limited",
+      "symbol": "FCL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 41.91,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         }
@@ -653,6 +787,41 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "3i Infotech Limited",
+      "symbol": "3IINFOLTD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 20.43,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Thyrocare Technologies Limited",
@@ -723,181 +892,6 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Cipla Limited",
-      "symbol": "CIPLA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1393.0,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Vishal Mega Mart Limited",
-      "symbol": "VMM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 109.87,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Solara Active Pharma Sciences Limited",
-      "symbol": "SOLARA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 523.75,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Kellton Tech Solutions Limited",
-      "symbol": "KELLTONTEC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 14.37,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Go Digit General Insurance Limited",
-      "symbol": "GODIGIT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 280.85,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
 }
