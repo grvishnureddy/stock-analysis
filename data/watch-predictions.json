@@ -1,8 +1,49 @@
 {
-  "generatedAt": "2026-07-24T03:47:10+00:00",
+  "generatedAt": "2026-07-24T06:41:30+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "Crisil Limited",
+      "symbol": "CRISIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 5.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Tata Capital, Wipro, Crisil, DLF, Persistent Systems, Amara Raja, Deepak Nitrite Dividend Record Date: Last Day To Buy Shares To Qualify",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Resignation of Director/KMP/SMP",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/tata-capital-wipro-crisil-dlf-persistent-systems-amara-raja-deepak-nitrite-dividend-record-date-last-day-to-buy-shares-to-qualify-11814767#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
     {
       "company": "Shyam Metalics and Energy Limited",
       "symbol": "SHYAMMETL",
@@ -36,6 +77,47 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Vishal Mega Mart Limited",
+      "symbol": "VMM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Vishal Mega Mart Q1 Review: Jefferies Sees 45% Upside After Earnings Beat",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/vishal-mega-mart-q1-review-jefferies-sees-45-upside-after-earnings-beat-11814324#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -156,41 +238,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Neogen Chemicals Limited",
-      "symbol": "NEOGEN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 86,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 2078.5,
-      "catalysts": [
-        {
-          "label": "Financial Results/Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Emkay Global Financial Services Limited",
       "symbol": "EMKAY",
       "exchange": "NSE",
@@ -203,7 +250,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 232.0,
+      "lastClose": 235.3,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -226,32 +273,67 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bank of Baroda",
-      "symbol": "BANKBARODA",
+      "company": "PTC Industries Limited",
+      "symbol": "PTCIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 80,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 78,
+      "direction": "Negative watch",
+      "predictionScore": -2.0,
+      "confidence": 77,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 241.75,
+      "lastClose": 1451.3,
       "catalysts": [
         {
-          "label": "Q1 Results Today: NTPC, Tata Consumer, Bank of Baroda, SAIL, REC Among 80+ Companies Reporting Earnings On July 24",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Bank of Baroda Q1 Results Today: Time, Dividend, Earnings Call, What To Watch",
-          "type": "results",
+          "label": "Coforge Bags Over $230 Million AI Transformation Deal In Europe; Shares Up 2%",
+          "type": "company news",
           "verified": true
         },
         {
           "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Dividend",
           "type": "upcoming event",
           "verified": true
         }
@@ -260,12 +342,7 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-today-ntpc-sail-tata-consumer-products-sbi-card-among-companies-to-share-earnings-on-july-24-11810551#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/bank-of-baroda-q1-results-today-time-dividend-news-earnings-call-schedule-share-price-performance-11809886#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/coforge-bags-over-230-million-ai-transformation-deal-in-europe-shares-up-2-percent-11814688#publisher=newsstand",
           "verified": true
         }
       ],
@@ -284,7 +361,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 175.3,
+      "lastClose": 172.55,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -298,76 +375,6 @@
         },
         {
           "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Alldigi Tech Limited",
-      "symbol": "ALLDIGI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 837.95,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Aeroflex Industries Limited",
-      "symbol": "AEROFLEX",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.2,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 413.7,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         }
@@ -412,19 +419,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Shakti Pumps (India) Limited",
-      "symbol": "SHAKTIPUMP",
+      "company": "Kfin Technologies Limited",
+      "symbol": "KFINTECH",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 69,
+      "predictionScore": -2.8,
+      "confidence": 68,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 538.65,
+      "technicalConfidence": 83,
+      "lastClose": 858.95,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -432,12 +439,12 @@
           "verified": true
         },
         {
-          "label": "Acquisition",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -449,23 +456,23 @@
   ],
   "tomorrow": [
     {
-      "company": "Neogen Chemicals Limited",
-      "symbol": "NEOGEN",
+      "company": "Crisil Limited",
+      "symbol": "CRISIL",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.5,
+      "predictionScore": 5.5,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 2078.5,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Financial Results/Fund Raising",
-          "type": "upcoming event",
+          "label": "Tata Capital, Wipro, Crisil, DLF, Persistent Systems, Amara Raja, Deepak Nitrite Dividend Record Date: Last Day To Buy Shares To Qualify",
+          "type": "corporate action",
           "verified": true
         },
         {
@@ -474,14 +481,20 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/tata-capital-wipro-crisil-dlf-persistent-systems-amara-raja-deepak-nitrite-dividend-record-date-last-day-to-buy-shares-to-qualify-11814767#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Emkay Global Financial Services Limited",
@@ -496,7 +509,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 232.0,
+      "lastClose": 235.3,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -551,6 +564,47 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Vishal Mega Mart Limited",
+      "symbol": "VMM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Vishal Mega Mart Q1 Review: Jefferies Sees 45% Upside After Earnings Beat",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/vishal-mega-mart-q1-review-jefferies-sees-45-upside-after-earnings-beat-11814324#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -671,39 +725,45 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Alldigi Tech Limited",
-      "symbol": "ALLDIGI",
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.1,
-      "confidence": 88,
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 86,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 837.95,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1451.3,
       "catalysts": [
         {
-          "label": "Financial Results/Dividend",
+          "label": "Coforge Bags Over $230 Million AI Transformation Deal In Europe; Shares Up 2%",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/coforge-bags-over-230-million-ai-transformation-deal-in-europe-shares-up-2-percent-11814688#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Sapphire Foods India Limited",
@@ -718,7 +778,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 175.3,
+      "lastClose": 172.55,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -753,7 +813,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 77.05,
+      "lastClose": 75.8,
       "catalysts": [
         {
           "label": "Financial Results/Fund Raising",
@@ -776,32 +836,32 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Aeroflex Industries Limited",
-      "symbol": "AEROFLEX",
+      "company": "PTC Industries Limited",
+      "symbol": "PTCIL",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 81,
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 80,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 413.7,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Change in Management",
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -823,7 +883,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 50,
-      "lastClose": 123.67,
+      "lastClose": 124.85,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -838,41 +898,6 @@
         {
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ramkrishna Forgings Limited",
-      "symbol": "RKFORGE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 584.8,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Q1 FY27 results scheduled 2026-07-24",
-          "type": "result",
           "verified": true
         }
       ],
