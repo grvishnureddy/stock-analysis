@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T15:50:01+00:00",
+  "generatedAt": "2026-07-24T17:54:19+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -42,7 +42,7 @@
       "company": "Share India Securities Limited",
       "symbol": "SHAREINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -54,6 +54,11 @@
       "lastClose": 191.57,
       "catalysts": [
         {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Record Date",
           "type": "announcement",
           "verified": true
@@ -62,56 +67,10 @@
           "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Lodha Developers Limited",
-      "symbol": "LODHA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1144.1,
-      "catalysts": [
-        {
-          "label": "Lodha Developers Q1 Results: Net Profit Doubles, Revenue Soars To Nearly Rs 5,000 Crore",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/lodha-developers-q1-results-net-profit-doubles-revenue-soars-to-nearly-rs-5-000-crore-11817210#publisher=newsstand",
-          "verified": true
-        }
-      ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -122,7 +81,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.8,
+      "predictionScore": 3.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Neutral",
@@ -196,6 +155,41 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Alldigi Tech Limited",
+      "symbol": "ALLDIGI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 822.75,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Ramkrishna Forgings Limited",
       "symbol": "RKFORGE",
       "exchange": "NSE",
@@ -247,6 +241,41 @@
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bank of Baroda",
+      "symbol": "BANKBARODA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 246.45,
+      "catalysts": [
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
@@ -374,7 +403,7 @@
       "company": "Gandhar Oil Refinery (India) Limited",
       "symbol": "GANDHAR",
       "exchange": "NSE",
-      "confirmedNewsCount": 17,
+      "confirmedNewsCount": 18,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -391,12 +420,12 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Disruption of Operations",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -406,47 +435,6 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOMVNuUlFUTUtIX2Q0VWxHVU5EVHpFc2pZXzdwWW5rXzgyZUhabkphdVFIRmJzUmZYMDZVSGFWZndVS0stQ2UtYmtaanpzWG5wdk81Z09VU2l2U3d5LVlaa3J0aC1jcm5qTGF3NFBFR1VUanBoRjhHMUt2WS11bDB0T1diRUdWVWdnaHBweEFlRVJ5eWJWY293Q2VuYU15dDM2OHVLM19UT2pTTElGOFFEdXh0cGJvWU1aMUprcV9sdDI4UUVTaERIdW9PTTZMZ1ZoeldlSzFrWEZRVE5qVGQtUnR5TlBaWFQwTWxsYXQ2U3VJOUprNkU0LWUteDdIaEVHYk1xMXhjeGVablRTQ1lWV1VWZ2oxSnBNTjZnSXAtemhaZllPZXNJSXFPNF9ROTRvdERIbEl2NFVyZE0?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "SRF Limited",
-      "symbol": "SRF",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends 364 Points Lower | Nifty Below 23,900 | SRF Down 9% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR1paVjBQRmx3TEpqeEZWOTNyVU5sblR1N2pHUUJtbXVkSWVuc1EyWDl6UmswSC1mQXlvUTl2aEFHczROZzN5UHcxejRwU1RudkRSSTJSZUkwd0hCeUV3aGJuS1pia3J5cGhSSklzQWlzVFlrUFVQMHVGUDhabms5VWlzZUVldkhtUElqenMxYjN5ZWdTWk84OWFTWm13cjIzMjZscnVTMzF5d0JBVUFqUDdFXzlKOFJmLUhJay10RDNBazJC?oc=5",
           "verified": true
         }
       ],
@@ -493,7 +481,7 @@
       "company": "Share India Securities Limited",
       "symbol": "SHAREINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -505,6 +493,11 @@
       "lastClose": 191.57,
       "catalysts": [
         {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Record Date",
           "type": "announcement",
           "verified": true
@@ -513,56 +506,10 @@
           "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Lodha Developers Limited",
-      "symbol": "LODHA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1144.1,
-      "catalysts": [
-        {
-          "label": "Lodha Developers Q1 Results: Net Profit Doubles, Revenue Soars To Nearly Rs 5,000 Crore",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/lodha-developers-q1-results-net-profit-doubles-revenue-soars-to-nearly-rs-5-000-crore-11817210#publisher=newsstand",
-          "verified": true
-        }
-      ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -671,6 +618,41 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Alldigi Tech Limited",
+      "symbol": "ALLDIGI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 822.75,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Emkay Global Financial Services Limited",
       "symbol": "EMKAY",
       "exchange": "NSE",
@@ -713,7 +695,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.8,
+      "predictionScore": 3.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Neutral",
