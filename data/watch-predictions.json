@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T06:31:21+00:00",
+  "generatedAt": "2026-07-25T10:03:44+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,7 +11,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.6,
+      "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -120,6 +120,52 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "AU Small Finance Bank Limited",
+      "symbol": "AUBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 1004.0,
+      "catalysts": [
+        {
+          "label": "AU Small Finance Bank Q1 Results Today: Time, Dividend News, Key Things To Watch, Earnings Call Schedule",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Q1 Results Live: AU SFB Profit Up 37%, Dodla Dairy Profit Down 35%; IDFC First Bank, ZEN Tech In Focus",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/au-small-finance-bank-q1-results-today-time-dividend-news-key-things-to-watch-earnings-call-schedule-11816963#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-idfc-first-bank-au-small-finance-bank-zen-technologies-birla-corp-among-firms-to-announce-earnings-on-july-25-11819492#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Gandhar Oil Refinery (India) Limited",
       "symbol": "GANDHAR",
       "exchange": "NSE",
@@ -231,6 +277,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "IDFC First Bank Limited",
+      "symbol": "IDFCFIRSTB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.4,
+      "confidence": 85,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 80.79,
+      "catalysts": [
+        {
+          "label": "IDFC First Bank Q1 Results Today: Time, Earnings Call, Dividend, Key Things To Watch",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/idfc-first-bank-q1-results-today-time-earnings-call-dividend-key-things-to-watch-11816133#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Dodla Dairy Limited",
       "symbol": "DODLA",
       "exchange": "NSE",
@@ -243,7 +330,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1037.3,
+      "lastClose": 1061.2,
       "catalysts": [
         {
           "label": "Investor Presentation",
@@ -278,7 +365,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1008.8,
+      "lastClose": 1005.8,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -301,15 +388,87 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "IDFC First Bank Limited",
-      "symbol": "IDFCFIRSTB",
+      "company": "Share India Securities Limited",
+      "symbol": "SHAREINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.4,
-      "confidence": 78,
+      "predictionScore": 2.2,
+      "confidence": 79,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "PTC India Financial Services Limited",
+      "symbol": "PFS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 69,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 29.28,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    }
+  ],
+  "tomorrow": [
+    {
+      "company": "IDFC First Bank Limited",
+      "symbol": "IDFCFIRSTB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.6,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 50,
@@ -321,12 +480,12 @@
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "General Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Fund Raising",
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         }
@@ -342,113 +501,6 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Navneet Education Limited",
-      "symbol": "NAVNETEDUL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 140.64,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Cemindia Projects Limited",
-      "symbol": "CEMPRO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 72,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1516.8,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Share India Securities Limited",
-      "symbol": "SHAREINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 72,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
-    {
       "company": "Bank of India",
       "symbol": "BANKINDIA",
       "exchange": "NSE",
@@ -456,7 +508,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.6,
+      "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -507,7 +559,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1037.3,
+      "lastClose": 1061.2,
       "catalysts": [
         {
           "label": "Investor Presentation",
@@ -577,7 +629,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1008.8,
+      "lastClose": 1005.8,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -746,33 +798,33 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "IDFC First Bank Limited",
-      "symbol": "IDFCFIRSTB",
+      "company": "AU Small Finance Bank Limited",
+      "symbol": "AUBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.6,
-      "confidence": 87,
+      "predictionScore": 2.0,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 50,
-      "lastClose": 80.79,
+      "lastClose": 1004.0,
       "catalysts": [
         {
-          "label": "IDFC First Bank Q1 Results Today: Time, Earnings Call, Dividend, Key Things To Watch",
+          "label": "AU Small Finance Bank Q1 Results Today: Time, Dividend News, Key Things To Watch, Earnings Call Schedule",
           "type": "results",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Q1 Results Live: AU SFB Profit Up 37%, Dodla Dairy Profit Down 35%; IDFC First Bank, ZEN Tech In Focus",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Fund Raising",
-          "type": "upcoming event",
+          "label": "Investor Presentation",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -780,45 +832,15 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/idfc-first-bank-q1-results-today-time-earnings-call-dividend-key-things-to-watch-11816133#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Navneet Education Limited",
-      "symbol": "NAVNETEDUL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 140.64,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "url": "https://www.ndtvprofit.com/markets/au-small-finance-bank-q1-results-today-time-dividend-news-key-things-to-watch-earnings-call-schedule-11816963#publisher=newsstand",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-idfc-first-bank-au-small-finance-bank-zen-technologies-birla-corp-among-firms-to-announce-earnings-on-july-25-11819492#publisher=newsstand",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -857,39 +879,39 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "SMC Global Securities Limited",
-      "symbol": "SMCGLOBAL",
+      "company": "PTC India Financial Services Limited",
+      "symbol": "PFS",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.1,
-      "confidence": 81,
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 80,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 77.87,
+      "lastClose": 29.28,
       "catalysts": [
         {
-          "label": "Financial Results/Fund Raising",
+          "label": "Financial Results",
           "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
           "verified": true
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Q1 FY27 results scheduled 2026-07-26",
-          "type": "result",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
 }

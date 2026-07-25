@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T06:31:52+00:00",
+  "updatedAt": "2026-07-25T10:04:14+00:00",
   "instruments": [
     {
       "name": "Nifty 50",
@@ -7,14 +7,18 @@
       "type": "index",
       "market": "NSE",
       "nseIndex": "NIFTY 50",
-      "price": 23767.45,
-      "asOf": "2026-07-24",
-      "change1d": -0.43,
-      "change1w": -2.33,
-      "change1m": -1.06,
-      "rangeLow": 23767.45,
+      "price": 23869.6,
+      "asOf": "2026-07-23",
+      "change1d": -0.53,
+      "change1w": -0.84,
+      "change1m": 0.19,
+      "rangeLow": 23824.1,
       "rangeHigh": 24430.35,
       "chart": [
+        {
+          "date": "2026-04-21",
+          "close": 24576.6
+        },
         {
           "date": "2026-04-22",
           "close": 24378.1
@@ -270,10 +274,6 @@
         {
           "date": "2026-07-23",
           "close": 23869.6
-        },
-        {
-          "date": "2026-07-24",
-          "close": 23767.45
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ENSEI"
@@ -560,14 +560,18 @@
       "type": "index",
       "market": "NSE",
       "nseIndex": "NIFTY BANK",
-      "price": 56693.5,
-      "asOf": "2026-07-24",
-      "change1d": 0.18,
-      "change1w": -3.12,
-      "change1m": -2.51,
+      "price": 56592.0,
+      "asOf": "2026-07-23",
+      "change1d": -0.94,
+      "change1w": -1.72,
+      "change1m": -1.03,
       "rangeLow": 56592.0,
       "rangeHigh": 58521.4,
       "chart": [
+        {
+          "date": "2026-04-21",
+          "close": 57371.45
+        },
         {
           "date": "2026-04-22",
           "close": 57124.45
@@ -823,10 +827,6 @@
         {
           "date": "2026-07-23",
           "close": 56592.0
-        },
-        {
-          "date": "2026-07-24",
-          "close": 56693.5
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ENSEBANK"
@@ -837,14 +837,18 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY IT",
-      "price": 28767.95,
-      "asOf": "2026-07-24",
-      "change1d": 0.82,
-      "change1w": -1.57,
-      "change1m": 4.36,
+      "price": 28533.55,
+      "asOf": "2026-07-23",
+      "change1d": -0.06,
+      "change1w": -0.66,
+      "change1m": 5.63,
       "rangeLow": 25769.8,
       "rangeHigh": 29226.6,
       "chart": [
+        {
+          "date": "2026-04-21",
+          "close": 31729.1
+        },
         {
           "date": "2026-04-22",
           "close": 30496.25
@@ -1100,10 +1104,6 @@
         {
           "date": "2026-07-23",
           "close": 28533.55
-        },
-        {
-          "date": "2026-07-24",
-          "close": 28767.95
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXIT"
@@ -1668,14 +1668,18 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY PHARMA",
-      "price": 25548.15,
-      "asOf": "2026-07-24",
-      "change1d": -0.41,
-      "change1w": -0.38,
-      "change1m": 2.12,
+      "price": 25653.55,
+      "asOf": "2026-07-23",
+      "change1d": -0.38,
+      "change1w": -1.36,
+      "change1m": 2.66,
       "rangeLow": 24969.5,
       "rangeHigh": 26092.85,
       "chart": [
+        {
+          "date": "2026-04-21",
+          "close": 22438.45
+        },
         {
           "date": "2026-04-22",
           "close": 22455.45
@@ -1931,10 +1935,6 @@
         {
           "date": "2026-07-23",
           "close": 25653.55
-        },
-        {
-          "date": "2026-07-24",
-          "close": 25548.15
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXPHARMA"
