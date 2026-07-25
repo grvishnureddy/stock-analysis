@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T14:04:29+00:00",
+  "generatedAt": "2026-07-25T15:30:02+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,11 +7,11 @@
       "company": "IDFC First Bank Limited",
       "symbol": "IDFCFIRSTB",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.4,
+      "predictionScore": 8.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -24,12 +24,12 @@
           "verified": true
         },
         {
-          "label": "Record Date",
-          "type": "announcement",
+          "label": "IDFC First Bank Approves Raising Up To Rs 20,000 Crore; Sets Final Dividend Record Date",
+          "type": "corporate action",
           "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Record Date",
           "type": "announcement",
           "verified": true
         }
@@ -40,9 +40,60 @@
           "label": "NDTV Business",
           "url": "https://www.ndtvprofit.com/markets/idfc-first-bank-q1-results-profit-soars-over-2x-as-provisions-decline-asset-quality-improves-11820938#publisher=newsstand",
           "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/idfc-first-bank-approves-fundraise-of-up-to-rs-20-000-crore-sets-aug-7-as-record-date-for-final-dividend-11821347#publisher=newsstand",
+          "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.4,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bank of India Q1 results: Profit, core income rise on improved asset quality - CNBC TV18",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Bank of Maharashtra, Indian Bank, IOB among 5 NIFTY500 firms with 9-quarter profit growth streak - Upstox",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdlJRbElBX25qbi1QT3VlaU1tS0NvMVhDUk8xYURYZnBfVGNJdWpURzdHMFlMenpEWjhkczJTczlSa21ONlQ5R0xIYnZacU04TFk5N0dhQlZfUnhyVzk2YUJrZGJuWjBMV0dxVjhEWUtqN2lvdUJ3eWdKWkJQdEtwR2Nuc09sSlJod1hEOTY5QXRsY1QwOTc5TmdhVVR5N1F1SkxvVE9QemF0NDZpT2ZOa2lJaDFWM0M2aG1fNjlPTWdramR1QlV3Y09qZ2ZEeW5BMGlUUlY2WdIB3AFBVV95cUxPaERkMlJqZ0RVU2JHclBOT1pMRk1qMjVYeWtCNTcyTkg4Ylc3UXE0YkFlNVZRMUgyMGt0YkJVQWlUWEVETkhrbHplOF8yRGRHUWpHTXozQ0FWTEZPVGl0Ny1LSGlGdHg5em5nV2dlbk5XcG43bTlEZzFZTFpma3pPajdLc1pSc3gyQklXbFZRdk9VSVZvM0VFM2lJak9za3phRWJjZ0NyOVJLb3hheHZYUkF0QWFGUUpKRldTbkl5SHhXZERKakY5WjBDcUhrbVJ2NF9RMmhDdXdISEQ5?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQzRmMjZoY1FFeXgyZTIzeGU4U3VHSTRMN1FWbndEWnU3OUxyb3ctWnhwOWtaOWg2TFRRMDZtVEpDNThjMl9uUXBWY1ZNcHppYjBaTE1SY3FKVXNaeFBwZ1JIUkRybGw2Tk9zRWxmdE1SSjBscURhbVY0RXJjTGhTTkJiMlRzRm9PRzh0eU4wdFJFZ0Z3b1BjRXFWRF9GMVNXTlZ6UVZtMFlhVkNNZjNpYU1YdUV5ejBJbmVkODBPT2VUMjZmM0dZMDRrMnczQ0pLTHBNRXNlaHZxY0ZuTFJtd294WkViYmpybEMwOGVlZzhGLTVvNk5PV3NzTDItNHhyRmt0bg?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Shyam Metalics and Energy Limited",
@@ -188,17 +239,22 @@
       "company": "SRF Limited",
       "symbol": "SRF",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 2.2,
-      "confidence": 86,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
+        {
+          "label": "Sensex Today Ends 364 Points Lower | Nifty Below 23,900 | SRF Down 9% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "Updates",
           "type": "announcement",
@@ -208,15 +264,16 @@
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR1paVjBQRmx3TEpqeEZWOTNyVU5sblR1N2pHUUJtbXVkSWVuc1EyWDl6UmswSC1mQXlvUTl2aEFHczROZzN5UHcxejRwU1RudkRSSTJSZUkwd0hCeUV3aGJuS1pia3J5cGhSSklzQWlzVFlrUFVQMHVGUDhabms5VWlzZUVldkhtUElqenMxYjN5ZWdTWk84OWFTWm13cjIzMjZscnVTMzF5d0JBVUFqUDdFXzlKOFJmLUhJay10RDNBazJC?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -325,6 +382,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Birla Corporation Limited",
+      "symbol": "BIRLACORPN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 75,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 956.6,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "PTC India Financial Services Limited",
       "symbol": "PFS",
       "exchange": "NSE",
@@ -358,76 +450,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Supreme Petrochem Limited",
-      "symbol": "SPLPETRO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 69,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 741.6,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Birla Corporation Limited",
-      "symbol": "BIRLACORPN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 68,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 956.6,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -435,11 +457,11 @@
       "company": "IDFC First Bank Limited",
       "symbol": "IDFCFIRSTB",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.6,
+      "predictionScore": 9.6,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -452,12 +474,12 @@
           "verified": true
         },
         {
-          "label": "Record Date",
-          "type": "announcement",
+          "label": "IDFC First Bank Approves Raising Up To Rs 20,000 Crore; Sets Final Dividend Record Date",
+          "type": "corporate action",
           "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Record Date",
           "type": "announcement",
           "verified": true
         }
@@ -468,9 +490,60 @@
           "label": "NDTV Business",
           "url": "https://www.ndtvprofit.com/markets/idfc-first-bank-q1-results-profit-soars-over-2x-as-provisions-decline-asset-quality-improves-11820938#publisher=newsstand",
           "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/idfc-first-bank-approves-fundraise-of-up-to-rs-20-000-crore-sets-aug-7-as-record-date-for-final-dividend-11821347#publisher=newsstand",
+          "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.4,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bank of India Q1 results: Profit, core income rise on improved asset quality - CNBC TV18",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Bank of Maharashtra, Indian Bank, IOB among 5 NIFTY500 firms with 9-quarter profit growth streak - Upstox",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdlJRbElBX25qbi1QT3VlaU1tS0NvMVhDUk8xYURYZnBfVGNJdWpURzdHMFlMenpEWjhkczJTczlSa21ONlQ5R0xIYnZacU04TFk5N0dhQlZfUnhyVzk2YUJrZGJuWjBMV0dxVjhEWUtqN2lvdUJ3eWdKWkJQdEtwR2Nuc09sSlJod1hEOTY5QXRsY1QwOTc5TmdhVVR5N1F1SkxvVE9QemF0NDZpT2ZOa2lJaDFWM0M2aG1fNjlPTWdramR1QlV3Y09qZ2ZEeW5BMGlUUlY2WdIB3AFBVV95cUxPaERkMlJqZ0RVU2JHclBOT1pMRk1qMjVYeWtCNTcyTkg4Ylc3UXE0YkFlNVZRMUgyMGt0YkJVQWlUWEVETkhrbHplOF8yRGRHUWpHTXozQ0FWTEZPVGl0Ny1LSGlGdHg5em5nV2dlbk5XcG43bTlEZzFZTFpma3pPajdLc1pSc3gyQklXbFZRdk9VSVZvM0VFM2lJak9za3phRWJjZ0NyOVJLb3hheHZYUkF0QWFGUUpKRldTbkl5SHhXZERKakY5WjBDcUhrbVJ2NF9RMmhDdXdISEQ5?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQzRmMjZoY1FFeXgyZTIzeGU4U3VHSTRMN1FWbndEWnU3OUxyb3ctWnhwOWtaOWg2TFRRMDZtVEpDNThjMl9uUXBWY1ZNcHppYjBaTE1SY3FKVXNaeFBwZ1JIUkRybGw2Tk9zRWxmdE1SSjBscURhbVY0RXJjTGhTTkJiMlRzRm9PRzh0eU4wdFJFZ0Z3b1BjRXFWRF9GMVNXTlZ6UVZtMFlhVkNNZjNpYU1YdUV5ejBJbmVkODBPT2VUMjZmM0dZMDRrMnczQ0pLTHBNRXNlaHZxY0ZuTFJtd294WkViYmpybEMwOGVlZzhGLTVvNk5PV3NzTDItNHhyRmt0bg?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Dodla Dairy Limited",
@@ -686,17 +759,22 @@
       "company": "SRF Limited",
       "symbol": "SRF",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 2.2,
-      "confidence": 86,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
+        {
+          "label": "Sensex Today Ends 364 Points Lower | Nifty Below 23,900 | SRF Down 9% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "Updates",
           "type": "announcement",
@@ -706,15 +784,16 @@
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR1paVjBQRmx3TEpqeEZWOTNyVU5sblR1N2pHUUJtbXVkSWVuc1EyWDl6UmswSC1mQXlvUTl2aEFHczROZzN5UHcxejRwU1RudkRSSTJSZUkwd0hCeUV3aGJuS1pia3J5cGhSSklzQWlzVFlrUFVQMHVGUDhabms5VWlzZUVldkhtUElqenMxYjN5ZWdTWk84OWFTWm13cjIzMjZscnVTMzF5d0JBVUFqUDdFXzlKOFJmLUhJay10RDNBazJC?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -788,22 +867,22 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Share India Securities Limited",
-      "symbol": "SHAREINDIA",
+      "company": "Birla Corporation Limited",
+      "symbol": "BIRLACORPN",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 79,
+      "direction": "Negative watch",
+      "predictionScore": -3.5,
+      "confidence": 80,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 956.6,
       "catalysts": [
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
@@ -813,43 +892,8 @@
           "verified": true
         },
         {
-          "label": "Record Date",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Tamilnad Mercantile Bank Limited",
-      "symbol": "TMB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 804.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Q1 FY27 results scheduled 2026-07-27",
-          "type": "result",
           "verified": true
         }
       ],
