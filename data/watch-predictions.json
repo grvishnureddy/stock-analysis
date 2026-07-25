@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T21:10:58+00:00",
+  "generatedAt": "2026-07-25T23:15:27+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -52,7 +52,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.3,
+      "predictionScore": 4.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -490,6 +490,41 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Dodla Dairy Limited",
+      "symbol": "DODLA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1061.2,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Bank of India",
       "symbol": "BANKINDIA",
       "exchange": "NSE",
@@ -497,7 +532,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.3,
+      "predictionScore": 4.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -533,41 +568,6 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Dodla Dairy Limited",
-      "symbol": "DODLA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1061.2,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
