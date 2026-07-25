@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T23:18:59+00:00",
+  "updatedAt": "2026-07-25T03:41:52+00:00",
   "instruments": [
     {
       "name": "Nifty 50",
@@ -283,18 +283,14 @@
       "symbol": "^BSESN",
       "type": "index",
       "market": "BSE",
-      "price": 76391.39,
-      "asOf": "2026-07-23",
-      "change1d": -0.47,
-      "change1w": -1.03,
-      "change1m": 0.25,
-      "rangeLow": 76200.68,
+      "price": 76059.77,
+      "asOf": "2026-07-24",
+      "change1d": -0.43,
+      "change1w": -2.68,
+      "change1m": -1.21,
+      "rangeLow": 76059.77,
       "rangeHigh": 78285.07,
       "chart": [
-        {
-          "date": "2026-04-21",
-          "close": 79273.33
-        },
         {
           "date": "2026-04-22",
           "close": 78516.49
@@ -550,6 +546,10 @@
         {
           "date": "2026-07-23",
           "close": 76391.39
+        },
+        {
+          "date": "2026-07-24",
+          "close": 76059.77
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5EBSESN"
@@ -837,18 +837,14 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY IT",
-      "price": 28533.55,
-      "asOf": "2026-07-23",
-      "change1d": -0.06,
-      "change1w": -0.66,
-      "change1m": 5.63,
+      "price": 28767.95,
+      "asOf": "2026-07-24",
+      "change1d": 0.82,
+      "change1w": -1.57,
+      "change1m": 4.36,
       "rangeLow": 25769.8,
       "rangeHigh": 29226.6,
       "chart": [
-        {
-          "date": "2026-04-21",
-          "close": 31729.1
-        },
         {
           "date": "2026-04-22",
           "close": 30496.25
@@ -1104,6 +1100,10 @@
         {
           "date": "2026-07-23",
           "close": 28533.55
+        },
+        {
+          "date": "2026-07-24",
+          "close": 28767.95
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXIT"
@@ -1668,18 +1668,14 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY PHARMA",
-      "price": 25653.55,
-      "asOf": "2026-07-23",
-      "change1d": -0.38,
-      "change1w": -1.36,
-      "change1m": 2.66,
+      "price": 25548.15,
+      "asOf": "2026-07-24",
+      "change1d": -0.41,
+      "change1w": -0.38,
+      "change1m": 2.12,
       "rangeLow": 24969.5,
       "rangeHigh": 26092.85,
       "chart": [
-        {
-          "date": "2026-04-21",
-          "close": 22438.45
-        },
         {
           "date": "2026-04-22",
           "close": 22455.45
@@ -1935,6 +1931,10 @@
         {
           "date": "2026-07-23",
           "close": 25653.55
+        },
+        {
+          "date": "2026-07-24",
+          "close": 25548.15
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXPHARMA"
@@ -1944,18 +1944,14 @@
       "symbol": "^INDIAVIX",
       "type": "volatility",
       "market": "NSE",
-      "price": 13.48,
-      "asOf": "2026-07-23",
-      "change1d": 1.43,
-      "change1w": 4.66,
-      "change1m": -3.3,
+      "price": 14.03,
+      "asOf": "2026-07-24",
+      "change1d": 4.08,
+      "change1w": 6.69,
+      "change1m": 4.78,
       "rangeLow": 11.65,
       "rangeHigh": 14.68,
       "chart": [
-        {
-          "date": "2026-04-21",
-          "close": 17.53
-        },
         {
           "date": "2026-04-22",
           "close": 18.3
@@ -2211,6 +2207,10 @@
         {
           "date": "2026-07-23",
           "close": 13.48
+        },
+        {
+          "date": "2026-07-24",
+          "close": 14.03
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5EINDIAVIX"
@@ -3530,7 +3530,7 @@
         "symbol": "HINDUNILVR",
         "company": "Hindustan Unilever Ltd.",
         "industry": "Fast Moving Consumer Goods",
-        "lastPrice": null,
+        "lastPrice": 2145.0,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3610,7 +3610,7 @@
         "symbol": "LT",
         "company": "Larsen & Toubro Ltd.",
         "industry": "Construction",
-        "lastPrice": null,
+        "lastPrice": 3785.6,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3650,7 +3650,7 @@
         "symbol": "NTPC",
         "company": "NTPC Ltd.",
         "industry": "Power",
-        "lastPrice": 347.2,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3700,7 +3700,7 @@
         "symbol": "SBILIFE",
         "company": "SBI Life Insurance Company Ltd.",
         "industry": "Financial Services",
-        "lastPrice": 1858.6,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3710,7 +3710,7 @@
         "symbol": "SHRIRAMFIN",
         "company": "Shriram Finance Ltd.",
         "industry": "Financial Services",
-        "lastPrice": 1005.1,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3750,7 +3750,7 @@
         "symbol": "TATACONSUM",
         "company": "Tata Consumer Products Ltd.",
         "industry": "Fast Moving Consumer Goods",
-        "lastPrice": 1088.0,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3852,7 +3852,7 @@
         "symbol": "BANKBARODA",
         "company": "Bank of Baroda",
         "industry": "Financial Services",
-        "lastPrice": 246.45,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -4268,7 +4268,7 @@
         "symbol": "HINDZINC",
         "company": "Hindustan Zinc Ltd.",
         "industry": "Metals & Mining",
-        "lastPrice": 531.95,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -4298,7 +4298,7 @@
         "symbol": "JINDALSTEL",
         "company": "Jindal Steel Ltd.",
         "industry": "Metals & Mining",
-        "lastPrice": 1035.8,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -4338,7 +4338,7 @@
         "symbol": "SAIL",
         "company": "Steel Authority of India Ltd.",
         "industry": "Metals & Mining",
-        "lastPrice": 161.45,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -4368,7 +4368,7 @@
         "symbol": "WELCORP",
         "company": "Welspun Corp Ltd.",
         "industry": "Capital Goods",
-        "lastPrice": 1596.9,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -4490,7 +4490,7 @@
         "symbol": "LAURUSLABS",
         "company": "Laurus Labs Ltd.",
         "industry": "Healthcare",
-        "lastPrice": 1601.2,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
