@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T06:51:18+00:00",
+  "updatedAt": "2026-07-26T10:15:30+00:00",
   "instruments": [
     {
       "name": "Nifty 50",
@@ -7,14 +7,18 @@
       "type": "index",
       "market": "NSE",
       "nseIndex": "NIFTY 50",
-      "price": 23767.45,
-      "asOf": "2026-07-24",
-      "change1d": -0.43,
-      "change1w": -2.33,
-      "change1m": -1.06,
-      "rangeLow": 23767.45,
+      "price": 23869.6,
+      "asOf": "2026-07-23",
+      "change1d": -0.53,
+      "change1w": -0.84,
+      "change1m": 0.19,
+      "rangeLow": 23824.1,
       "rangeHigh": 24430.35,
       "chart": [
+        {
+          "date": "2026-04-21",
+          "close": 24576.6
+        },
         {
           "date": "2026-04-22",
           "close": 24378.1
@@ -270,10 +274,6 @@
         {
           "date": "2026-07-23",
           "close": 23869.6
-        },
-        {
-          "date": "2026-07-24",
-          "close": 23767.45
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ENSEI"
@@ -283,14 +283,18 @@
       "symbol": "^BSESN",
       "type": "index",
       "market": "BSE",
-      "price": 76059.77,
-      "asOf": "2026-07-24",
-      "change1d": -0.43,
-      "change1w": -2.68,
-      "change1m": -1.21,
-      "rangeLow": 76059.77,
+      "price": 76391.39,
+      "asOf": "2026-07-23",
+      "change1d": -0.47,
+      "change1w": -1.03,
+      "change1m": 0.25,
+      "rangeLow": 76200.68,
       "rangeHigh": 78285.07,
       "chart": [
+        {
+          "date": "2026-04-21",
+          "close": 79273.33
+        },
         {
           "date": "2026-04-22",
           "close": 78516.49
@@ -546,10 +550,6 @@
         {
           "date": "2026-07-23",
           "close": 76391.39
-        },
-        {
-          "date": "2026-07-24",
-          "close": 76059.77
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5EBSESN"
