@@ -1,43 +1,8 @@
 {
-  "generatedAt": "2026-07-26T23:14:24+00:00",
+  "generatedAt": "2026-07-27T04:04:46+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
-    {
-      "company": "UFO Moviez India Limited",
-      "symbol": "UFO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 67.02,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
     {
       "company": "Shyam Metalics and Energy Limited",
       "symbol": "SHYAMMETL",
@@ -109,41 +74,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "SMC Global Securities Limited",
-      "symbol": "SMCGLOBAL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 75.46,
-      "catalysts": [
-        {
-          "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Resignation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Century Enka Limited",
       "symbol": "CENTENKA",
       "exchange": "NSE",
@@ -156,7 +86,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 574.2,
+      "lastClose": 584.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -176,6 +106,93 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "IDFC First Bank Limited",
+      "symbol": "IDFCFIRSTB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "IDFC First Bank Q1 Review: JPMorgan Hikes Target, Morgan Stanley Flags Valuation Hurdle \u2014 Buy, Sell, Or Hold?",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/idfc-first-bank-q1-review-jpmorgan-hikes-target-morgan-stanley-flags-valuation-hurdle-buy-sell-or-hold-11825935#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Shriram Finance Limited",
+      "symbol": "SHRIRAMFIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Shriram Finance's Earnings Shine, Yet Analysts See One Hurdle Before A Bigger Re-Rating",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Stock Picks Today: SBI Life, SBI Cards, Adani Energy, Tata Consumer, Shriram Finance, Lodha, And More On Brokerages' Radar",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/shriram-finances-earnings-shine-yet-analysts-see-one-hurdle-before-a-bigger-re-rating-11825907#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/stock-picks-today-sbi-life-sbi-cards-adani-energy-tata-consumer-shriram-finance-lodha-cg-power-hindustan-zinc-and-more-on-brokerages-radar-11825830#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -284,8 +301,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "DCM Shriram Limited",
-      "symbol": "DCMSHRIRAM",
+      "company": "UFO Moviez India Limited",
+      "symbol": "UFO",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
@@ -296,7 +313,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1005.8,
+      "lastClose": 68.65,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -304,12 +321,12 @@
           "verified": true
         },
         {
-          "label": "Resignation",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Resignation of Director/KMP/SMP",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -361,7 +378,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
+      "predictionScore": 2.1,
       "confidence": 78,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -395,22 +412,22 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "PTC India Financial Services Limited",
-      "symbol": "PFS",
+      "company": "Iris Clothings Limited",
+      "symbol": "IRISDOREME",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 69,
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 76,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 29.28,
+      "lastClose": 47.99,
       "catalysts": [
         {
-          "label": "Financial Results",
+          "label": "Financial Results/Other business matters",
           "type": "upcoming event",
           "verified": true
         },
@@ -420,7 +437,7 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Corrigendum",
           "type": "announcement",
           "verified": true
         }
@@ -432,39 +449,39 @@
   ],
   "tomorrow": [
     {
-      "company": "SMC Global Securities Limited",
-      "symbol": "SMCGLOBAL",
+      "company": "Iris Clothings Limited",
+      "symbol": "IRISDOREME",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.5,
+      "predictionScore": 5.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 75.46,
+      "technicalConfidence": 100,
+      "lastClose": 47.99,
       "catalysts": [
         {
-          "label": "Resignation of Director/KMP/SMP",
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Resignation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
+          "label": "Corrigendum",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Century Enka Limited",
@@ -479,7 +496,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 574.2,
+      "lastClose": 584.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -493,41 +510,6 @@
         },
         {
           "label": "Acquisition",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "UFO Moviez India Limited",
-      "symbol": "UFO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 67.02,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -607,6 +589,93 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "IDFC First Bank Limited",
+      "symbol": "IDFCFIRSTB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "IDFC First Bank Q1 Review: JPMorgan Hikes Target, Morgan Stanley Flags Valuation Hurdle \u2014 Buy, Sell, Or Hold?",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/idfc-first-bank-q1-review-jpmorgan-hikes-target-morgan-stanley-flags-valuation-hurdle-buy-sell-or-hold-11825935#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Shriram Finance Limited",
+      "symbol": "SHRIRAMFIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Shriram Finance's Earnings Shine, Yet Analysts See One Hurdle Before A Bigger Re-Rating",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Stock Picks Today: SBI Life, SBI Cards, Adani Energy, Tata Consumer, Shriram Finance, Lodha, And More On Brokerages' Radar",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/shriram-finances-earnings-shine-yet-analysts-see-one-hurdle-before-a-bigger-re-rating-11825907#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/stock-picks-today-sbi-life-sbi-cards-adani-energy-tata-consumer-shriram-finance-lodha-cg-power-hindustan-zinc-and-more-on-brokerages-radar-11825830#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Gandhar Oil Refinery (India) Limited",
       "symbol": "GANDHAR",
       "exchange": "NSE",
@@ -677,8 +746,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "DCM Shriram Limited",
-      "symbol": "DCMSHRIRAM",
+      "company": "UFO Moviez India Limited",
+      "symbol": "UFO",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
@@ -689,7 +758,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1005.8,
+      "lastClose": 68.65,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -697,12 +766,12 @@
           "verified": true
         },
         {
-          "label": "Resignation",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Resignation of Director/KMP/SMP",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -738,6 +807,41 @@
         },
         {
           "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "RPG Life Sciences Limited",
+      "symbol": "RPGLIFE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 2912.6,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -759,7 +863,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 741.6,
+      "lastClose": 769.8,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -779,82 +883,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Share India Securities Limited",
-      "symbol": "SHAREINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 79,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bank of India",
-      "symbol": "BANKINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 78,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bank of Maharashtra, Indian Bank, IOB among 5 NIFTY500 firms with 9-quarter profit growth streak - Upstox",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQzRmMjZoY1FFeXgyZTIzeGU4U3VHSTRMN1FWbndEWnU3OUxyb3ctWnhwOWtaOWg2TFRRMDZtVEpDNThjMl9uUXBWY1ZNcHppYjBaTE1SY3FKVXNaeFBwZ1JIUkRybGw2Tk9zRWxmdE1SSjBscURhbVY0RXJjTGhTTkJiMlRzRm9PRzh0eU4wdFJFZ0Z3b1BjRXFWRF9GMVNXTlZ6UVZtMFlhVkNNZjNpYU1YdUV5ejBJbmVkODBPT2VUMjZmM0dZMDRrMnczQ0pLTHBNRXNlaHZxY0ZuTFJtd294WkViYmpybEMwOGVlZzhGLTVvNk5PV3NzTDItNHhyRmt0bg?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
