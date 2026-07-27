@@ -1,8 +1,65 @@
 {
-  "generatedAt": "2026-07-27T11:42:43+00:00",
+  "generatedAt": "2026-07-27T15:16:49+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -10.9,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "HDFC Bank ADRs Slip Into Red As Internal Probe Pulls Up Top Brass For 'Business Overreach'",
+          "type": "risk",
+          "verified": true
+        },
+        {
+          "label": "Decoding MSRDC Case: What's The Controversy That Led To HDFC Bank Penalising Its Top Bosses?",
+          "type": "risk",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-adrs-slip-into-red-as-internal-probe-pulls-up-top-brass-for-business-overreach-11828797#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/decoding-the-msrdc-case-whats-the-controversy-that-led-to-hdfc-bank-penalising-its-top-bosses-11828324#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
     {
       "company": "Bhagyanagar India Limited",
       "symbol": "BHAGYANGR",
@@ -11,7 +68,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
+      "predictionScore": 5.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -50,51 +107,10 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "R R Kabel Limited",
-      "symbol": "RRKABEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 2525.3,
-      "catalysts": [
-        {
-          "label": "R R Kabel Q1 Results: Profit More Than Doubles To Rs 205 Crore, Margins Expand",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/r-r-kabel-q1-results-profit-more-than-doubles-to-rs-205-crore-margins-expand-11827610#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Manba Finance Limited",
       "symbol": "MANBA",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -106,17 +122,17 @@
       "lastClose": 146.37,
       "catalysts": [
         {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Dividend",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
           "type": "announcement",
           "verified": true
         }
@@ -164,6 +180,76 @@
           "verified": true
         }
       ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Lords Chloro Alkali Limited",
+      "symbol": "LORDSCHLO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 157.86,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Registrar & Share Transfer Agent Update",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Nelcast Limited",
+      "symbol": "NELCAST",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 116.64,
+      "catalysts": [
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -237,56 +323,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bank of Baroda",
-      "symbol": "BANKBARODA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bank Of Baroda May Raise Credit Growth Guidance After Q2, Says CEO Debadatta Chand",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "BoB Data Leak: Bank Confirms Employee Email Hack; Says Core System Uncompromised",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/bank-of-baroda-may-raise-credit-growth-guidance-after-q2-says-ceo-debadatta-chand-11827345#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/bob-data-leak-bank-confirms-employee-email-hack-says-core-system-uncompromised-11827761#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Century Enka Limited",
       "symbol": "CENTENKA",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -303,12 +343,47 @@
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Acquisition",
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Emkay Global Financial Services Limited",
+      "symbol": "EMKAY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.6,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 238.05,
+      "catalysts": [
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -321,7 +396,7 @@
       "company": "Gandhar Oil Refinery (India) Limited",
       "symbol": "GANDHAR",
       "exchange": "NSE",
-      "confirmedNewsCount": 16,
+      "confirmedNewsCount": 17,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -338,12 +413,12 @@
           "verified": true
         },
         {
-          "label": "Disruption of Operations",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Disruption of Operations",
           "type": "announcement",
           "verified": true
         }
@@ -392,79 +467,66 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Iris Clothings Limited",
-      "symbol": "IRISDOREME",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 48.29,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Epigral Limited",
-      "symbol": "EPIGRAL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1157.0,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Adoption of new line(s) of business",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
+    {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -10.9,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "HDFC Bank ADRs Slip Into Red As Internal Probe Pulls Up Top Brass For 'Business Overreach'",
+          "type": "risk",
+          "verified": true
+        },
+        {
+          "label": "Decoding MSRDC Case: What's The Controversy That Led To HDFC Bank Penalising Its Top Bosses?",
+          "type": "risk",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-adrs-slip-into-red-as-internal-probe-pulls-up-top-brass-for-business-overreach-11828797#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/decoding-the-msrdc-case-whats-the-controversy-that-led-to-hdfc-bank-penalising-its-top-bosses-11828324#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
     {
       "company": "Bhagyanagar India Limited",
       "symbol": "BHAGYANGR",
@@ -473,7 +535,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 7.3,
+      "predictionScore": 7.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -512,51 +574,10 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "R R Kabel Limited",
-      "symbol": "RRKABEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 2525.3,
-      "catalysts": [
-        {
-          "label": "R R Kabel Q1 Results: Profit More Than Doubles To Rs 205 Crore, Margins Expand",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/r-r-kabel-q1-results-profit-more-than-doubles-to-rs-205-crore-margins-expand-11827610#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Manba Finance Limited",
       "symbol": "MANBA",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -568,6 +589,11 @@
       "lastClose": 146.37,
       "catalysts": [
         {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Dividend",
           "type": "announcement",
           "verified": true
@@ -576,16 +602,116 @@
           "label": "Record Date",
           "type": "announcement",
           "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Lords Chloro Alkali Limited",
+      "symbol": "LORDSCHLO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 157.86,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
         },
         {
-          "label": "Dividend",
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Registrar & Share Transfer Agent Update",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Supreme Petrochem Limited",
+      "symbol": "SPLPETRO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 760.9,
+      "catalysts": [
+        {
+          "label": "Capacity addition",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Antelopus Selan Energy Limited",
+      "symbol": "ANTELOPUS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 875.55,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Fairchem Organics Limited",
@@ -661,7 +787,7 @@
       "company": "Century Enka Limited",
       "symbol": "CENTENKA",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -678,12 +804,12 @@
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Acquisition",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -766,7 +892,7 @@
       "company": "Nelcast Limited",
       "symbol": "NELCAST",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -778,40 +904,10 @@
       "lastClose": 116.64,
       "catalysts": [
         {
-          "label": "Investor Presentation",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Epigral Limited",
-      "symbol": "EPIGRAL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1157.0,
-      "catalysts": [
         {
           "label": "Investor Presentation",
           "type": "announcement",
@@ -821,91 +917,10 @@
           "label": "Press Release",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Adoption of new line(s) of business",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Senores Pharmaceuticals Limited",
-      "symbol": "SENORES",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1412.0,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "IDFC First Bank Limited",
-      "symbol": "IDFCFIRSTB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.6,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Zee Business. . Results Review \ud83d\udccc \u25b6\ufe0fBuy IDFC First Bank Futures: SL 80 Tgt 83, 84.25 -Strong results -Bank posted highest ever quarterly profit \u25b6\ufe0fBuy AU Small Fin Futures: SL 990 Tgt 1020, 1030, 1038 -Results better than expectations -NIMs improved to 5 - facebook.com",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNclVWdF9uVUxzSk5adlNFM3dOeHNkc1RaT3htaDlOUXVkWDhQbDBtZUlTTG9ILXpsZWhlNXFHaTVleHhZVmRtT1ZGM1pKekhtRGMtcmlDTzdUc3VPSmlQdVJoMnRlaW1mN3Q1Q2k2TmNoRFh6a09PWTFESFJieU80Xy1LVWE3eEZtUkc1WjlCMTh1bzBjMDBhc1pfaG9WUS1mR3I1bVNnVnN1SV9qZ0ZjMFBMZ0dzNFB2WVF6UlQ0VlFBQ0dZSHRoMTVhQm05YTE1TlZ0clZ2VHBheDVLQW9RdVFMZ2FPVlhuZDVkXw?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
