@@ -1,65 +1,8 @@
 {
-  "generatedAt": "2026-07-27T15:16:49+00:00",
+  "generatedAt": "2026-07-27T17:57:28+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -10.9,
-      "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "HDFC Bank ADRs Slip Into Red As Internal Probe Pulls Up Top Brass For 'Business Overreach'",
-          "type": "risk",
-          "verified": true
-        },
-        {
-          "label": "Decoding MSRDC Case: What's The Controversy That Led To HDFC Bank Penalising Its Top Bosses?",
-          "type": "risk",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-adrs-slip-into-red-as-internal-probe-pulls-up-top-brass-for-business-overreach-11828797#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/decoding-the-msrdc-case-whats-the-controversy-that-led-to-hdfc-bank-penalising-its-top-bosses-11828324#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
     {
       "company": "Bhagyanagar India Limited",
       "symbol": "BHAGYANGR",
@@ -183,6 +126,82 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Aye Finance Limited",
+      "symbol": "AYE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 14,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "IPO Lock-In Expiry Wave: 49 Stocks Set To Be Unlocked In Two Months",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/ipo-lock-in-expiry-wave-49-stocks-set-to-be-unlocked-in-two-months-11829026#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Gallantt Ispat Limited",
+      "symbol": "GALLANTT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 547.25,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Resignation of Statutory Auditor",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Lords Chloro Alkali Limited",
       "symbol": "LORDSCHLO",
       "exchange": "NSE",
@@ -209,6 +228,41 @@
         },
         {
           "label": "Registrar & Share Transfer Agent Update",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Supreme Petrochem Limited",
+      "symbol": "SPLPETRO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 760.9,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Capacity addition",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -391,142 +445,9 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Gandhar Oil Refinery (India) Limited",
-      "symbol": "GANDHAR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 17,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "GANDHAR OIL REFINERY (INDIA) LTD. Share Price Today Down 13% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disruption of Operations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNXzZmUXJtQTJyWHc2YnFtSUxQeW9vdTNDZTRnclAtTmwxSElHSlhqWXhiMlo3M2wxWDRqVHVvYktHX25RV09EbWZSSWhtUXJPcXVXZlM5SnVCV21hck9jeEJwb1hJbjlNbERoak9obWJ2N0tRT0MtN0RmeGFEbmZGSWdWYnZyV1FSc0NhM3B1bE8xdEVRaGI2LU9XOWo5U19LSDJwLUx2NmNDYnMtYlpCcXg0V2JxNVROUEhNdnFONHM3NE5RY2I5aWFwRHgxTnMtZXNUdnlYSDQ2djdLdzVSbWhWOG1NNllaX1diWXlEM1RvM0dHaDE2bzFuQkpWZmNLZWp3a2JSNm1ZRERHaGN5eVVWSHdXdXUzeHJZU1FkdUMtcDdZcnE0TEh1b093a2p6bDlPNm1HRmgybGM?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Central Mine Planning & Design Institute Limited",
-      "symbol": "CMPDI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 14,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -10.9,
-      "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "HDFC Bank ADRs Slip Into Red As Internal Probe Pulls Up Top Brass For 'Business Overreach'",
-          "type": "risk",
-          "verified": true
-        },
-        {
-          "label": "Decoding MSRDC Case: What's The Controversy That Led To HDFC Bank Penalising Its Top Bosses?",
-          "type": "risk",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-adrs-slip-into-red-as-internal-probe-pulls-up-top-brass-for-business-overreach-11828797#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/decoding-the-msrdc-case-whats-the-controversy-that-led-to-hdfc-bank-penalising-its-top-bosses-11828324#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
     {
       "company": "Bhagyanagar India Limited",
       "symbol": "BHAGYANGR",
@@ -647,7 +568,7 @@
       "company": "Supreme Petrochem Limited",
       "symbol": "SPLPETRO",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -659,6 +580,11 @@
       "lastClose": 760.9,
       "catalysts": [
         {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Capacity addition",
           "type": "announcement",
           "verified": true
@@ -666,11 +592,6 @@
         {
           "label": "Outcome of Board Meeting",
           "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -682,7 +603,7 @@
       "company": "Antelopus Selan Energy Limited",
       "symbol": "ANTELOPUS",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -694,7 +615,7 @@
       "lastClose": 875.55,
       "catalysts": [
         {
-          "label": "Outcome of Board Meeting",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
@@ -704,7 +625,7 @@
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -889,22 +810,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Nelcast Limited",
-      "symbol": "NELCAST",
+      "company": "R R Kabel Limited",
+      "symbol": "RRKABEL",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 116.64,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 2525.3,
       "catalysts": [
         {
-          "label": "Shareholders meeting",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
@@ -912,9 +838,39 @@
           "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tamilnad Mercantile Bank Limited",
+      "symbol": "TMB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 893.65,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
         },
         {
           "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
