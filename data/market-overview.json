@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T14:41:42+00:00",
+  "updatedAt": "2026-07-28T19:55:34+00:00",
   "instruments": [
     {
       "name": "Nifty 50",
@@ -7,12 +7,12 @@
       "type": "index",
       "market": "NSE",
       "nseIndex": "NIFTY 50",
-      "price": 23985.35,
-      "asOf": "2026-07-28",
-      "change1d": -0.04,
-      "change1w": -1.04,
-      "change1m": -0.29,
-      "rangeLow": 23865.75,
+      "price": 23995.95,
+      "asOf": "2026-07-27",
+      "change1d": 0.96,
+      "change1w": -1.0,
+      "change1m": -0.25,
+      "rangeLow": 23767.45,
       "rangeHigh": 24430.35,
       "chart": [
         {
@@ -268,12 +268,12 @@
           "close": 23869.6
         },
         {
-          "date": "2026-07-27",
-          "close": 23995.95
+          "date": "2026-07-24",
+          "close": 23767.45
         },
         {
-          "date": "2026-07-28",
-          "close": 23985.35
+          "date": "2026-07-27",
+          "close": 23995.95
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ENSEI"
@@ -283,12 +283,12 @@
       "symbol": "^BSESN",
       "type": "index",
       "market": "BSE",
-      "price": 76765.92,
-      "asOf": "2026-07-28",
-      "change1d": -0.09,
-      "change1w": -1.21,
-      "change1m": -0.43,
-      "rangeLow": 76391.39,
+      "price": 76835.78,
+      "asOf": "2026-07-27",
+      "change1d": 1.02,
+      "change1w": -1.12,
+      "change1m": -0.34,
+      "rangeLow": 76059.77,
       "rangeHigh": 78285.07,
       "chart": [
         {
@@ -544,12 +544,12 @@
           "close": 76391.39
         },
         {
-          "date": "2026-07-27",
-          "close": 76835.78
+          "date": "2026-07-24",
+          "close": 76059.77
         },
         {
-          "date": "2026-07-28",
-          "close": 76765.92
+          "date": "2026-07-27",
+          "close": 76835.78
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5EBSESN"
@@ -560,11 +560,11 @@
       "type": "index",
       "market": "NSE",
       "nseIndex": "NIFTY BANK",
-      "price": 56755.6,
-      "asOf": "2026-07-28",
-      "change1d": -0.58,
-      "change1w": -2.05,
-      "change1m": -2.44,
+      "price": 57087.2,
+      "asOf": "2026-07-27",
+      "change1d": 0.69,
+      "change1w": -1.48,
+      "change1m": -1.87,
       "rangeLow": 56592.0,
       "rangeHigh": 58521.4,
       "chart": [
@@ -821,12 +821,12 @@
           "close": 56592.0
         },
         {
-          "date": "2026-07-27",
-          "close": 57087.2
+          "date": "2026-07-24",
+          "close": 56693.5
         },
         {
-          "date": "2026-07-28",
-          "close": 56755.6
+          "date": "2026-07-27",
+          "close": 57087.2
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ENSEBANK"
@@ -837,13 +837,13 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY IT",
-      "price": 30418.35,
-      "asOf": "2026-07-28",
-      "change1d": 3.32,
-      "change1w": 4.31,
-      "change1m": 11.3,
+      "price": 29441.9,
+      "asOf": "2026-07-27",
+      "change1d": 2.34,
+      "change1w": 0.96,
+      "change1m": 7.72,
       "rangeLow": 25769.8,
-      "rangeHigh": 30418.35,
+      "rangeHigh": 29441.9,
       "chart": [
         {
           "date": "2026-04-23",
@@ -1098,12 +1098,12 @@
           "close": 28533.55
         },
         {
-          "date": "2026-07-27",
-          "close": 29441.9
+          "date": "2026-07-24",
+          "close": 28767.95
         },
         {
-          "date": "2026-07-28",
-          "close": 30418.35
+          "date": "2026-07-27",
+          "close": 29441.9
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXIT"
@@ -1114,14 +1114,18 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY AUTO",
-      "price": 27843.9,
-      "asOf": "2026-07-28",
-      "change1d": 2.75,
-      "change1w": 3.2,
-      "change1m": 4.1,
+      "price": 27099.75,
+      "asOf": "2026-07-17",
+      "change1d": 1.24,
+      "change1w": 0.89,
+      "change1m": 1.4,
       "rangeLow": 26384.35,
-      "rangeHigh": 27843.9,
+      "rangeHigh": 27353.95,
       "chart": [
+        {
+          "date": "2026-04-15",
+          "close": 26483.1
+        },
         {
           "date": "2026-04-16",
           "close": 26382.75
@@ -1377,10 +1381,6 @@
         {
           "date": "2026-07-17",
           "close": 27099.75
-        },
-        {
-          "date": "2026-07-28",
-          "close": 27843.9
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXAUTO"
@@ -1391,14 +1391,18 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY METAL",
-      "price": 12400.25,
-      "asOf": "2026-07-28",
-      "change1d": -0.3,
-      "change1w": -1.6,
-      "change1m": -4.69,
+      "price": 12436.95,
+      "asOf": "2026-07-17",
+      "change1d": -0.47,
+      "change1w": -1.99,
+      "change1m": -4.41,
       "rangeLow": 12394.75,
       "rangeHigh": 13091.2,
       "chart": [
+        {
+          "date": "2026-04-15",
+          "close": 12548.0
+        },
         {
           "date": "2026-04-16",
           "close": 12740.2
@@ -1654,10 +1658,6 @@
         {
           "date": "2026-07-17",
           "close": 12436.95
-        },
-        {
-          "date": "2026-07-28",
-          "close": 12400.25
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXMETAL"
@@ -1668,11 +1668,11 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY PHARMA",
-      "price": 25998.85,
-      "asOf": "2026-07-28",
-      "change1d": 0.2,
-      "change1w": -0.02,
-      "change1m": 4.12,
+      "price": 25945.75,
+      "asOf": "2026-07-27",
+      "change1d": 1.56,
+      "change1w": -0.22,
+      "change1m": 3.91,
       "rangeLow": 24969.5,
       "rangeHigh": 26092.85,
       "chart": [
@@ -1929,12 +1929,12 @@
           "close": 25653.55
         },
         {
-          "date": "2026-07-27",
-          "close": 25945.75
+          "date": "2026-07-24",
+          "close": 25548.15
         },
         {
-          "date": "2026-07-28",
-          "close": 25998.85
+          "date": "2026-07-27",
+          "close": 25945.75
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXPHARMA"
@@ -1944,11 +1944,11 @@
       "symbol": "^INDIAVIX",
       "type": "volatility",
       "market": "NSE",
-      "price": 12.56,
-      "asOf": "2026-07-28",
-      "change1d": -0.79,
-      "change1w": -3.24,
-      "change1m": -3.75,
+      "price": 12.66,
+      "asOf": "2026-07-27",
+      "change1d": -9.76,
+      "change1w": -2.47,
+      "change1m": -2.99,
       "rangeLow": 11.65,
       "rangeHigh": 14.68,
       "chart": [
@@ -2205,12 +2205,12 @@
           "close": 13.48
         },
         {
-          "date": "2026-07-27",
-          "close": 12.66
+          "date": "2026-07-24",
+          "close": 14.03
         },
         {
-          "date": "2026-07-28",
-          "close": 12.56
+          "date": "2026-07-27",
+          "close": 12.66
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5EINDIAVIX"
@@ -2221,11 +2221,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 4023.0,
+      "price": 4025.6,
       "asOf": "2026-07-28",
-      "change1d": -1.26,
-      "change1w": -1.18,
-      "change1m": -1.37,
+      "change1d": -1.2,
+      "change1w": -1.12,
+      "change1m": -1.3,
       "rangeLow": 3985.6,
       "rangeHigh": 4155.1,
       "chart": [
@@ -2487,7 +2487,7 @@
         },
         {
           "date": "2026-07-28",
-          "close": 4023.0
+          "close": 4025.6
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF"
@@ -2498,11 +2498,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 57.2,
+      "price": 57.44,
       "asOf": "2026-07-28",
-      "change1d": -2.17,
-      "change1w": -2.77,
-      "change1m": -3.41,
+      "change1d": -1.76,
+      "change1w": -2.36,
+      "change1m": -3.01,
       "rangeLow": 55.9,
       "rangeHigh": 61.92,
       "chart": [
@@ -2764,7 +2764,7 @@
         },
         {
           "date": "2026-07-28",
-          "close": 57.2
+          "close": 57.44
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/SI%3DF"
@@ -2775,11 +2775,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / lb",
-      "price": 6.33,
+      "price": 6.34,
       "asOf": "2026-07-28",
-      "change1d": -0.16,
-      "change1w": -2.76,
-      "change1m": 3.09,
+      "change1d": 0.0,
+      "change1w": -2.61,
+      "change1m": 3.26,
       "rangeLow": 6.05,
       "rangeHigh": 6.51,
       "chart": [
@@ -3041,7 +3041,7 @@
         },
         {
           "date": "2026-07-28",
-          "close": 6.33
+          "close": 6.34
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/HG%3DF"
@@ -3052,11 +3052,11 @@
       "type": "energy",
       "market": "Global",
       "unit": "USD / barrel",
-      "price": 81.05,
+      "price": 79.05,
       "asOf": "2026-07-28",
-      "change1d": -1.89,
-      "change1w": -4.55,
-      "change1m": 17.07,
+      "change1d": -4.31,
+      "change1w": -6.9,
+      "change1m": 14.18,
       "rangeLow": 68.55,
       "rangeHigh": 92.19,
       "chart": [
@@ -3318,7 +3318,7 @@
         },
         {
           "date": "2026-07-28",
-          "close": 81.05
+          "close": 79.05
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/CL%3DF"
