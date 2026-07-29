@@ -1,70 +1,35 @@
 {
-  "generatedAt": "2026-07-28T23:17:54+00:00",
+  "generatedAt": "2026-07-29T03:43:46+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "PTC India Financial Services Limited",
-      "symbol": "PFS",
+      "company": "Larsen & Toubro Limited",
+      "symbol": "LT",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 29.24,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Sundaram Clayton Limited",
-      "symbol": "SUNCLAY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1399.8,
-      "catalysts": [
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
+          "label": "Amalgamation/Merger",
           "type": "announcement",
           "verified": true
         }
@@ -109,91 +74,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Century Enka Limited",
-      "symbol": "CENTENKA",
+      "company": "Vedanta Oil and Gas Limited",
+      "symbol": "VOGL",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 577.8,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Home First Finance Company India Limited",
-      "symbol": "HOMEFIRST",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Home First Finance Company India Ltd Q1 Results: Earnings call audio uploaded - scanx.trade",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Home First Finance Company India standalone net profit rises 34.45% in the June 2026 quarter - Business Standard",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2FyeXEzVm5OaHdtN1hCTkRzUFhnNUo0MnEtWE1FaTJaU0JyRFNEa0RpRk9CNkhlSTg0RFo1aEM4YjlkYmxsRUJGVEdnQmgxNExmanZnVlhRTEhKd2p3S3QyeW4xX2tEYW1rcm9ENVItdnVzeEpZYVhhU1lwOTFSZzVkOVd1SWdCdXY0WTlqWkR6VmNLY0wxMi1uTnktUmswNHhtWkRUNEdaQzUwTHZKekRQWF9BUHRnOURrLVNhaWZxUHJPUEZKUE02Qy1idw?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOd2VWQXVseXN3cVVZT2tGYXo0RWFFQWpuaVh1b1dUb0d1dDdDcEpmZWtJTEZDUmItMV91cU5uamczS3lzSDY0eXVrUE5uM1c0S1k3RHNDM1k1TzJXd0pMa3RxS1laQ3hhZmhNZlNYOUNoRHlnUEFkU2MxbmtuNnBHQ1NvNGM2eldVREVCUFZGdVBzOUZvWWRuc3NKRjNLdm1zUW1EYl9MZDVNQUZYajB2N3dEU3gwMzFWRzJ0OUlWc1h3TDRxNm5fVkhiVEt0a0hYNHRoTHVEWnVJSS1Wb1RKUkNDUDR3WnFQU3dzdXRCbXQ0ZVBMZlg1R0ppQVIxOHZ4WHBR0gGIAkFVX3lxTE92RFhWbGpyTEs0QlAtcHZfVkFDSXcwdTRTc194UFlSZkxQLVlLeHJsNU1rc2t3LXlpbnhzbWhPaDJKTGlyNmFRbmJXUlRiWUctVllxbUNLUGUyNlJzb1NNNEFBSUw4aS1ud0NtM0JPVzBicUl1WVN6cFVnS2xZV1hubjdYSWc0aXBPdW9pcVZFaEx3Z1lMeUtUUk1OVHNRSUFldnN1alNaeFBqX3dqV0R5bTRjem40QmZuMUNYOU9zSnFHdnUxWUpNU2VYRDEtb09QZU80a3QtR3llaE5TSjhVWWlBbEk1OTN2azRtU3JFNU5JbFp1aGdGbzhhcEI2LTUwZFJnR1d2Wg?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "UFO Moviez India Limited",
-      "symbol": "UFO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -201,56 +85,21 @@
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 68.45,
+      "technicalConfidence": 100,
+      "lastClose": 34.18,
       "catalysts": [
         {
-          "label": "Investor Presentation",
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "RPG Life Sciences Limited",
-      "symbol": "RPGLIFE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 2928.1,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         }
@@ -286,76 +135,6 @@
         },
         {
           "label": "Disruption of Operations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Deep Industries Limited",
-      "symbol": "DEEPINDS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 516.45,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Manba Finance Limited",
-      "symbol": "MANBA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -400,6 +179,98 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Varun Beverages Limited",
+      "symbol": "VBL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 89,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Varun Beverages Q2 Review: Brokerages Back Growth Story Despite Margin Miss \u2014 Check Target Price",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Varun Beverages Q2 Results: Stock falls 7% after India volume growth misses estimates - CNBC TV18",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/varun-beverages-q2-review-brokerages-back-growth-story-despite-margin-miss-check-target-price-11835817#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeWdQRkNiLXJFNHVlRzZJekFSNWc0cjc1UlVnajFPQjN2ZG5hSlAtRHBKbWVha2k0RFEzSnBnZXFmSlZuS1ZMdUhwVnBKNjIxTEZEcmpRVVZmdnRvajJZS2VFSUNyOW5MekJNTnFjQjdGUUZ0dFVLaldIWnZnaEZBRm5SMjBLblk0UHgwYjZvUzc5cTdxdlJGNHU3VVp0S2k0NnctdVZHc0R5YUVWcE9GUW1BQ3dfdUdYenZRZm5vYzU1QdIBxwFBVV95cUxQVmZIcUdIM1NNa2ZieklEYmQwMTBQV0Y1X0ptaDNfMmJ5U3dDU2hoWVV6a2llWjBXb2JBTUM2cUE2Y29TQ1VONGRkb3hSV2oxM25mbVU5YnJCQlR4X0pJR0NlOTlqaEloU2k2YXlOZ0luMURuVFRoTlgxQ3VDZ1VSaEJfdy11WjZvcnI1NDZCeXk3YnR2LUt1WEZUQ0g4ZTJlOXlsdGMzb0x4d3pqd0cxVi10R1U0dHFaNHJ1dmoyMVI1cHUxMWxZ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Home First Finance Company India Limited",
+      "symbol": "HOMEFIRST",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.8,
+      "confidence": 89,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Home First Finance Company India Ltd Q1 Results: Earnings call audio uploaded - scanx.trade",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Home First Finance Company India standalone net profit rises 34.45% in the June 2026 quarter - Business Standard",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2FyeXEzVm5OaHdtN1hCTkRzUFhnNUo0MnEtWE1FaTJaU0JyRFNEa0RpRk9CNkhlSTg0RFo1aEM4YjlkYmxsRUJGVEdnQmgxNExmanZnVlhRTEhKd2p3S3QyeW4xX2tEYW1rcm9ENVItdnVzeEpZYVhhU1lwOTFSZzVkOVd1SWdCdXY0WTlqWkR6VmNLY0wxMi1uTnktUmswNHhtWkRUNEdaQzUwTHZKekRQWF9BUHRnOURrLVNhaWZxUHJPUEZKUE02Qy1idw?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOd2VWQXVseXN3cVVZT2tGYXo0RWFFQWpuaVh1b1dUb0d1dDdDcEpmZWtJTEZDUmItMV91cU5uamczS3lzSDY0eXVrUE5uM1c0S1k3RHNDM1k1TzJXd0pMa3RxS1laQ3hhZmhNZlNYOUNoRHlnUEFkU2MxbmtuNnBHQ1NvNGM2eldVREVCUFZGdVBzOUZvWWRuc3NKRjNLdm1zUW1EYl9MZDVNQUZYajB2N3dEU3gwMzFWRzJ0OUlWc1h3TDRxNm5fVkhiVEt0a0hYNHRoTHVEWnVJSS1Wb1RKUkNDUDR3WnFQU3dzdXRCbXQ0ZVBMZlg1R0ppQVIxOHZ4WHBR0gGIAkFVX3lxTE92RFhWbGpyTEs0QlAtcHZfVkFDSXcwdTRTc194UFlSZkxQLVlLeHJsNU1rc2t3LXlpbnhzbWhPaDJKTGlyNmFRbmJXUlRiWUctVllxbUNLUGUyNlJzb1NNNEFBSUw4aS1ud0NtM0JPVzBicUl1WVN6cFVnS2xZV1hubjdYSWc0aXBPdW9pcVZFaEx3Z1lMeUtUUk1OVHNRSUFldnN1alNaeFBqX3dqV0R5bTRjem40QmZuMUNYOU9zSnFHdnUxWUpNU2VYRDEtb09QZU80a3QtR3llaE5TSjhVWWlBbEk1OTN2azRtU3JFNU5JbFp1aGdGbzhhcEI2LTUwZFJnR1d2Wg?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Rajputana Biodiesel Limited",
       "symbol": "RAJPUTANA",
       "exchange": "NSE",
@@ -433,36 +304,34 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
+    },
     {
-      "company": "Sundaram Clayton Limited",
-      "symbol": "SUNCLAY",
+      "company": "Manba Finance Limited",
+      "symbol": "MANBA",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
-      "horizon": "tomorrow",
+      "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
+      "predictionScore": 2.2,
+      "confidence": 86,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1399.8,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Shareholders meeting",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -472,19 +341,95 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Eicher Motors Limited",
-      "symbol": "EICHERMOT",
+      "company": "Share India Securities Limited",
+      "symbol": "SHAREINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
-      "horizon": "tomorrow",
+      "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
+      "predictionScore": 2.2,
+      "confidence": 86,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 7769.5,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Netweb Technologies India Limited",
+      "symbol": "NETWEB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.6,
+      "confidence": 81,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Netweb Technologies India standalone net profit rises 179.92% in the June 2026 quarter - Business Standard",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQandZQUJ3dUNoVlk4Y2VKak9mbFUtamlPYnRKUFQ2Ym0yVXVuWlFYQW5JSmhCb0hOSnQtS0dMODRhUGNTV1gtUHAyd0RFTEZHbVBJNG1OUnN1UldMTHg5REVIaVFXWDNTazZhNnFVSUZQOWJkZUhmR0pfZEx4amRpSUQ3VlBnanQ2OUcyc0E2b3lDZzI5cmM3NTJ4SWx2Y0phWG81dEFEUklmSmZpSWF2dklsd25tMzNRNExIbUZ1OHhmUXFWZWlGRHRVVE1TLVNMTEFqbi1qYzZhSXJabndsS3R4ZG5VcU41RVNHYWpwWkMyQjA1WkdhbzN1SdIBgAJBVV95cUxNdUtaeFhuZXVtMGhFdktCdUNEVWxPTzVNZ3lxMzY4VjFmM1ZJSnVjU1N5Y1BpTmNzU25jUWdwZGRhRnhkbkN6YkFKVnAwWWRnSUxjM2xrOTh5V01yZHNnWnZaem90QmZpSDJZdmNoY1M5dmJQZmhCa1F3NkVIUHZjZE91UXQyVkxJRmx3NGN5MFdvUE84ZHkxUjhMTWszZ2JLNnhVcVZRbXl3c3Q1bHdfZmJfNy14ZVNoSFo0UUExek1Qb1BZUGtCaW43cWpVdk5BbG9XaXRXM2lfUE1NenE5RGdaSXY2VUxkLUctS0gtY0UwSFNPbUVPZmZUWVRNekhS?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Railtel Corporation Of India Limited",
+      "symbol": "RAILTEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 77,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -492,12 +437,12 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -505,104 +450,36 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "Century Enka Limited",
-      "symbol": "CENTENKA",
+      "company": "Larsen & Toubro Limited",
+      "symbol": "LT",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 577.8,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "RPG Life Sciences Limited",
-      "symbol": "RPGLIFE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 2928.1,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "PTC India Financial Services Limited",
-      "symbol": "PFS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 29.24,
-      "catalysts": [
         {
           "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
+          "label": "Amalgamation/Merger",
           "type": "announcement",
           "verified": true
         }
@@ -612,80 +489,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Deep Industries Limited",
-      "symbol": "DEEPINDS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 516.45,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Radico Khaitan Limited",
-      "symbol": "RADICO",
+      "company": "Vedanta Oil and Gas Limited",
+      "symbol": "VOGL",
       "exchange": "NSE",
       "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 4149.5,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "UFO Moviez India Limited",
-      "symbol": "UFO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -693,21 +500,21 @@
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 68.45,
+      "technicalConfidence": 100,
+      "lastClose": 34.18,
       "catalysts": [
         {
-          "label": "Investor Presentation",
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         }
@@ -752,6 +559,122 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Gandhar Oil Refinery (India) Limited",
+      "symbol": "GANDHAR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 16,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Disruption of Operations",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "SRF Limited",
+      "symbol": "SRF",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Varun Beverages Limited",
+      "symbol": "VBL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 89,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Varun Beverages Q2 Review: Brokerages Back Growth Story Despite Margin Miss \u2014 Check Target Price",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Varun Beverages Q2 Results: Stock falls 7% after India volume growth misses estimates - CNBC TV18",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/varun-beverages-q2-review-brokerages-back-growth-story-despite-margin-miss-check-target-price-11835817#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeWdQRkNiLXJFNHVlRzZJekFSNWc0cjc1UlVnajFPQjN2ZG5hSlAtRHBKbWVha2k0RFEzSnBnZXFmSlZuS1ZMdUhwVnBKNjIxTEZEcmpRVVZmdnRvajJZS2VFSUNyOW5MekJNTnFjQjdGUUZ0dFVLaldIWnZnaEZBRm5SMjBLblk0UHgwYjZvUzc5cTdxdlJGNHU3VVp0S2k0NnctdVZHc0R5YUVWcE9GUW1BQ3dfdUdYenZRZm5vYzU1QdIBxwFBVV95cUxQVmZIcUdIM1NNa2ZieklEYmQwMTBQV0Y1X0ptaDNfMmJ5U3dDU2hoWVV6a2llWjBXb2JBTUM2cUE2Y29TQ1VONGRkb3hSV2oxM25mbVU5YnJCQlR4X0pJR0NlOTlqaEloU2k2YXlOZ0luMURuVFRoTlgxQ3VDZ1VSaEJfdy11WjZvcnI1NDZCeXk3YnR2LUt1WEZUQ0g4ZTJlOXlsdGMzb0x4d3pqd0cxVi10R1U0dHFaNHJ1dmoyMVI1cHUxMWxZ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Home First Finance Company India Limited",
       "symbol": "HOMEFIRST",
       "exchange": "NSE",
@@ -760,7 +683,7 @@
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 2.8,
-      "confidence": 90,
+      "confidence": 89,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
@@ -798,32 +721,67 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Gandhar Oil Refinery (India) Limited",
-      "symbol": "GANDHAR",
+      "company": "Rajputana Biodiesel Limited",
+      "symbol": "RAJPUTANA",
       "exchange": "NSE",
-      "confirmedNewsCount": 16,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
+      "predictionScore": 7.5,
+      "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Disruption of Operations",
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Eicher Motors Limited",
+      "symbol": "EICHERMOT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 87,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 7836.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -836,12 +794,12 @@
       "company": "Manba Finance Limited",
       "symbol": "MANBA",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 2.2,
-      "confidence": 90,
+      "confidence": 86,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
@@ -859,6 +817,76 @@
         },
         {
           "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Share India Securities Limited",
+      "symbol": "SHAREINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 86,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Quess Corp Limited",
+      "symbol": "QUESS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 85,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 303.25,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
