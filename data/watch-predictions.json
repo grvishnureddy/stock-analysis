@@ -1,8 +1,95 @@
 {
-  "generatedAt": "2026-07-29T06:47:05+00:00",
+  "generatedAt": "2026-07-29T10:50:13+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "Asian Paints Limited",
+      "symbol": "ASIANPAINT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 7.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 2758.4,
+      "catalysts": [
+        {
+          "label": "Asian Paints Shares Jump 3% After Q1 Net Profit Surges 40%, Revenue Up 18% YoY",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Asian Paints Q1 Results: Profit, Revenue Beat Estimates \u2014 Check Key Numbers",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/asian-paints-shares-jump-3-after-q1-net-profit-rises-40-revenue-surges-18-11837421#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/asian-paint-q1-results-profit-revenue-beat-estimates-check-key-numbers-11837302#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "PCBL Chemical Limited",
+      "symbol": "PCBL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 7.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 365.7,
+      "catalysts": [
+        {
+          "label": "PCBL Chemical Q1 Results: Net Profit Jumps 65% YoY; Declares Interim Dividend \u2014 Check Record Date",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/pcbl-chemical-q1-results-net-profit-jumps-65-percent-yoy-declares-interim-dividend-check-record-date-11837524#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
     {
       "company": "Larsen & Toubro Limited",
       "symbol": "LT",
@@ -36,6 +123,93 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tips Music Limited",
+      "symbol": "TIPSMUSIC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 5.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Small-Cap Stock Under Rs 1,000: Tips Music Board To Consider Buyback On August 5",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Buyback",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/small-cap-stock-under-rs-1-000-tips-music-board-to-consider-buyback-on-august-5-11837067#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "KPIT Technologies Limited",
+      "symbol": "KPITTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 0,
+      "lastClose": 638.75,
+      "catalysts": [
+        {
+          "label": "KPIT Technologies Shares Rally 10% Even As Q1 Revenue Drop, Net Profit Falls 28%",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "KPIT Technologies Q1 Results: Net Profit Drops 28% QoQ; EBITDA Margin Contracts",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/kpit-technologies-shares-jump-10-percent-after-profit-falls-28-percent-to-rs-117-crore-11837249#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/kpit-technologies-q1-results-net-profit-drops-28-qoq-ebitda-margin-contracts-11837170#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -74,32 +248,73 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Vedanta Oil and Gas Limited",
-      "symbol": "VOGL",
+      "company": "Northern Arc Capital Limited",
+      "symbol": "NORTHARC",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 33.92,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Fintech-Powered Lending Lifts Northern Arc Capital to Record Q1 Profit as Digital Credit Demand Surges",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/economy/fintech-powered-lending-lifts-northern-arc-capital-to-record-q1-profit-as-digital-credit-demand-surges-11837365#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Craftsman Automation Limited",
+      "symbol": "CRAFTSMAN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 9913.0,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -179,206 +394,20 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Rajputana Biodiesel Limited",
-      "symbol": "RAJPUTANA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 7.5,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Netweb Technologies India Limited",
-      "symbol": "NETWEB",
+      "company": "Vedanta Oil and Gas Limited",
+      "symbol": "VOGL",
       "exchange": "NSE",
       "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.6,
-      "confidence": 88,
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 80,
+      "lastClose": 35.07,
       "catalysts": [
-        {
-          "label": "Netweb Technologies India standalone net profit rises 179.92% in the June 2026 quarter - Business Standard",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQandZQUJ3dUNoVlk4Y2VKak9mbFUtamlPYnRKUFQ2Ym0yVXVuWlFYQW5JSmhCb0hOSnQtS0dMODRhUGNTV1gtUHAyd0RFTEZHbVBJNG1OUnN1UldMTHg5REVIaVFXWDNTazZhNnFVSUZQOWJkZUhmR0pfZEx4amRpSUQ3VlBnanQ2OUcyc0E2b3lDZzI5cmM3NTJ4SWx2Y0phWG81dEFEUklmSmZpSWF2dklsd25tMzNRNExIbUZ1OHhmUXFWZWlGRHRVVE1TLVNMTEFqbi1qYzZhSXJabndsS3R4ZG5VcU41RVNHYWpwWkMyQjA1WkdhbzN1SdIBgAJBVV95cUxNdUtaeFhuZXVtMGhFdktCdUNEVWxPTzVNZ3lxMzY4VjFmM1ZJSnVjU1N5Y1BpTmNzU25jUWdwZGRhRnhkbkN6YkFKVnAwWWRnSUxjM2xrOTh5V01yZHNnWnZaem90QmZpSDJZdmNoY1M5dmJQZmhCa1F3NkVIUHZjZE91UXQyVkxJRmx3NGN5MFdvUE84ZHkxUjhMTWszZ2JLNnhVcVZRbXl3c3Q1bHdfZmJfNy14ZVNoSFo0UUExek1Qb1BZUGtCaW43cWpVdk5BbG9XaXRXM2lfUE1NenE5RGdaSXY2VUxkLUctS0gtY0UwSFNPbUVPZmZUWVRNekhS?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Tips Music Limited",
-      "symbol": "TIPSMUSIC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 86,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Buyback",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Manba Finance Limited",
-      "symbol": "MANBA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 86,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Share India Securities Limited",
-      "symbol": "SHAREINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 86,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Cartrade Tech Limited",
-      "symbol": "CARTRADE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 2850.0,
-      "catalysts": [
-        {
-          "label": "Change in Auditors",
-          "type": "announcement",
-          "verified": true
-        },
         {
           "label": "Investor Presentation",
           "type": "announcement",
@@ -388,6 +417,11 @@
           "label": "Press Release",
           "type": "announcement",
           "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
         }
       ],
       "risks": [],
@@ -395,23 +429,23 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Railtel Corporation Of India Limited",
-      "symbol": "RAILTEL",
+      "company": "MAS Financial Services Limited",
+      "symbol": "MASFIN",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 77,
+      "predictionScore": 2.2,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 325.3,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Press Release",
+          "type": "announcement",
           "verified": true
         },
         {
@@ -420,7 +454,7 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Record Date",
           "type": "announcement",
           "verified": true
         }
@@ -432,6 +466,93 @@
   ],
   "tomorrow": [
     {
+      "company": "Asian Paints Limited",
+      "symbol": "ASIANPAINT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 9.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 2758.4,
+      "catalysts": [
+        {
+          "label": "Asian Paints Shares Jump 3% After Q1 Net Profit Surges 40%, Revenue Up 18% YoY",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Asian Paints Q1 Results: Profit, Revenue Beat Estimates \u2014 Check Key Numbers",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/asian-paints-shares-jump-3-after-q1-net-profit-rises-40-revenue-surges-18-11837421#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/asian-paint-q1-results-profit-revenue-beat-estimates-check-key-numbers-11837302#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "PCBL Chemical Limited",
+      "symbol": "PCBL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 9.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 365.7,
+      "catalysts": [
+        {
+          "label": "PCBL Chemical Q1 Results: Net Profit Jumps 65% YoY; Declares Interim Dividend \u2014 Check Record Date",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/pcbl-chemical-q1-results-net-profit-jumps-65-percent-yoy-declares-interim-dividend-check-record-date-11837524#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Larsen & Toubro Limited",
       "symbol": "LT",
       "exchange": "NSE",
@@ -467,10 +588,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Asian Paints Limited",
-      "symbol": "ASIANPAINT",
+      "company": "Colgate Palmolive (India) Limited",
+      "symbol": "COLPAL",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -479,306 +600,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2756.0,
+      "lastClose": 2166.4,
       "catalysts": [
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Cartrade Tech Limited",
-      "symbol": "CARTRADE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 2850.0,
-      "catalysts": [
-        {
-          "label": "Change in Auditors",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
         {
           "label": "Press Release",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Vedanta Oil and Gas Limited",
-      "symbol": "VOGL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 33.92,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
         },
         {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "3i Infotech Limited",
-      "symbol": "3IINFOLTD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 14,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Gandhar Oil Refinery (India) Limited",
-      "symbol": "GANDHAR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 16,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disruption of Operations",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "SRF Limited",
-      "symbol": "SRF",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Rajputana Biodiesel Limited",
-      "symbol": "RAJPUTANA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 7.5,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Netweb Technologies India Limited",
-      "symbol": "NETWEB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.6,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Netweb Technologies India standalone net profit rises 179.92% in the June 2026 quarter - Business Standard",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQandZQUJ3dUNoVlk4Y2VKak9mbFUtamlPYnRKUFQ2Ym0yVXVuWlFYQW5JSmhCb0hOSnQtS0dMODRhUGNTV1gtUHAyd0RFTEZHbVBJNG1OUnN1UldMTHg5REVIaVFXWDNTazZhNnFVSUZQOWJkZUhmR0pfZEx4amRpSUQ3VlBnanQ2OUcyc0E2b3lDZzI5cmM3NTJ4SWx2Y0phWG81dEFEUklmSmZpSWF2dklsd25tMzNRNExIbUZ1OHhmUXFWZWlGRHRVVE1TLVNMTEFqbi1qYzZhSXJabndsS3R4ZG5VcU41RVNHYWpwWkMyQjA1WkdhbzN1SdIBgAJBVV95cUxNdUtaeFhuZXVtMGhFdktCdUNEVWxPTzVNZ3lxMzY4VjFmM1ZJSnVjU1N5Y1BpTmNzU25jUWdwZGRhRnhkbkN6YkFKVnAwWWRnSUxjM2xrOTh5V01yZHNnWnZaem90QmZpSDJZdmNoY1M5dmJQZmhCa1F3NkVIUHZjZE91UXQyVkxJRmx3NGN5MFdvUE84ZHkxUjhMTWszZ2JLNnhVcVZRbXl3c3Q1bHdfZmJfNy14ZVNoSFo0UUExek1Qb1BZUGtCaW43cWpVdk5BbG9XaXRXM2lfUE1NenE5RGdaSXY2VUxkLUctS0gtY0UwSFNPbUVPZmZUWVRNekhS?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Eicher Motors Limited",
-      "symbol": "EICHERMOT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 7812.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -791,17 +626,22 @@
       "company": "Tips Music Limited",
       "symbol": "TIPSMUSIC",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 86,
+      "predictionScore": 5.2,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
+        {
+          "label": "Small-Cap Stock Under Rs 1,000: Tips Music Board To Consider Buyback On August 5",
+          "type": "corporate action",
+          "verified": true
+        },
         {
           "label": "Buyback",
           "type": "upcoming event",
@@ -811,9 +651,91 @@
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/small-cap-stock-under-rs-1-000-tips-music-board-to-consider-buyback-on-august-5-11837067#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "KPIT Technologies Limited",
+      "symbol": "KPITTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 0,
+      "lastClose": 638.75,
+      "catalysts": [
+        {
+          "label": "KPIT Technologies Shares Rally 10% Even As Q1 Revenue Drop, Net Profit Falls 28%",
+          "type": "results",
+          "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "KPIT Technologies Q1 Results: Net Profit Drops 28% QoQ; EBITDA Margin Contracts",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/kpit-technologies-shares-jump-10-percent-after-profit-falls-28-percent-to-rs-117-crore-11837249#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/kpit-technologies-q1-results-net-profit-drops-28-qoq-ebitda-margin-contracts-11837170#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Craftsman Automation Limited",
+      "symbol": "CRAFTSMAN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 9913.0,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -823,27 +745,167 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Manba Finance Limited",
-      "symbol": "MANBA",
+      "company": "PNGS Reva Diamond Jewellery Limited",
+      "symbol": "PNGSREVA",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 86,
+      "predictionScore": 4.5,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 447.5,
       "catalysts": [
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Teamlease Services Limited",
+      "symbol": "TEAMLEASE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1299.2,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Sharda Cropchem Limited",
+      "symbol": "SHARDACROP",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 824.7,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "MAS Financial Services Limited",
+      "symbol": "MASFIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 325.3,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Devyani International Limited",
+      "symbol": "DEVYANI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 118.36,
+      "catalysts": [
+        {
+          "label": "Options to purchase securities",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
