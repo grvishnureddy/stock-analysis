@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T14:34:22+00:00",
+  "generatedAt": "2026-07-30T17:51:59+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -37,6 +37,47 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 7.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1053.5,
+      "catalysts": [
+        {
+          "label": "Q1 Results Update: NSE Profit Up 9%, Tata Steel Revenue Dips, NSDL Margins Contract",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-bajaj-finance-vedanta-tata-steel-swiggy-mahindra-mahindra-among-firms-to-announce-earnings-today-july-30-11841612#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Ajanta Pharma Limited",
@@ -112,7 +153,7 @@
       "company": "ICRA Limited",
       "symbol": "ICRA",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -124,6 +165,11 @@
       "lastClose": 4923.0,
       "catalysts": [
         {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
@@ -132,9 +178,74 @@
           "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Siyaram Silk Mills Limited",
+      "symbol": "SIYSIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 602.3,
+      "catalysts": [
+        {
+          "label": "Amendment to AOA/MOA",
+          "type": "announcement",
+          "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mankind Pharma Limited",
+      "symbol": "MANKIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 2575.9,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -171,41 +282,6 @@
         {
           "label": "Financial Results",
           "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mankind Pharma Limited",
-      "symbol": "MANKIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2575.9,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
           "verified": true
         }
       ],
@@ -352,30 +428,32 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "Mahindra & Mahindra Limited",
-      "symbol": "M&M",
+      "company": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
-      "horizon": "today",
+      "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
+      "predictionScore": 8.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 3283.7,
+      "lastClose": 1053.5,
       "catalysts": [
         {
-          "label": "Market wrap: M&M, Coal India, Adani Ports among top gainers and losers on Nifty and Sensex on Thursday - The Economic Times",
-          "type": "company news",
+          "label": "Q1 Results Update: NSE Profit Up 9%, Tata Steel Revenue Dips, NSDL Margins Contract",
+          "type": "contract",
           "verified": true
         },
         {
-          "label": "'Uncertainty Is The Norm': Anand Mahindra Puts M&M In 'Attack Mode' After Record Q1",
-          "type": "company news",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
@@ -387,55 +465,13 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMFpjSjlPdmY5ZENVaE1SWC1mdEZyN0dWWnBXSFAwdFFkQ1NSZ0d1bGxJdllIdnRKd3ZpSmdpV2FDU1Nfem1KM0ZBTmpNTVoyU01MSWp4UUhNc1o3V1ZuazJ2OXVCS3haVjhuc0NOX25yMGI0VTV5UENvZ1lDRHFwV08zcVEtNmpYb1NST0NMX2p4akRqbFlNODRQeVVaWEFSTnhjTjRjZDNxclA2bTIzQUtYai00XzRYSkRlSE5HQU01b2VnUW5PZDAzQjJwYXFKVmhGaTNnNURja3F6d0kxLVBOdkk5VExPdk1UeFZIWC1LSDZxb1JlNUxzdVBzMjZBNGfSAYcCQVVfeXFMUE1SMXBwQmtmYWtQNkNPaGM5b0htN2hpQ1BWQnREcFh5SVdzdmR4eEFfQlpNcHBWOHViYjZjZTI4cVV5YWJXelFweVJ0OHo0aEtqeW9aVXc5azdMSG85SFczQUk5VmxVVjd1MzRIdk42QUhBdS1SdTJhMml3QWdqTWNRSDdtdWhSVUdSOElqTUNWanFEeHBheHRrS3c1ZnlrbDFVaEo4M3NpejFUWDd2R3BBbHQ3UlVjZFE5NWtGU09MVTR4bF9Kb1dyMHVMZmJSWXBxelFnRHlLVWk0TzByaUxOb2hwQy1WczZLQ0NTZnMzYUc1eVIxaHFuamlaWjFyRUZJY2s5QWM?oc=5",
-          "verified": true
-        },
-        {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/uncertainty-is-the-norm-anand-mahindra-puts-m-m-in-attack-mode-after-record-q1-11843444#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-bajaj-finance-vedanta-tata-steel-swiggy-mahindra-mahindra-among-firms-to-announce-earnings-today-july-30-11841612#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
-    {
-      "company": "Swiggy Limited",
-      "symbol": "SWIGGY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 295.91,
-      "catalysts": [
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
     {
       "company": "Larsen & Toubro Limited",
       "symbol": "LT",
@@ -507,6 +543,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Mankind Pharma Limited",
+      "symbol": "MANKIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 2575.9,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Oriental Aromatics Limited",
       "symbol": "OAL",
       "exchange": "NSE",
@@ -534,41 +605,6 @@
         {
           "label": "Financial Results",
           "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mankind Pharma Limited",
-      "symbol": "MANKIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2575.9,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
           "verified": true
         }
       ],
@@ -752,62 +788,27 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "ICRA Limited",
-      "symbol": "ICRA",
+      "company": "Paushak Limited",
+      "symbol": "PAUSHAKLTD",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 4923.0,
+      "lastClose": 605.0,
       "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
         {
           "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Burnpur Cement Limited",
-      "symbol": "BURNPUR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 33.0,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         },
@@ -822,32 +823,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Rainbow Childrens Medicare Limited",
-      "symbol": "RAINBOW",
+      "company": "ICRA Limited",
+      "symbol": "ICRA",
       "exchange": "NSE",
-      "confirmedNewsCount": 18,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1520.6,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 4923.0,
       "catalysts": [
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
