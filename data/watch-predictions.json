@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T11:46:51+00:00",
+  "generatedAt": "2026-08-03T15:19:13+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,7 +7,7 @@
       "company": "Larsen & Toubro Limited",
       "symbol": "LT",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
+      "confirmedNewsCount": 15,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -19,6 +19,11 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Press Release",
           "type": "announcement",
           "verified": true
@@ -27,57 +32,11 @@
           "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Computer Age Management Services Limited",
-      "symbol": "CAMS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 5.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 791.0,
-      "catalysts": [
-        {
-          "label": "Q1 Results Live Updates: Restaurant Brands Loss Narrows; Escorts Kubota Profit Slumps 72%",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-ireda-torrent-power-dlf-upl-ather-energy-cams-among-80-firms-to-announce-earnings-today-august-3-11858025#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Bharti Airtel Limited",
@@ -115,10 +74,45 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Computer Age Management Services Limited",
+      "symbol": "CAMS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 791.0,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Jindal Stainless Limited",
       "symbol": "JSL",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -135,12 +129,12 @@
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -154,6 +148,41 @@
         }
       ],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Gulf Oil Lubricants India Limited",
+      "symbol": "GULFOILLUB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1115.1,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Railtel Corporation Of India Limited",
@@ -191,22 +220,22 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Park Medi World Limited",
-      "symbol": "PARKHOSPS",
+      "company": "Thomas Cook  (India)  Limited",
+      "symbol": "THOMASCOOK",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.8,
+      "predictionScore": 3.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 288.6,
+      "technicalConfidence": 67,
+      "lastClose": 107.15,
       "catalysts": [
         {
-          "label": "Investor Presentation",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
@@ -223,13 +252,83 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "symbol": "UNIMECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1259.8,
+      "catalysts": [
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Artemis Medicare Services Limited",
+      "symbol": "ARTEMISMED",
+      "exchange": "NSE",
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 302.2,
+      "catalysts": [
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "GlaxoSmithKline Pharmaceuticals Limited",
       "symbol": "GLAXO",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -241,93 +340,17 @@
       "lastClose": 2662.3,
       "catalysts": [
         {
-          "label": "Change in Management",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Cessation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ather Energy Limited",
-      "symbol": "ATHERENERG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1272.7,
-      "catalysts": [
-        {
-          "label": "Ather Energy Q1 Results: Net Loss Narrows As Revenue Soars 89%",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/ather-energy-q1-results-net-loss-narrows-as-revenue-soars-89-11859090#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Expleo Solutions Limited",
-      "symbol": "EXPLEOSOL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
         {
           "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Resignation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         }
@@ -337,22 +360,22 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "UPL Limited",
-      "symbol": "UPL",
+      "company": "Park Medi World Limited",
+      "symbol": "PARKHOSPS",
       "exchange": "NSE",
       "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
+      "predictionScore": 2.8,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 620.0,
+      "technicalConfidence": 100,
+      "lastClose": 288.6,
       "catalysts": [
         {
-          "label": "Updates",
+          "label": "Monitoring Agency Report",
           "type": "announcement",
           "verified": true
         },
@@ -375,17 +398,22 @@
       "company": "Ethos Limited",
       "symbol": "ETHOSLTD",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 2.8,
-      "confidence": 89,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
       "lastClose": 2962.7,
       "catalysts": [
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
@@ -393,46 +421,6 @@
         },
         {
           "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Artemis Medicare Services Limited",
-      "symbol": "ARTEMISMED",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 302.2,
-      "catalysts": [
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
           "type": "announcement",
           "verified": true
         }
@@ -443,47 +431,6 @@
     }
   ],
   "tomorrow": [
-    {
-      "company": "Computer Age Management Services Limited",
-      "symbol": "CAMS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 7.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 791.0,
-      "catalysts": [
-        {
-          "label": "Q1 Results Live Updates: Restaurant Brands Loss Narrows; Escorts Kubota Profit Slumps 72%",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-ireda-torrent-power-dlf-upl-ather-energy-cams-among-80-firms-to-announce-earnings-today-august-3-11858025#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
     {
       "company": "Bharti Airtel Limited",
       "symbol": "BHARTIARTL",
@@ -520,10 +467,80 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Computer Age Management Services Limited",
+      "symbol": "CAMS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 791.0,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Samhi Hotels Limited",
+      "symbol": "SAMHI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 181.68,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Larsen & Toubro Limited",
       "symbol": "LT",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
+      "confirmedNewsCount": 15,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -535,17 +552,17 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -558,7 +575,7 @@
       "company": "Jindal Stainless Limited",
       "symbol": "JSL",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -575,12 +592,12 @@
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -594,6 +611,76 @@
         }
       ],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Gulf Oil Lubricants India Limited",
+      "symbol": "GULFOILLUB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1115.1,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Sanathan Textiles Limited",
+      "symbol": "SANATHAN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 484.8,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Bhagiradha Chemicals & Industries Limited",
@@ -666,27 +753,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Park Medi World Limited",
-      "symbol": "PARKHOSPS",
+      "company": "GPT Healthcare Limited",
+      "symbol": "GPTHEALTH",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.5,
+      "predictionScore": 5.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 288.6,
+      "lastClose": 163.94,
       "catalysts": [
         {
-          "label": "Investor Presentation",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
@@ -701,80 +788,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "GlaxoSmithKline Pharmaceuticals Limited",
-      "symbol": "GLAXO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 2662.3,
-      "catalysts": [
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Cessation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ethos Limited",
-      "symbol": "ETHOSLTD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 2962.7,
-      "catalysts": [
-        {
-          "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Artemis Medicare Services Limited",
       "symbol": "ARTEMISMED",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -786,17 +803,17 @@
       "lastClose": 302.2,
       "catalysts": [
         {
-          "label": "Change in Director(s)",
+          "label": "Monitoring Agency Report",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Press Release",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Change in Auditors",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -806,73 +823,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Ather Energy Limited",
-      "symbol": "ATHERENERG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1272.7,
-      "catalysts": [
-        {
-          "label": "Ather Energy Q1 Results: Net Loss Narrows As Revenue Soars 89%",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/ather-energy-q1-results-net-loss-narrows-as-revenue-soars-89-11859090#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "UPL Limited",
-      "symbol": "UPL",
+      "company": "GlaxoSmithKline Pharmaceuticals Limited",
+      "symbol": "GLAXO",
       "exchange": "NSE",
       "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.7,
+      "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 620.0,
+      "technicalConfidence": 83,
+      "lastClose": 2662.3,
       "catalysts": [
         {
-          "label": "Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         }
