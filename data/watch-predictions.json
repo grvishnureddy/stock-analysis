@@ -1,58 +1,87 @@
 {
-  "generatedAt": "2026-08-03T23:28:50+00:00",
+  "generatedAt": "2026-08-04T03:41:12+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "Computer Age Management Services Limited",
-      "symbol": "CAMS",
+      "company": "PTC India Limited",
+      "symbol": "PTC",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.6,
+      "predictionScore": 5.6,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 796.15,
+      "technicalConfidence": 100,
+      "lastClose": 180.11,
       "catalysts": [
         {
-          "label": "Q1 Results Updates: IREDA Profit Rises 37%; Great Eastern Shipping Announces Dividend",
-          "type": "results",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
-          "type": "announcement",
+          "label": "Dividend",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Action(s) initiated or orders passed",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Bharti Airtel Limited",
+      "symbol": "BHARTIARTL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 5.6,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1970.5,
+      "catalysts": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-ireda-torrent-power-dlf-upl-ather-energy-cams-among-80-firms-to-announce-earnings-today-august-3-11858025#publisher=newsstand",
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
           "verified": true
         }
       ],
+      "risks": [],
+      "sources": [],
       "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Larsen & Toubro Limited",
       "symbol": "LT",
       "exchange": "NSE",
-      "confirmedNewsCount": 15,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
+      "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -80,143 +109,54 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharti Airtel Limited",
-      "symbol": "BHARTIARTL",
+      "company": "UPL Limited",
+      "symbol": "UPL",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 16,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.6,
+      "predictionScore": 4.0,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1972.0,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "UPL Delivers Seventh Straight Quarter Of Growth, But Systematix Remains Cautious \u2014 Check Revised Target Price",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
-          "type": "announcement",
+          "label": "Stock Picks Today: Glenmark Pharma, United Spirits, Kansai Nerolac, UPL, Exide And More On Brokerages' Radar",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
+          "label": "Jefferies Cuts UPL Target Price, Retains 'Buy'; Says Valuation Still Offers Upside",
+          "type": "company news",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Samhi Hotels Limited",
-      "symbol": "SAMHI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 179.84,
-      "catalysts": [
+      "sources": [
         {
-          "label": "Press Release",
-          "type": "announcement",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/upl-delivers-seventh-straight-quarter-of-growth-but-systematix-remains-cautious-check-revised-target-price-11862043#publisher=newsstand",
           "verified": true
         },
         {
-          "label": "General Updates",
-          "type": "announcement",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/stock-picks-today-glenmark-pharma-united-spirits-kansai-nerolac-upl-dlf-adani-green-escorts-kubota-exide-torrent-power-and-more-on-brokerages-radar-11861946#publisher=newsstand",
           "verified": true
         },
         {
-          "label": "General Updates",
-          "type": "announcement",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/jefferies-cuts-upl-target-price-retains-buy-says-valuation-still-offers-upside-11862066#publisher=newsstand",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Nazara Technologies Limited",
-      "symbol": "NAZARA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 14,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 339.0,
-      "catalysts": [
-        {
-          "label": "Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Resignation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Gulf Oil Lubricants India Limited",
-      "symbol": "GULFOILLUB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1069.3,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -255,150 +195,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "symbol": "UNIMECH",
+      "company": "UNO Minda Limited",
+      "symbol": "UNOMINDA",
       "exchange": "NSE",
       "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1235.9,
-      "catalysts": [
-        {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Artemis Medicare Services Limited",
-      "symbol": "ARTEMISMED",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 302.2,
-      "catalysts": [
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "GlaxoSmithKline Pharmaceuticals Limited",
-      "symbol": "GLAXO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 2655.4,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Kaya Limited",
-      "symbol": "KAYA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.4,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 275.74,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Company Secretary/Compliance Officer",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Escorts Kubota Limited",
-      "symbol": "ESCORTS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 15,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -407,7 +207,217 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 3086.0,
+      "lastClose": 1210.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Uniparts India Limited",
+      "symbol": "UNIPARTS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.1,
+      "confidence": 81,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 737.45,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Marc Technocrats Limited",
+      "symbol": "MARC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 80,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Awarding of order(s)/contract(s)",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Transrail Lighting Limited",
+      "symbol": "TRANSRAILL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 79,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Safari Industries (India) Limited",
+      "symbol": "SAFARI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1548.1,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Committee Meeting Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Oil & Natural Gas Corporation Limited",
+      "symbol": "ONGC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 75,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 242.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "KDDL Limited",
+      "symbol": "KDDL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 69,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 3463.2,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -415,12 +425,12 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "label": "Cessation",
           "type": "announcement",
           "verified": true
         }
@@ -432,44 +442,38 @@
   ],
   "tomorrow": [
     {
-      "company": "Computer Age Management Services Limited",
-      "symbol": "CAMS",
+      "company": "PTC India Limited",
+      "symbol": "PTC",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 8.1,
+      "predictionScore": 7.6,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 796.15,
+      "technicalConfidence": 100,
+      "lastClose": 180.11,
       "catalysts": [
         {
-          "label": "Q1 Results Updates: IREDA Profit Rises 37%; Great Eastern Shipping Announces Dividend",
-          "type": "results",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
-          "type": "announcement",
+          "label": "Dividend",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Action(s) initiated or orders passed",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-ireda-torrent-power-dlf-upl-ather-energy-cams-among-80-firms-to-announce-earnings-today-august-3-11858025#publisher=newsstand",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -485,7 +489,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1972.0,
+      "lastClose": 1970.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -508,10 +512,10 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Samhi Hotels Limited",
-      "symbol": "SAMHI",
+      "company": "Uniparts India Limited",
+      "symbol": "UNIPARTS",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -520,20 +524,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 179.84,
+      "lastClose": 737.45,
       "catalysts": [
         {
-          "label": "Press Release",
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -546,11 +550,11 @@
       "company": "Larsen & Toubro Limited",
       "symbol": "LT",
       "exchange": "NSE",
-      "confirmedNewsCount": 15,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
+      "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -578,97 +582,78 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Gulf Oil Lubricants India Limited",
-      "symbol": "GULFOILLUB",
+      "company": "UPL Limited",
+      "symbol": "UPL",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 16,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
+      "predictionScore": 4.0,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1069.3,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Press Release",
-          "type": "announcement",
+          "label": "UPL Delivers Seventh Straight Quarter Of Growth, But Systematix Remains Cautious \u2014 Check Revised Target Price",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "General Updates",
-          "type": "announcement",
+          "label": "Stock Picks Today: Glenmark Pharma, United Spirits, Kansai Nerolac, UPL, Exide And More On Brokerages' Radar",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Record Date",
-          "type": "announcement",
+          "label": "Jefferies Cuts UPL Target Price, Retains 'Buy'; Says Valuation Still Offers Upside",
+          "type": "company news",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Sanathan Textiles Limited",
-      "symbol": "SANATHAN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 474.95,
-      "catalysts": [
+      "sources": [
         {
-          "label": "Press Release",
-          "type": "announcement",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/upl-delivers-seventh-straight-quarter-of-growth-but-systematix-remains-cautious-check-revised-target-price-11862043#publisher=newsstand",
           "verified": true
         },
         {
-          "label": "Appointment",
-          "type": "announcement",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/stock-picks-today-glenmark-pharma-united-spirits-kansai-nerolac-upl-dlf-adani-green-escorts-kubota-exide-torrent-power-and-more-on-brokerages-radar-11861946#publisher=newsstand",
           "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/jefferies-cuts-upl-target-price-retains-buy-says-valuation-still-offers-upside-11862066#publisher=newsstand",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Munjal Showa Limited",
-      "symbol": "MUNJALSHOW",
+      "company": "UNO Minda Limited",
+      "symbol": "UNOMINDA",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
+      "predictionScore": 3.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 137.35,
+      "technicalConfidence": 67,
+      "lastClose": 1210.0,
       "catalysts": [
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
         {
           "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Other business matters",
           "type": "upcoming event",
           "verified": true
         },
@@ -683,19 +668,89 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Happy Forgings Limited",
-      "symbol": "HAPPYFORGE",
+      "company": "Railtel Corporation Of India Limited",
+      "symbol": "RAILTEL",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "KDDL Limited",
+      "symbol": "KDDL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 5.3,
-      "confidence": 90,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1652.7,
+      "lastClose": 3463.2,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Cessation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Happy Forgings Limited",
+      "symbol": "HAPPYFORGE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1699.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -718,137 +773,102 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "GPT Healthcare Limited",
-      "symbol": "GPTHEALTH",
+      "company": "Saregama India Limited",
+      "symbol": "SAREGAMA",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 5.3,
-      "confidence": 90,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 170.49,
+      "lastClose": 514.2,
       "catalysts": [
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Nazara Technologies Limited",
-      "symbol": "NAZARA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 14,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 339.0,
-      "catalysts": [
-        {
-          "label": "Fund Raising",
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Resignation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Artemis Medicare Services Limited",
-      "symbol": "ARTEMISMED",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 302.2,
-      "catalysts": [
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "GlaxoSmithKline Pharmaceuticals Limited",
-      "symbol": "GLAXO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 2655.4,
-      "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Resignation of Director/KMP/SMP",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Magadh Sugar & Energy Limited",
+      "symbol": "MAGADSUGAR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 534.95,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Change in Management",
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Metropolis Healthcare Limited",
+      "symbol": "METROPOLIS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 596.45,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
