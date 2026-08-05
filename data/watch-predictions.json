@@ -1,99 +1,83 @@
 {
-  "generatedAt": "2026-08-04T23:20:38+00:00",
+  "generatedAt": "2026-08-05T03:35:41+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
+      "company": "Sumeet Industries Limited",
+      "symbol": "SUMEETINDS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 20.13,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Bharti Airtel Limited",
       "symbol": "BHARTIARTL",
       "exchange": "NSE",
-      "confirmedNewsCount": 16,
+      "confirmedNewsCount": 17,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 11.2,
+      "predictionScore": 3.0,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1970.5,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
-        {
-          "label": "Q1 Results Updates: ONGC Profit More Than Doubles, MCX Margins Contract, NHPC Revenue Rises 19%",
-          "type": "contract",
-          "verified": true
-        },
         {
           "label": "Stocks to watch, August 4: BSE, LIC, Paytm, Dabur India, SBI Funds, Nykaa, IREDA, DLF, ONGC, Bharti Airtel - Upstox",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-bharti-airtel-ongc-nykaa-marico-pidilite-industries-earnings-in-focus-today-august-4-11862380#publisher=newsstand",
-          "verified": true
-        },
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdFZURVFISlhpNHVYTTktT2RONmVaRXJEc01OdVN3RjNKdVFVNGhuUmxyMmdtSkMtczJQMGt5bjduR3hvUVQ4bWk1SzFVSW56YlhBZ1VaYUlHR0pYWER6SjhkS2ZSYXJxeEdqcXRnTzM4cnFNVmlqZGRwb1BwR0hsS3FJZkFPWmhoWWRfU2pESlk4a1o2aFNCT0ZkY0I4RVJtRHp5LVlhdjZRaFhEMDRoNGVRUlJsdE44a1BaeU1LZFB1emo2MWFUZUFnY0M0MkRxQ1B1TGxuSHNmMW1SVEhWU0hBRGt6MFI2bVE?oc=5",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Castrol India Limited",
-      "symbol": "CASTROLIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 7.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 185.84,
-      "catalysts": [
-        {
-          "label": "Buy, Sell Or Hold: Paras Defence, HDFC Bank, Ather Energy, Castrol India, Welspun Corp. And Nalco \u2014 Ask Profit",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Castrol India standalone net profit rises 42.50% in the June 2026 quarter - Business Standard",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-paras-defence-hdfc-bank-ather-energy-castrol-india-welspun-corp-and-nalco-ask-profit-11866066#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ25BT2JFT09yeFlZdGJUZWh2Y0N3RGtKaGJMZ3EtOEhnVm1Ca1RhVUlnanp1V2NvczY4QkhrUWg5dkdCYjBMOUdMc3I0UmJRc00ycW9WZkhqUkV3Z2t2YmJDeTFYVzRCWHRFWWY3M2h3WHAwNEtpVnZEbi1LMTNITFRQWVktNnUxYmI1RXlpRjMyVHFTR2JNRUNPYXB3bEpCeG5VeVdZLVEzODJGTy1DT21EQmZOR2Vyb0NTclpreU5BVDY1SFJNaFQ0RmlMeUtwQ3JIQUFDSGw0MjZIbE05YjhhMS1fajFVT1HSAe8BQVVfeXFMTWNjWHYtNG9GSktYZmR5N2ZJX29nTjRmYkJmYkdYLVlSZWgtTjg3NnZLRTlJbHVvRW5sWmxMUEd3WmRBZC1DeDFfUElKT1BiYk00TnEwNnlWNTZBQmMwa2NUaV9DekRwWENRU3VvcDl2QzhxY3Bnb3RIcTBxRU1fcVE0SDgtODdRVjdOdk9sbUsxXy1CSDQ3c2NlQUFZbzhHbmNqN3NsMnNULWU1ZGNtWTlJTnFWbTVFSVA1NnJrZXVETWVzOTJwaVFGU3k0TzFMUWpEQ3BSQ2V0b2ZDbDdOMDg4TEV1eW5HV0dqRlloUk0?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "PTC India Limited",
@@ -103,12 +87,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.3,
+      "predictionScore": 3.0,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 180.11,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
           "label": "Investor Presentation",
@@ -128,18 +112,18 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Larsen & Toubro Limited",
       "symbol": "LT",
       "exchange": "NSE",
-      "confirmedNewsCount": 16,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 90,
+      "predictionScore": 4.5,
+      "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
@@ -166,137 +150,102 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Vaibhav Global Limited",
-      "symbol": "VAIBHAVGBL",
+      "company": "N R Agarwal Industries Limited",
+      "symbol": "NRAIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 488.15,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "SecUR Credentials Limited",
+      "symbol": "SECURCRED",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1.56,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Aurobindo Pharma Limited",
+      "symbol": "AUROPHARMA",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
+      "predictionScore": 2.1,
+      "confidence": 79,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 265.7,
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 1585.9,
       "catalysts": [
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Uniparts India Limited",
-      "symbol": "UNIPARTS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 737.45,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Styrenix Performance Materials Limited",
-      "symbol": "STYRENIX",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2487.3,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Motherson Sumi Wiring India Limited",
-      "symbol": "MSUMI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 41.48,
-      "catalysts": [
-        {
-          "label": "Motherson Sumi Wiring India standalone net profit rises 1.55% in the June 2026 quarter - Business Standard",
+          "label": "Q1 Results Today: Power Grid, PB Fintech, Biocon, Aurobindo Pharma, Cummins India Among 135+ Companies To Announce Q1 FY27 Earnings On Aug. 5",
           "type": "results",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -304,75 +253,75 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNalRJTTZSdlY5djl3Wlg2V0dQVm9PdjRkSGFBRFNQRFpQRHRubk1LLXd2b0toNU1zSk9VV2NMVkFrQ0hCV3pzdGxfN284RUlQMTc2Z3k3YlptM25la28taFFxeWVXQy1JNkZBc191SVdjNFdJVGVvLWxWWUt3S3gtRGpDQk12eDhwa2hpekN1MUl6MjBURlpEVUowd1BJWEVGcUJKZnJLeWdkMXZKenpIS1lTclh5NDVKWWV5Q0IzUmhwR09YeHVpNTdjTW40MWlrelNYQXM0Vy1MQWQ0ck1nNHV1NEJXOWV2SVQxMzk2TzcwcFRYVjVWUjdWMNIBgAJBVV95cUxQVVZhVGc0STZFU3JJbG9IT0dWSlVqU3lYZmdaMjN1TUJhYjFXNEx0SXlmZWk1cDA0NUpIWHFjSVBEdDNJZm5SdU5YVzVJVG4yc2VRNWt3d0lXOFlULTRvcFNFVEFiQ1BNbEY4Q0x0RmVNbG8tX2NYZk9KWktaeTQyZC1nc0pZUGJZbWxOd3pieWVRbjJqUGQwam05MXhiNUdGdWZCSDdCS3gyMEwyeEpzNTF5MW5lNEMxd2FLY1JWLWYxako2TGJlOVJwakdlUE5EZms0eno2WUxCMlpjUi0xMVRwVGhYaU1XY1RZOFFxRENaS1lrMVgwVlNIM0JDYXJz?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/q1-results-today-power-grid-pb-fintech-biocon-aurobindo-pharma-cummins-india-among-135-companies-to-announce-q1-fy27-earnings-on-aug-5-11864027#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Graphite India Limited",
-      "symbol": "GRAPHITE",
+      "company": "Pearl Global Industries Limited",
+      "symbol": "PGIL",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 90,
+      "predictionScore": 2.2,
+      "confidence": 74,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 657.95,
+      "technicalConfidence": 67,
+      "lastClose": 2122.4,
       "catalysts": [
         {
-          "label": "Shareholders meeting",
-          "type": "announcement",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
-          "type": "announcement",
+          "label": "Bonus",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Stock Split",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tenneco Clean Air India Limited",
+      "symbol": "TENNIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 72,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 544.6,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
           "label": "Updates",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Rashi Peripherals Limited",
-      "symbol": "RPTECH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 883.65,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -382,23 +331,23 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Happy Forgings Limited",
-      "symbol": "HAPPYFORGE",
+      "company": "Oil & Natural Gas Corporation Limited",
+      "symbol": "ONGC",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
+      "predictionScore": 3.0,
+      "confidence": 70,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1699.2,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Updates",
-          "type": "announcement",
+          "label": "Can ONGC Shares Rally 20% More? Macquarie Thinks Yes, Flags Volume Recovery As Key Factor",
+          "type": "corporate action",
           "verified": true
         },
         {
@@ -407,7 +356,48 @@
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/macquarie-stays-bullish-on-ongc-despite-q1-volume-slip-sees-20-upside-check-target-price-rating-11867052#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HFCL Limited",
+      "symbol": "HFCL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Capacity addition",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -417,23 +407,23 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Indian Metals & Ferro Alloys Limited",
-      "symbol": "IMFA",
+      "company": "Allied Digital Services Limited",
+      "symbol": "ADSL",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 69,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1492.0,
+      "lastClose": 116.94,
       "catalysts": [
         {
-          "label": "Shareholders meeting",
-          "type": "announcement",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
@@ -442,7 +432,7 @@
           "verified": true
         },
         {
-          "label": "Appointment",
+          "label": "Retirement",
           "type": "announcement",
           "verified": true
         }
@@ -454,96 +444,150 @@
   ],
   "tomorrow": [
     {
-      "company": "Bharti Airtel Limited",
-      "symbol": "BHARTIARTL",
+      "company": "N R Agarwal Industries Limited",
+      "symbol": "NRAIL",
       "exchange": "NSE",
-      "confirmedNewsCount": 16,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 13.2,
+      "predictionScore": 5.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1970.5,
+      "lastClose": 488.15,
       "catalysts": [
         {
-          "label": "Q1 Results Updates: ONGC Profit More Than Doubles, MCX Margins Contract, NHPC Revenue Rises 19%",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Stocks to watch, August 4: BSE, LIC, Paytm, Dabur India, SBI Funds, Nykaa, IREDA, DLF, ONGC, Bharti Airtel - Upstox",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-bharti-airtel-ongc-nykaa-marico-pidilite-industries-earnings-in-focus-today-august-4-11862380#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdFZURVFISlhpNHVYTTktT2RONmVaRXJEc01OdVN3RjNKdVFVNGhuUmxyMmdtSkMtczJQMGt5bjduR3hvUVQ4bWk1SzFVSW56YlhBZ1VaYUlHR0pYWER6SjhkS2ZSYXJxeEdqcXRnTzM4cnFNVmlqZGRwb1BwR0hsS3FJZkFPWmhoWWRfU2pESlk4a1o2aFNCT0ZkY0I4RVJtRHp5LVlhdjZRaFhEMDRoNGVRUlJsdE44a1BaeU1LZFB1emo2MWFUZUFnY0M0MkRxQ1B1TGxuSHNmMW1SVEhWU0hBRGt6MFI2bVE?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Castrol India Limited",
-      "symbol": "CASTROLIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 9.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 185.84,
-      "catalysts": [
-        {
-          "label": "Buy, Sell Or Hold: Paras Defence, HDFC Bank, Ather Energy, Castrol India, Welspun Corp. And Nalco \u2014 Ask Profit",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Castrol India standalone net profit rises 42.50% in the June 2026 quarter - Business Standard",
-          "type": "results",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
           "label": "Record Date",
           "type": "announcement",
           "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Sumeet Industries Limited",
+      "symbol": "SUMEETINDS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 20.13,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "SecUR Credentials Limited",
+      "symbol": "SECURCRED",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1.56,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bharti Airtel Limited",
+      "symbol": "BHARTIARTL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 17,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Stocks to watch, August 4: BSE, LIC, Paytm, Dabur India, SBI Funds, Nykaa, IREDA, DLF, ONGC, Bharti Airtel - Upstox",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
         }
       ],
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-paras-defence-hdfc-bank-ather-energy-castrol-india-welspun-corp-and-nalco-ask-profit-11866066#publisher=newsstand",
-          "verified": true
-        },
-        {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ25BT2JFT09yeFlZdGJUZWh2Y0N3RGtKaGJMZ3EtOEhnVm1Ca1RhVUlnanp1V2NvczY4QkhrUWg5dkdCYjBMOUdMc3I0UmJRc00ycW9WZkhqUkV3Z2t2YmJDeTFYVzRCWHRFWWY3M2h3WHAwNEtpVnZEbi1LMTNITFRQWVktNnUxYmI1RXlpRjMyVHFTR2JNRUNPYXB3bEpCeG5VeVdZLVEzODJGTy1DT21EQmZOR2Vyb0NTclpreU5BVDY1SFJNaFQ0RmlMeUtwQ3JIQUFDSGw0MjZIbE05YjhhMS1fajFVT1HSAe8BQVVfeXFMTWNjWHYtNG9GSktYZmR5N2ZJX29nTjRmYkJmYkdYLVlSZWgtTjg3NnZLRTlJbHVvRW5sWmxMUEd3WmRBZC1DeDFfUElKT1BiYk00TnEwNnlWNTZBQmMwa2NUaV9DekRwWENRU3VvcDl2QzhxY3Bnb3RIcTBxRU1fcVE0SDgtODdRVjdOdk9sbUsxXy1CSDQ3c2NlQUFZbzhHbmNqN3NsMnNULWU1ZGNtWTlJTnFWbTVFSVA1NnJrZXVETWVzOTJwaVFGU3k0TzFMUWpEQ3BSQ2V0b2ZDbDdOMDg4TEV1eW5HV0dqRlloUk0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdFZURVFISlhpNHVYTTktT2RONmVaRXJEc01OdVN3RjNKdVFVNGhuUmxyMmdtSkMtczJQMGt5bjduR3hvUVQ4bWk1SzFVSW56YlhBZ1VaYUlHR0pYWER6SjhkS2ZSYXJxeEdqcXRnTzM4cnFNVmlqZGRwb1BwR0hsS3FJZkFPWmhoWWRfU2pESlk4a1o2aFNCT0ZkY0I4RVJtRHp5LVlhdjZRaFhEMDRoNGVRUlJsdE44a1BaeU1LZFB1emo2MWFUZUFnY0M0MkRxQ1B1TGxuSHNmMW1SVEhWU0hBRGt6MFI2bVE?oc=5",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "PTC India Limited",
@@ -553,12 +597,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 8.3,
+      "predictionScore": 3.0,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 180.11,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
           "label": "Investor Presentation",
@@ -578,158 +622,53 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Vaibhav Global Limited",
-      "symbol": "VAIBHAVGBL",
+      "company": "The Anup Engineering Limited",
+      "symbol": "ANUP",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.8,
+      "predictionScore": 2.1,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 265.7,
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 2189.5,
       "catalysts": [
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Uniparts India Limited",
-      "symbol": "UNIPARTS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 737.45,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Styrenix Performance Materials Limited",
-      "symbol": "STYRENIX",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2487.3,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Graphite India Limited",
-      "symbol": "GRAPHITE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.1,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 657.95,
-      "catalysts": [
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
           "label": "Updates",
           "type": "announcement",
           "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Larsen & Toubro Limited",
       "symbol": "LT",
       "exchange": "NSE",
-      "confirmedNewsCount": 16,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 90,
+      "predictionScore": 4.5,
+      "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
@@ -756,32 +695,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Motherson Sumi Wiring India Limited",
-      "symbol": "MSUMI",
+      "company": "Aurobindo Pharma Limited",
+      "symbol": "AUROPHARMA",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.6,
-      "confidence": 90,
+      "predictionScore": 3.1,
+      "confidence": 86,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 41.48,
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 1585.9,
       "catalysts": [
         {
-          "label": "Motherson Sumi Wiring India standalone net profit rises 1.55% in the June 2026 quarter - Business Standard",
+          "label": "Q1 Results Today: Power Grid, PB Fintech, Biocon, Aurobindo Pharma, Cummins India Among 135+ Companies To Announce Q1 FY27 Earnings On Aug. 5",
           "type": "results",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -789,40 +728,75 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNalRJTTZSdlY5djl3Wlg2V0dQVm9PdjRkSGFBRFNQRFpQRHRubk1LLXd2b0toNU1zSk9VV2NMVkFrQ0hCV3pzdGxfN284RUlQMTc2Z3k3YlptM25la28taFFxeWVXQy1JNkZBc191SVdjNFdJVGVvLWxWWUt3S3gtRGpDQk12eDhwa2hpekN1MUl6MjBURlpEVUowd1BJWEVGcUJKZnJLeWdkMXZKenpIS1lTclh5NDVKWWV5Q0IzUmhwR09YeHVpNTdjTW40MWlrelNYQXM0Vy1MQWQ0ck1nNHV1NEJXOWV2SVQxMzk2TzcwcFRYVjVWUjdWMNIBgAJBVV95cUxQVVZhVGc0STZFU3JJbG9IT0dWSlVqU3lYZmdaMjN1TUJhYjFXNEx0SXlmZWk1cDA0NUpIWHFjSVBEdDNJZm5SdU5YVzVJVG4yc2VRNWt3d0lXOFlULTRvcFNFVEFiQ1BNbEY4Q0x0RmVNbG8tX2NYZk9KWktaeTQyZC1nc0pZUGJZbWxOd3pieWVRbjJqUGQwam05MXhiNUdGdWZCSDdCS3gyMEwyeEpzNTF5MW5lNEMxd2FLY1JWLWYxako2TGJlOVJwakdlUE5EZms0eno2WUxCMlpjUi0xMVRwVGhYaU1XY1RZOFFxRENaS1lrMVgwVlNIM0JDYXJz?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/q1-results-today-power-grid-pb-fintech-biocon-aurobindo-pharma-cummins-india-among-135-companies-to-announce-q1-fy27-earnings-on-aug-5-11864027#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Rashi Peripherals Limited",
-      "symbol": "RPTECH",
+      "company": "Pearl Global Industries Limited",
+      "symbol": "PGIL",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 85,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 2122.4,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Bonus",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Stock Split",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Advance Agrolife Limited",
+      "symbol": "ADVANCE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 5.3,
-      "confidence": 90,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 883.65,
+      "lastClose": 124.56,
       "catalysts": [
         {
-          "label": "Investor Presentation",
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Price movement",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
+          "label": "Spurt in Volume",
           "type": "announcement",
           "verified": true
         }
@@ -832,34 +806,34 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Happy Forgings Limited",
-      "symbol": "HAPPYFORGE",
+      "company": "Neuland Laboratories Limited",
+      "symbol": "NEULANDLAB",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 5.3,
-      "confidence": 90,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1699.2,
+      "lastClose": 19273.0,
       "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Updates",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
@@ -867,23 +841,23 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Indian Metals & Ferro Alloys Limited",
-      "symbol": "IMFA",
+      "company": "Aster DM Quality Care Limited",
+      "symbol": "ASTERDM",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 5.3,
-      "confidence": 90,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1492.0,
+      "lastClose": 834.7,
       "catalysts": [
         {
-          "label": "Shareholders meeting",
-          "type": "announcement",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
@@ -892,7 +866,7 @@
           "verified": true
         },
         {
-          "label": "Appointment",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         }
