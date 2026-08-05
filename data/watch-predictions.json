@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T10:47:47+00:00",
+  "generatedAt": "2026-08-05T14:35:32+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,11 +7,11 @@
       "company": "Aurobindo Pharma Limited",
       "symbol": "AUROPHARMA",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.3,
+      "predictionScore": 6.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -19,7 +19,7 @@
       "lastClose": 1613.4,
       "catalysts": [
         {
-          "label": "Q1 Results Live Updates: Whirlpool Profit Falls 30%; Power Grid, Biocon, Aurobindo Pharma, PB Fintech Earnings In Focus",
+          "label": "Q1 Results Live Updates: Aster DM Profit Plunges 81%, Biocon Profit Up Over 4x ; Power Grid, Auro Pharma Earnings In Focus",
           "type": "results",
           "verified": true
         },
@@ -29,8 +29,8 @@
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Press Release",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -50,10 +50,45 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Tainwala Chemical and Plastic (I) Limited",
+      "symbol": "TAINWALCHM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 220.58,
+      "catalysts": [
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "PTC India Limited",
       "symbol": "PTC",
       "exchange": "NSE",
-      "confirmedNewsCount": 15,
+      "confirmedNewsCount": 16,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -70,12 +105,12 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -91,45 +126,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "The Anup Engineering Limited",
-      "symbol": "ANUP",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2214.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Monte Carlo Fashions Limited",
       "symbol": "MONTECARLO",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -141,17 +141,17 @@
       "lastClose": 500.95,
       "catalysts": [
         {
-          "label": "General Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Change in Management",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -164,7 +164,7 @@
       "company": "Gujarat Narmada Valley Fertilizers and Chemicals Limited",
       "symbol": "GNFC",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -176,13 +176,223 @@
       "lastClose": 538.3,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Investor Presentation",
+          "type": "announcement",
           "verified": true
         },
         {
           "label": "General Updates",
           "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Aster DM Quality Care Limited",
+      "symbol": "ASTERDM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 842.1,
+      "catalysts": [
+        {
+          "label": "Acquisition",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Sterling Tools Limited",
+      "symbol": "STERTOOLS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 251.9,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "RSWM Limited",
+      "symbol": "RSWM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 224.62,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Neuland Laboratories Limited",
+      "symbol": "NEULANDLAB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 19956.0,
+      "catalysts": [
+        {
+          "label": "Capacity addition",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Giving guarantees/indemnity/ becoming a surety for third party",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Shilpa Medicare Limited",
+      "symbol": "SHILPAMED",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 721.75,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Sumeet Industries Limited",
+      "symbol": "SUMEETINDS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 19.13,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
@@ -229,216 +439,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "JTL INDUSTRIES LIMITED",
-      "symbol": "JTLIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 78.13,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Sterling Tools Limited",
-      "symbol": "STERTOOLS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 251.9,
-      "catalysts": [
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Shilpa Medicare Limited",
-      "symbol": "SHILPAMED",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 721.75,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Asahi India Glass Limited",
-      "symbol": "ASAHIINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 926.7,
-      "catalysts": [
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Sumeet Industries Limited",
-      "symbol": "SUMEETINDS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 19.13,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Pearl Global Industries Limited",
-      "symbol": "PGIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2104.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Bonus",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Stock Split",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -446,11 +446,11 @@
       "company": "Aurobindo Pharma Limited",
       "symbol": "AUROPHARMA",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 8.3,
+      "predictionScore": 8.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -458,7 +458,7 @@
       "lastClose": 1613.4,
       "catalysts": [
         {
-          "label": "Q1 Results Live Updates: Whirlpool Profit Falls 30%; Power Grid, Biocon, Aurobindo Pharma, PB Fintech Earnings In Focus",
+          "label": "Q1 Results Live Updates: Aster DM Profit Plunges 81%, Biocon Profit Up Over 4x ; Power Grid, Auro Pharma Earnings In Focus",
           "type": "results",
           "verified": true
         },
@@ -468,8 +468,8 @@
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Press Release",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -489,45 +489,86 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "The Anup Engineering Limited",
-      "symbol": "ANUP",
+      "company": "Tainwala Chemical and Plastic (I) Limited",
+      "symbol": "TAINWALCHM",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
+      "predictionScore": 6.1,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2214.0,
+      "lastClose": 220.58,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
+          "label": "Record Date",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "PB Fintech Limited",
+      "symbol": "POLICYBZR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1620.0,
+      "catalysts": [
+        {
+          "label": "PB Fintech Q1 Results: Profit Rockets 91% As Margins Expand, Revenue Nears Rs 1,900 Crore",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/pb-fintech-q1-results-profit-rockets-91-as-margins-expand-revenue-nears-rs-1-900-crore-11869974#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Gujarat Narmada Valley Fertilizers and Chemicals Limited",
       "symbol": "GNFC",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -539,8 +580,8 @@
       "lastClose": 538.3,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Investor Presentation",
+          "type": "announcement",
           "verified": true
         },
         {
@@ -549,7 +590,182 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Aster DM Quality Care Limited",
+      "symbol": "ASTERDM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 842.1,
+      "catalysts": [
+        {
+          "label": "Acquisition",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Sterling Tools Limited",
+      "symbol": "STERTOOLS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 251.9,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "RSWM Limited",
+      "symbol": "RSWM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 224.62,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Neuland Laboratories Limited",
+      "symbol": "NEULANDLAB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 19956.0,
+      "catalysts": [
+        {
+          "label": "Capacity addition",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Giving guarantees/indemnity/ becoming a surety for third party",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Shilpa Medicare Limited",
+      "symbol": "SHILPAMED",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 721.75,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
           "type": "announcement",
           "verified": true
         }
@@ -629,10 +845,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Sterling Tools Limited",
-      "symbol": "STERTOOLS",
+      "company": "Subex Limited",
+      "symbol": "SUBEXLTD",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -641,10 +857,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 251.9,
+      "lastClose": 13.77,
       "catalysts": [
         {
-          "label": "Record Date",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
@@ -654,218 +870,8 @@
           "verified": true
         },
         {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Shilpa Medicare Limited",
-      "symbol": "SHILPAMED",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 721.75,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
           "label": "Outcome of Board Meeting",
           "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Asahi India Glass Limited",
-      "symbol": "ASAHIINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 926.7,
-      "catalysts": [
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Pearl Global Industries Limited",
-      "symbol": "PGIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2104.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Bonus",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Stock Split",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Neuland Laboratories Limited",
-      "symbol": "NEULANDLAB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 19956.0,
-      "catalysts": [
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Rajshree Polypack Limited",
-      "symbol": "RPPL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 23.6,
-      "catalysts": [
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HT Media Limited",
-      "symbol": "HTMEDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 28.66,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
           "verified": true
         }
       ],
