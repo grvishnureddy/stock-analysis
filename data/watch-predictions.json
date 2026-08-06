@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-08-06T06:48:20+00:00",
+  "generatedAt": "2026-08-06T10:50:21+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "Swiggy Limited",
-      "symbol": "SWIGGY",
+      "company": "Hero MotoCorp Limited",
+      "symbol": "HEROMOTOCO",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
+      "predictionScore": 4.7,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 5550.5,
       "catalysts": [
         {
-          "label": "Swiggy's FY31 Growth Blueprint Lifts Shares 6%; Targets Rs 10,000 Crore EBITDA",
-          "type": "contract",
+          "label": "Q1 Results Live Updates: P&G Health Net Profit Rises 45%, Trent Profit Up 28%; LIC, Hero MotoCorp, Britannia, Lupin In Focus",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -38,11 +38,46 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/swiggys-fy31-growth-blueprint-lifts-shares-6-percent-targets-rs-10-000-crore-ebitda-11872930#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-lic-trent-hero-motocorp-britannia-lupin-among-160-companies-earnings-in-focus-today-on-august-11872535#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Edelweiss Financial Services Limited",
+      "symbol": "EDELWEISS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 121.16,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "PTC India Limited",
@@ -89,7 +124,7 @@
       "company": "The Anup Engineering Limited",
       "symbol": "ANUP",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -98,20 +133,55 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1963.6,
+      "lastClose": 1993.3,
       "catalysts": [
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Press Release",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Garware Hi-Tech Films Limited",
+      "symbol": "GRWRHITECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 7338.5,
+      "catalysts": [
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -133,7 +203,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 388.5,
+      "lastClose": 387.55,
       "catalysts": [
         {
           "label": "Volumes jump at Life Insurance Corporation of India counter - Business Standard",
@@ -174,7 +244,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 154.5,
+      "lastClose": 155.0,
       "catalysts": [
         {
           "label": "General Updates",
@@ -197,8 +267,43 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "LLOYDS ENGINEERING WORKS LIMITED",
-      "symbol": "LLOYDSENGG",
+      "company": "India Shelter Finance Corporation Limited",
+      "symbol": "INDIASHLTR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 734.85,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Firstsource Solutions Limited",
+      "symbol": "FSL",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
@@ -209,20 +314,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 94.8,
+      "lastClose": 293.95,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -273,8 +378,49 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Sundrop Brands Limited",
-      "symbol": "SUNDROP",
+      "company": "Blue Star Limited",
+      "symbol": "BLUESTARCO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1571.0,
+      "catalysts": [
+        {
+          "label": "Blue Star Q1 Results: Net Profit Falls 15% YoY; Margins Contract Despite Double-Digit Revenue Growth",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/blue-star-q1-results-net-profit-falls-15-percent-yoy-margins-contract-despite-double-digit-revenue-growth-11873832#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Sinclairs Hotels Limited",
+      "symbol": "SINCLAIR",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
@@ -285,166 +431,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 669.7,
+      "lastClose": 76.59,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Rategain Travel Technologies Limited",
-      "symbol": "RATEGAIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 988.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bharti Hexacom Limited",
-      "symbol": "BHARTIHEXA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.7,
-      "confidence": 82,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bharti Hexacom, Happy Forgings, Ventive Hospitality Q1 Review: Check Motilal Oswal's Latest Ratings, Target Prices",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/bharti-hexacom-happy-forgings-ventive-hospitality-q1-results-review-check-motilal-oswals-latest-ratings-target-prices-11872989#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Sonata Software Limited",
-      "symbol": "SONATSOFTW",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 340.5,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "3i Infotech Limited",
-      "symbol": "3IINFOLTD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
@@ -455,6 +455,82 @@
     }
   ],
   "tomorrow": [
+    {
+      "company": "Hero MotoCorp Limited",
+      "symbol": "HEROMOTOCO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 5550.5,
+      "catalysts": [
+        {
+          "label": "Q1 Results Live Updates: P&G Health Net Profit Rises 45%, Trent Profit Up 28%; LIC, Hero MotoCorp, Britannia, Lupin In Focus",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-lic-trent-hero-motocorp-britannia-lupin-among-160-companies-earnings-in-focus-today-on-august-11872535#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Edelweiss Financial Services Limited",
+      "symbol": "EDELWEISS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 121.16,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
     {
       "company": "Sonata Software Limited",
       "symbol": "SONATSOFTW",
@@ -468,7 +544,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 340.5,
+      "lastClose": 331.95,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -491,44 +567,38 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Swiggy Limited",
-      "symbol": "SWIGGY",
+      "company": "Garware Hi-Tech Films Limited",
+      "symbol": "GRWRHITECH",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
+      "predictionScore": 5.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 7338.5,
       "catalysts": [
         {
-          "label": "Swiggy's FY31 Growth Blueprint Lifts Shares 6%; Targets Rs 10,000 Crore EBITDA",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/swiggys-fy31-growth-blueprint-lifts-shares-6-percent-targets-rs-10-000-crore-ebitda-11872930#publisher=newsstand",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -544,7 +614,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 154.5,
+      "lastClose": 155.0,
       "catalysts": [
         {
           "label": "General Updates",
@@ -567,8 +637,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "LLOYDS ENGINEERING WORKS LIMITED",
-      "symbol": "LLOYDSENGG",
+      "company": "Firstsource Solutions Limited",
+      "symbol": "FSL",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
@@ -579,20 +649,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 94.8,
+      "lastClose": 293.95,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -602,8 +672,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Rategain Travel Technologies Limited",
-      "symbol": "RATEGAIN",
+      "company": "Emcure Pharmaceuticals Limited",
+      "symbol": "EMCURE",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -614,20 +684,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 988.5,
+      "lastClose": 1936.7,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
+          "label": "Record Date",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -637,8 +707,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Garware Hi-Tech Films Limited",
-      "symbol": "GRWRHITECH",
+      "company": "Sutlej Textiles and Industries Limited",
+      "symbol": "SUTLEJTEX",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
@@ -649,20 +719,90 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 7435.0,
+      "lastClose": 40.44,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "S.J.S. Enterprises Limited",
+      "symbol": "SJS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 2437.7,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Shankara Buildpro Limited",
+      "symbol": "BUILDPRO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1335.2,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -675,7 +815,7 @@
       "company": "The Anup Engineering Limited",
       "symbol": "ANUP",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -684,20 +824,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1963.6,
+      "lastClose": 1993.3,
       "catalysts": [
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Press Release",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -719,7 +859,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 388.5,
+      "lastClose": 387.55,
       "catalysts": [
         {
           "label": "Volumes jump at Life Insurance Corporation of India counter - Business Standard",
@@ -745,158 +885,6 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "PTC India Limited",
-      "symbol": "PTC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 16,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.9,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "PTC India consolidated net profit declines 49.76% in the June 2026 quarter - Business Standard",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdFJsWEJjMlNqenhfM1ByVFhHYmVEcDhObE4yeU5IMzU3QzBic3lPVTM2NmtjQzVySlZ0QmQwUFFJUGxoSnM5ZHVJOXpTTTB5TFRIUDd2bmpwb0hBdmV1RkpUNEZwSkVfNXNnRUY3bGEyWVJueUVvZ3hVNWMxR1JkYTY5MVpPeFFJQ2drNXVzVHNXRjVXa1FIamdDZUFJek94MThRcXd5aUNsUEJFdTBPRnoxOVhrV1l6YndtU29YdlVuaHA3MExJOGdPMEpTTGdEWmVEMW13bjVrbUotZF9uZUw4b291dkNCb25n0gHwAUFVX3lxTE1TVW5EeURveDA2NkVRdGxGSVUxVWtLb1FTTm9TMFZuejBic1g1eWRyVGxIYmRQX1k4T2pmYjdWQWlld3hldVNfR1FURWZ1UUNOeHU4SUVlM2xYbFJPdXUzY0ZmVzZRblZjeHRkNXNYQWZZdHVoMW4welhZWnd0ZVZ3eEc5XzFfVHZBcVJpRmtYLWRCbGJKNWg0aF8yWHhRLWQ3aUFjTXJwZlhTMmtsMmY4aWpCUmFZdU5iZVNEVFRqN3UtazVzUm90RnVvb0pCUmFVb2RpMGs4bTJ6M0ViaHkzOUdHYkpldU40U1QwVXVsRw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Sundrop Brands Limited",
-      "symbol": "SUNDROP",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 669.7,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bharti Airtel Limited",
-      "symbol": "BHARTIARTL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 19,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Stocks to watch, August 4: BSE, LIC, Paytm, Dabur India, SBI Funds, Nykaa, IREDA, DLF, ONGC, Bharti Airtel - Upstox",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdFZURVFISlhpNHVYTTktT2RONmVaRXJEc01OdVN3RjNKdVFVNGhuUmxyMmdtSkMtczJQMGt5bjduR3hvUVQ4bWk1SzFVSW56YlhBZ1VaYUlHR0pYWER6SjhkS2ZSYXJxeEdqcXRnTzM4cnFNVmlqZGRwb1BwR0hsS3FJZkFPWmhoWWRfU2pESlk4a1o2aFNCT0ZkY0I4RVJtRHp5LVlhdjZRaFhEMDRoNGVRUlJsdE44a1BaeU1LZFB1emo2MWFUZUFnY0M0MkRxQ1B1TGxuSHNmMW1SVEhWU0hBRGt6MFI2bVE?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Hero MotoCorp Limited",
-      "symbol": "HEROMOTOCO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 85,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 5630.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
