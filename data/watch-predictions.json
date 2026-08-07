@@ -1,8 +1,49 @@
 {
-  "generatedAt": "2026-08-07T13:42:16+00:00",
+  "generatedAt": "2026-08-07T15:11:41+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "Power Finance Corporation Limited",
+      "symbol": "PFC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 6.9,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 420.0,
+      "catalysts": [
+        {
+          "label": "PFC Q1 Results: Profit Growth Stays Muted; Dividend Of Rs 3.9/Share Declared; Check Record Date",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/pfc-q1-results-profit-growth-stays-muted-dividend-of-rs-3-9-share-declared-check-record-date-11880334#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
     {
       "company": "BEML Limited",
       "symbol": "BEML",
@@ -19,7 +60,7 @@
       "lastClose": 1787.8,
       "catalysts": [
         {
-          "label": "Q1 Results Live Updates: Oil India Profit Surges 73%; Hitachi Energy Profit More Than Doubles",
+          "label": "Q1 Results Live Updates: Oil India Profit Surges 73%; Kaynes Tech Revenue Rises 41%",
           "type": "results",
           "verified": true
         },
@@ -84,52 +125,6 @@
         }
       ],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Life Insurance Corporation Of India",
-      "symbol": "LICI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 15,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Life Insurance Corporation of India consolidated net profit rises 23.98% in the June 2026 quarter - Business Standard",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Life Insurance Corporation of India standalone net profit rises 22.81% in the June 2026 quarter - Business Standard",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQaFVZMVBnYVFodUxkQmFMVUpaekFOMnE4SFRTWmt4NTVRRW1qMDR6ZHNEUjJFUVFnOXQ2aXNmWFpqaHlSUWJMbjhNT0poLWp6NGUya3lMTkRSaGJhUHFhc04yQW10OGJhMGhNX3k1elpKZDFhRktNbkswMGY3QjVYNXdJM1RfNkRDbUpISXR2cjFLV0l4dEtJekJ5amU2blJpSGVJZGpBazNSSHE0YXJ6cmF5WXJCTGJFaDhrbzBYNWFJUnlvMmRfTWlPcEFJQWNwZjVqSUxISWRqNnNwSHdIWUhEcTRNLUstWnI1c2xybENhMGtDbjU4aDNuUENOUFZNWVh0dVBYLXV6QdIBjwJBVV95cUxNOEFxWUpTX0tTb3o5SWstU1Rmam1aSmJzODNNR1ZjazE4WDJXcDZoVzJMbEFxaG9OSHc2dldaWHhCOERkZm1GNERRVjVpV2ZHdkZaUDFtVmNBRDI0c2xjODFzVkpXQU56OXhTcXhyVU1oYnhkMzJPOWxISjNfa2ttNjdBQW5wdVh1b19YVHB1Tml0N1k0b2VGN1dfejVzNFJuak45TXdZNkY0WDdVTXJKMldSV3c5UDdpd0pQLTBNZVpyX3FmcDhkZjMyVjJoN0trOXVmOG45aXBNMFlZRFdJU1pIYWk3bTMyaDlsVXI5ay1felhoYmNEVHpadGFFOEcyazlNUHlDZ3ZjajJDd0hv?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWjk3VGJ1MDdjLThFR1lyeTZtdFRqSnZHLUJGVEoyNmllc0VsNXRSRGQwUUNsNFZwU1ItZ0VqVWdZVzBoV2NMdzRpaFVNTkhHNTdMTEZwMHNFX3pTUGVhTE5fS2VHWGZ1UGduRkNxUmo3QThnMVFtUm9UTUdleGJmR2tSYm1FNkJEaDJPRVJwdm1QdE82YWRNcERLSzdQcTVHalZUaC1TTGdaTTlPR25MNmsteU5LMXV6aGxZSDhJTVZlclZHTWFWV2F5eEoxdDdOcDBkQXd4ZkNzUzZYWk9KbUNBSjFua1g4b1VOVk1CSGtObk9MdEVoVmdRRG5COWQtUE9wMGFHd9IBjAJBVV95cUxQdXFqUHFKU2RVTmdILUdhUFctZDhPaE9RNm1wdkpwREo5b3JIb1BFbkU3VEZFSmxhNmlHa19wQVhPSG1zQlRIdlo2Q0VPWVQ1SzdlWkpxaUtURTZWcjdQaWZlUDhIY2ZaMmVobmFlckNaQ3hUTFRSZmlTb2JXdDNsSm9mMXpxLTF6Qy1UYm1DTWVYbWN3STI5aGk2ZXctZnJMSUhCVllyXzR3MkVCQnpEUl9lYnk2RW0wRGZ6UTVnOVRtR1diTE00bERJSGFwWmdLTUFKNTB1dVNJQnkwU3lYM2VPaTYyQXNlU1pNS3d0SjkzZEVId0tqT0hfX1A3V1dQNENoR0ZwZnhydzRv?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Arvind SmartSpaces Limited",
@@ -237,6 +232,146 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Mrs. Bectors Food Specialities Limited",
+      "symbol": "BECTORFOOD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 224.4,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "CARE Ratings Limited",
+      "symbol": "CARERATING",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1749.2,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bajel Projects Limited",
+      "symbol": "BAJEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 191.78,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Ashapura Minechem Limited",
+      "symbol": "ASHAPURMIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 738.35,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Carborundum Universal Limited",
       "symbol": "CARBORUNIV",
       "exchange": "NSE",
@@ -305,69 +440,36 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "Mrs. Bectors Food Specialities Limited",
-      "symbol": "BECTORFOOD",
+      "company": "Power Finance Corporation Limited",
+      "symbol": "PFC",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
-      "horizon": "today",
+      "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "predictionScore": 8.4,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 224.4,
+      "technicalConfidence": 67,
+      "lastClose": 420.0,
       "catalysts": [
         {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Hitachi Energy India Limited",
-      "symbol": "POWERINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.1,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
-      "lastClose": 32600.0,
-      "catalysts": [
-        {
-          "label": "Hitachi Energy Q1 Results: Profit More Than Doubles As Margins Expand 2x, Revenue Jumps 75%",
+          "label": "PFC Q1 Results: Profit Growth Stays Muted; Dividend Of Rs 3.9/Share Declared; Check Record Date",
           "type": "results",
           "verified": true
         },
         {
-          "label": "Monitoring Agency Report",
+          "label": "Record Date",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -376,84 +478,12 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/hitachi-energy-q1-results-profit-more-than-doubles-as-margins-expand-2x-revenue-jumps-75-11880130#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/pfc-q1-results-profit-growth-stays-muted-dividend-of-rs-3-9-share-declared-check-record-date-11880334#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
     },
-    {
-      "company": "Bharti Airtel Limited",
-      "symbol": "BHARTIARTL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 18,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Acquisition",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Dabur India Limited",
-      "symbol": "DABUR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
     {
       "company": "Electronics Mart India Limited",
       "symbol": "EMIL",
@@ -511,7 +541,7 @@
       "lastClose": 1787.8,
       "catalysts": [
         {
-          "label": "Q1 Results Live Updates: Oil India Profit Surges 73%; Hitachi Energy Profit More Than Doubles",
+          "label": "Q1 Results Live Updates: Oil India Profit Surges 73%; Kaynes Tech Revenue Rises 41%",
           "type": "results",
           "verified": true
         },
@@ -607,6 +637,146 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Mrs. Bectors Food Specialities Limited",
+      "symbol": "BECTORFOOD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 224.4,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "CARE Ratings Limited",
+      "symbol": "CARERATING",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1749.2,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bajel Projects Limited",
+      "symbol": "BAJEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 191.78,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Ashapura Minechem Limited",
+      "symbol": "ASHAPURMIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 738.35,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Carborundum Universal Limited",
       "symbol": "CARBORUNIV",
       "exchange": "NSE",
@@ -677,115 +847,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Mrs. Bectors Food Specialities Limited",
-      "symbol": "BECTORFOOD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 224.4,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "NRB Bearing Limited",
-      "symbol": "NRBBEARING",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 461.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Azad Engineering Limited",
-      "symbol": "AZAD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2489.0,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Gloster Limited",
       "symbol": "GLOSTERLTD",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -797,6 +862,11 @@
       "lastClose": 697.45,
       "catalysts": [
         {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Appointment",
           "type": "announcement",
           "verified": true
@@ -804,81 +874,6 @@
         {
           "label": "Cessation",
           "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "RACL Geartech Limited",
-      "symbol": "RACLGEAR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1482.7,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Jindal Drilling And Industries Limited",
-      "symbol": "JINDRILL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 636.05,
-      "catalysts": [
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
           "verified": true
         }
       ],
