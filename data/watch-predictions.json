@@ -1,8 +1,100 @@
 {
-  "generatedAt": "2026-08-07T07:43:54+00:00",
+  "generatedAt": "2026-08-07T09:17:25+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "BEML Limited",
+      "symbol": "BEML",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 5.6,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 1808.1,
+      "catalysts": [
+        {
+          "label": "BEML Q1 Results: Net Loss Narrows, FY26 Dividend Revised \u2014 Check Record Date",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Q1 Results Live Updates: Godrej Consumer Profit Up 11%; SBI, BEML, Titan, PFC, Ola Electric In Focus",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/beml-q1-results-net-loss-narrows-fy26-dividend-revised-check-record-date-11878297#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-sbi-beml-titan-pfc-ola-electric-mobility-hindalco-industries-among-200-companies-to-announce-earnings-today-on-august-7-11877636#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Godrej Consumer Products Limited",
+      "symbol": "GODREJCP",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 1049.2,
+      "catalysts": [
+        {
+          "label": "Godrej Consumer Q1 Result: Net Profit Jumps 11%, Revenue Surges; Africa Business Grows 45%",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Godrej Consumer Announces Rs 5 Dividend; Check Record Date, Payout Date",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/godrej-consumer-q1-result-net-profit-jumps-11-percent-revenue-surges-africa-business-grows-45-percent-11878252#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/godrej-consumer-announces-rs-5-dividend-check-record-date-payout-date-11878232#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
     {
       "company": "Life Insurance Corporation Of India",
       "symbol": "LICI",
@@ -50,44 +142,38 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "BEML Limited",
-      "symbol": "BEML",
+      "company": "Arvind SmartSpaces Limited",
+      "symbol": "ARVSMART",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.7,
+      "predictionScore": 3.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1734.9,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 648.2,
       "catalysts": [
         {
-          "label": "BEML Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Change in Auditors",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/beml-q1-results-today-time-earnings-call-dividend-what-to-watch-share-price-11877350#publisher=newsstand",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -103,7 +189,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 928.55,
+      "lastClose": 928.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -129,11 +215,11 @@
       "company": "Bharti Airtel Limited",
       "symbol": "BHARTIARTL",
       "exchange": "NSE",
-      "confirmedNewsCount": 17,
+      "confirmedNewsCount": 18,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
+      "predictionScore": 3.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -141,17 +227,17 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Acquisition",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -164,7 +250,7 @@
       "company": "Interarch Building Solutions Limited",
       "symbol": "INTERARCH",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -176,17 +262,17 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
           "type": "announcement",
           "verified": true
         }
@@ -231,6 +317,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Mrs. Bectors Food Specialities Limited",
+      "symbol": "BECTORFOOD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 221.67,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Greenlam Industries Limited",
       "symbol": "GREENLAM",
       "exchange": "NSE",
@@ -243,7 +364,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 269.45,
+      "lastClose": 267.7,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -278,7 +399,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 50.77,
+      "lastClose": 50.27,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -313,7 +434,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 454.0,
+      "lastClose": 453.85,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -328,111 +449,6 @@
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Dabur India Limited",
-      "symbol": "DABUR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 79,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Larsen & Toubro Limited",
-      "symbol": "LT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ratnamani Metals & Tubes Limited",
-      "symbol": "RATNAMANI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 2265.6,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -443,6 +459,122 @@
   ],
   "tomorrow": [
     {
+      "company": "BEML Limited",
+      "symbol": "BEML",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.6,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 1808.1,
+      "catalysts": [
+        {
+          "label": "BEML Q1 Results: Net Loss Narrows, FY26 Dividend Revised \u2014 Check Record Date",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Q1 Results Live Updates: Godrej Consumer Profit Up 11%; SBI, BEML, Titan, PFC, Ola Electric In Focus",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/beml-q1-results-net-loss-narrows-fy26-dividend-revised-check-record-date-11878297#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-sbi-beml-titan-pfc-ola-electric-mobility-hindalco-industries-among-200-companies-to-announce-earnings-today-on-august-7-11877636#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Arvind SmartSpaces Limited",
+      "symbol": "ARVSMART",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 648.2,
+      "catalysts": [
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mrs. Bectors Food Specialities Limited",
+      "symbol": "BECTORFOOD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 221.67,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Greenlam Industries Limited",
       "symbol": "GREENLAM",
       "exchange": "NSE",
@@ -455,7 +587,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 269.45,
+      "lastClose": 267.7,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -490,7 +622,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 50.77,
+      "lastClose": 50.27,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -525,7 +657,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 454.0,
+      "lastClose": 453.85,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -560,7 +692,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 735.1,
+      "lastClose": 730.7,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -583,6 +715,157 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Godrej Consumer Products Limited",
+      "symbol": "GODREJCP",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.6,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 1049.2,
+      "catalysts": [
+        {
+          "label": "Godrej Consumer Q1 Result: Net Profit Jumps 11%, Revenue Surges; Africa Business Grows 45%",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Godrej Consumer Announces Rs 5 Dividend; Check Record Date, Payout Date",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/godrej-consumer-q1-result-net-profit-jumps-11-percent-revenue-surges-africa-business-grows-45-percent-11878252#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/godrej-consumer-announces-rs-5-dividend-check-record-date-payout-date-11878232#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Electronics Mart India Limited",
+      "symbol": "EMIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 151.76,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Goldiam International Limited",
+      "symbol": "GOLDIAM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 380.45,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Modis Navnirman Limited",
+      "symbol": "MODIS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 396.65,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Jubilant Pharmova Limited",
       "symbol": "JUBLPHARMA",
       "exchange": "NSE",
@@ -595,7 +878,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 928.55,
+      "lastClose": 928.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -610,268 +893,6 @@
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Life Insurance Corporation Of India",
-      "symbol": "LICI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Life Insurance Corporation of India consolidated net profit rises 23.98% in the June 2026 quarter - Business Standard",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Life Insurance Corporation of India standalone net profit rises 22.81% in the June 2026 quarter - Business Standard",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQaFVZMVBnYVFodUxkQmFMVUpaekFOMnE4SFRTWmt4NTVRRW1qMDR6ZHNEUjJFUVFnOXQ2aXNmWFpqaHlSUWJMbjhNT0poLWp6NGUya3lMTkRSaGJhUHFhc04yQW10OGJhMGhNX3k1elpKZDFhRktNbkswMGY3QjVYNXdJM1RfNkRDbUpISXR2cjFLV0l4dEtJekJ5amU2blJpSGVJZGpBazNSSHE0YXJ6cmF5WXJCTGJFaDhrbzBYNWFJUnlvMmRfTWlPcEFJQWNwZjVqSUxISWRqNnNwSHdIWUhEcTRNLUstWnI1c2xybENhMGtDbjU4aDNuUENOUFZNWVh0dVBYLXV6QdIBjwJBVV95cUxNOEFxWUpTX0tTb3o5SWstU1Rmam1aSmJzODNNR1ZjazE4WDJXcDZoVzJMbEFxaG9OSHc2dldaWHhCOERkZm1GNERRVjVpV2ZHdkZaUDFtVmNBRDI0c2xjODFzVkpXQU56OXhTcXhyVU1oYnhkMzJPOWxISjNfa2ttNjdBQW5wdVh1b19YVHB1Tml0N1k0b2VGN1dfejVzNFJuak45TXdZNkY0WDdVTXJKMldSV3c5UDdpd0pQLTBNZVpyX3FmcDhkZjMyVjJoN0trOXVmOG45aXBNMFlZRFdJU1pIYWk3bTMyaDlsVXI5ay1felhoYmNEVHpadGFFOEcyazlNUHlDZ3ZjajJDd0hv?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWjk3VGJ1MDdjLThFR1lyeTZtdFRqSnZHLUJGVEoyNmllc0VsNXRSRGQwUUNsNFZwU1ItZ0VqVWdZVzBoV2NMdzRpaFVNTkhHNTdMTEZwMHNFX3pTUGVhTE5fS2VHWGZ1UGduRkNxUmo3QThnMVFtUm9UTUdleGJmR2tSYm1FNkJEaDJPRVJwdm1QdE82YWRNcERLSzdQcTVHalZUaC1TTGdaTTlPR25MNmsteU5LMXV6aGxZSDhJTVZlclZHTWFWV2F5eEoxdDdOcDBkQXd4ZkNzUzZYWk9KbUNBSjFua1g4b1VOVk1CSGtObk9MdEVoVmdRRG5COWQtUE9wMGFHd9IBjAJBVV95cUxQdXFqUHFKU2RVTmdILUdhUFctZDhPaE9RNm1wdkpwREo5b3JIb1BFbkU3VEZFSmxhNmlHa19wQVhPSG1zQlRIdlo2Q0VPWVQ1SzdlWkpxaUtURTZWcjdQaWZlUDhIY2ZaMmVobmFlckNaQ3hUTFRSZmlTb2JXdDNsSm9mMXpxLTF6Qy1UYm1DTWVYbWN3STI5aGk2ZXctZnJMSUhCVllyXzR3MkVCQnpEUl9lYnk2RW0wRGZ6UTVnOVRtR1diTE00bERJSGFwWmdLTUFKNTB1dVNJQnkwU3lYM2VPaTYyQXNlU1pNS3d0SjkzZEVId0tqT0hfX1A3V1dQNENoR0ZwZnhydzRv?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "BEML Limited",
-      "symbol": "BEML",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1734.9,
-      "catalysts": [
-        {
-          "label": "BEML Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/beml-q1-results-today-time-earnings-call-dividend-what-to-watch-share-price-11877350#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bharti Airtel Limited",
-      "symbol": "BHARTIARTL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 17,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Acquisition",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Interarch Building Solutions Limited",
-      "symbol": "INTERARCH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "PTC India Limited",
-      "symbol": "PTC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Jeena Sikho Lifecare Limited",
-      "symbol": "JSLL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 85,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 601.3,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Arrangements for strategic, technical, manufacturing, or marketing tie up",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Product launch",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ratnamani Metals & Tubes Limited",
-      "symbol": "RATNAMANI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 2265.6,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
           "verified": true
         }
       ],
