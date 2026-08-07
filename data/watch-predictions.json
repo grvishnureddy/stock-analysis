@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T11:09:35+00:00",
+  "generatedAt": "2026-08-07T13:42:16+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,7 +7,7 @@
       "company": "BEML Limited",
       "symbol": "BEML",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -19,17 +19,17 @@
       "lastClose": 1787.8,
       "catalysts": [
         {
-          "label": "Q1 Results Live Updates: Hindalco Net Profit Beat Estimates, SBI Net Profit Up 10%; Titan, PFC, Ola Electric In Focus",
+          "label": "Q1 Results Live Updates: Oil India Profit Surges 73%; Hitachi Energy Profit More Than Doubles",
           "type": "results",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Change in Auditors",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -48,7 +48,7 @@
       "company": "Electronics Mart India Limited",
       "symbol": "EMIL",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -65,12 +65,12 @@
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -89,7 +89,7 @@
       "company": "Life Insurance Corporation Of India",
       "symbol": "LICI",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 15,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -111,7 +111,7 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -135,7 +135,7 @@
       "company": "Arvind SmartSpaces Limited",
       "symbol": "ARVSMART",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 16,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -147,17 +147,17 @@
       "lastClose": 650.75,
       "catalysts": [
         {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Resignation of Statutory Auditor",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
+          "label": "Resignation of Statutory Auditor",
           "type": "announcement",
           "verified": true
         }
@@ -167,8 +167,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Imagicaaworld Entertainment Limited",
-      "symbol": "IMAGICAA",
+      "company": "Greenlam Industries Limited",
+      "symbol": "GREENLAM",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
@@ -179,15 +179,15 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 52.14,
+      "lastClose": 273.7,
       "catalysts": [
         {
-          "label": "Updates",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Appointment",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
@@ -228,6 +228,41 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Carborundum Universal Limited",
+      "symbol": "CARBORUNIV",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1097.0,
+      "catalysts": [
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -305,6 +340,47 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Hitachi Energy India Limited",
+      "symbol": "POWERINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 32600.0,
+      "catalysts": [
+        {
+          "label": "Hitachi Energy Q1 Results: Profit More Than Doubles As Margins Expand 2x, Revenue Jumps 75%",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/hitachi-energy-q1-results-profit-more-than-doubles-as-margins-expand-2x-revenue-jumps-75-11880130#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Bharti Airtel Limited",
@@ -375,76 +451,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Interarch Building Solutions Limited",
-      "symbol": "INTERARCH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 14,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "PTC India Limited",
-      "symbol": "PTC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -452,7 +458,7 @@
       "company": "Electronics Mart India Limited",
       "symbol": "EMIL",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -469,12 +475,12 @@
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -493,7 +499,7 @@
       "company": "BEML Limited",
       "symbol": "BEML",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -505,17 +511,17 @@
       "lastClose": 1787.8,
       "catalysts": [
         {
-          "label": "Q1 Results Live Updates: Hindalco Net Profit Beat Estimates, SBI Net Profit Up 10%; Titan, PFC, Ola Electric In Focus",
+          "label": "Q1 Results Live Updates: Oil India Profit Surges 73%; Hitachi Energy Profit More Than Doubles",
           "type": "results",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Change in Auditors",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -534,7 +540,7 @@
       "company": "Arvind SmartSpaces Limited",
       "symbol": "ARVSMART",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 16,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -546,17 +552,17 @@
       "lastClose": 650.75,
       "catalysts": [
         {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Resignation of Statutory Auditor",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
+          "label": "Resignation of Statutory Auditor",
           "type": "announcement",
           "verified": true
         }
@@ -566,8 +572,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Imagicaaworld Entertainment Limited",
-      "symbol": "IMAGICAA",
+      "company": "Greenlam Industries Limited",
+      "symbol": "GREENLAM",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
@@ -578,20 +584,55 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 52.14,
+      "lastClose": 273.7,
       "catalysts": [
         {
-          "label": "Updates",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Appointment",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Carborundum Universal Limited",
+      "symbol": "CARBORUNIV",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1097.0,
+      "catalysts": [
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -671,41 +712,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Greenlam Industries Limited",
-      "symbol": "GREENLAM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 273.7,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "NRB Bearing Limited",
       "symbol": "NRBBEARING",
       "exchange": "NSE",
@@ -741,8 +747,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Jamna Auto Industries Limited",
-      "symbol": "JAMNAAUTO",
+      "company": "Azad Engineering Limited",
+      "symbol": "AZAD",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
@@ -753,45 +759,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 144.7,
+      "lastClose": 2489.0,
       "catalysts": [
         {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Carborundum Universal Limited",
-      "symbol": "CARBORUNIV",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1097.0,
-      "catalysts": [
-        {
-          "label": "Press Release",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
@@ -811,8 +782,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Ashapura Minechem Limited",
-      "symbol": "ASHAPURMIN",
+      "company": "Gloster Limited",
+      "symbol": "GLOSTERLTD",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
@@ -823,20 +794,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 738.35,
+      "lastClose": 697.45,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Cessation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -846,20 +817,60 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Modis Navnirman Limited",
-      "symbol": "MODIS",
+      "company": "RACL Geartech Limited",
+      "symbol": "RACLGEAR",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.5,
+      "predictionScore": 5.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 392.4,
+      "lastClose": 1482.7,
       "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Jindal Drilling And Industries Limited",
+      "symbol": "JINDRILL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 636.05,
+      "catalysts": [
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Outcome of Board Meeting",
           "type": "announcement",
@@ -868,11 +879,6 @@
         {
           "label": "Financial Results",
           "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
           "verified": true
         }
       ],
