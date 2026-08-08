@@ -1,8 +1,95 @@
 {
-  "generatedAt": "2026-08-08T05:11:07+00:00",
+  "generatedAt": "2026-08-08T07:17:41+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "Affle 3i Limited",
+      "symbol": "AFFLE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 7.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1688.7,
+      "catalysts": [
+        {
+          "label": "Affle 3i Q1 Results: Time, Earnings Call, Dividend, What To Watch, Share Price",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Q1 Results Live Updates: Delhivery, Aditya Birla Fashion, PNC Infratech, Affle 3i Earnings In Focus",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/affle-3i-q1-time-earnings-call-dividend-what-to-watch-share-price-11882206#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-delhivery-aditya-birla-fashion-pnc-infratech-affle-3i-among-80-companies-to-announce-earnings-today-on-august-8-11882384#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "PNC Infratech Limited",
+      "symbol": "PNCINFRA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 224.38,
+      "catalysts": [
+        {
+          "label": "PNC Infratech Q1 Today: Time, Earnings Call, Dividend, What To Watch, Share Price",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Cessation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/pnc-infratech-q1-today-time-earnings-call-dividend-what-to-watch-share-price-11882111#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
     {
       "company": "Stanley Lifestyles Limited",
       "symbol": "STANLEY",
@@ -179,41 +266,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Orbit Exports Limited",
-      "symbol": "ORBTEXP",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 249.94,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Post Buyback Public Announcement",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Industrial Investment Trust Limited",
       "symbol": "IITL",
       "exchange": "NSE",
@@ -284,52 +336,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Delhivery Limited",
-      "symbol": "DELHIVERY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.2,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 473.3,
-      "catalysts": [
-        {
-          "label": "Delhivery Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Q1 Results Today: Delhivery, Aditya Birla Fashion, PNC Infratech Among 80+ Companies To Announce Earnings",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/delhivery-q1-results-today-time-earnings-call-dividend-what-to-watch-share-price-11879297#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-today-delhivery-aditya-birla-fashion-pnc-infratech-affle-3i-among-80-companies-to-announce-earnings-11879651#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Ideaforge Technology Limited",
       "symbol": "IDEAFORGE",
       "exchange": "NSE",
@@ -365,19 +371,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bombay Dyeing & Mfg Company Limited",
-      "symbol": "BOMDYEING",
+      "company": "Ddev Plastiks Industries Limited",
+      "symbol": "DDEVPLSTIK",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
       "confidence": 76,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 120.23,
+      "lastClose": 310.6,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -385,12 +391,12 @@
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Change in Director(s)",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -437,38 +443,49 @@
   ],
   "tomorrow": [
     {
-      "company": "Orbit Exports Limited",
-      "symbol": "ORBTEXP",
+      "company": "Affle 3i Limited",
+      "symbol": "AFFLE",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.8,
+      "predictionScore": 9.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 249.94,
+      "lastClose": 1688.7,
       "catalysts": [
         {
-          "label": "Financial Results/Dividend",
+          "label": "Affle 3i Q1 Results: Time, Earnings Call, Dividend, What To Watch, Share Price",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Q1 Results Live Updates: Delhivery, Aditya Birla Fashion, PNC Infratech, Affle 3i Earnings In Focus",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
           "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Post Buyback Public Announcement",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/affle-3i-q1-time-earnings-call-dividend-what-to-watch-share-price-11882206#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-delhivery-aditya-birla-fashion-pnc-infratech-affle-3i-among-80-companies-to-announce-earnings-today-on-august-8-11882384#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -498,6 +515,41 @@
         },
         {
           "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Ddev Plastiks Industries Limited",
+      "symbol": "DDEVPLSTIK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 310.6,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Change in Director(s)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -752,6 +804,47 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "PNC Infratech Limited",
+      "symbol": "PNCINFRA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 85,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 224.38,
+      "catalysts": [
+        {
+          "label": "PNC Infratech Q1 Today: Time, Earnings Call, Dividend, What To Watch, Share Price",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Cessation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/pnc-infratech-q1-today-time-earnings-call-dividend-what-to-watch-share-price-11882111#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Amara Raja Energy & Mobility Limited",
       "symbol": "ARE&M",
       "exchange": "NSE",
@@ -773,76 +866,6 @@
         },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Gland Pharma Limited",
-      "symbol": "GLAND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2608.3,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ddev Plastiks Industries Limited",
-      "symbol": "DDEVPLSTIK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 310.6,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
