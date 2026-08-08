@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T02:23:56+00:00",
+  "generatedAt": "2026-08-08T05:11:07+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -179,45 +179,39 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "BEML Limited",
-      "symbol": "BEML",
+      "company": "Orbit Exports Limited",
+      "symbol": "ORBTEXP",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.4,
-      "confidence": 87,
+      "predictionScore": 4.8,
+      "confidence": 80,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 249.94,
       "catalysts": [
         {
-          "label": "Q1 Results Updates: Raymond Profit Falls Due To Discontinued Operations; Oil India Profit Surges 73%",
-          "type": "results",
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Post Buyback Public Announcement",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-sbi-beml-titan-pfc-ola-electric-mobility-hindalco-industries-among-200-companies-to-announce-earnings-today-on-august-7-11877636#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Industrial Investment Trust Limited",
@@ -290,6 +284,52 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Delhivery Limited",
+      "symbol": "DELHIVERY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.2,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 17,
+      "lastClose": 473.3,
+      "catalysts": [
+        {
+          "label": "Delhivery Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Q1 Results Today: Delhivery, Aditya Birla Fashion, PNC Infratech Among 80+ Companies To Announce Earnings",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/delhivery-q1-results-today-time-earnings-call-dividend-what-to-watch-share-price-11879297#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-today-delhivery-aditya-birla-fashion-pnc-infratech-affle-3i-among-80-companies-to-announce-earnings-11879651#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Ideaforge Technology Limited",
       "symbol": "IDEAFORGE",
       "exchange": "NSE",
@@ -325,23 +365,23 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Master Components Limited",
-      "symbol": "MASTER",
+      "company": "Bombay Dyeing & Mfg Company Limited",
+      "symbol": "BOMDYEING",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 74,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 76,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 120.23,
       "catalysts": [
         {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
@@ -360,32 +400,69 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharat Forge Limited",
-      "symbol": "BHARATFORG",
+      "company": "Lumax Industries Limited",
+      "symbol": "LUMAXIND",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 74,
+      "predictionScore": 3.3,
+      "confidence": 76,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2265.2,
+      "lastClose": 5799.5,
       "catalysts": [
         {
-          "label": "Financial Results",
+          "label": "Financial Results/Other business matters",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Fund Raising",
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    }
+  ],
+  "tomorrow": [
+    {
+      "company": "Orbit Exports Limited",
+      "symbol": "ORBTEXP",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 249.94,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Post Buyback Public Announcement",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -394,43 +471,6 @@
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
     },
-    {
-      "company": "Advanced Enzyme Technologies Limited",
-      "symbol": "ADVENZYMES",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 72,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 329.8,
-      "catalysts": [
-        {
-          "label": "Buyback",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    }
-  ],
-  "tomorrow": [
     {
       "company": "Ideaforge Technology Limited",
       "symbol": "IDEAFORGE",
@@ -458,6 +498,41 @@
         },
         {
           "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Lumax Industries Limited",
+      "symbol": "LUMAXIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 5799.5,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -677,47 +752,6 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "BEML Limited",
-      "symbol": "BEML",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.4,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Q1 Results Updates: Raymond Profit Falls Due To Discontinued Operations; Oil India Profit Surges 73%",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-sbi-beml-titan-pfc-ola-electric-mobility-hindalco-industries-among-200-companies-to-announce-earnings-today-on-august-7-11877636#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Amara Raja Energy & Mobility Limited",
       "symbol": "ARE&M",
       "exchange": "NSE",
@@ -801,41 +835,6 @@
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
       "lastClose": 310.6,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Nitin Spinners Limited",
-      "symbol": "NITINSPIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 577.4,
       "catalysts": [
         {
           "label": "Financial Results",
