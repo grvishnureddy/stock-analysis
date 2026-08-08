@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T13:14:58+00:00",
+  "generatedAt": "2026-08-08T14:51:48+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,7 +11,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.2,
+      "predictionScore": 5.1,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Neutral",
@@ -76,6 +76,41 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Oswal Pumps Limited",
+      "symbol": "OSWALPUMPS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 326.1,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
@@ -228,7 +263,7 @@
       "company": "Delhivery Limited",
       "symbol": "DELHIVERY",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
+      "confirmedNewsCount": 15,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -245,12 +280,12 @@
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Resignation",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -299,47 +334,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Aditya Birla Fashion and Retail Limited",
-      "symbol": "ABFRL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.6,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 63.33,
-      "catalysts": [
-        {
-          "label": "Q1 Results Live Updates: Delhivery Profit Drops 65%, ABFRL Posts Rs 215-Crore Loss, Ceigall India Bottom Line Up",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-delhivery-aditya-birla-fashion-pnc-infratech-affle-3i-among-80-companies-to-announce-earnings-today-on-august-8-11882384#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Interarch Building Solutions Limited",
@@ -781,6 +775,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Oswal Pumps Limited",
+      "symbol": "OSWALPUMPS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 326.1,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Stanley Lifestyles Limited",
       "symbol": "STANLEY",
       "exchange": "NSE",
@@ -814,47 +843,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Aditya Birla Fashion and Retail Limited",
-      "symbol": "ABFRL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.9,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 63.33,
-      "catalysts": [
-        {
-          "label": "Q1 Results Live Updates: Delhivery Profit Drops 65%, ABFRL Posts Rs 215-Crore Loss, Ceigall India Bottom Line Up",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-delhivery-aditya-birla-fashion-pnc-infratech-affle-3i-among-80-companies-to-announce-earnings-today-on-august-8-11882384#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Medi Assist Healthcare Services Limited",
