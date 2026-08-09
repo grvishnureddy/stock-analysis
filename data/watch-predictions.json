@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T09:05:15+00:00",
+  "generatedAt": "2026-08-09T10:54:32+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -65,6 +65,41 @@
         },
         {
           "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Abans Financial Services Limited",
+      "symbol": "AFSL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 201.04,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Director(s)",
           "type": "announcement",
           "verified": true
         }
@@ -159,7 +194,7 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Ceigall India consolidated net profit rises 15.27% in the June 2026 quarter - business-standard.com",
+          "label": "Ceigall India consolidated net profit rises 15.27% in the June 2026 quarter - Business Standard",
           "type": "results",
           "verified": true
         },
@@ -182,82 +217,6 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Gland Pharma Limited",
-      "symbol": "GLAND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2601.0,
-      "catalysts": [
-        {
-          "label": "Corporate Actions This Week: Indus Towers, PTC India, Gland Pharma, HAL, HPCL, REC | Full List",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-indus-towers-ptc-india-gland-pharma-hal-hpcl-rec-full-list-11885143#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Abans Financial Services Limited",
-      "symbol": "AFSL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 82,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 201.04,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -331,6 +290,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Gland Pharma Limited",
+      "symbol": "GLAND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 2601.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Arrangements for strategic, technical, manufacturing, or marketing tie up",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Ideaforge Technology Limited",
       "symbol": "IDEAFORGE",
       "exchange": "NSE",
@@ -366,41 +360,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Ddev Plastiks Industries Limited",
-      "symbol": "DDEVPLSTIK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 288.2,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Redtape Limited",
       "symbol": "REDTAPE",
       "exchange": "NSE",
@@ -427,6 +386,41 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Speciality Restaurants Limited",
+      "symbol": "SPECIALITY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 145.17,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -511,7 +505,7 @@
       "company": "Gland Pharma Limited",
       "symbol": "GLAND",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -523,11 +517,6 @@
       "lastClose": 2601.0,
       "catalysts": [
         {
-          "label": "Corporate Actions This Week: Indus Towers, PTC India, Gland Pharma, HAL, HPCL, REC | Full List",
-          "type": "company news",
-          "verified": true
-        },
-        {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
@@ -536,16 +525,15 @@
           "label": "Press Release",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
+        },
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-indus-towers-ptc-india-gland-pharma-hal-hpcl-rec-full-list-11885143#publisher=newsstand",
+          "label": "Arrangements for strategic, technical, manufacturing, or marketing tie up",
+          "type": "announcement",
           "verified": true
         }
       ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -575,41 +563,6 @@
         },
         {
           "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ddev Plastiks Industries Limited",
-      "symbol": "DDEVPLSTIK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 288.2,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -680,6 +633,41 @@
         },
         {
           "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Abans Financial Services Limited",
+      "symbol": "AFSL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 201.04,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Director(s)",
           "type": "announcement",
           "verified": true
         }
@@ -809,7 +797,7 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Ceigall India consolidated net profit rises 15.27% in the June 2026 quarter - business-standard.com",
+          "label": "Ceigall India consolidated net profit rises 15.27% in the June 2026 quarter - Business Standard",
           "type": "results",
           "verified": true
         },
@@ -835,39 +823,39 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Abans Financial Services Limited",
-      "symbol": "AFSL",
+      "company": "Precision Wires India Limited",
+      "symbol": "PRECWIRE",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.5,
-      "confidence": 87,
+      "direction": "Positive watch",
+      "predictionScore": 5.2,
+      "confidence": 86,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 201.04,
+      "lastClose": 413.8,
       "catalysts": [
         {
-          "label": "Financial Results",
+          "label": "Financial Results/Other business matters",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Change in Management",
-          "type": "announcement",
+          "label": "Fund Raising",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Change in Director(s)",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     }
   ]
 }
