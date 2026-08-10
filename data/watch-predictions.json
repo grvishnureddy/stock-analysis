@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T19:19:44+00:00",
+  "generatedAt": "2026-08-10T21:04:54+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -43,6 +43,41 @@
         }
       ],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "M & B Engineering Limited",
+      "symbol": "MBEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 298.5,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Amara Raja Energy & Mobility Limited",
@@ -141,6 +176,41 @@
         },
         {
           "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Abans Financial Services Limited",
+      "symbol": "AFSL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 201.04,
+      "catalysts": [
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -255,32 +325,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "CARYSIL LIMITED",
-      "symbol": "CARYSIL",
+      "company": "Bombay Dyeing & Mfg Company Limited",
+      "symbol": "BOMDYEING",
       "exchange": "NSE",
       "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1183.9,
+      "lastClose": 120.23,
       "catalysts": [
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
           "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -325,41 +395,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Revathi Equipment India Limited",
-      "symbol": "RVTH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 733.45,
-      "catalysts": [
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Company Secretary/Compliance Officer",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Dilip Buildcon Limited",
       "symbol": "DBL",
       "exchange": "NSE",
@@ -387,41 +422,6 @@
         {
           "label": "Investor Presentation",
           "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Speciality Restaurants Limited",
-      "symbol": "SPECIALITY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 145.17,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -683,41 +683,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "CARYSIL LIMITED",
-      "symbol": "CARYSIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1183.9,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Panache Digilife Limited",
       "symbol": "PANACHE",
       "exchange": "NSE",
@@ -744,41 +709,6 @@
         },
         {
           "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Revathi Equipment India Limited",
-      "symbol": "RVTH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 733.45,
-      "catalysts": [
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Company Secretary/Compliance Officer",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
@@ -849,6 +779,76 @@
         },
         {
           "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Glottis Limited",
+      "symbol": "GLOTTIS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 69.06,
+      "catalysts": [
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bosch Limited",
+      "symbol": "BOSCHLTD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 42950.0,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         }
