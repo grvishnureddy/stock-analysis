@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T11:29:03+00:00",
+  "generatedAt": "2026-08-10T13:47:16+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,7 +7,7 @@
       "company": "M & B Engineering Limited",
       "symbol": "MBEL",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -19,12 +19,47 @@
       "lastClose": 267.7,
       "catalysts": [
         {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Statement of deviation(s) or variation(s) under Reg. 32",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Gland Pharma Limited",
+      "symbol": "GLAND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 2667.3,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
@@ -65,76 +100,6 @@
         },
         {
           "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Gland Pharma Limited",
-      "symbol": "GLAND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2667.3,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ndr Auto Components Limited",
-      "symbol": "NDRAUTO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 848.2,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -214,6 +179,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Exicom Tele-Systems Limited",
+      "symbol": "EXICOM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 153.22,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Info Edge (India) Limited",
       "symbol": "NAUKRI",
       "exchange": "NSE",
@@ -249,73 +249,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharat Forge Limited",
-      "symbol": "BHARATFORG",
+      "company": "Dollar Industries Limited",
+      "symbol": "DOLLAR",
       "exchange": "NSE",
       "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.1,
+      "predictionScore": 2.2,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 2093.1,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 278.5,
       "catalysts": [
-        {
-          "label": "Bharat Forge Shares Plummet 9% As Q1 Results Spooks Investors",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Q1 Results Live Updates: Bharat Forge Misses Estimates, Astrazeneca Profit Sinks 32%, Amara Raja Margin Shrinks",
-          "type": "results",
-          "verified": true
-        },
         {
           "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/bharat-forge-shares-plummet-9-as-q1-results-spooks-investors-11889502#publisher=newsstand",
-          "verified": true
         },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-vodafone-idea-bharat-forge-info-edge-hindustan-copper-bosch-among-250-companies-to-announce-earnings-today-11888284#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Exicom Tele-Systems Limited",
-      "symbol": "EXICOM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 153.22,
-      "catalysts": [
         {
           "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
@@ -328,6 +282,76 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bombay Dyeing & Mfg Company Limited",
+      "symbol": "BOMDYEING",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 89,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 119.95,
+      "catalysts": [
+        {
+          "label": "Change in Management",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Precision Wires India Limited",
+      "symbol": "PRECWIRE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.5,
+      "confidence": 87,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 433.3,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Bajel Projects Limited",
@@ -365,8 +389,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Talbros Automotive Components Limited",
-      "symbol": "TALBROAUTO",
+      "company": "Lloyds Metals And Energy Limited",
+      "symbol": "LLOYDSME",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -377,15 +401,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 422.05,
+      "lastClose": 2052.8,
       "catalysts": [
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         },
@@ -393,40 +412,10 @@
           "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Jain Irrigation Systems Limited",
-      "symbol": "JISLJALEQS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 82,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 28.3,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -436,6 +425,41 @@
     }
   ],
   "tomorrow": [
+    {
+      "company": "Gland Pharma Limited",
+      "symbol": "GLAND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 2667.3,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
     {
       "company": "CARYSIL LIMITED",
       "symbol": "CARYSIL",
@@ -472,10 +496,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Gland Pharma Limited",
-      "symbol": "GLAND",
+      "company": "Lloyds Metals And Energy Limited",
+      "symbol": "LLOYDSME",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -484,20 +508,55 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2667.3,
+      "lastClose": 2052.8,
       "catalysts": [
         {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Speciality Restaurants Limited",
+      "symbol": "SPECIALITY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 150.15,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -507,10 +566,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Ndr Auto Components Limited",
-      "symbol": "NDRAUTO",
+      "company": "Bosch Limited",
+      "symbol": "BOSCHLTD",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -519,7 +578,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 848.2,
+      "lastClose": 43505.0,
       "catalysts": [
         {
           "label": "Investor Presentation",
@@ -527,13 +586,13 @@
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
-          "type": "announcement",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -577,27 +636,57 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bannari Amman Spinning Mills Limited",
-      "symbol": "BASML",
+      "company": "Precision Wires India Limited",
+      "symbol": "PRECWIRE",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
+      "predictionScore": 5.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 28.34,
+      "technicalConfidence": 83,
+      "lastClose": 433.3,
       "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Ddev Plastiks Industries Limited",
+      "symbol": "DDEVPLSTIK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 285.8,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
@@ -605,40 +694,10 @@
           "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Speciality Restaurants Limited",
-      "symbol": "SPECIALITY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 150.15,
-      "catalysts": [
+        },
         {
-          "label": "Financial Results/Other business matters",
+          "label": "Financial Results",
           "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
           "verified": true
         }
       ],
@@ -650,7 +709,7 @@
       "company": "M & B Engineering Limited",
       "symbol": "MBEL",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -662,17 +721,17 @@
       "lastClose": 267.7,
       "catalysts": [
         {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Statement of deviation(s) or variation(s) under Reg. 32",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -717,8 +776,43 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Redtape Limited",
-      "symbol": "REDTAPE",
+      "company": "Dollar Industries Limited",
+      "symbol": "DOLLAR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 278.5,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Triveni Turbine Limited",
+      "symbol": "TRITURBINE",
       "exchange": "NSE",
       "confirmedNewsCount": 7,
       "gossipCount": 0,
@@ -729,77 +823,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 134.49,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Dabur India Limited",
-      "symbol": "DABUR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Exicom Tele-Systems Limited",
-      "symbol": "EXICOM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 153.22,
+      "lastClose": 636.75,
       "catalysts": [
         {
           "label": "Press Release",
@@ -807,47 +831,12 @@
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Giving guarantees/indemnity/ becoming a surety for third party",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Interarch Building Solutions Limited",
-      "symbol": "INTERARCH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 16,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
