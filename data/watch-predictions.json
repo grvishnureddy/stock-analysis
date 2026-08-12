@@ -1,8 +1,43 @@
 {
-  "generatedAt": "2026-08-12T02:47:05+00:00",
+  "generatedAt": "2026-08-12T05:48:31+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "Bajel Projects Limited",
+      "symbol": "BAJEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
     {
       "company": "NBCC (India) Limited",
       "symbol": "NBCC",
@@ -11,7 +46,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.4,
+      "predictionScore": 3.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -53,47 +88,6 @@
       "company": "BEML Limited",
       "symbol": "BEML",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Top Gainers & Losers on 10 August: Hitachi Energy, Paytm, Titian, BSE, BEML, Lenskart among top gainers - livemint.com",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNckJ5MHBRTU5lZEdjOHREaXhsNU1QWF9xWnVZUjM0S3dyRXdDMHkyMGZIY3RTOHoxeF9FWGRjaDg1ZjVYdktRdmtrVHluSERBWU9GbktVa1NoMHI5Qmd5OU9wNlN0T2gxU0FCM3FnY3VjRXhSOWxaMkxkMDhRcG1jRHhUWktWM0tCdjVTUjJKOEhCYVBKbkdGSkl6RkxHMVotbGJsUWU1OTczc3VNd0xOSzhLalNOeUxZdlJHXzk1ZXVnMlpwWndwVm12Wmh2UzVaSGVDV3lXTTdKZms2cTNGczBidWVRTE1lX0F6TDdJYWNTQzAyZnJWbtIB_gFBVV95cUxOaVhwdG5UT05oN0lVTE54NGFIZWVNWS13MW93S2lsQTk0Qy1qQ0pmdm9ESUJtQThCOUVyazZzS2I1Umt6UzJvNkpqSW9MWXNGeV9BeHRYSnRWamJrV3NiTWNfUkJhSy1iaGpEdEFiM201RElMdUVHVjVxcDR6T3hSSnlxOEp1aXlHTzVrN3BibVI2Ni1FZDliYXdqTjlpWXVKV2I1T0VtMVNDQkJxT3hGNGtRUm5YeGcwN2xHMUl4UmlKRktMUi1uTi1md3NjWVlVc2V0N1FJdWNrdFRLbU1FOW5na25xOGxSUU12RWlLSzRFUDlkV1B0ZWZ6X1NHUQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bajel Projects Limited",
-      "symbol": "BAJEL",
-      "exchange": "NSE",
       "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "today",
@@ -106,52 +100,17 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "The Grob Tea Company Limited",
-      "symbol": "GROBTEA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 900.3,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Disclosure of material issue",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -222,6 +181,41 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "The Grob Tea Company Limited",
+      "symbol": "GROBTEA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 934.5,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Disclosure of material issue",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -313,7 +307,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 3322.2,
+      "lastClose": 3361.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -333,6 +327,47 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Piccadily Agro Industries Limited",
+      "symbol": "PICCADIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.7,
+      "confidence": 82,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Share Price Falls 16%: Piccadily Agro Industries Stock Slumps Amid Profit Booking After Q1 Results",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/share-price-falls-16-percent-piccadily-agro-industries-stock-slumps-amid-profit-booking-after-q1-results-11898183#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -383,7 +418,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 550.65,
+      "lastClose": 569.45,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -397,41 +432,6 @@
         },
         {
           "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Aditya Infotech Limited",
-      "symbol": "CPPLUS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 3764.8,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         }
@@ -455,7 +455,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 3322.2,
+      "lastClose": 3361.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -490,7 +490,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 550.65,
+      "lastClose": 569.45,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -525,7 +525,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 3764.8,
+      "lastClose": 3845.8,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -548,19 +548,89 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Indo Count Industries Limited",
+      "symbol": "ICIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 413.8,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bajel Projects Limited",
+      "symbol": "BAJEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "The Grob Tea Company Limited",
       "symbol": "GROBTEA",
       "exchange": "NSE",
       "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.5,
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 900.3,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 934.5,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -590,7 +660,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.4,
+      "predictionScore": 3.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -632,47 +702,6 @@
       "company": "BEML Limited",
       "symbol": "BEML",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Top Gainers & Losers on 10 August: Hitachi Energy, Paytm, Titian, BSE, BEML, Lenskart among top gainers - livemint.com",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNckJ5MHBRTU5lZEdjOHREaXhsNU1QWF9xWnVZUjM0S3dyRXdDMHkyMGZIY3RTOHoxeF9FWGRjaDg1ZjVYdktRdmtrVHluSERBWU9GbktVa1NoMHI5Qmd5OU9wNlN0T2gxU0FCM3FnY3VjRXhSOWxaMkxkMDhRcG1jRHhUWktWM0tCdjVTUjJKOEhCYVBKbkdGSkl6RkxHMVotbGJsUWU1OTczc3VNd0xOSzhLalNOeUxZdlJHXzk1ZXVnMlpwWndwVm12Wmh2UzVaSGVDV3lXTTdKZms2cTNGczBidWVRTE1lX0F6TDdJYWNTQzAyZnJWbtIB_gFBVV95cUxOaVhwdG5UT05oN0lVTE54NGFIZWVNWS13MW93S2lsQTk0Qy1qQ0pmdm9ESUJtQThCOUVyazZzS2I1Umt6UzJvNkpqSW9MWXNGeV9BeHRYSnRWamJrV3NiTWNfUkJhSy1iaGpEdEFiM201RElMdUVHVjVxcDR6T3hSSnlxOEp1aXlHTzVrN3BibVI2Ni1FZDliYXdqTjlpWXVKV2I1T0VtMVNDQkJxT3hGNGtRUm5YeGcwN2xHMUl4UmlKRktMUi1uTi1md3NjWVlVc2V0N1FJdWNrdFRLbU1FOW5na25xOGxSUU12RWlLSzRFUDlkV1B0ZWZ6X1NHUQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bajel Projects Limited",
-      "symbol": "BAJEL",
-      "exchange": "NSE",
       "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
@@ -685,17 +714,17 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Shareholders meeting",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -836,41 +865,6 @@
         },
         {
           "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Indo Count Industries Limited",
-      "symbol": "ICIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 425.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
