@@ -1,8 +1,49 @@
 {
-  "generatedAt": "2026-08-13T07:55:53+00:00",
+  "generatedAt": "2026-08-13T09:35:02+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "CESC Limited",
+      "symbol": "CESC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 5.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 0,
+      "lastClose": 165.16,
+      "catalysts": [
+        {
+          "label": "Q1 Results Live: CESC Profit Rises 3%, Juniper Hotels Profit Quadruples; Tata Motors PV, LG Electronics India Earnings In Focus",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Dividend",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-tata-motors-pv-lg-electronics-india-max-healthcare-jubilant-foodworks-igl-among-500-companies-to-announce-earnings-today-11903153#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
     {
       "company": "Bajel Projects Limited",
       "symbol": "BAJEL",
@@ -30,6 +71,41 @@
         },
         {
           "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "General Insurance Corporation of India",
+      "symbol": "GICRE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 348.35,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -71,6 +147,52 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Shalimar Paints Limited",
+      "symbol": "SHALPAINTS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Shalimar Paints Surges 5% To Hit Upper Circuit After Board Approves Reverse Merger Infra.Market",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Shalimar Paints Approves Hella Infra Market Stake Swap; Eyes Future Unification Of Entities",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/shalimar-paints-surges-5-to-hit-upper-circuit-after-board-approves-reverse-merger-infra-market-11904013#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/shalimar-paints-approves-hella-infra-market-stake-swap-eyes-future-unification-of-entities-11903925#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -156,7 +278,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 369.0,
+      "lastClose": 369.75,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -284,143 +406,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Engineers India Limited",
-      "symbol": "ENGINERSIN",
+      "company": "Cords Cable Industries Limited",
+      "symbol": "CORDSCABLE",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 1,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 72,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 241.3,
-      "catalysts": [
-        {
-          "label": "Bata India Q1 Results | Enviro Infra Engineers Q1 Results | Top Buzzing Stocks Today - Equitymaster",
-          "type": "company news",
-          "verified": false
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZGNBNXVldHluMktMSWNidXF1akpGTWdzMVBseVlxcjVqMUx3THgzdDliNlo2RE1VVlVZQkxCMGpHOFhycHhZYy0tcXlOT2JINHV5Nlo3Mi0yVkE3bHRMS2RiZ3luN3RBQ0dhanNpQWRLT0liY3Z2LTEwUEJ4cUhodDZzWWdtQkRqNlJkUUtNOGZpU0hxTVpHRTVNU1BYejRSOVI5RTRhYkFDTXhieFhZNy0yLXNzekNQYmZqSDU2ZFkwc1Nia2ZGZFhBMmJCSjRtZ1luZXZQV2F1Q3M?oc=5",
-          "verified": false
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "DCM  Limited",
-      "symbol": "DCM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 69,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 82.75,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Brigade Enterprises Limited",
-      "symbol": "BRIGADE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 69,
+      "predictionScore": 2.2,
+      "confidence": 74,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 589.6,
+      "technicalConfidence": 67,
+      "lastClose": 230.0,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Change in Auditors",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Change in Auditors",
           "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Centum Electronics Limited",
-      "symbol": "CENTUM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 69,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 3823.7,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
           "verified": true
         },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -444,7 +455,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 369.0,
+      "lastClose": 369.75,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -465,6 +476,47 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "CESC Limited",
+      "symbol": "CESC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 0,
+      "lastClose": 165.16,
+      "catalysts": [
+        {
+          "label": "Q1 Results Live: CESC Profit Rises 3%, Juniper Hotels Profit Quadruples; Tata Motors PV, LG Electronics India Earnings In Focus",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Dividend",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-tata-motors-pv-lg-electronics-india-max-healthcare-jubilant-foodworks-igl-among-500-companies-to-announce-earnings-today-11903153#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Bajel Projects Limited",
@@ -493,6 +545,41 @@
         },
         {
           "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "General Insurance Corporation of India",
+      "symbol": "GICRE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 348.35,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -534,6 +621,87 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Amagi Media Labs Limited",
+      "symbol": "AMAGI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.9,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 60,
+      "lastClose": 648.4,
+      "catalysts": [
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Amendment to AOA/MOA",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Shalimar Paints Limited",
+      "symbol": "SHALPAINTS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Shalimar Paints Surges 5% To Hit Upper Circuit After Board Approves Reverse Merger Infra.Market",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Shalimar Paints Approves Hella Infra Market Stake Swap; Eyes Future Unification Of Entities",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/shalimar-paints-surges-5-to-hit-upper-circuit-after-board-approves-reverse-merger-infra-market-11904013#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/shalimar-paints-approves-hella-infra-market-stake-swap-eyes-future-unification-of-entities-11903925#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -619,7 +787,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 241.3,
+      "lastClose": 240.6,
       "catalysts": [
         {
           "label": "Bata India Q1 Results | Enviro Infra Engineers Q1 Results | Top Buzzing Stocks Today - Equitymaster",
@@ -648,104 +816,34 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Amagi Media Labs Limited",
-      "symbol": "AMAGI",
+      "company": "Cords Cable Industries Limited",
+      "symbol": "CORDSCABLE",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 2.9,
-      "confidence": 84,
+      "predictionScore": 3.7,
+      "confidence": 85,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 60,
-      "lastClose": 671.45,
+      "technicalConfidence": 67,
+      "lastClose": 230.0,
       "catalysts": [
         {
-          "label": "Appointment",
+          "label": "Change in Auditors",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Amendment to AOA/MOA",
+          "label": "Change in Auditors",
           "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Brigade Enterprises Limited",
-      "symbol": "BRIGADE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 589.6,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Centum Electronics Limited",
-      "symbol": "CENTUM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 3823.7,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
           "verified": true
         },
         {
           "label": "General Updates",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
@@ -753,54 +851,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "RMC Switchgears Limited",
-      "symbol": "RMC",
+      "company": "Galaxy Surfactants Limited",
+      "symbol": "GALAXYSURF",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Honasa Consumer Limited",
-      "symbol": "HONASA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 80,
+      "predictionScore": 5.3,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 477.5,
+      "technicalConfidence": 100,
+      "lastClose": 2094.6,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -808,47 +871,12 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "United Drilling Tools Limited",
-      "symbol": "UNIDT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 79,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
