@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T21:06:23+00:00",
+  "generatedAt": "2026-08-13T23:05:28+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -664,7 +664,7 @@
       "symbol": "ENGINERSIN",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
-      "gossipCount": 1,
+      "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 5.3,
@@ -675,11 +675,6 @@
       "lastClose": 239.2,
       "catalysts": [
         {
-          "label": "Bata India Q1 Results | Enviro Infra Engineers Q1 Results | Top Buzzing Stocks Today - Equitymaster",
-          "type": "company news",
-          "verified": false
-        },
-        {
           "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
@@ -688,16 +683,15 @@
           "label": "Updates",
           "type": "announcement",
           "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZGNBNXVldHluMktMSWNidXF1akpGTWdzMVBseVlxcjVqMUx3THgzdDliNlo2RE1VVlVZQkxCMGpHOFhycHhZYy0tcXlOT2JINHV5Nlo3Mi0yVkE3bHRMS2RiZ3luN3RBQ0dhanNpQWRLT0liY3Z2LTEwUEJ4cUhodDZzWWdtQkRqNlJkUUtNOGZpU0hxTVpHRTVNU1BYejRSOVI5RTRhYkFDTXhieFhZNy0yLXNzekNQYmZqSDU2ZFkwc1Nia2ZGZFhBMmJCSjRtZ1luZXZQV2F1Q3M?oc=5",
-          "verified": false
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
