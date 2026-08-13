@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T02:49:57+00:00",
+  "generatedAt": "2026-08-13T05:50:40+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -77,7 +77,7 @@
       "company": "Manappuram Finance Limited",
       "symbol": "MANAPPURAM",
       "exchange": "NSE",
-      "confirmedNewsCount": 19,
+      "confirmedNewsCount": 20,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -89,17 +89,17 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -156,7 +156,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 362.0,
+      "lastClose": 370.0,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -214,32 +214,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Brooks Laboratories Limited",
-      "symbol": "BROOKS",
+      "company": "RMC Switchgears Limited",
+      "symbol": "RMC",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 74,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 59.51,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -249,38 +249,120 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "B.A.G Films and Media Limited",
-      "symbol": "BAGFILMS",
+      "company": "Railtel Corporation Of India Limited",
+      "symbol": "RAILTEL",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 69,
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 74,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 4.33,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
+          "label": "General Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Honasa Consumer Limited",
+      "symbol": "HONASA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 74,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 484.95,
+      "catalysts": [
+        {
+          "label": "Q1 Results Live: Tata Motors PV, LG Electronics India, Max Healthcare, Jubilant FoodWorks, IGL, Honasa Consumer Earnings In Focus",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-tata-motors-pv-lg-electronics-india-max-healthcare-jubilant-foodworks-igl-among-500-companies-to-announce-earnings-today-11903153#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 1,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 72,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 242.41,
+      "catalysts": [
+        {
+          "label": "Bata India Q1 Results | Enviro Infra Engineers Q1 Results | Top Buzzing Stocks Today - Equitymaster",
+          "type": "company news",
+          "verified": false
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNnh2RmJHN3lBUWtqVF9Zd1U4RExWSkhxZGYzc3QtbHFSSFlrX3h5dDN3d0FRM2otblp5cVBXV3ljR2ZHVHJta3Nuc2NKMzBtSEFGekJ1aVFQSkkyZXh4d3VMLU16dXFxQjkzMGlCaURoem9CMEZ4bWhxVDgwMVFXSlE2aXVQckQ1b3EzSDBsOFBGanJUeksxdjlTY0IyaWg0UUJlTERpVkRrVVZHMW43MEpreDlTUnlURXl1VTM3cFUtbHJFTkl1RHU3MUgzS1FkTWdMNnc4aEFWQQ?oc=5",
+          "verified": false
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -296,7 +378,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 83.75,
+      "lastClose": 82.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -319,41 +401,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Brigade Enterprises Limited",
-      "symbol": "BRIGADE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 69,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 605.1,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Galaxy Surfactants Limited",
       "symbol": "GALAXYSURF",
       "exchange": "NSE",
@@ -366,7 +413,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2022.4,
+      "lastClose": 2025.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -380,41 +427,6 @@
         },
         {
           "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Centum Electronics Limited",
-      "symbol": "CENTUM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 69,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 3821.2,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -438,7 +450,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 362.0,
+      "lastClose": 370.0,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -534,7 +546,7 @@
       "company": "Manappuram Finance Limited",
       "symbol": "MANAPPURAM",
       "exchange": "NSE",
-      "confirmedNewsCount": 19,
+      "confirmedNewsCount": 20,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -546,17 +558,17 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -601,39 +613,86 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Brigade Enterprises Limited",
-      "symbol": "BRIGADE",
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
+      "confirmedNewsCount": 4,
+      "gossipCount": 1,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 5.3,
-      "confidence": 83,
+      "confidence": 86,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 605.1,
+      "lastClose": 242.41,
       "catalysts": [
+        {
+          "label": "Bata India Q1 Results | Enviro Infra Engineers Q1 Results | Top Buzzing Stocks Today - Equitymaster",
+          "type": "company news",
+          "verified": false
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNnh2RmJHN3lBUWtqVF9Zd1U4RExWSkhxZGYzc3QtbHFSSFlrX3h5dDN3d0FRM2otblp5cVBXV3ljR2ZHVHJta3Nuc2NKMzBtSEFGekJ1aVFQSkkyZXh4d3VMLU16dXFxQjkzMGlCaURoem9CMEZ4bWhxVDgwMVFXSlE2aXVQckQ1b3EzSDBsOFBGanJUeksxdjlTY0IyaWg0UUJlTERpVkRrVVZHMW43MEpreDlTUnlURXl1VTM3cFUtbHJFTkl1RHU3MUgzS1FkTWdMNnc4aEFWQQ?oc=5",
+          "verified": false
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Honasa Consumer Limited",
+      "symbol": "HONASA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.7,
+      "confidence": 85,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 484.95,
+      "catalysts": [
+        {
+          "label": "Q1 Results Live: Tata Motors PV, LG Electronics India, Max Healthcare, Jubilant FoodWorks, IGL, Honasa Consumer Earnings In Focus",
+          "type": "results",
+          "verified": true
+        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q1-results-live-updates-tata-motors-pv-lg-electronics-india-max-healthcare-jubilant-foodworks-igl-among-500-companies-to-announce-earnings-today-11903153#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Galaxy Surfactants Limited",
@@ -648,7 +707,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2022.4,
+      "lastClose": 2025.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -683,7 +742,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 3821.2,
+      "lastClose": 3825.0,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -703,117 +762,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Foseco India Limited",
-      "symbol": "FOSECOIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 5500.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Brooks Laboratories Limited",
-      "symbol": "BROOKS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 59.51,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Engineers India Limited",
-      "symbol": "ENGINERSIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 1,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 79,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 239.2,
-      "catalysts": [
-        {
-          "label": "Bata India Q1 Results | Enviro Infra Engineers Q1 Results | Top Buzzing Stocks Today - equitymaster.com",
-          "type": "company news",
-          "verified": false
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNnh2RmJHN3lBUWtqVF9Zd1U4RExWSkhxZGYzc3QtbHFSSFlrX3h5dDN3d0FRM2otblp5cVBXV3ljR2ZHVHJta3Nuc2NKMzBtSEFGekJ1aVFQSkkyZXh4d3VMLU16dXFxQjkzMGlCaURoem9CMEZ4bWhxVDgwMVFXSlE2aXVQckQ1b3EzSDBsOFBGanJUeksxdjlTY0IyaWg0UUJlTERpVkRrVVZHMW43MEpreDlTUnlURXl1VTM3cFUtbHJFTkl1RHU3MUgzS1FkTWdMNnc4aEFWQQ?oc=5",
-          "verified": false
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -844,6 +792,76 @@
         {
           "label": "Change in Auditors",
           "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Aartech Solonics Limited",
+      "symbol": "AARTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 50.5,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Q1 FY27 results scheduled 2026-08-13",
+          "type": "result",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bajaj Hindusthan Sugar Limited",
+      "symbol": "BAJAJHIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 18.22,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Q1 FY27 results scheduled 2026-08-13",
+          "type": "result",
           "verified": true
         }
       ],
