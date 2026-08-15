@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T22:43:17+00:00",
+  "generatedAt": "2026-08-15T01:51:19+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,12 +11,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.4,
+      "predictionScore": 6.9,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 17,
+      "lastClose": 1494.0,
       "catalysts": [
         {
           "label": "Tata Advanced Systems, NIBE Bag Rs 1,577-Crore Defence Order For Loiter Munitions",
@@ -42,77 +42,7 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "BEML Limited",
-      "symbol": "BEML",
-      "exchange": "NSE",
-      "confirmedNewsCount": 14,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bajel Projects Limited",
-      "symbol": "BAJEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Saatvik Green Energy Limited",
@@ -150,39 +80,86 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "B&B Triplewall Containers Limited",
-      "symbol": "BBTCL",
+      "company": "Godrej Consumer Products Limited",
+      "symbol": "GODREJCP",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 15,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.2,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 231.03,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 934.3,
       "catalysts": [
         {
-          "label": "Record Date",
+          "label": "Sensex Today Ends 188 Points Lower | Nifty Below 24,450 | Godrej Consumer Products Down 11% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ1UzNDZEejUtZUhPY3NHOUp5QnlQVkY4VW9KTkxndFhvbnJiY3kyMnphbnUzZHpXdk05a2RFZ2ctYmczdjkzMnNkN256dEtJRFljQS01T1lMSWtGaUpSTlFoWFM1OWZ3VEpBRUpyMGJReG9OblVjbUp5V09mSVI0SXBBRmZBazR1Z3JUaERqV1l0N2hVRTJYN210WkJPY29NdnRyNndNQjJlYld5Q1Z2U29udXZmdERpOVpvY3QwZ09VNk9SYjVMUFQ4OTFhR2NQOWM3UUM1ckNqY2g4a2cxcVFn?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 1,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 240.58,
+      "catalysts": [
+        {
+          "label": "Bata India Q1 Results | Enviro Infra Engineers Q1 Results | Top Buzzing Stocks Today - Equitymaster",
+          "type": "company news",
+          "verified": false
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZGNBNXVldHluMktMSWNidXF1akpGTWdzMVBseVlxcjVqMUx3THgzdDliNlo2RE1VVlVZQkxCMGpHOFhycHhZYy0tcXlOT2JINHV5Nlo3Mi0yVkE3bHRMS2RiZ3luN3RBQ0dhanNpQWRLT0liY3Z2LTEwUEJ4cUhodDZzWWdtQkRqNlJkUUtNOGZpU0hxTVpHRTVNU1BYejRSOVI5RTRhYkFDTXhieFhZNy0yLXNzekNQYmZqSDU2ZFkwc1Nia2ZGZFhBMmJCSjRtZ1luZXZQV2F1Q3M?oc=5",
+          "verified": false
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "AVG Logistics Limited",
@@ -192,12 +169,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.1,
+      "predictionScore": 3.0,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
-      "lastClose": 207.3,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
           "label": "Press Release",
@@ -217,42 +194,7 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Belrise Industries Limited",
-      "symbol": "BELRISE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 254.42,
-      "catalysts": [
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "CESC Limited",
@@ -322,6 +264,47 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Vodafone Idea Limited",
+      "symbol": "IDEA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 14.11,
+      "catalysts": [
+        {
+          "label": "Vodafone Idea, Motisons, LEAP India Among Top NSE Movers - HDFC Sky",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPXzcwWGM1SjMzMlFGT1lOeHlzOUN1d0VsQ29zaVU3cVRrZkxNQmYxbFNLU3FpODhOR0NzT3hPQXFmSy10ek93XzVYQkFsVVZ3NDFqVEkyN2lYbEx0a242T3M4b0Rzelh1dnlVOFowUkJKUWtBU0QzZ1JPdnU5SDJUSmxwQzVFLTlXdzAyVV9sRHVwQko0dnhOZ3dUWUJ5ZDdZTldmSVg5Z2lGY1RHa0RtbkNMTk5vU2xIRkdXNmxoYVNmRGN6WVpTdQ?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -428,6 +411,47 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "LG Electronics India Limited",
+      "symbol": "LGEINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1729.7,
+      "catalysts": [
+        {
+          "label": "LG Electronics India surges as Q1 PAT rises 27% YoY - Business Standard",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUcycC1Eekc2QWllS3dncnR4dEo1ckxGWThKRHRmMkRvSVpYaVlLNWNrclplTGdYaHNDRk9tYzNpN2h2MkJENDZVcDJLU1hIMlppMHpUcFJhMTVRZzNTVXBUa0lxYkVFdmlqeGJQZ3NzWE9DaF9TbmFkMC1GS2sxSW5mOFJkN3p6OTQxUVZyV3RhcEl4S0lrbVlhcWYwNVVnSVplRjNqSFBMUWdENktJZnNOcF85WFRmczZyNUlTQmxqeVFRWUdBWWd5WmbSAdIBQVVfeXFMTkFaNUk1TW5acXlIX0dCTWhxNWRJd3NnWnZway01WDJ1RUotRkRlbTZxSnN5ZUdINGlNWmZVS0lUelFQa2U3ekdlLURSVU9XU0o0c1VnaC1iTVZMRzlid2F1Wm13RHd1dkhQMy1XV0FyM1VheVgtUlhBWGRJektrYnpCU21WS0lLX2tTOERDd2s2WUktU1hfNUlpUG1Od1JLckR2eDRLNkNBTFFmNDRJVlVVSEFJakFfY1hkV1BYTlpRczdTczJWN1dLRC0zQ3ZIQldn?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -439,12 +463,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.9,
+      "predictionScore": 7.1,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 17,
+      "lastClose": 1494.0,
       "catalysts": [
         {
           "label": "Tata Advanced Systems, NIBE Bag Rs 1,577-Crore Defence Order For Loiter Munitions",
@@ -470,132 +494,68 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "B&B Triplewall Containers Limited",
-      "symbol": "BBTCL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 231.03,
-      "catalysts": [
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Century Extrusions Limited",
-      "symbol": "CENTEXT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 21.72,
-      "catalysts": [
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Belrise Industries Limited",
-      "symbol": "BELRISE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 254.42,
-      "catalysts": [
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "AVG Logistics Limited",
-      "symbol": "AVG",
+      "company": "Godrej Consumer Products Limited",
+      "symbol": "GODREJCP",
       "exchange": "NSE",
       "confirmedNewsCount": 15,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.1,
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
-      "lastClose": 207.3,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 934.3,
       "catalysts": [
         {
-          "label": "Press Release",
+          "label": "Sensex Today Ends 188 Points Lower | Nifty Below 24,450 | Godrej Consumer Products Down 11% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ1UzNDZEejUtZUhPY3NHOUp5QnlQVkY4VW9KTkxndFhvbnJiY3kyMnphbnUzZHpXdk05a2RFZ2ctYmczdjkzMnNkN256dEtJRFljQS01T1lMSWtGaUpSTlFoWFM1OWZ3VEpBRUpyMGJReG9OblVjbUp5V09mSVI0SXBBRmZBazR1Z3JUaERqV1l0N2hVRTJYN210WkJPY29NdnRyNndNQjJlYld5Q1Z2U29udXZmdERpOVpvY3QwZ09VNk9SYjVMUFQ4OTFhR2NQOWM3UUM1ckNqY2g4a2cxcVFn?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 1,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 240.58,
+      "catalysts": [
+        {
+          "label": "Bata India Q1 Results | Enviro Infra Engineers Q1 Results | Top Buzzing Stocks Today - Equitymaster",
+          "type": "company news",
+          "verified": false
         },
         {
           "label": "General Updates",
@@ -603,14 +563,20 @@
           "verified": true
         },
         {
-          "label": "Amendment to AOA/MOA",
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZGNBNXVldHluMktMSWNidXF1akpGTWdzMVBseVlxcjVqMUx3THgzdDliNlo2RE1VVlVZQkxCMGpHOFhycHhZYy0tcXlOT2JINHV5Nlo3Mi0yVkE3bHRMS2RiZ3luN3RBQ0dhanNpQWRLT0liY3Z2LTEwUEJ4cUhodDZzWWdtQkRqNlJkUUtNOGZpU0hxTVpHRTVNU1BYejRSOVI5RTRhYkFDTXhieFhZNy0yLXNzekNQYmZqSDU2ZFkwc1Nia2ZGZFhBMmJCSjRtZ1luZXZQV2F1Q3M?oc=5",
+          "verified": false
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Saatvik Green Energy Limited",
@@ -620,7 +586,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.0,
+      "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -648,23 +614,23 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "BEML Limited",
-      "symbol": "BEML",
+      "company": "Vodafone Idea Limited",
+      "symbol": "IDEA",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.5,
+      "predictionScore": 4.0,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 14.11,
       "catalysts": [
         {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
+          "label": "Vodafone Idea, Motisons, LEAP India Among Top NSE Movers - HDFC Sky",
+          "type": "company news",
           "verified": true
         },
         {
@@ -679,18 +645,65 @@
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPXzcwWGM1SjMzMlFGT1lOeHlzOUN1d0VsQ29zaVU3cVRrZkxNQmYxbFNLU3FpODhOR0NzT3hPQXFmSy10ek93XzVYQkFsVVZ3NDFqVEkyN2lYbEx0a242T3M4b0Rzelh1dnlVOFowUkJKUWtBU0QzZ1JPdnU5SDJUSmxwQzVFLTlXdzAyVV9sRHVwQko0dnhOZ3dUWUJ5ZDdZTldmSVg5Z2lGY1RHa0RtbkNMTk5vU2xIRkdXNmxoYVNmRGN6WVpTdQ?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bajel Projects Limited",
-      "symbol": "BAJEL",
+      "company": "LG Electronics India Limited",
+      "symbol": "LGEINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.5,
+      "predictionScore": 3.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1729.7,
+      "catalysts": [
+        {
+          "label": "LG Electronics India surges as Q1 PAT rises 27% YoY - Business Standard",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUcycC1Eekc2QWllS3dncnR4dEo1ckxGWThKRHRmMkRvSVpYaVlLNWNrclplTGdYaHNDRk9tYzNpN2h2MkJENDZVcDJLU1hIMlppMHpUcFJhMTVRZzNTVXBUa0lxYkVFdmlqeGJQZ3NzWE9DaF9TbmFkMC1GS2sxSW5mOFJkN3p6OTQxUVZyV3RhcEl4S0lrbVlhcWYwNVVnSVplRjNqSFBMUWdENktJZnNOcF85WFRmczZyNUlTQmxqeVFRWUdBWWd5WmbSAdIBQVVfeXFMTkFaNUk1TW5acXlIX0dCTWhxNWRJd3NnWnZway01WDJ1RUotRkRlbTZxSnN5ZUdINGlNWmZVS0lUelFQa2U3ekdlLURSVU9XU0o0c1VnaC1iTVZMRzlid2F1Wm13RHd1dkhQMy1XV0FyM1VheVgtUlhBWGRJektrYnpCU21WS0lLX2tTOERDd2s2WUktU1hfNUlpUG1Od1JLckR2eDRLNkNBTFFmNDRJVlVVSEFJakFfY1hkV1BYTlpRczdTczJWN1dLRC0zQ3ZIQldn?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "AVG Logistics Limited",
+      "symbol": "AVG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 15,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -703,6 +716,41 @@
           "verified": true
         },
         {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Amendment to AOA/MOA",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "CESC Limited",
+      "symbol": "CESC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
@@ -718,67 +766,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Dishman Carbogen Amcis Limited",
-      "symbol": "DCAL",
+      "company": "Diamond Power Infrastructure Limited",
+      "symbol": "DIACABS",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.5,
+      "predictionScore": 3.0,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 198.5,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Emmbi Industries Limited",
-      "symbol": "EMMBI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 85.35,
-      "catalysts": [
+        },
         {
-          "label": "Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -788,54 +801,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Gufic Biosciences Limited",
-      "symbol": "GUFICBIO",
+      "company": "Manappuram Finance Limited",
+      "symbol": "MANAPPURAM",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 21,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.7,
+      "predictionScore": 2.2,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 430.25,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Acquisition",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ashok Leyland Limited",
-      "symbol": "ASHOKLEY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 176.23,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
           "label": "Shareholders meeting",
@@ -843,12 +821,82 @@
           "verified": true
         },
         {
-          "label": "Acquisition",
+          "label": "Monitoring Agency Report",
           "type": "announcement",
           "verified": true
         },
         {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Advanced Enzyme Technologies Limited",
+      "symbol": "ADVENZYMES",
+      "exchange": "NSE",
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
           "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Buyback",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Kalpataru Projects International Limited",
+      "symbol": "KPIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
