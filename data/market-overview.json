@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T03:06:56+00:00",
+  "updatedAt": "2026-08-15T04:49:21+00:00",
   "instruments": [
     {
       "name": "Nifty 50",
@@ -287,22 +287,10 @@
       "asOf": "2026-08-14",
       "change1d": -0.09,
       "change1w": -0.62,
-      "change1m": 0.51,
+      "change1m": 1.07,
       "rangeLow": 76059.77,
       "rangeHigh": 78954.76,
       "chart": [
-        {
-          "date": "2026-05-11",
-          "close": 76015.28
-        },
-        {
-          "date": "2026-05-12",
-          "close": 74559.24
-        },
-        {
-          "date": "2026-05-13",
-          "close": 74608.98
-        },
         {
           "date": "2026-05-14",
           "close": 75398.72
@@ -488,6 +476,14 @@
           "close": 77708.52
         },
         {
+          "date": "2026-07-21",
+          "close": 77470.11
+        },
+        {
+          "date": "2026-07-22",
+          "close": 76755.05
+        },
+        {
           "date": "2026-07-23",
           "close": 76391.39
         },
@@ -510,6 +506,10 @@
         {
           "date": "2026-07-30",
           "close": 77928.15
+        },
+        {
+          "date": "2026-07-31",
+          "close": 78094.64
         },
         {
           "date": "2026-08-03",
@@ -1391,14 +1391,18 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY METAL",
-      "price": 12941.7,
-      "asOf": "2026-08-14",
-      "change1d": 4.06,
-      "change1w": 2.7,
-      "change1m": -0.53,
+      "price": 12436.95,
+      "asOf": "2026-07-17",
+      "change1d": -0.47,
+      "change1w": -1.99,
+      "change1m": -4.41,
       "rangeLow": 12394.75,
       "rangeHigh": 13091.2,
       "chart": [
+        {
+          "date": "2026-04-15",
+          "close": 12548.0
+        },
         {
           "date": "2026-04-16",
           "close": 12740.2
@@ -1654,10 +1658,6 @@
         {
           "date": "2026-07-17",
           "close": 12436.95
-        },
-        {
-          "date": "2026-08-14",
-          "close": 12941.7
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXMETAL"
@@ -1948,22 +1948,10 @@
       "asOf": "2026-08-14",
       "change1d": -0.96,
       "change1w": -6.99,
-      "change1m": -14.83,
+      "change1m": -12.19,
       "rangeLow": 11.31,
       "rangeHigh": 14.03,
       "chart": [
-        {
-          "date": "2026-05-11",
-          "close": 18.55
-        },
-        {
-          "date": "2026-05-12",
-          "close": 19.28
-        },
-        {
-          "date": "2026-05-13",
-          "close": 19.43
-        },
         {
           "date": "2026-05-14",
           "close": 18.61
@@ -2149,6 +2137,14 @@
           "close": 12.98
         },
         {
+          "date": "2026-07-21",
+          "close": 12.6
+        },
+        {
+          "date": "2026-07-22",
+          "close": 13.29
+        },
+        {
           "date": "2026-07-23",
           "close": 13.48
         },
@@ -2171,6 +2167,10 @@
         {
           "date": "2026-07-30",
           "close": 12.16
+        },
+        {
+          "date": "2026-07-31",
+          "close": 11.76
         },
         {
           "date": "2026-08-03",
@@ -2221,13 +2221,13 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 4432.0,
+      "price": 4380.4,
       "asOf": "2026-08-14",
-      "change1d": 1.57,
-      "change1w": 2.1,
-      "change1m": 11.2,
+      "change1d": 0.39,
+      "change1w": 0.91,
+      "change1m": 9.91,
       "rangeLow": 3985.6,
-      "rangeHigh": 4432.0,
+      "rangeHigh": 4408.9,
       "chart": [
         {
           "date": "2026-05-13",
@@ -2487,7 +2487,7 @@
         },
         {
           "date": "2026-08-14",
-          "close": 4432.0
+          "close": 4380.4
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF"
@@ -2498,11 +2498,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 64.82,
+      "price": 64.99,
       "asOf": "2026-08-14",
-      "change1d": -0.08,
-      "change1w": 2.35,
-      "change1m": 15.96,
+      "change1d": 0.18,
+      "change1w": 2.62,
+      "change1m": 16.26,
       "rangeLow": 55.9,
       "rangeHigh": 65.56,
       "chart": [
@@ -2764,7 +2764,7 @@
         },
         {
           "date": "2026-08-14",
-          "close": 64.82
+          "close": 64.99
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/SI%3DF"
@@ -2775,11 +2775,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / lb",
-      "price": 6.61,
+      "price": 6.6,
       "asOf": "2026-08-14",
-      "change1d": 0.3,
-      "change1w": 0.61,
-      "change1m": 4.92,
+      "change1d": 0.15,
+      "change1w": 0.46,
+      "change1m": 4.76,
       "rangeLow": 6.22,
       "rangeHigh": 6.7,
       "chart": [
@@ -3041,7 +3041,7 @@
         },
         {
           "date": "2026-08-14",
-          "close": 6.61
+          "close": 6.6
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/HG%3DF"
@@ -4400,7 +4400,7 @@
         "symbol": "ALKEM",
         "company": "Alkem Laboratories Ltd.",
         "industry": "Healthcare",
-        "lastPrice": 5368.0,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
