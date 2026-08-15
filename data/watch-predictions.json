@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T08:46:37+00:00",
+  "generatedAt": "2026-08-15T10:41:29+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -36,6 +36,47 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "AstraZeneca Pharma India Limited",
+      "symbol": "ASTRAZEN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 7753.0,
+      "catalysts": [
+        {
+          "label": "AstraZeneca Pharma India schedules virtual investor meet on Aug 19 - scanx.trade",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcV83YWdEZGlvdW5NV2dZeVFwVC1vYlpNYk5kU214RldtTElJWGtpQXJHdVpyREhWVk1lZ0VOa0pGYWpqWGRLclhiOEwzMFd1SXllOTI2V2JxTWJENE5Vcm5NZTFZVGszemVWLXlvRmRiVVA3bWszb2NvMEJJckExbUlOb3NGcnBtRjBqTFpQSHkxUjctZDZTY2ZrbGVtMjl5eGlZWDNYUG9nWjdnWHdtY3lOWVlSRExSWkVSRQ?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -405,44 +446,50 @@
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "United Drilling Tools Limited",
-      "symbol": "UNIDT",
+      "company": "AstraZeneca Pharma India Limited",
+      "symbol": "ASTRAZEN",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 86,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 7753.0,
       "catalysts": [
         {
-          "label": "General Updates",
+          "label": "AstraZeneca Pharma India schedules virtual investor meet on Aug 19 - scanx.trade",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcV83YWdEZGlvdW5NV2dZeVFwVC1vYlpNYk5kU214RldtTElJWGtpQXJHdVpyREhWVk1lZ0VOa0pGYWpqWGRLclhiOEwzMFd1SXllOTI2V2JxTWJENE5Vcm5NZTFZVGszemVWLXlvRmRiVVA3bWszb2NvMEJJckExbUlOb3NGcnBtRjBqTFpQSHkxUjctZDZTY2ZrbGVtMjl5eGlZWDNYUG9nWjdnWHdtY3lOWVlSRExSWkVSRQ?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
+    },
     {
       "company": "Engineers India Limited",
       "symbol": "ENGINERSIN",
@@ -844,47 +891,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "VA Tech Wabag Limited",
-      "symbol": "WABAG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 1,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.4,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 1904.6,
-      "catalysts": [
-        {
-          "label": "Aditya Infotech Q1 Results | VA Tech Wabag Q1 Results | Top Buzzing Stocks Today - Equitymaster",
-          "type": "company news",
-          "verified": false
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObFJPeElCdDFWQ0dpTXNYLWdLQ2FHQmhDYnVKYjU2UXY4bjRCTG45eHVVVU5QSXlrVlhNNmxLcTJYSTJPb2ZUN1hxZGNRRTRnMnRqVndLLVRYZTdFcmREa0hTN2drRV9XWlR3TTZ3RGhkMXJTRWJFRDRwVzlCOTVSQU5vd01GbUMyTnZIRHgwRVBSUGE4OGM2NDJvV0t5Ui12a3dqaTZ1amhHNmpsWnBQdmhINmRtY2NkbU9wb0VkbTdyanBxVGwyMzFfUU5HUkJKNHMtWUxB?oc=5",
-          "verified": false
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
