@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T08:48:37+00:00",
+  "generatedAt": "2026-08-16T10:42:20+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -46,7 +46,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.8,
+      "predictionScore": 3.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -54,12 +54,12 @@
       "lastClose": 1729.7,
       "catalysts": [
         {
-          "label": "LG Electronics India standalone net profit rises 27.20% in the June 2026 quarter - Business Standard",
+          "label": "LG Electronics India standalone net profit rises 27.20% in the June 2026 quarter - business-standard.com",
           "type": "results",
           "verified": true
         },
         {
-          "label": "LG Electronics India surges as Q1 PAT rises 27% YoY - Business Standard",
+          "label": "LG Electronics India surges as Q1 PAT rises 27% YoY - business-standard.com",
           "type": "company news",
           "verified": true
         },
@@ -132,10 +132,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 243.68,
+      "lastClose": 240.58,
       "catalysts": [
         {
-          "label": "Bata India Q1 Results | Enviro Infra Engineers Q1 Results | Top Buzzing Stocks Today - Equitymaster",
+          "label": "Bata India Q1 Results | Enviro Infra Engineers Q1 Results | Top Buzzing Stocks Today - equitymaster.com",
           "type": "company news",
           "verified": false
         },
@@ -266,6 +266,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1217.4,
+      "catalysts": [
+        {
+          "label": "Sensex Today Trades Lower | Nifty Below 24,350 | Tata Steel & Axis Bank Top Losers - equitymaster.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3BiRUlPUjNBT3F0c2Z0LUlrUzBpQXhiakpCUE9lWUVlQkNsVlJyUjZsWEo3d0pSRjNCWVg3QnhXVzNvZ0tkdGl5N0Q1N2p1WkhzcXJoWXZwWUNHOFlRdy15RlYxSWcyMWNaanB4ak1seG1rTEZqQ05iTXZZMHhlSkR6Nk9JTTBsQ1lnbjRRS3Uxd1VPM2t6U2trWC01ZWtnUk1oUFUyZHNrRHZ2bEsyZDJLaWVEUzk0b3hYUlZ3S0RBYk10eVItQWYzbkxFelM1cnhKY0p3?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Manappuram Finance Limited",
       "symbol": "MANAPPURAM",
       "exchange": "NSE",
@@ -336,6 +377,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Reliance Industries Limited",
+      "symbol": "RELIANCE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 6.1,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1310.0,
+      "catalysts": [
+        {
+          "label": "Govt Sets LPG Production Targets For Refiners; Reliance Gets Largest Quota",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/govt-sets-lpg-production-targets-for-refiners-reliance-gets-largest-quota-11916260#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "RMC Switchgears Limited",
       "symbol": "RMC",
       "exchange": "NSE",
@@ -369,55 +451,22 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "United Drilling Tools Limited",
-      "symbol": "UNIDT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 86,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
       "company": "Reliance Industries Limited",
       "symbol": "RELIANCE",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
-      "horizon": "today",
+      "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.1,
-      "confidence": 72,
+      "predictionScore": 7.1,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
       "lastClose": 1310.0,
       "catalysts": [
         {
@@ -445,9 +494,7 @@
         }
       ],
       "reason": "Fresh news and technical indicators agree."
-    }
-  ],
-  "tomorrow": [
+    },
     {
       "company": "Mahindra & Mahindra Limited",
       "symbol": "M&M",
@@ -484,52 +531,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "LG Electronics India Limited",
-      "symbol": "LGEINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1729.7,
-      "catalysts": [
-        {
-          "label": "LG Electronics India standalone net profit rises 27.20% in the June 2026 quarter - Business Standard",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "LG Electronics India surges as Q1 PAT rises 27% YoY - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeHpXQ3lZYkFmaEFsTjI2MXB3OVVKbWF0d0pnR0RNMDJ3SXRFMGFJX2RZV0pIYTZ5aVZlY0JOQnhCeTFRSjc0MWR0cS1qSnBfUnJwN0hFNjZSMzRUQmRFU2lKdGk2UzJOTm55ekEwb3ctWVdKRkZabHc3Z0pZN3FSMnJDYVJSVlcyRU5vNzFOZlJKaXJ5dmMzOU1YS3N0S2RrT3VZWjYyRmp3RU1iRlF5aDJXSjI2aW05cHp4QW5QdXdManJTUjlsZTdzdUlOMzlfd0ZkMDRfSlZYaTB6ZV85TnBVa2U0NkxnejBNV2VXZC1uME3SAfgBQVVfeXFMUEZRTHBhRE9RN3FTaTJQWXdWbWdnbUw2OHB5bDVMZnBFVVJIMlpEZlV2YUs4VlBDejBsLVF6M2xpT2F6R002YlQwaDVqTjEtRG56V1ktRnBIOFhGUlFPSTJaNUt1dmxRWUpvdmluTUxGenRwUUtPZjZZdTJxTU9pT0JacWsyUVZaWEIydFlHd2pza0FPd1lLeERvN2JqU1B5ektrY3ZmR25tU3dzS04yZ1JjX0p6bW9VcVNjTmJpYURPZG9remlWX1dKaGVTc1JNRkc1MDd6VHRTbGU5a3FOZ3R6RTNKR2xOYXNkWUpYZ2RVTG1iOWswdkU?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUcycC1Eekc2QWllS3dncnR4dEo1ckxGWThKRHRmMkRvSVpYaVlLNWNrclplTGdYaHNDRk9tYzNpN2h2MkJENDZVcDJLU1hIMlppMHpUcFJhMTVRZzNTVXBUa0lxYkVFdmlqeGJQZ3NzWE9DaF9TbmFkMC1GS2sxSW5mOFJkN3p6OTQxUVZyV3RhcEl4S0lrbVlhcWYwNVVnSVplRjNqSFBMUWdENktJZnNOcF85WFRmczZyNUlTQmxqeVFRWUdBWWd5WmbSAdIBQVVfeXFMTkFaNUk1TW5acXlIX0dCTWhxNWRJd3NnWnZway01WDJ1RUotRkRlbTZxSnN5ZUdINGlNWmZVS0lUelFQa2U3ekdlLURSVU9XU0o0c1VnaC1iTVZMRzlid2F1Wm13RHd1dkhQMy1XV0FyM1VheVgtUlhBWGRJektrYnpCU21WS0lLX2tTOERDd2s2WUktU1hfNUlpUG1Od1JLckR2eDRLNkNBTFFmNDRJVlVVSEFJakFfY1hkV1BYTlpRczdTczJWN1dLRC0zQ3ZIQldn?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Engineers India Limited",
       "symbol": "ENGINERSIN",
       "exchange": "NSE",
@@ -542,10 +543,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 243.68,
+      "lastClose": 240.58,
       "catalysts": [
         {
-          "label": "Bata India Q1 Results | Enviro Infra Engineers Q1 Results | Top Buzzing Stocks Today - Equitymaster",
+          "label": "Bata India Q1 Results | Enviro Infra Engineers Q1 Results | Top Buzzing Stocks Today - equitymaster.com",
           "type": "company news",
           "verified": false
         },
@@ -569,6 +570,52 @@
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "LG Electronics India Limited",
+      "symbol": "LGEINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1729.7,
+      "catalysts": [
+        {
+          "label": "LG Electronics India standalone net profit rises 27.20% in the June 2026 quarter - business-standard.com",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "LG Electronics India surges as Q1 PAT rises 27% YoY - business-standard.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeHpXQ3lZYkFmaEFsTjI2MXB3OVVKbWF0d0pnR0RNMDJ3SXRFMGFJX2RZV0pIYTZ5aVZlY0JOQnhCeTFRSjc0MWR0cS1qSnBfUnJwN0hFNjZSMzRUQmRFU2lKdGk2UzJOTm55ekEwb3ctWVdKRkZabHc3Z0pZN3FSMnJDYVJSVlcyRU5vNzFOZlJKaXJ5dmMzOU1YS3N0S2RrT3VZWjYyRmp3RU1iRlF5aDJXSjI2aW05cHp4QW5QdXdManJTUjlsZTdzdUlOMzlfd0ZkMDRfSlZYaTB6ZV85TnBVa2U0NkxnejBNV2VXZC1uME3SAfgBQVVfeXFMUEZRTHBhRE9RN3FTaTJQWXdWbWdnbUw2OHB5bDVMZnBFVVJIMlpEZlV2YUs4VlBDejBsLVF6M2xpT2F6R002YlQwaDVqTjEtRG56V1ktRnBIOFhGUlFPSTJaNUt1dmxRWUpvdmluTUxGenRwUUtPZjZZdTJxTU9pT0JacWsyUVZaWEIydFlHd2pza0FPd1lLeERvN2JqU1B5ektrY3ZmR25tU3dzS04yZ1JjX0p6bW9VcVNjTmJpYURPZG9remlWX1dKaGVTc1JNRkc1MDd6VHRTbGU5a3FOZ3R6RTNKR2xOYXNkWUpYZ2RVTG1iOWswdkU?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUcycC1Eekc2QWllS3dncnR4dEo1ckxGWThKRHRmMkRvSVpYaVlLNWNrclplTGdYaHNDRk9tYzNpN2h2MkJENDZVcDJLU1hIMlppMHpUcFJhMTVRZzNTVXBUa0lxYkVFdmlqeGJQZ3NzWE9DaF9TbmFkMC1GS2sxSW5mOFJkN3p6OTQxUVZyV3RhcEl4S0lrbVlhcWYwNVVnSVplRjNqSFBMUWdENktJZnNOcF85WFRmczZyNUlTQmxqeVFRWUdBWWd5WmbSAdIBQVVfeXFMTkFaNUk1TW5acXlIX0dCTWhxNWRJd3NnWnZway01WDJ1RUotRkRlbTZxSnN5ZUdINGlNWmZVS0lUelFQa2U3ekdlLURSVU9XU0o0c1VnaC1iTVZMRzlid2F1Wm13RHd1dkhQMy1XV0FyM1VheVgtUlhBWGRJektrYnpCU21WS0lLX2tTOERDd2s2WUktU1hfNUlpUG1Od1JLckR2eDRLNkNBTFFmNDRJVlVVSEFJakFfY1hkV1BYTlpRczdTczJWN1dLRC0zQ3ZIQldn?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Saatvik Green Energy Limited",
@@ -606,6 +653,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1217.4,
+      "catalysts": [
+        {
+          "label": "Sensex Today Trades Lower | Nifty Below 24,350 | Tata Steel & Axis Bank Top Losers - equitymaster.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3BiRUlPUjNBT3F0c2Z0LUlrUzBpQXhiakpCUE9lWUVlQkNsVlJyUjZsWEo3d0pSRjNCWVg3QnhXVzNvZ0tkdGl5N0Q1N2p1WkhzcXJoWXZwWUNHOFlRdy15RlYxSWcyMWNaanB4ak1seG1rTEZqQ05iTXZZMHhlSkR6Nk9JTTBsQ1lnbjRRS3Uxd1VPM2t6U2trWC01ZWtnUk1oUFUyZHNrRHZ2bEsyZDJLaWVEUzk0b3hYUlZ3S0RBYk10eVItQWYzbkxFelM1cnhKY0p3?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "AVG Logistics Limited",
       "symbol": "AVG",
       "exchange": "NSE",
@@ -807,82 +895,6 @@
         },
         {
           "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "VA Tech Wabag Limited",
-      "symbol": "WABAG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 1,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.4,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 1904.6,
-      "catalysts": [
-        {
-          "label": "Aditya Infotech Q1 Results | VA Tech Wabag Q1 Results | Top Buzzing Stocks Today - Equitymaster",
-          "type": "company news",
-          "verified": false
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObFJPeElCdDFWQ0dpTXNYLWdLQ2FHQmhDYnVKYjU2UXY4bjRCTG45eHVVVU5QSXlrVlhNNmxLcTJYSTJPb2ZUN1hxZGNRRTRnMnRqVndLLVRYZTdFcmREa0hTN2drRV9XWlR3TTZ3RGhkMXJTRWJFRDRwVzlCOTVSQU5vd01GbUMyTnZIRHgwRVBSUGE4OGM2NDJvV0t5Ui12a3dqaTZ1amhHNmpsWnBQdmhINmRtY2NkbU9wb0VkbTdyanBxVGwyMzFfUU5HUkJKNHMtWUxB?oc=5",
-          "verified": false
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "United Drilling Tools Limited",
-      "symbol": "UNIDT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 86,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
