@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T01:58:45+00:00",
+  "generatedAt": "2026-08-16T03:14:21+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -117,6 +117,47 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "AstraZeneca Pharma India Limited",
+      "symbol": "ASTRAZEN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 7753.0,
+      "catalysts": [
+        {
+          "label": "AstraZeneca Pharma India schedules virtual investor meet on Aug 19 - scanx.trade",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcV83YWdEZGlvdW5NV2dZeVFwVC1vYlpNYk5kU214RldtTElJWGtpQXJHdVpyREhWVk1lZ0VOa0pGYWpqWGRLclhiOEwzMFd1SXllOTI2V2JxTWJENE5Vcm5NZTFZVGszemVWLXlvRmRiVVA3bWszb2NvMEJJckExbUlOb3NGcnBtRjBqTFpQSHkxUjctZDZTY2ZrbGVtMjl5eGlZWDNYUG9nWjdnWHdtY3lOWVlSRExSWkVSRQ?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -240,7 +281,7 @@
       "lastClose": 14.11,
       "catalysts": [
         {
-          "label": "Vodafone Idea, Motisons, LEAP India Among Top NSE Movers - hdfcsky.com",
+          "label": "Vodafone Idea, Motisons, LEAP India Among Top NSE Movers - HDFC Sky",
           "type": "company news",
           "verified": true
         },
@@ -377,47 +418,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "AstraZeneca Pharma India Limited",
-      "symbol": "ASTRAZEN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 7753.0,
-      "catalysts": [
-        {
-          "label": "AstraZeneca Pharma India schedules virtual investor meet on Aug 19 - scanx.trade",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcV83YWdEZGlvdW5NV2dZeVFwVC1vYlpNYk5kU214RldtTElJWGtpQXJHdVpyREhWVk1lZ0VOa0pGYWpqWGRLclhiOEwzMFd1SXllOTI2V2JxTWJENE5Vcm5NZTFZVGszemVWLXlvRmRiVVA3bWszb2NvMEJJckExbUlOb3NGcnBtRjBqTFpQSHkxUjctZDZTY2ZrbGVtMjl5eGlZWDNYUG9nWjdnWHdtY3lOWVlSRExSWkVSRQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "RMC Switchgears Limited",
       "symbol": "RMC",
       "exchange": "NSE",
@@ -454,6 +454,47 @@
     }
   ],
   "tomorrow": [
+    {
+      "company": "Hitachi Energy India Limited",
+      "symbol": "POWERINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 7.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 35700.0,
+      "catalysts": [
+        {
+          "label": "Dividend Stocks To Watch: NBCC, RVNL, Mazagon Dock, Hitachi Energy, Zen Tech & More \u2014 Check Full List",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/dividend-stocks-to-watch-this-week-nbcc-rvnl-mazagon-dock-hitachi-energy-zen-tech-and-78-others-check-full-list-11911887#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
     {
       "company": "Mahindra & Mahindra Limited",
       "symbol": "M&M",
@@ -536,6 +577,47 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "AstraZeneca Pharma India Limited",
+      "symbol": "ASTRAZEN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 7753.0,
+      "catalysts": [
+        {
+          "label": "AstraZeneca Pharma India schedules virtual investor meet on Aug 19 - scanx.trade",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcV83YWdEZGlvdW5NV2dZeVFwVC1vYlpNYk5kU214RldtTElJWGtpQXJHdVpyREhWVk1lZ0VOa0pGYWpqWGRLclhiOEwzMFd1SXllOTI2V2JxTWJENE5Vcm5NZTFZVGszemVWLXlvRmRiVVA3bWszb2NvMEJJckExbUlOb3NGcnBtRjBqTFpQSHkxUjctZDZTY2ZrbGVtMjl5eGlZWDNYUG9nWjdnWHdtY3lOWVlSRExSWkVSRQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Saatvik Green Energy Limited",
       "symbol": "SAATVIKGL",
       "exchange": "NSE",
@@ -586,7 +668,7 @@
       "lastClose": 14.11,
       "catalysts": [
         {
-          "label": "Vodafone Idea, Motisons, LEAP India Among Top NSE Movers - hdfcsky.com",
+          "label": "Vodafone Idea, Motisons, LEAP India Among Top NSE Movers - HDFC Sky",
           "type": "company news",
           "verified": true
         },
@@ -647,47 +729,6 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3BiRUlPUjNBT3F0c2Z0LUlrUzBpQXhiakpCUE9lWUVlQkNsVlJyUjZsWEo3d0pSRjNCWVg3QnhXVzNvZ0tkdGl5N0Q1N2p1WkhzcXJoWXZwWUNHOFlRdy15RlYxSWcyMWNaanB4ak1seG1rTEZqQ05iTXZZMHhlSkR6Nk9JTTBsQ1lnbjRRS3Uxd1VPM2t6U2trWC01ZWtnUk1oUFUyZHNrRHZ2bEsyZDJLaWVEUzk0b3hYUlZ3S0RBYk10eVItQWYzbkxFelM1cnhKY0p3?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "AstraZeneca Pharma India Limited",
-      "symbol": "ASTRAZEN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 7753.0,
-      "catalysts": [
-        {
-          "label": "AstraZeneca Pharma India schedules virtual investor meet on Aug 19 - scanx.trade",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcV83YWdEZGlvdW5NV2dZeVFwVC1vYlpNYk5kU214RldtTElJWGtpQXJHdVpyREhWVk1lZ0VOa0pGYWpqWGRLclhiOEwzMFd1SXllOTI2V2JxTWJENE5Vcm5NZTFZVGszemVWLXlvRmRiVVA3bWszb2NvMEJJckExbUlOb3NGcnBtRjBqTFpQSHkxUjctZDZTY2ZrbGVtMjl5eGlZWDNYUG9nWjdnWHdtY3lOWVlSRExSWkVSRQ?oc=5",
           "verified": true
         }
       ],
@@ -860,41 +901,6 @@
         },
         {
           "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "RMC Switchgears Limited",
-      "symbol": "RMC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
