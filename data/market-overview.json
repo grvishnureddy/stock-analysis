@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T14:47:09+00:00",
+  "updatedAt": "2026-08-17T16:48:22+00:00",
   "instruments": [
     {
       "name": "Nifty 50",
@@ -1671,15 +1671,11 @@
       "price": 26341.55,
       "asOf": "2026-08-17",
       "change1d": -0.39,
-      "change1w": -0.75,
-      "change1m": 1.28,
+      "change1w": -0.52,
+      "change1m": 2.72,
       "rangeLow": 25548.15,
       "rangeHigh": 26762.5,
       "chart": [
-        {
-          "date": "2026-05-14",
-          "close": 24551.05
-        },
         {
           "date": "2026-05-15",
           "close": 24634.8
@@ -1921,6 +1917,10 @@
           "close": 26479.55
         },
         {
+          "date": "2026-08-11",
+          "close": 26750.45
+        },
+        {
           "date": "2026-08-12",
           "close": 26762.5
         },
@@ -1947,11 +1947,15 @@
       "price": 11.32,
       "asOf": "2026-08-17",
       "change1d": 0.09,
-      "change1w": -7.59,
-      "change1m": -13.92,
+      "change1w": -6.91,
+      "change1m": -12.11,
       "rangeLow": 11.31,
       "rangeHigh": 14.03,
       "chart": [
+        {
+          "date": "2026-05-14",
+          "close": 18.61
+        },
         {
           "date": "2026-05-15",
           "close": 18.79
@@ -2193,10 +2197,6 @@
           "close": 12.25
         },
         {
-          "date": "2026-08-11",
-          "close": 11.86
-        },
-        {
           "date": "2026-08-12",
           "close": 11.69
         },
@@ -2221,13 +2221,13 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 4479.1,
+      "price": 4483.4,
       "asOf": "2026-08-17",
-      "change1d": 2.25,
-      "change1w": 2.69,
-      "change1m": 11.62,
+      "change1d": 2.35,
+      "change1w": 2.79,
+      "change1m": 11.73,
       "rangeLow": 4010.3,
-      "rangeHigh": 4479.1,
+      "rangeHigh": 4483.4,
       "chart": [
         {
           "date": "2026-05-14",
@@ -2487,7 +2487,7 @@
         },
         {
           "date": "2026-08-17",
-          "close": 4479.1
+          "close": 4483.4
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF"
@@ -2498,13 +2498,13 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 66.39,
+      "price": 66.49,
       "asOf": "2026-08-17",
-      "change1d": 2.15,
-      "change1w": 1.97,
-      "change1m": 18.47,
+      "change1d": 2.31,
+      "change1w": 2.12,
+      "change1m": 18.65,
       "rangeLow": 56.04,
-      "rangeHigh": 66.39,
+      "rangeHigh": 66.49,
       "chart": [
         {
           "date": "2026-05-14",
@@ -2764,7 +2764,7 @@
         },
         {
           "date": "2026-08-17",
-          "close": 66.39
+          "close": 66.49
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/SI%3DF"
@@ -3052,11 +3052,11 @@
       "type": "energy",
       "market": "Global",
       "unit": "USD / barrel",
-      "price": 82.45,
+      "price": 82.65,
       "asOf": "2026-08-17",
-      "change1d": 0.06,
-      "change1w": 0.39,
-      "change1m": -0.05,
+      "change1d": 0.3,
+      "change1w": 0.63,
+      "change1m": 0.19,
       "rangeLow": 75.22,
       "rangeHigh": 92.19,
       "chart": [
@@ -3318,7 +3318,7 @@
         },
         {
           "date": "2026-08-17",
-          "close": 82.45
+          "close": 82.65
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/CL%3DF"
@@ -3962,7 +3962,7 @@
         "symbol": "YESBANK",
         "company": "Yes Bank Ltd.",
         "industry": "Financial Services",
-        "lastPrice": 22.92,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
