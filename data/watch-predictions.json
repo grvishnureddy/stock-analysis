@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T04:59:52+00:00",
+  "generatedAt": "2026-08-17T07:17:57+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,12 +11,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.9,
+      "predictionScore": 6.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Neutral",
       "technicalConfidence": 17,
-      "lastClose": 1440.7,
+      "lastClose": 1454.7,
       "catalysts": [
         {
           "label": "NIBE bags Rs 563-cr Indian Army contract for loiter munition systems - Business Standard",
@@ -42,7 +42,48 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Ashok Leyland Limited",
+      "symbol": "ASHOKLEY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 173.87,
+      "catalysts": [
+        {
+          "label": "Ashok Leyland's Diversified Growth Story Intact, Says Nirmal Bang; Raises Target Price Post Q1 Results",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Acquisition",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/ashok-leylands-diversified-growth-story-intact-says-nirmal-bang-raises-target-price-post-q1-results-11919368#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Saatvik Green Energy Limited",
@@ -80,91 +121,98 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Vodafone Idea Limited",
-      "symbol": "IDEA",
+      "company": "Zaggle Prepaid Ocean Services Limited",
+      "symbol": "ZAGGLE",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
       "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 13.91,
+      "lastClose": 160.48,
       "catalysts": [
         {
-          "label": "Vodafone Idea, Motisons, LEAP India Among Top NSE Movers - HDFC Sky",
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Zaggle Prepaid Share Price Tanks 20% To Hit 52-Week Low After Q1 Results Spook Investors",
           "type": "company news",
           "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
         }
       ],
-      "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPXzcwWGM1SjMzMlFGT1lOeHlzOUN1d0VsQ29zaVU3cVRrZkxNQmYxbFNLU3FpODhOR0NzT3hPQXFmSy10ek93XzVYQkFsVVZ3NDFqVEkyN2lYbEx0a242T3M4b0Rzelh1dnlVOFowUkJKUWtBU0QzZ1JPdnU5SDJUSmxwQzVFLTlXdzAyVV9sRHVwQko0dnhOZ3dUWUJ5ZDdZTldmSVg5Z2lGY1RHa0RtbkNMTk5vU2xIRkdXNmxoYVNmRGN6WVpTdQ?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/zaggle-prepaid-share-price-tanks-nearly-20-after-q1-results-spooks-investors-buy-or-sell-11919293#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "LG Electronics India Limited",
-      "symbol": "LGEINDIA",
+      "company": "Godrej Industries Limited",
+      "symbol": "GODREJIND",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "direction": "Negative watch",
+      "predictionScore": -4.2,
       "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1680.8,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1217.1,
       "catalysts": [
         {
-          "label": "LG Electronics India: turnaround or just a low-base bounce? - livemint.com",
-          "type": "company news",
+          "label": "Shareholders meeting",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "LG Electronics India surges as Q1 PAT rises 27% YoY - Business Standard",
-          "type": "company news",
+          "label": "Shareholders meeting",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [
+      "risks": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWg4VE5semJhWTJnWkxJWDZHOEs3SWkzLU8zdXZjWXV2Wkt1QkpCV2RpLVVtb3JLei1qUWJGQTJRUkk2RVh1Ynl4YkZGQlBiLWsyUlBHdEhjaWUzV25scURPbFpPTndlNDVYNHlLNl91Wl9FUThUUGhhRjJTQ25GNXgtaUxLZ1BCMVVJRkJjUDBMNlBCTWlMQU9hcU5WcUw3NkthYjVnT0pjWVFTLVlmTGs1eXNZZDc5MURv0gHAAUFVX3lxTE02a1Z6LTlVNGJibTQ5RnZuYjFuNG1iUFpkdlphTkFncWNnOXBGVno5T3VpeExvT1BIUDg0SDFxVDUxei1PdVNSSURQS2p3Q09EcjhIQWotdDBLZXdJRDYwS29sRm1CYjAtdzNWNWZ5MlpNbm1PZ1dHNlVhVjVyQ1BzeUIyOXhnUm5TdzJuWWF1aXdfTlBFelRWX1dyaUl6bS13a21TLU43NGlZYXZ0SkQ3TDlDMVl0d29MbEJtaTRDSQ?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUcycC1Eekc2QWllS3dncnR4dEo1ckxGWThKRHRmMkRvSVpYaVlLNWNrclplTGdYaHNDRk9tYzNpN2h2MkJENDZVcDJLU1hIMlppMHpUcFJhMTVRZzNTVXBUa0lxYkVFdmlqeGJQZ3NzWE9DaF9TbmFkMC1GS2sxSW5mOFJkN3p6OTQxUVZyV3RhcEl4S0lrbVlhcWYwNVVnSVplRjNqSFBMUWdENktJZnNOcF85WFRmczZyNUlTQmxqeVFRWUdBWWd5WmbSAdIBQVVfeXFMTkFaNUk1TW5acXlIX0dCTWhxNWRJd3NnWnZway01WDJ1RUotRkRlbTZxSnN5ZUdINGlNWmZVS0lUelFQa2U3ekdlLURSVU9XU0o0c1VnaC1iTVZMRzlid2F1Wm13RHd1dkhQMy1XV0FyM1VheVgtUlhBWGRJektrYnpCU21WS0lLX2tTOERDd2s2WUktU1hfNUlpUG1Od1JLckR2eDRLNkNBTFFmNDRJVlVVSEFJakFfY1hkV1BYTlpRczdTczJWN1dLRC0zQ3ZIQldn?oc=5",
+          "label": "Godrej Industries Share Price Extends Q1 Results Decline, Falls Over 4%",
+          "type": "company news",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/godrej-industries-share-price-extends-q1-decline-falls-over-4-percent-11919310#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Engineers India Limited",
@@ -179,7 +227,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 241.8,
+      "lastClose": 240.0,
       "catalysts": [
         {
           "label": "Engineers India Q1 Results | Galaxy Surfactants Q1 Results | Top Buzzing Stocks Today - Equitymaster",
@@ -208,10 +256,51 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "LG Electronics India Limited",
+      "symbol": "LGEINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1678.2,
+      "catalysts": [
+        {
+          "label": "LG Electronics India: turnaround or just a low-base bounce? - livemint.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWg4VE5semJhWTJnWkxJWDZHOEs3SWkzLU8zdXZjWXV2Wkt1QkpCV2RpLVVtb3JLei1qUWJGQTJRUkk2RVh1Ynl4YkZGQlBiLWsyUlBHdEhjaWUzV25scURPbFpPTndlNDVYNHlLNl91Wl9FUThUUGhhRjJTQ25GNXgtaUxLZ1BCMVVJRkJjUDBMNlBCTWlMQU9hcU5WcUw3NkthYjVnT0pjWVFTLVlmTGs1eXNZZDc5MURv0gHAAUFVX3lxTE02a1Z6LTlVNGJibTQ5RnZuYjFuNG1iUFpkdlphTkFncWNnOXBGVno5T3VpeExvT1BIUDg0SDFxVDUxei1PdVNSSURQS2p3Q09EcjhIQWotdDBLZXdJRDYwS29sRm1CYjAtdzNWNWZ5MlpNbm1PZ1dHNlVhVjVyQ1BzeUIyOXhnUm5TdzJuWWF1aXdfTlBFelRWX1dyaUl6bS13a21TLU43NGlZYXZ0SkQ3TDlDMVl0d29MbEJtaTRDSQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "AVG Logistics Limited",
       "symbol": "AVG",
       "exchange": "NSE",
-      "confirmedNewsCount": 16,
+      "confirmedNewsCount": 17,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -223,17 +312,17 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -310,47 +399,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1215.3,
-      "catalysts": [
-        {
-          "label": "Sensex Today Trades Lower | Nifty Below 24,350 | Tata Steel & Axis Bank Top Losers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3BiRUlPUjNBT3F0c2Z0LUlrUzBpQXhiakpCUE9lWUVlQkNsVlJyUjZsWEo3d0pSRjNCWVg3QnhXVzNvZ0tkdGl5N0Q1N2p1WkhzcXJoWXZwWUNHOFlRdy15RlYxSWcyMWNaanB4ak1seG1rTEZqQ05iTXZZMHhlSkR6Nk9JTTBsQ1lnbjRRS3Uxd1VPM2t6U2trWC01ZWtnUk1oUFUyZHNrRHZ2bEsyZDJLaWVEUzk0b3hYUlZ3S0RBYk10eVItQWYzbkxFelM1cnhKY0p3?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -401,7 +449,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 3392.7,
+      "lastClose": 3405.1,
       "catalysts": [
         {
           "label": "Press Release",
@@ -422,71 +470,36 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "Kalpataru Projects International Limited",
-      "symbol": "KPIL",
+      "company": "NIBE Limited",
+      "symbol": "NIBE",
       "exchange": "NSE",
       "confirmedNewsCount": 11,
       "gossipCount": 0,
-      "horizon": "today",
+      "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
+      "predictionScore": 6.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 17,
+      "lastClose": 1454.7,
       "catalysts": [
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
+          "label": "NIBE bags Rs 563-cr Indian Army contract for loiter munition systems - Business Standard",
+          "type": "contract",
           "verified": true
         },
         {
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
-    {
-      "company": "Vodafone Idea Limited",
-      "symbol": "IDEA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 13.91,
-      "catalysts": [
-        {
-          "label": "Vodafone Idea, Motisons, LEAP India Among Top NSE Movers - HDFC Sky",
-          "type": "company news",
-          "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Monitoring Agency Report",
           "type": "announcement",
           "verified": true
         }
@@ -495,35 +508,76 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPXzcwWGM1SjMzMlFGT1lOeHlzOUN1d0VsQ29zaVU3cVRrZkxNQmYxbFNLU3FpODhOR0NzT3hPQXFmSy10ek93XzVYQkFsVVZ3NDFqVEkyN2lYbEx0a242T3M4b0Rzelh1dnlVOFowUkJKUWtBU0QzZ1JPdnU5SDJUSmxwQzVFLTlXdzAyVV9sRHVwQko0dnhOZ3dUWUJ5ZDdZTldmSVg5Z2lGY1RHa0RtbkNMTk5vU2xIRkdXNmxoYVNmRGN6WVpTdQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSzA0cjViOEs0MVhhSGVuZVBzYTFrNjhreTFDaUFqelVfVnJiN2tkY2pYVHhZY1VIell3NkxzT3ZXSFVQOFJxcV9VZzJoSGNMSXpjRDM4YUgtdHJVN3cwcjlhaU9pT3dQSW5kWWRLamY5N0dBM240OEgxcV93N2szZ0pQRl9jclFzSkFnMmlxNWpNenp1WnBsZG5PTE4ySExvckZfcWpoZGo5ZzNEc05aTkwydmRvaWRiUFRON1RKbWVwXzdNZ2ZRQzBFMVBUR0djMDRxa19MeVBRaDJ0dnJmeWgwMFDSAeoBQVVfeXFMTkFhZ3ZlZU8yZ0dCcFZGN2cweXM4MXctT1dlRWFFZ0VidDdqYkRXbWxFTFNHVHFTMUNyTkFaV0NCYm9fV3FDZnNFWFIydHcydUdwRDBkVWpPbUx6U1ozQkhBOUU3N01xNVkxQUlOelVEcERJM2F5RmRxQ3M4QlJKZVAyQU53QUdIeWNwblk3SE1DUzZVR0tNS0c3ejZlYmY5TjlRU2stWGlmRXJSRl84NWlDbUdScDluRnVRQTEwU2VRSGNnYkhnb0owTWprMmNGNkpxQ25vc3dETXZhMEZacUhKaUV1dkZzSHB3?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "LG Electronics India Limited",
-      "symbol": "LGEINDIA",
+      "company": "Ashok Leyland Limited",
+      "symbol": "ASHOKLEY",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.8,
+      "predictionScore": 6.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1680.8,
+      "technicalConfidence": 83,
+      "lastClose": 173.87,
       "catalysts": [
         {
-          "label": "LG Electronics India: turnaround or just a low-base bounce? - livemint.com",
-          "type": "company news",
+          "label": "Ashok Leyland's Diversified Growth Story Intact, Says Nirmal Bang; Raises Target Price Post Q1 Results",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "LG Electronics India surges as Q1 PAT rises 27% YoY - Business Standard",
-          "type": "company news",
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Acquisition",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/ashok-leylands-diversified-growth-story-intact-says-nirmal-bang-raises-target-price-post-q1-results-11919368#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Zaggle Prepaid Ocean Services Limited",
+      "symbol": "ZAGGLE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -5.8,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 160.48,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
           "verified": true
         },
         {
@@ -532,20 +586,68 @@
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [
+      "risks": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWg4VE5semJhWTJnWkxJWDZHOEs3SWkzLU8zdXZjWXV2Wkt1QkpCV2RpLVVtb3JLei1qUWJGQTJRUkk2RVh1Ynl4YkZGQlBiLWsyUlBHdEhjaWUzV25scURPbFpPTndlNDVYNHlLNl91Wl9FUThUUGhhRjJTQ25GNXgtaUxLZ1BCMVVJRkJjUDBMNlBCTWlMQU9hcU5WcUw3NkthYjVnT0pjWVFTLVlmTGs1eXNZZDc5MURv0gHAAUFVX3lxTE02a1Z6LTlVNGJibTQ5RnZuYjFuNG1iUFpkdlphTkFncWNnOXBGVno5T3VpeExvT1BIUDg0SDFxVDUxei1PdVNSSURQS2p3Q09EcjhIQWotdDBLZXdJRDYwS29sRm1CYjAtdzNWNWZ5MlpNbm1PZ1dHNlVhVjVyQ1BzeUIyOXhnUm5TdzJuWWF1aXdfTlBFelRWX1dyaUl6bS13a21TLU43NGlZYXZ0SkQ3TDlDMVl0d29MbEJtaTRDSQ?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUcycC1Eekc2QWllS3dncnR4dEo1ckxGWThKRHRmMkRvSVpYaVlLNWNrclplTGdYaHNDRk9tYzNpN2h2MkJENDZVcDJLU1hIMlppMHpUcFJhMTVRZzNTVXBUa0lxYkVFdmlqeGJQZ3NzWE9DaF9TbmFkMC1GS2sxSW5mOFJkN3p6OTQxUVZyV3RhcEl4S0lrbVlhcWYwNVVnSVplRjNqSFBMUWdENktJZnNOcF85WFRmczZyNUlTQmxqeVFRWUdBWWd5WmbSAdIBQVVfeXFMTkFaNUk1TW5acXlIX0dCTWhxNWRJd3NnWnZway01WDJ1RUotRkRlbTZxSnN5ZUdINGlNWmZVS0lUelFQa2U3ekdlLURSVU9XU0o0c1VnaC1iTVZMRzlid2F1Wm13RHd1dkhQMy1XV0FyM1VheVgtUlhBWGRJektrYnpCU21WS0lLX2tTOERDd2s2WUktU1hfNUlpUG1Od1JLckR2eDRLNkNBTFFmNDRJVlVVSEFJakFfY1hkV1BYTlpRczdTczJWN1dLRC0zQ3ZIQldn?oc=5",
+          "label": "Zaggle Prepaid Share Price Tanks 20% To Hit 52-Week Low After Q1 Results Spook Investors",
+          "type": "company news",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/zaggle-prepaid-share-price-tanks-nearly-20-after-q1-results-spooks-investors-buy-or-sell-11919293#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Godrej Industries Limited",
+      "symbol": "GODREJIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -5.2,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1217.1,
+      "catalysts": [
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Godrej Industries Share Price Extends Q1 Results Decline, Falls Over 4%",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/godrej-industries-share-price-extends-q1-decline-falls-over-4-percent-11919310#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Engineers India Limited",
@@ -560,7 +662,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 241.8,
+      "lastClose": 240.0,
       "catalysts": [
         {
           "label": "Engineers India Q1 Results | Galaxy Surfactants Q1 Results | Top Buzzing Stocks Today - Equitymaster",
@@ -589,32 +691,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "NIBE Limited",
-      "symbol": "NIBE",
+      "company": "LG Electronics India Limited",
+      "symbol": "LGEINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.7,
+      "predictionScore": 4.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 1440.7,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1678.2,
       "catalysts": [
         {
-          "label": "NIBE bags Rs 563-cr Indian Army contract for loiter munition systems - Business Standard",
-          "type": "contract",
+          "label": "LG Electronics India: turnaround or just a low-base bounce? - livemint.com",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Monitoring Agency Report",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -623,7 +725,7 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSzA0cjViOEs0MVhhSGVuZVBzYTFrNjhreTFDaUFqelVfVnJiN2tkY2pYVHhZY1VIell3NkxzT3ZXSFVQOFJxcV9VZzJoSGNMSXpjRDM4YUgtdHJVN3cwcjlhaU9pT3dQSW5kWWRLamY5N0dBM240OEgxcV93N2szZ0pQRl9jclFzSkFnMmlxNWpNenp1WnBsZG5PTE4ySExvckZfcWpoZGo5ZzNEc05aTkwydmRvaWRiUFRON1RKbWVwXzdNZ2ZRQzBFMVBUR0djMDRxa19MeVBRaDJ0dnJmeWgwMFDSAeoBQVVfeXFMTkFhZ3ZlZU8yZ0dCcFZGN2cweXM4MXctT1dlRWFFZ0VidDdqYkRXbWxFTFNHVHFTMUNyTkFaV0NCYm9fV3FDZnNFWFIydHcydUdwRDBkVWpPbUx6U1ozQkhBOUU3N01xNVkxQUlOelVEcERJM2F5RmRxQ3M4QlJKZVAyQU53QUdIeWNwblk3SE1DUzZVR0tNS0c3ejZlYmY5TjlRU2stWGlmRXJSRl84NWlDbUdScDluRnVRQTEwU2VRSGNnYkhnb0owTWprMmNGNkpxQ25vc3dETXZhMEZacUhKaUV1dkZzSHB3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWg4VE5semJhWTJnWkxJWDZHOEs3SWkzLU8zdXZjWXV2Wkt1QkpCV2RpLVVtb3JLei1qUWJGQTJRUkk2RVh1Ynl4YkZGQlBiLWsyUlBHdEhjaWUzV25scURPbFpPTndlNDVYNHlLNl91Wl9FUThUUGhhRjJTQ25GNXgtaUxLZ1BCMVVJRkJjUDBMNlBCTWlMQU9hcU5WcUw3NkthYjVnT0pjWVFTLVlmTGs1eXNZZDc5MURv0gHAAUFVX3lxTE02a1Z6LTlVNGJibTQ5RnZuYjFuNG1iUFpkdlphTkFncWNnOXBGVno5T3VpeExvT1BIUDg0SDFxVDUxei1PdVNSSURQS2p3Q09EcjhIQWotdDBLZXdJRDYwS29sRm1CYjAtdzNWNWZ5MlpNbm1PZ1dHNlVhVjVyQ1BzeUIyOXhnUm5TdzJuWWF1aXdfTlBFelRWX1dyaUl6bS13a21TLU43NGlZYXZ0SkQ3TDlDMVl0d29MbEJtaTRDSQ?oc=5",
           "verified": true
         }
       ],
@@ -665,47 +767,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1215.3,
-      "catalysts": [
-        {
-          "label": "Sensex Today Trades Lower | Nifty Below 24,350 | Tata Steel & Axis Bank Top Losers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3BiRUlPUjNBT3F0c2Z0LUlrUzBpQXhiakpCUE9lWUVlQkNsVlJyUjZsWEo3d0pSRjNCWVg3QnhXVzNvZ0tkdGl5N0Q1N2p1WkhzcXJoWXZwWUNHOFlRdy15RlYxSWcyMWNaanB4ak1seG1rTEZqQ05iTXZZMHhlSkR6Nk9JTTBsQ1lnbjRRS3Uxd1VPM2t6U2trWC01ZWtnUk1oUFUyZHNrRHZ2bEsyZDJLaWVEUzk0b3hYUlZ3S0RBYk10eVItQWYzbkxFelM1cnhKY0p3?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Mahindra & Mahindra Limited",
       "symbol": "M&M",
       "exchange": "NSE",
@@ -718,7 +779,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 3392.7,
+      "lastClose": 3405.1,
       "catalysts": [
         {
           "label": "Press Release",
@@ -744,7 +805,7 @@
       "company": "AVG Logistics Limited",
       "symbol": "AVG",
       "exchange": "NSE",
-      "confirmedNewsCount": 16,
+      "confirmedNewsCount": 17,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -756,17 +817,17 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -846,47 +907,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "JSW Cement Limited",
-      "symbol": "JSWCEMENT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 127.86,
-      "catalysts": [
-        {
-          "label": "JSW Cement Has Jefferies Positive Despite Weaker Q1 Margins; Citi Lowers Price Target",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/jsw-cement-has-jefferies-positive-despite-weaker-q1-margins-citi-lowers-price-target-11919117#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Indian Railway Catering And Tourism Corporation Limited",
       "symbol": "IRCTC",
       "exchange": "NSE",
@@ -899,7 +919,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
-      "lastClose": 499.15,
+      "lastClose": 499.2,
       "catalysts": [
         {
           "label": "RVNL vs IRFC vs IRCON vs IRCTC: Which railway stock to buy after Q1 results 2026? - livemint.com",
