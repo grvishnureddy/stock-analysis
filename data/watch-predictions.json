@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T01:56:28+00:00",
+  "generatedAt": "2026-08-17T03:14:10+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -37,6 +37,52 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Ashok Leyland Limited",
+      "symbol": "ASHOKLEY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 171.64,
+      "catalysts": [
+        {
+          "label": "Ashok Leyland Q1: Analysts See More Upside Despite Margin Pressure; Check New Target Prices",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Stocks To Watch Today: Ashok Leyland, Bharat Dynamics, Patanjali Foods, NMDC, Reliance Infra And Voltas",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/ashok-leyland-q1-analysts-see-more-upside-despite-margin-pressure-check-new-target-prices-11919022#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-ashok-leyland-bharat-dynamics-patanjali-foods-nmdc-reliance-infra-and-voltas-11918394#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Mahindra & Mahindra Limited",
@@ -86,7 +132,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 243.68,
+      "lastClose": 240.58,
       "catalysts": [
         {
           "label": "Engineers India Q1 Results | Galaxy Surfactants Q1 Results | Top Buzzing Stocks Today - Equitymaster",
@@ -235,7 +281,7 @@
       "lastClose": 1729.7,
       "catalysts": [
         {
-          "label": "LG Electronics shares jump 9% after strong Q1 earnings; analysts flag margin expansion - upstox.com",
+          "label": "LG Electronics shares jump 9% after strong Q1 earnings; analysts flag margin expansion - Upstox",
           "type": "results",
           "verified": true
         },
@@ -410,44 +456,55 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "United Drilling Tools Limited",
-      "symbol": "UNIDT",
+      "company": "Ashok Leyland Limited",
+      "symbol": "ASHOKLEY",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
-      "horizon": "today",
+      "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 86,
+      "predictionScore": 5.0,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 171.64,
       "catalysts": [
         {
-          "label": "General Updates",
-          "type": "announcement",
+          "label": "Ashok Leyland Q1: Analysts See More Upside Despite Margin Pressure; Check New Target Prices",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
+          "label": "Stocks To Watch Today: Ashok Leyland, Bharat Dynamics, Patanjali Foods, NMDC, Reliance Infra And Voltas",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/ashok-leyland-q1-analysts-see-more-upside-despite-margin-pressure-check-new-target-prices-11919022#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-ashok-leyland-bharat-dynamics-patanjali-foods-nmdc-reliance-infra-and-voltas-11918394#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
     {
       "company": "Mahindra & Mahindra Limited",
       "symbol": "M&M",
@@ -496,7 +553,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 243.68,
+      "lastClose": 240.58,
       "catalysts": [
         {
           "label": "Engineers India Q1 Results | Galaxy Surfactants Q1 Results | Top Buzzing Stocks Today - Equitymaster",
@@ -616,7 +673,7 @@
       "lastClose": 1729.7,
       "catalysts": [
         {
-          "label": "LG Electronics shares jump 9% after strong Q1 earnings; analysts flag margin expansion - upstox.com",
+          "label": "LG Electronics shares jump 9% after strong Q1 earnings; analysts flag margin expansion - Upstox",
           "type": "results",
           "verified": true
         },
@@ -848,41 +905,6 @@
         },
         {
           "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "United Drilling Tools Limited",
-      "symbol": "UNIDT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 86,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
