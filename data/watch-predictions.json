@@ -1,13 +1,54 @@
 {
-  "generatedAt": "2026-08-17T03:14:10+00:00",
+  "generatedAt": "2026-08-17T04:59:52+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
+      "company": "NIBE Limited",
+      "symbol": "NIBE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.9,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 17,
+      "lastClose": 1440.7,
+      "catalysts": [
+        {
+          "label": "NIBE bags Rs 563-cr Indian Army contract for loiter munition systems - Business Standard",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSzA0cjViOEs0MVhhSGVuZVBzYTFrNjhreTFDaUFqelVfVnJiN2tkY2pYVHhZY1VIell3NkxzT3ZXSFVQOFJxcV9VZzJoSGNMSXpjRDM4YUgtdHJVN3cwcjlhaU9pT3dQSW5kWWRLamY5N0dBM240OEgxcV93N2szZ0pQRl9jclFzSkFnMmlxNWpNenp1WnBsZG5PTE4ySExvckZfcWpoZGo5ZzNEc05aTkwydmRvaWRiUFRON1RKbWVwXzdNZ2ZRQzBFMVBUR0djMDRxa19MeVBRaDJ0dnJmeWgwMFDSAeoBQVVfeXFMTkFhZ3ZlZU8yZ0dCcFZGN2cweXM4MXctT1dlRWFFZ0VidDdqYkRXbWxFTFNHVHFTMUNyTkFaV0NCYm9fV3FDZnNFWFIydHcydUdwRDBkVWpPbUx6U1ozQkhBOUU3N01xNVkxQUlOelVEcERJM2F5RmRxQ3M4QlJKZVAyQU53QUdIeWNwblk3SE1DUzZVR0tNS0c3ejZlYmY5TjlRU2stWGlmRXJSRl84NWlDbUdScDluRnVRQTEwU2VRSGNnYkhnb0owTWprMmNGNkpxQ25vc3dETXZhMEZacUhKaUV1dkZzSHB3?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Saatvik Green Energy Limited",
       "symbol": "SAATVIKGL",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -19,17 +60,17 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Monitoring Agency Report",
           "type": "announcement",
           "verified": true
         }
@@ -39,56 +80,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Ashok Leyland Limited",
-      "symbol": "ASHOKLEY",
+      "company": "Vodafone Idea Limited",
+      "symbol": "IDEA",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 171.64,
-      "catalysts": [
-        {
-          "label": "Ashok Leyland Q1: Analysts See More Upside Despite Margin Pressure; Check New Target Prices",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Stocks To Watch Today: Ashok Leyland, Bharat Dynamics, Patanjali Foods, NMDC, Reliance Infra And Voltas",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/ashok-leyland-q1-analysts-see-more-upside-despite-margin-pressure-check-new-target-prices-11919022#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-ashok-leyland-bharat-dynamics-patanjali-foods-nmdc-reliance-infra-and-voltas-11918394#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Mahindra & Mahindra Limited",
-      "symbol": "M&M",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -97,26 +92,78 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 3428.3,
+      "lastClose": 13.91,
       "catalysts": [
         {
-          "label": "Press Release",
+          "label": "Vodafone Idea, Motisons, LEAP India Among Top NSE Movers - HDFC Sky",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPXzcwWGM1SjMzMlFGT1lOeHlzOUN1d0VsQ29zaVU3cVRrZkxNQmYxbFNLU3FpODhOR0NzT3hPQXFmSy10ek93XzVYQkFsVVZ3NDFqVEkyN2lYbEx0a242T3M4b0Rzelh1dnlVOFowUkJKUWtBU0QzZ1JPdnU5SDJUSmxwQzVFLTlXdzAyVV9sRHVwQko0dnhOZ3dUWUJ5ZDdZTldmSVg5Z2lGY1RHa0RtbkNMTk5vU2xIRkdXNmxoYVNmRGN6WVpTdQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "LG Electronics India Limited",
+      "symbol": "LGEINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1680.8,
+      "catalysts": [
+        {
+          "label": "LG Electronics India: turnaround or just a low-base bounce? - livemint.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "LG Electronics India surges as Q1 PAT rises 27% YoY - Business Standard",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWg4VE5semJhWTJnWkxJWDZHOEs3SWkzLU8zdXZjWXV2Wkt1QkpCV2RpLVVtb3JLei1qUWJGQTJRUkk2RVh1Ynl4YkZGQlBiLWsyUlBHdEhjaWUzV25scURPbFpPTndlNDVYNHlLNl91Wl9FUThUUGhhRjJTQ25GNXgtaUxLZ1BCMVVJRkJjUDBMNlBCTWlMQU9hcU5WcUw3NkthYjVnT0pjWVFTLVlmTGs1eXNZZDc5MURv0gHAAUFVX3lxTE02a1Z6LTlVNGJibTQ5RnZuYjFuNG1iUFpkdlphTkFncWNnOXBGVno5T3VpeExvT1BIUDg0SDFxVDUxei1PdVNSSURQS2p3Q09EcjhIQWotdDBLZXdJRDYwS29sRm1CYjAtdzNWNWZ5MlpNbm1PZ1dHNlVhVjVyQ1BzeUIyOXhnUm5TdzJuWWF1aXdfTlBFelRWX1dyaUl6bS13a21TLU43NGlZYXZ0SkQ3TDlDMVl0d29MbEJtaTRDSQ?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUcycC1Eekc2QWllS3dncnR4dEo1ckxGWThKRHRmMkRvSVpYaVlLNWNrclplTGdYaHNDRk9tYzNpN2h2MkJENDZVcDJLU1hIMlppMHpUcFJhMTVRZzNTVXBUa0lxYkVFdmlqeGJQZ3NzWE9DaF9TbmFkMC1GS2sxSW5mOFJkN3p6OTQxUVZyV3RhcEl4S0lrbVlhcWYwNVVnSVplRjNqSFBMUWdENktJZnNOcF85WFRmczZyNUlTQmxqeVFRWUdBWWd5WmbSAdIBQVVfeXFMTkFaNUk1TW5acXlIX0dCTWhxNWRJd3NnWnZway01WDJ1RUotRkRlbTZxSnN5ZUdINGlNWmZVS0lUelFQa2U3ekdlLURSVU9XU0o0c1VnaC1iTVZMRzlid2F1Wm13RHd1dkhQMy1XV0FyM1VheVgtUlhBWGRJektrYnpCU21WS0lLX2tTOERDd2s2WUktU1hfNUlpUG1Od1JLckR2eDRLNkNBTFFmNDRJVlVVSEFJakFfY1hkV1BYTlpRczdTczJWN1dLRC0zQ3ZIQldn?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -132,7 +179,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 240.58,
+      "lastClose": 241.8,
       "catalysts": [
         {
           "label": "Engineers India Q1 Results | Galaxy Surfactants Q1 Results | Top Buzzing Stocks Today - Equitymaster",
@@ -266,73 +313,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "LG Electronics India Limited",
-      "symbol": "LGEINDIA",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.9,
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1729.7,
-      "catalysts": [
-        {
-          "label": "LG Electronics shares jump 9% after strong Q1 earnings; analysts flag margin expansion - Upstox",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "LG Electronics India surges as Q1 PAT rises 27% YoY - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGFnRGdHM0VtRC1idnBIS09ZVkk2UHBKOW02VERxNHdrY2lSbkNBdllFUVAtWFVETzBhSXA0bWE5WDF4eENvVzA1MkhIWVFVTEtVeDhEdXZ0V1FRNWRIWk11eHNkWFJDeUNiNkxCLUF1Zkdxc0tsYkNsR1pqUXRRTHFfMHQ1MXBiYl9FalZlSjFfbGlZY1Y4dDJobm1td1lTeTFtX1ZGajZuTlFVQ01xakZsUG9Ga1J2QlpiSERTWnZWWTFHMU1aYlBWYVRuckNiLW5QUGNqdW4zNms?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUcycC1Eekc2QWllS3dncnR4dEo1ckxGWThKRHRmMkRvSVpYaVlLNWNrclplTGdYaHNDRk9tYzNpN2h2MkJENDZVcDJLU1hIMlppMHpUcFJhMTVRZzNTVXBUa0lxYkVFdmlqeGJQZ3NzWE9DaF9TbmFkMC1GS2sxSW5mOFJkN3p6OTQxUVZyV3RhcEl4S0lrbVlhcWYwNVVnSVplRjNqSFBMUWdENktJZnNOcF85WFRmczZyNUlTQmxqeVFRWUdBWWd5WmbSAdIBQVVfeXFMTkFaNUk1TW5acXlIX0dCTWhxNWRJd3NnWnZway01WDJ1RUotRkRlbTZxSnN5ZUdINGlNWmZVS0lUelFQa2U3ekdlLURSVU9XU0o0c1VnaC1iTVZMRzlid2F1Wm13RHd1dkhQMy1XV0FyM1VheVgtUlhBWGRJektrYnpCU21WS0lLX2tTOERDd2s2WUktU1hfNUlpUG1Od1JLckR2eDRLNkNBTFFmNDRJVlVVSEFJakFfY1hkV1BYTlpRczdTczJWN1dLRC0zQ3ZIQldn?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Vodafone Idea Limited",
-      "symbol": "IDEA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 14.11,
+      "lastClose": 1215.3,
       "catalysts": [
         {
-          "label": "Vodafone Idea, Motisons, LEAP India Among Top NSE Movers - HDFC Sky",
+          "label": "Sensex Today Trades Lower | Nifty Below 24,350 | Tata Steel & Axis Bank Top Losers - Equitymaster",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         },
@@ -346,7 +347,7 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPXzcwWGM1SjMzMlFGT1lOeHlzOUN1d0VsQ29zaVU3cVRrZkxNQmYxbFNLU3FpODhOR0NzT3hPQXFmSy10ek93XzVYQkFsVVZ3NDFqVEkyN2lYbEx0a242T3M4b0Rzelh1dnlVOFowUkJKUWtBU0QzZ1JPdnU5SDJUSmxwQzVFLTlXdzAyVV9sRHVwQko0dnhOZ3dUWUJ5ZDdZTldmSVg5Z2lGY1RHa0RtbkNMTk5vU2xIRkdXNmxoYVNmRGN6WVpTdQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3BiRUlPUjNBT3F0c2Z0LUlrUzBpQXhiakpCUE9lWUVlQkNsVlJyUjZsWEo3d0pSRjNCWVg3QnhXVzNvZ0tkdGl5N0Q1N2p1WkhzcXJoWXZwWUNHOFlRdy15RlYxSWcyMWNaanB4ak1seG1rTEZqQ05iTXZZMHhlSkR6Nk9JTTBsQ1lnbjRRS3Uxd1VPM2t6U2trWC01ZWtnUk1oUFUyZHNrRHZ2bEsyZDJLaWVEUzk0b3hYUlZ3S0RBYk10eVItQWYzbkxFelM1cnhKY0p3?oc=5",
           "verified": true
         }
       ],
@@ -388,6 +389,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 3392.7,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Kalpataru Projects International Limited",
       "symbol": "KPIL",
       "exchange": "NSE",
@@ -414,41 +450,6 @@
         },
         {
           "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "RMC Switchgears Limited",
-      "symbol": "RMC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -460,163 +461,6 @@
   ],
   "tomorrow": [
     {
-      "company": "Ashok Leyland Limited",
-      "symbol": "ASHOKLEY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 171.64,
-      "catalysts": [
-        {
-          "label": "Ashok Leyland Q1: Analysts See More Upside Despite Margin Pressure; Check New Target Prices",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Stocks To Watch Today: Ashok Leyland, Bharat Dynamics, Patanjali Foods, NMDC, Reliance Infra And Voltas",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/ashok-leyland-q1-analysts-see-more-upside-despite-margin-pressure-check-new-target-prices-11919022#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-ashok-leyland-bharat-dynamics-patanjali-foods-nmdc-reliance-infra-and-voltas-11918394#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Mahindra & Mahindra Limited",
-      "symbol": "M&M",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 3428.3,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Engineers India Limited",
-      "symbol": "ENGINERSIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 1,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 240.58,
-      "catalysts": [
-        {
-          "label": "Engineers India Q1 Results | Galaxy Surfactants Q1 Results | Top Buzzing Stocks Today - Equitymaster",
-          "type": "company news",
-          "verified": false
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1lDd3NQZm9oU3hqbmhxNjBsZjRqVVhHS3dEaTFJXzRhZzl5QTExRVNQVEtKRU1WWHlEV01jU2lINUs3OThpQ1Vud3d3NFdTa1hKZmJzd0RXek9fWFh2dnc4aGdOZTZaWDRtR0lleFZCS1ZxemZhQ0xaYTZGX2J3VUhZdnR6UzBCMjFoUVN2eVpBVHZFaFltUXBJUFlJOU9SNDZEOGJ4cUZ3Z20yOVFzdnpvbEtKcjUwMzlnbEVhRmpxZDlBRy0yVW5CcEFOR0pRdzlRN2NtaXBfUWs?oc=5",
-          "verified": false
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Saatvik Green Energy Limited",
-      "symbol": "SAATVIKGL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Vodafone Idea Limited",
       "symbol": "IDEA",
       "exchange": "NSE",
@@ -624,12 +468,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.0,
+      "predictionScore": 4.8,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 14.11,
+      "technicalConfidence": 100,
+      "lastClose": 13.91,
       "catalysts": [
         {
           "label": "Vodafone Idea, Motisons, LEAP India Among Top NSE Movers - HDFC Sky",
@@ -665,16 +509,16 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.9,
+      "predictionScore": 4.8,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1729.7,
+      "technicalConfidence": 100,
+      "lastClose": 1680.8,
       "catalysts": [
         {
-          "label": "LG Electronics shares jump 9% after strong Q1 earnings; analysts flag margin expansion - Upstox",
-          "type": "results",
+          "label": "LG Electronics India: turnaround or just a low-base bounce? - livemint.com",
+          "type": "company news",
           "verified": true
         },
         {
@@ -692,7 +536,7 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGFnRGdHM0VtRC1idnBIS09ZVkk2UHBKOW02VERxNHdrY2lSbkNBdllFUVAtWFVETzBhSXA0bWE5WDF4eENvVzA1MkhIWVFVTEtVeDhEdXZ0V1FRNWRIWk11eHNkWFJDeUNiNkxCLUF1Zkdxc0tsYkNsR1pqUXRRTHFfMHQ1MXBiYl9FalZlSjFfbGlZY1Y4dDJobm1td1lTeTFtX1ZGajZuTlFVQ01xakZsUG9Ga1J2QlpiSERTWnZWWTFHMU1aYlBWYVRuckNiLW5QUGNqdW4zNms?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWg4VE5semJhWTJnWkxJWDZHOEs3SWkzLU8zdXZjWXV2Wkt1QkpCV2RpLVVtb3JLei1qUWJGQTJRUkk2RVh1Ynl4YkZGQlBiLWsyUlBHdEhjaWUzV25scURPbFpPTndlNDVYNHlLNl91Wl9FUThUUGhhRjJTQ25GNXgtaUxLZ1BCMVVJRkJjUDBMNlBCTWlMQU9hcU5WcUw3NkthYjVnT0pjWVFTLVlmTGs1eXNZZDc5MURv0gHAAUFVX3lxTE02a1Z6LTlVNGJibTQ5RnZuYjFuNG1iUFpkdlphTkFncWNnOXBGVno5T3VpeExvT1BIUDg0SDFxVDUxei1PdVNSSURQS2p3Q09EcjhIQWotdDBLZXdJRDYwS29sRm1CYjAtdzNWNWZ5MlpNbm1PZ1dHNlVhVjVyQ1BzeUIyOXhnUm5TdzJuWWF1aXdfTlBFelRWX1dyaUl6bS13a21TLU43NGlZYXZ0SkQ3TDlDMVl0d29MbEJtaTRDSQ?oc=5",
           "verified": true
         },
         {
@@ -701,7 +545,200 @@
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 1,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 241.8,
+      "catalysts": [
+        {
+          "label": "Engineers India Q1 Results | Galaxy Surfactants Q1 Results | Top Buzzing Stocks Today - Equitymaster",
+          "type": "company news",
+          "verified": false
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1lDd3NQZm9oU3hqbmhxNjBsZjRqVVhHS3dEaTFJXzRhZzl5QTExRVNQVEtKRU1WWHlEV01jU2lINUs3OThpQ1Vud3d3NFdTa1hKZmJzd0RXek9fWFh2dnc4aGdOZTZaWDRtR0lleFZCS1ZxemZhQ0xaYTZGX2J3VUhZdnR6UzBCMjFoUVN2eVpBVHZFaFltUXBJUFlJOU9SNDZEOGJ4cUZ3Z20yOVFzdnpvbEtKcjUwMzlnbEVhRmpxZDlBRy0yVW5CcEFOR0pRdzlRN2NtaXBfUWs?oc=5",
+          "verified": false
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "NIBE Limited",
+      "symbol": "NIBE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 17,
+      "lastClose": 1440.7,
+      "catalysts": [
+        {
+          "label": "NIBE bags Rs 563-cr Indian Army contract for loiter munition systems - Business Standard",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSzA0cjViOEs0MVhhSGVuZVBzYTFrNjhreTFDaUFqelVfVnJiN2tkY2pYVHhZY1VIell3NkxzT3ZXSFVQOFJxcV9VZzJoSGNMSXpjRDM4YUgtdHJVN3cwcjlhaU9pT3dQSW5kWWRLamY5N0dBM240OEgxcV93N2szZ0pQRl9jclFzSkFnMmlxNWpNenp1WnBsZG5PTE4ySExvckZfcWpoZGo5ZzNEc05aTkwydmRvaWRiUFRON1RKbWVwXzdNZ2ZRQzBFMVBUR0djMDRxa19MeVBRaDJ0dnJmeWgwMFDSAeoBQVVfeXFMTkFhZ3ZlZU8yZ0dCcFZGN2cweXM4MXctT1dlRWFFZ0VidDdqYkRXbWxFTFNHVHFTMUNyTkFaV0NCYm9fV3FDZnNFWFIydHcydUdwRDBkVWpPbUx6U1ozQkhBOUU3N01xNVkxQUlOelVEcERJM2F5RmRxQ3M4QlJKZVAyQU53QUdIeWNwblk3SE1DUzZVR0tNS0c3ejZlYmY5TjlRU2stWGlmRXJSRl84NWlDbUdScDluRnVRQTEwU2VRSGNnYkhnb0owTWprMmNGNkpxQ25vc3dETXZhMEZacUhKaUV1dkZzSHB3?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Saatvik Green Energy Limited",
+      "symbol": "SAATVIKGL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1215.3,
+      "catalysts": [
+        {
+          "label": "Sensex Today Trades Lower | Nifty Below 24,350 | Tata Steel & Axis Bank Top Losers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3BiRUlPUjNBT3F0c2Z0LUlrUzBpQXhiakpCUE9lWUVlQkNsVlJyUjZsWEo3d0pSRjNCWVg3QnhXVzNvZ0tkdGl5N0Q1N2p1WkhzcXJoWXZwWUNHOFlRdy15RlYxSWcyMWNaanB4ak1seG1rTEZqQ05iTXZZMHhlSkR6Nk9JTTBsQ1lnbjRRS3Uxd1VPM2t6U2trWC01ZWtnUk1oUFUyZHNrRHZ2bEsyZDJLaWVEUzk0b3hYUlZ3S0RBYk10eVItQWYzbkxFelM1cnhKY0p3?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 3392.7,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "AVG Logistics Limited",
@@ -809,108 +846,85 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Manappuram Finance Limited",
-      "symbol": "MANAPPURAM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 21,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Kalpataru Projects International Limited",
-      "symbol": "KPIL",
+      "company": "JSW Cement Limited",
+      "symbol": "JSWCEMENT",
       "exchange": "NSE",
       "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
+      "direction": "Negative watch",
+      "predictionScore": -2.5,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 127.86,
       "catalysts": [
+        {
+          "label": "JSW Cement Has Jefferies Positive Despite Weaker Q1 Margins; Citi Lowers Price Target",
+          "type": "results",
+          "verified": true
+        },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/jsw-cement-has-jefferies-positive-despite-weaker-q1-margins-citi-lowers-price-target-11919117#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "RMC Switchgears Limited",
-      "symbol": "RMC",
+      "company": "Indian Railway Catering And Tourism Corporation Limited",
+      "symbol": "IRCTC",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 88,
+      "direction": "Negative watch",
+      "predictionScore": -2.4,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 499.15,
       "catalysts": [
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "RVNL vs IRFC vs IRCON vs IRCTC: Which railway stock to buy after Q1 results 2026? - livemint.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Change in Director(s)",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOFpBN2NFT3ZZOHFEU01sWUJKQ0dpTWdoeDVyb2lnbnV1OFZKVGFBdGdQM09NdDlwVzhRdl9EbFEwR0xmWHhib0Q1RHB5RDU1RE5SZlBQbTJOdFNJc28zaEpWRVoxaml1VFpQblV4SDYtRS1XcE1QbmRkSGpfNk54UWY2RmktSkZaeGNuRUNJd0gyQkxqNFdKb0xHbk1WQm9ZVFl1MEZLd2FpaFhVNmVzck0yRHdnTVQxV1J2TUF3MjNBX3VlOWRPWm1XRXNSY1p0czZfb1lMaFM2S01TaFJhZTJ6a9IB6AFBVV95cUxPRWc0V3M5SGZndTF1UW9lblFydkI4QWRzZDVPTlFxakNtS1E5TFpjNk5xd2ZZVjFpdHViaF9yUVdhV3RZR0EyVXMwdzBJYkdHQVRyMzI3SkVKTDlzdGtBYzY0eHFTaUpKN2R6elpJdDdZRjVrbW1tZXhPU09KM0VCUnoxbVBDV21xeFNhbGpjdWdDUzY1a3Z5OV9GdmFJNXo4RzlPZGdCbEQ4a1RxenlyUExaVzFmMWI4Yk1nUE1zYV9NLWdNSWVFOVRFd0kzTlAwYzBNdzY5cURvdnlZR0d1Zlo1Q1Q2aENj?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
