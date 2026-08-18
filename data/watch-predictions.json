@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T10:48:15+00:00",
+  "generatedAt": "2026-08-18T13:09:47+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,7 +7,7 @@
       "company": "Saatvik Green Energy Limited",
       "symbol": "SAATVIKGL",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -19,17 +19,17 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -77,6 +77,41 @@
           "verified": true
         }
       ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Innova Captab Limited",
+      "symbol": "INNOVACAP",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1043.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -162,47 +197,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Highway Infrastructure Limited",
-      "symbol": "HILINFRA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 46.3,
-      "catalysts": [
-        {
-          "label": "60% Fall In One Year: This Small-Cap Stock Of Infra Company Surged 5% In Trade. Know why",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/highway-infrastructure-60-fall-in-one-year-small-cap-stock-of-infra-company-surged-5-in-trade-know-why-11925008#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "AVG Logistics Limited",
       "symbol": "AVG",
       "exchange": "NSE",
@@ -229,6 +223,41 @@
         },
         {
           "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "NIBE Limited",
+      "symbol": "NIBE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
           "type": "announcement",
           "verified": true
         }
@@ -308,47 +337,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Siemens Limited",
-      "symbol": "SIEMENS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 3957.0,
-      "catalysts": [
-        {
-          "label": "Siemens Energy India Shares Rise 2% on Positive Market Sentiment - Moneycontrol.com",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczRlMWxoenZGb0p3T01oX2J0SlppZ1hFdkZCLVJTLTJwaTBVOFpPTVhVM1cxUHFtR1VHV1AxMGpJQWtBbDNYNnNCdkxOcmZwRlU4Q01aXzgtbDZyRXBObUhUUmFpaEhXSW5vaXhsUkF2YmZ4Uk5XNm5ON0JVVjFxWnBoRGpRQXFpcHZSVlE1U1R1SC13b0hxTUVydm9lTUdFa2hrd3FlQUc1NllnT1pPTG5yWWF4Z0U5NVZ2VkE1Wm5qMTRONFh2YllPWmFjZG1ZUU9iQ1VVb25NV19UUmfSAd4BQVVfeXFMT3M0ZTFsaHp2Rm9Kd09NaF9idEpaaWdYRXZGQi1SUy0ycGkwVThaT01YVTNXMVBxbUdVR1dQMTBqSUFrQWwzWDZzQnZMTnJmcEZVOENNWl84LWw2ckVwTm1IVFJhaWhIV0lub2l4bFJBdmJmeFJOVzZuTjdCVVYxcVpwaERqUUFxaXB2UlZRNVNUdUgtd29IcU1FcnZvZU1HRWtoa3dxZUFHNTZZZ09aT0xucllheGdFOTVWdlZBNVpuajE0TjRYdmJZT1phY2RtWVFPYkNVVW9uTVdfVFJn?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Manappuram Finance Limited",
       "symbol": "MANAPPURAM",
       "exchange": "NSE",
@@ -419,22 +407,22 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "RMC Switchgears Limited",
-      "symbol": "RMC",
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 88,
+      "predictionScore": 2.2,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 3421.5,
       "catalysts": [
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
@@ -444,7 +432,7 @@
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -456,430 +444,15 @@
   ],
   "tomorrow": [
     {
-      "company": "LG Electronics India Limited",
-      "symbol": "LGEINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1649.4,
-      "catalysts": [
-        {
-          "label": "LG Electronics India: turnaround or just a low-base bounce? - livemint.com",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWg4VE5semJhWTJnWkxJWDZHOEs3SWkzLU8zdXZjWXV2Wkt1QkpCV2RpLVVtb3JLei1qUWJGQTJRUkk2RVh1Ynl4YkZGQlBiLWsyUlBHdEhjaWUzV25scURPbFpPTndlNDVYNHlLNl91Wl9FUThUUGhhRjJTQ25GNXgtaUxLZ1BCMVVJRkJjUDBMNlBCTWlMQU9hcU5WcUw3NkthYjVnT0pjWVFTLVlmTGs1eXNZZDc5MURv0gHAAUFVX3lxTE02a1Z6LTlVNGJibTQ5RnZuYjFuNG1iUFpkdlphTkFncWNnOXBGVno5T3VpeExvT1BIUDg0SDFxVDUxei1PdVNSSURQS2p3Q09EcjhIQWotdDBLZXdJRDYwS29sRm1CYjAtdzNWNWZ5MlpNbm1PZ1dHNlVhVjVyQ1BzeUIyOXhnUm5TdzJuWWF1aXdfTlBFelRWX1dyaUl6bS13a21TLU43NGlZYXZ0SkQ3TDlDMVl0d29MbEJtaTRDSQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Tube Investments of India Limited",
-      "symbol": "TIINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2959.0,
-      "catalysts": [
-        {
-          "label": "TUBE INVESTMENTS OF INDIA Share Price Today Up 7% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQdFZyUnVSMEVZT2lOeDZwdlVxSDh6bnFDUlpEdXY1dTIwNldId0tER0dYbm1PRF8zRnFEdEFuQWNkdU5mbTBTeXhLUlJxbk44YlBGMWpfU21OQlZOZFNROEpfa1F6cWNqYWtIbmJJbENaQnBmX19ad213b0k2UEpKamdRRXhiWlNuQVdxaGkyaG0xNXlPRkRFWGp3OXZ4QmxjLW9FT2NIdWpucjd5TGpoblpfNUZxQXhvYXFoMDFkT1BWQks1d1YwNEdma1ZiUGFyZktteGR0elh5bXhVSW05WTBDTEhKeTdzQjgwbngtaElsX3o5cl9aV19QTUQ5VVFPZkt4Vk5yckVGdHFuNkZzNnBTeGNhUnlud1R2YzU4dzVaamEtby12WTNZVnE4ZmJFRmNPajgwdnAzUQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Engineers India Limited",
-      "symbol": "ENGINERSIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 1,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 244.78,
-      "catalysts": [
-        {
-          "label": "Engineers India Q1 Results | Galaxy Surfactants Q1 Results | Top Buzzing Stocks Today - Equitymaster",
-          "type": "company news",
-          "verified": false
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVFdlMWZ1VVZwLU5DVWY4V25jN2pHWm1PUEpCRFBGVWZpMU1mXzdnUFRXbHdmYmpKc0h3SXRIYi1mb0pDMVBHLWpZdlp2eEl2aV9Fd0VjbDFYVnR4NVM4RDNueFZTWHlMcHluQzM3UnVxRkQ3a1JVYThaN1N5SzB6c25wbWwtMi1TV2c1XzdWMnhwZTBmSW5JbWYwQ0tRa0FmQm1UQ2Zqb0Q2TWlCQjMxU0tNN1N5UkJicDBBd1l4Snh3VExtN3VSM3huQUlaX0Y1THhreDFkQjRzN2tD?oc=5",
-          "verified": false
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Saatvik Green Energy Limited",
-      "symbol": "SAATVIKGL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Siemens Limited",
-      "symbol": "SIEMENS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 3957.0,
-      "catalysts": [
-        {
-          "label": "Siemens Energy India Shares Rise 2% on Positive Market Sentiment - Moneycontrol.com",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczRlMWxoenZGb0p3T01oX2J0SlppZ1hFdkZCLVJTLTJwaTBVOFpPTVhVM1cxUHFtR1VHV1AxMGpJQWtBbDNYNnNCdkxOcmZwRlU4Q01aXzgtbDZyRXBObUhUUmFpaEhXSW5vaXhsUkF2YmZ4Uk5XNm5ON0JVVjFxWnBoRGpRQXFpcHZSVlE1U1R1SC13b0hxTUVydm9lTUdFa2hrd3FlQUc1NllnT1pPTG5yWWF4Z0U5NVZ2VkE1Wm5qMTRONFh2YllPWmFjZG1ZUU9iQ1VVb25NV19UUmfSAd4BQVVfeXFMT3M0ZTFsaHp2Rm9Kd09NaF9idEpaaWdYRXZGQi1SUy0ycGkwVThaT01YVTNXMVBxbUdVR1dQMTBqSUFrQWwzWDZzQnZMTnJmcEZVOENNWl84LWw2ckVwTm1IVFJhaWhIV0lub2l4bFJBdmJmeFJOVzZuTjdCVVYxcVpwaERqUUFxaXB2UlZRNVNUdUgtd29IcU1FcnZvZU1HRWtoa3dxZUFHNTZZZ09aT0xucllheGdFOTVWdlZBNVpuajE0TjRYdmJZT1phY2RtWVFPYkNVVW9uTVdfVFJn?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Highway Infrastructure Limited",
-      "symbol": "HILINFRA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.9,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 46.3,
-      "catalysts": [
-        {
-          "label": "60% Fall In One Year: This Small-Cap Stock Of Infra Company Surged 5% In Trade. Know why",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/highway-infrastructure-60-fall-in-one-year-small-cap-stock-of-infra-company-surged-5-in-trade-know-why-11925008#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "AVG Logistics Limited",
-      "symbol": "AVG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 17,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "CESC Limited",
-      "symbol": "CESC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Solex Energy Limited",
-      "symbol": "SOLEX",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Manappuram Finance Limited",
-      "symbol": "MANAPPURAM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 23,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Kalpataru Projects International Limited",
-      "symbol": "KPIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Bharat Dynamics Limited",
       "symbol": "BDL",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.8,
-      "confidence": 89,
+      "predictionScore": 5.7,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
@@ -896,7 +469,7 @@
           "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
@@ -915,6 +488,409 @@
         }
       ],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "LG Electronics India Limited",
+      "symbol": "LGEINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1649.4,
+      "catalysts": [
+        {
+          "label": "LG Electronics India: turnaround or just a low-base bounce? - livemint.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWg4VE5semJhWTJnWkxJWDZHOEs3SWkzLU8zdXZjWXV2Wkt1QkpCV2RpLVVtb3JLei1qUWJGQTJRUkk2RVh1Ynl4YkZGQlBiLWsyUlBHdEhjaWUzV25scURPbFpPTndlNDVYNHlLNl91Wl9FUThUUGhhRjJTQ25GNXgtaUxLZ1BCMVVJRkJjUDBMNlBCTWlMQU9hcU5WcUw3NkthYjVnT0pjWVFTLVlmTGs1eXNZZDc5MURv0gHAAUFVX3lxTE02a1Z6LTlVNGJibTQ5RnZuYjFuNG1iUFpkdlphTkFncWNnOXBGVno5T3VpeExvT1BIUDg0SDFxVDUxei1PdVNSSURQS2p3Q09EcjhIQWotdDBLZXdJRDYwS29sRm1CYjAtdzNWNWZ5MlpNbm1PZ1dHNlVhVjVyQ1BzeUIyOXhnUm5TdzJuWWF1aXdfTlBFelRWX1dyaUl6bS13a21TLU43NGlZYXZ0SkQ3TDlDMVl0d29MbEJtaTRDSQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Innova Captab Limited",
+      "symbol": "INNOVACAP",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1043.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tube Investments of India Limited",
+      "symbol": "TIINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 2959.0,
+      "catalysts": [
+        {
+          "label": "TUBE INVESTMENTS OF INDIA Share Price Today Up 7% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQdFZyUnVSMEVZT2lOeDZwdlVxSDh6bnFDUlpEdXY1dTIwNldId0tER0dYbm1PRF8zRnFEdEFuQWNkdU5mbTBTeXhLUlJxbk44YlBGMWpfU21OQlZOZFNROEpfa1F6cWNqYWtIbmJJbENaQnBmX19ad213b0k2UEpKamdRRXhiWlNuQVdxaGkyaG0xNXlPRkRFWGp3OXZ4QmxjLW9FT2NIdWpucjd5TGpoblpfNUZxQXhvYXFoMDFkT1BWQks1d1YwNEdma1ZiUGFyZktteGR0elh5bXhVSW05WTBDTEhKeTdzQjgwbngtaElsX3o5cl9aV19QTUQ5VVFPZkt4Vk5yckVGdHFuNkZzNnBTeGNhUnlud1R2YzU4dzVaamEtby12WTNZVnE4ZmJFRmNPajgwdnAzUQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 1,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 244.78,
+      "catalysts": [
+        {
+          "label": "Engineers India Q1 Results | Galaxy Surfactants Q1 Results | Top Buzzing Stocks Today - Equitymaster",
+          "type": "company news",
+          "verified": false
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVFdlMWZ1VVZwLU5DVWY4V25jN2pHWm1PUEpCRFBGVWZpMU1mXzdnUFRXbHdmYmpKc0h3SXRIYi1mb0pDMVBHLWpZdlp2eEl2aV9Fd0VjbDFYVnR4NVM4RDNueFZTWHlMcHluQzM3UnVxRkQ3a1JVYThaN1N5SzB6c25wbWwtMi1TV2c1XzdWMnhwZTBmSW5JbWYwQ0tRa0FmQm1UQ2Zqb0Q2TWlCQjMxU0tNN1N5UkJicDBBd1l4Snh3VExtN3VSM3huQUlaX0Y1THhreDFkQjRzN2tD?oc=5",
+          "verified": false
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Saatvik Green Energy Limited",
+      "symbol": "SAATVIKGL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 3421.5,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "AVG Logistics Limited",
+      "symbol": "AVG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 17,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "NIBE Limited",
+      "symbol": "NIBE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "CESC Limited",
+      "symbol": "CESC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Solex Energy Limited",
+      "symbol": "SOLEX",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Manappuram Finance Limited",
+      "symbol": "MANAPPURAM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 23,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
 }
