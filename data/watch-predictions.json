@@ -1,8 +1,54 @@
 {
-  "generatedAt": "2026-08-19T16:48:15+00:00",
+  "generatedAt": "2026-08-19T18:54:54+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "United Spirits Limited",
+      "symbol": "UNITDSPR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 6.9,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1520.9,
+      "catalysts": [
+        {
+          "label": "FSSAI Revokes Order Against United Spirits' McDowell's No 1 Rum From Baramati",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Diageo To Rework McDowell's Rum, Royal Challenge Whisky Formulas In India",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/fssai-revokes-order-against-united-spirits-mcdowells-no-1-rum-from-baramati-11932773#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/diageo-to-overhaul-whisky-rum-formulas-in-india-to-settle-regulatory-probe-report-11922895#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
     {
       "company": "Ceigall India Limited",
       "symbol": "CEIGALL",
@@ -11,12 +57,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
+      "predictionScore": 4.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 313.65,
+      "technicalConfidence": 67,
+      "lastClose": 309.15,
       "catalysts": [
         {
           "label": "Ceigall India shares in focus as JV bags EPC order worth \u20b9274 crore from MoRTH in Arunachal Pradesh - Upstox",
@@ -44,6 +90,93 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWnVDT3FZRWFHcmdaUzM5Q2xuSzRBc0ZtX2VlWkwySlQyekRnTVpLYmRwdl9HMEZIU2VneXdWblQ1S05CQVNsc1N4ZFlqblFuSF8zRkRQS2x4LTdTQXVZSWxES3pITW4tTV9nSmJraGh0dlJ2V0t3cnMxeTRjLUlDQ1ZMY0pTSzhZbmt3cXQySVhKTkJ1QzFEMjZTaE1FV0JkZjVGSlF4X3JjdmVnbmRtWEJhRjNZU1VBaW4wUXlmbTR4cFVKcHdDd3JRTll6SG1UcWFaZmxHd2FkaWc5NGNWR0ppSmhXY1XSAewBQVVfeXFMTVphdlpiMGxVYVBvVU05YlpEUlpTYjhHZ3lOQTNiMFhmZkE1UHdBTTZmT3k2T0d4c2ZQb2NZMnlfb2lnRlBnTXlpQ3lBbzc5RDcxX3VXUTgzMlZyYjN3Q2hEaDlYYkdSRnB5a1pGd2VDMlg1TWJ3ZzlITEZjbHBSMW9UMk1NWEJiX3k3X3dQcDN0NFRVSGJocUJzdDBmTU13aXZYcnFqWmhfVS1YdU9TNzJ2SXVUWWdFc3lmN2o4Ul9EUDZpQ3VhODMtZzdha1JGNHNvRFdDcmVqUktJU3hwSVVTOFlfZFVLbXRGSHU?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Punjab National Bank",
+      "symbol": "PNB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 116.5,
+      "catalysts": [
+        {
+          "label": "BSE MD & CEO Sundararaman Ramamurthy Inaugurates PNB\u2019s One-Stop Branch for Stock Brokers - thenewsmanofindia.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3I0ZlQzWjRxTXlrR2pMYjZUSDc4c1ZrYTBxWmpXY29VcjN6UFU5V1dIaHBhT2dpQXdUR1BKbEMzdjNOWnJRdHhoZThvZjZIenp4azZWU3M5TmtVMm1HYUtmeFVMM1RJdnhEMjQzLU9sR2pFWl9IZ0tGc2dCSVRhb0ZOUzdEM0VaRzA1RVVod0NSamlkTlFER05xZmFHZGdFMjFyN2RZT1V6UkVockV3dGUtSlB0OWs?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 723.0,
+      "catalysts": [
+        {
+          "label": "Indian Lenders Raise $4 Billion In Between June 16 And Aug. 13 Via Global Band Issuances",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "HDFC Bank, ITC, Hindustan Unilever, Dabur India, IRFC, UPL hit 52-week lows - Business Standard",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/economy/indian-lenders-raise-4-billion-in-between-june-16-and-aug-13-via-global-band-issuances-11932866#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNajB2MmRLTm5yd1BwVFJWclp4NkZVV0RyZEJoNGNDS3AydU9hU3JiVS0xZjg0SVdiUEhxbWljYlF5cU9RSGplZzhtdEJEX09ZaGtyTjV0dERQMFZiZEhkMjdfNWh6SDJYMF82c202Q09QZlRTNmF0UVNma20xeWx6M1BYaUVWdU1nekdNZ1Y5Rmx1WWtuTVgzcHo0LXc5SHp0MVZEWThwdXAyRUxfM2pYM1dUZXRHaFA3M2swU3RMN0hldjhyOGJoSmNwZl9Ddkt2TFVN0gHYAUFVX3lxTE02TG9hUENUbzdZeF9XWnBWVmwwU2dxWlVUVk9DaUFlN21YbUhuV1BlNWRKckRzTi1hU05OeXZZWjNfRElId0xGT05PSlVZUHV4QjY4bXRKSmRsa29pQTdpTmpEWXZva2ZRWUItRGxPckczWDUyLXBRZFlOcmozVzlRY1Byc2RFejNYS0JKWERzN3lhY1pYNEtZczZHbDlCUlVsYjhheC1hVDQ0N0dGeDRvdGIySXdadlV4Y0phcU9YMWZmanNtalBxbmlFajNoYVJJUjNoTG1iag?oc=5",
           "verified": true
         }
       ],
@@ -295,41 +428,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Innova Captab Limited",
-      "symbol": "INNOVACAP",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1039.75,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Patanjali Foods Limited",
       "symbol": "PATANJALI",
       "exchange": "NSE",
@@ -356,82 +454,6 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 720.0,
-      "catalysts": [
-        {
-          "label": "HDFC Bank, ITC, Hindustan Unilever, Dabur India, IRFC, UPL hit 52-week lows - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNajB2MmRLTm5yd1BwVFJWclp4NkZVV0RyZEJoNGNDS3AydU9hU3JiVS0xZjg0SVdiUEhxbWljYlF5cU9RSGplZzhtdEJEX09ZaGtyTjV0dERQMFZiZEhkMjdfNWh6SDJYMF82c202Q09QZlRTNmF0UVNma20xeWx6M1BYaUVWdU1nekdNZ1Y5Rmx1WWtuTVgzcHo0LXc5SHp0MVZEWThwdXAyRUxfM2pYM1dUZXRHaFA3M2swU3RMN0hldjhyOGJoSmNwZl9Ddkt2TFVN0gHYAUFVX3lxTE02TG9hUENUbzdZeF9XWnBWVmwwU2dxWlVUVk9DaUFlN21YbUhuV1BlNWRKckRzTi1hU05OeXZZWjNfRElId0xGT05PSlVZUHV4QjY4bXRKSmRsa29pQTdpTmpEWXZva2ZRWUItRGxPckczWDUyLXBRZFlOcmozVzlRY1Byc2RFejNYS0JKWERzN3lhY1pYNEtZczZHbDlCUlVsYjhheC1hVDQ0N0dGeDRvdGIySXdadlV4Y0phcU9YMWZmanNtalBxbmlFajNoYVJJUjNoTG1iag?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Tiger Logistics (India) Limited",
-      "symbol": "TIGERLOGS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 72,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Awarding of order(s)/contract(s)",
           "type": "announcement",
           "verified": true
         }
@@ -443,38 +465,136 @@
   ],
   "tomorrow": [
     {
-      "company": "Innova Captab Limited",
-      "symbol": "INNOVACAP",
+      "company": "United Spirits Limited",
+      "symbol": "UNITDSPR",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
+      "predictionScore": 7.9,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1039.75,
+      "technicalConfidence": 67,
+      "lastClose": 1520.9,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "FSSAI Revokes Order Against United Spirits' McDowell's No 1 Rum From Baramati",
+          "type": "contract",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
+          "label": "Diageo To Rework McDowell's Rum, Royal Challenge Whisky Formulas In India",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Action(s) taken or orders passed",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/fssai-revokes-order-against-united-spirits-mcdowells-no-1-rum-from-baramati-11932773#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/diageo-to-overhaul-whisky-rum-formulas-in-india-to-settle-regulatory-probe-report-11922895#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Punjab National Bank",
+      "symbol": "PNB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.6,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 116.5,
+      "catalysts": [
+        {
+          "label": "BSE MD & CEO Sundararaman Ramamurthy Inaugurates PNB\u2019s One-Stop Branch for Stock Brokers - thenewsmanofindia.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3I0ZlQzWjRxTXlrR2pMYjZUSDc4c1ZrYTBxWmpXY29VcjN6UFU5V1dIaHBhT2dpQXdUR1BKbEMzdjNOWnJRdHhoZThvZjZIenp4azZWU3M5TmtVMm1HYUtmeFVMM1RJdnhEMjQzLU9sR2pFWl9IZ0tGc2dCSVRhb0ZOUzdEM0VaRzA1RVVod0NSamlkTlFER05xZmFHZGdFMjFyN2RZT1V6UkVockV3dGUtSlB0OWs?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 723.0,
+      "catalysts": [
+        {
+          "label": "Indian Lenders Raise $4 Billion In Between June 16 And Aug. 13 Via Global Band Issuances",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "HDFC Bank, ITC, Hindustan Unilever, Dabur India, IRFC, UPL hit 52-week lows - Business Standard",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/economy/indian-lenders-raise-4-billion-in-between-june-16-and-aug-13-via-global-band-issuances-11932866#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNajB2MmRLTm5yd1BwVFJWclp4NkZVV0RyZEJoNGNDS3AydU9hU3JiVS0xZjg0SVdiUEhxbWljYlF5cU9RSGplZzhtdEJEX09ZaGtyTjV0dERQMFZiZEhkMjdfNWh6SDJYMF82c202Q09QZlRTNmF0UVNma20xeWx6M1BYaUVWdU1nekdNZ1Y5Rmx1WWtuTVgzcHo0LXc5SHp0MVZEWThwdXAyRUxfM2pYM1dUZXRHaFA3M2swU3RMN0hldjhyOGJoSmNwZl9Ddkt2TFVN0gHYAUFVX3lxTE02TG9hUENUbzdZeF9XWnBWVmwwU2dxWlVUVk9DaUFlN21YbUhuV1BlNWRKckRzTi1hU05OeXZZWjNfRElId0xGT05PSlVZUHV4QjY4bXRKSmRsa29pQTdpTmpEWXZva2ZRWUItRGxPckczWDUyLXBRZFlOcmozVzlRY1Byc2RFejNYS0JKWERzN3lhY1pYNEtZczZHbDlCUlVsYjhheC1hVDQ0N0dGeDRvdGIySXdadlV4Y0phcU9YMWZmanNtalBxbmlFajNoYVJJUjNoTG1iag?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -485,12 +605,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.6,
+      "predictionScore": 3.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 313.65,
+      "technicalConfidence": 67,
+      "lastClose": 309.15,
       "catalysts": [
         {
           "label": "Ceigall India shares in focus as JV bags EPC order worth \u20b9274 crore from MoRTH in Arunachal Pradesh - Upstox",
@@ -734,23 +854,23 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
+      "company": "Innova Captab Limited",
+      "symbol": "INNOVACAP",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
       "confidence": 87,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 720.0,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 1043.0,
       "catalysts": [
         {
-          "label": "HDFC Bank, ITC, Hindustan Unilever, Dabur India, IRFC, UPL hit 52-week lows - Business Standard",
-          "type": "company news",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
@@ -759,19 +879,13 @@
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNajB2MmRLTm5yd1BwVFJWclp4NkZVV0RyZEJoNGNDS3AydU9hU3JiVS0xZjg0SVdiUEhxbWljYlF5cU9RSGplZzhtdEJEX09ZaGtyTjV0dERQMFZiZEhkMjdfNWh6SDJYMF82c202Q09QZlRTNmF0UVNma20xeWx6M1BYaUVWdU1nekdNZ1Y5Rmx1WWtuTVgzcHo0LXc5SHp0MVZEWThwdXAyRUxfM2pYM1dUZXRHaFA3M2swU3RMN0hldjhyOGJoSmNwZl9Ddkt2TFVN0gHYAUFVX3lxTE02TG9hUENUbzdZeF9XWnBWVmwwU2dxWlVUVk9DaUFlN21YbUhuV1BlNWRKckRzTi1hU05OeXZZWjNfRElId0xGT05PSlVZUHV4QjY4bXRKSmRsa29pQTdpTmpEWXZva2ZRWUItRGxPckczWDUyLXBRZFlOcmozVzlRY1Byc2RFejNYS0JKWERzN3lhY1pYNEtZczZHbDlCUlVsYjhheC1hVDQ0N0dGeDRvdGIySXdadlV4Y0phcU9YMWZmanNtalBxbmlFajNoYVJJUjNoTG1iag?oc=5",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -801,76 +915,6 @@
         },
         {
           "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Heranba Industries Limited",
-      "symbol": "HERANBA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 162.99,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Board meeting Rescheduled",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Patanjali Foods Limited",
-      "symbol": "PATANJALI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 79,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
