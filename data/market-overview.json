@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T13:11:36+00:00",
+  "updatedAt": "2026-08-19T14:55:17+00:00",
   "instruments": [
     {
       "name": "Nifty 50",
@@ -11,22 +11,10 @@
       "asOf": "2026-08-19",
       "change1d": -0.32,
       "change1w": -1.46,
-      "change1m": 0.02,
+      "change1m": -0.45,
       "rangeLow": 23767.45,
       "rangeHigh": 24774.3,
       "chart": [
-        {
-          "date": "2026-05-14",
-          "close": 23689.6
-        },
-        {
-          "date": "2026-05-15",
-          "close": 23643.5
-        },
-        {
-          "date": "2026-05-18",
-          "close": 23649.95
-        },
         {
           "date": "2026-05-19",
           "close": 23618.0
@@ -200,6 +188,14 @@
           "close": 24238.5
         },
         {
+          "date": "2026-07-21",
+          "close": 24187.7
+        },
+        {
+          "date": "2026-07-22",
+          "close": 23996.25
+        },
+        {
           "date": "2026-07-23",
           "close": 23869.6
         },
@@ -222,6 +218,10 @@
         {
           "date": "2026-07-30",
           "close": 24317.15
+        },
+        {
+          "date": "2026-07-31",
+          "close": 24383.6
         },
         {
           "date": "2026-08-03",
@@ -1672,18 +1672,10 @@
       "asOf": "2026-08-19",
       "change1d": -0.18,
       "change1w": -1.68,
-      "change1m": 1.18,
+      "change1m": 1.19,
       "rangeLow": 25548.15,
       "rangeHigh": 26762.5,
       "chart": [
-        {
-          "date": "2026-05-14",
-          "close": 24551.05
-        },
-        {
-          "date": "2026-05-15",
-          "close": 24634.8
-        },
         {
           "date": "2026-05-18",
           "close": 24762.85
@@ -1861,6 +1853,14 @@
           "close": 26003.15
         },
         {
+          "date": "2026-07-21",
+          "close": 26092.85
+        },
+        {
+          "date": "2026-07-22",
+          "close": 25752.25
+        },
+        {
           "date": "2026-07-23",
           "close": 25653.55
         },
@@ -1885,6 +1885,10 @@
           "close": 26346.05
         },
         {
+          "date": "2026-07-31",
+          "close": 26534.8
+        },
+        {
           "date": "2026-08-03",
           "close": 26662.8
         },
@@ -1907,10 +1911,6 @@
         {
           "date": "2026-08-10",
           "close": 26479.55
-        },
-        {
-          "date": "2026-08-11",
-          "close": 26750.45
         },
         {
           "date": "2026-08-12",
@@ -1948,10 +1948,14 @@
       "asOf": "2026-08-19",
       "change1d": -0.61,
       "change1w": -3.17,
-      "change1m": -10.16,
+      "change1m": -12.79,
       "rangeLow": 11.31,
       "rangeHigh": 14.03,
       "chart": [
+        {
+          "date": "2026-05-18",
+          "close": 19.63
+        },
         {
           "date": "2026-05-19",
           "close": 18.68
@@ -2185,10 +2189,6 @@
           "close": 12.25
         },
         {
-          "date": "2026-08-11",
-          "close": 11.86
-        },
-        {
           "date": "2026-08-12",
           "close": 11.69
         },
@@ -2221,13 +2221,13 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 4495.8,
+      "price": 4549.5,
       "asOf": "2026-08-19",
-      "change1d": 2.97,
-      "change1w": 1.97,
-      "change1m": 10.43,
+      "change1d": 4.2,
+      "change1w": 3.19,
+      "change1m": 11.75,
       "rangeLow": 4033.7,
-      "rangeHigh": 4495.8,
+      "rangeHigh": 4549.5,
       "chart": [
         {
           "date": "2026-05-18",
@@ -2487,7 +2487,7 @@
         },
         {
           "date": "2026-08-19",
-          "close": 4495.8
+          "close": 4549.5
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF"
@@ -2498,11 +2498,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 64.96,
+      "price": 65.85,
       "asOf": "2026-08-19",
-      "change1d": 1.6,
-      "change1w": -0.92,
-      "change1m": 10.42,
+      "change1d": 2.99,
+      "change1w": 0.44,
+      "change1m": 11.93,
       "rangeLow": 57.3,
       "rangeHigh": 66.12,
       "chart": [
@@ -2764,7 +2764,7 @@
         },
         {
           "date": "2026-08-19",
-          "close": 64.96
+          "close": 65.85
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/SI%3DF"
@@ -2775,11 +2775,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / lb",
-      "price": 6.46,
+      "price": 6.49,
       "asOf": "2026-08-19",
-      "change1d": -0.31,
-      "change1w": -2.12,
-      "change1m": -0.77,
+      "change1d": 0.15,
+      "change1w": -1.67,
+      "change1m": -0.31,
       "rangeLow": 6.27,
       "rangeHigh": 6.7,
       "chart": [
@@ -3041,7 +3041,7 @@
         },
         {
           "date": "2026-08-19",
-          "close": 6.46
+          "close": 6.49
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/HG%3DF"
@@ -3052,11 +3052,11 @@
       "type": "energy",
       "market": "Global",
       "unit": "USD / barrel",
-      "price": 84.11,
+      "price": 84.8,
       "asOf": "2026-08-19",
-      "change1d": -0.98,
-      "change1w": 1.01,
-      "change1m": -0.94,
+      "change1d": -0.16,
+      "change1w": 1.84,
+      "change1m": -0.13,
       "rangeLow": 75.22,
       "rangeHigh": 92.19,
       "chart": [
@@ -3318,7 +3318,7 @@
         },
         {
           "date": "2026-08-19",
-          "close": 84.11
+          "close": 84.8
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/CL%3DF"
@@ -4206,7 +4206,7 @@
         "symbol": "TIINDIA",
         "company": "Tube Investments of India Ltd.",
         "industry": "Automobile and Auto Components",
-        "lastPrice": 2961.0,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
