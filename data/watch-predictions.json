@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T22:43:50+00:00",
+  "generatedAt": "2026-08-20T01:53:10+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,15 +11,15 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.7,
+      "predictionScore": 5.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 309.15,
+      "technicalConfidence": 50,
+      "lastClose": 313.65,
       "catalysts": [
         {
-          "label": "Ceigall India shares in focus as JV bags EPC order worth \u20b9274 crore from MoRTH in Arunachal Pradesh - Upstox",
+          "label": "Ceigall India shares in focus as JV bags EPC order worth \u20b9274 crore from MoRTH in Arunachal Pradesh - upstox.com",
           "type": "contract",
           "verified": true
         },
@@ -48,6 +48,52 @@
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HEG Limited",
+      "symbol": "HEG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 708.05,
+      "catalysts": [
+        {
+          "label": "Stocks in news: Hyundai Motor India, BSE, HEG, Hexaware Tech and Oil India - economictimes.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "HEG Demerger Gets NCLT Green Light; Shareholders To Receive 1:1 Share Swap",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMXpTZ3VCeUx0TTVkTW1VWlRXUl85RldyVF96NzUzcmFFUmtrSWdZSEtLX1lqVTJNUU5mby0zQnhpMjZxbDRtUkdxcjlFTGxHOXFoQ2x6cjZOZXR3WWYwWFFuckVySW8tZkV5U0psYWVTVmk3TUkzaDVpTV9IdFBNU1owQ3NaVE13UEljT1dBS0EwQUplb2NyYmEwb2NBSW1BcE14Y0hRNDhvdWFLd2FGT2VheHpreUdmVjIyMDlFbHk3Wm1RTmYyQTAxdkNMU3lmWHJnRjZDa1dlZ1g00gHiAUFVX3lxTE1lcmNkcW5FLTZJRWdxcTRQOWxfLUhBWWdCT1JJS3ljMEtKbGZEdEdHRnNlVzVVWE5aT2c2RE45ZzBOaWotaXBMWUxjOEo4SWlETFh3ekgzdW5rRjVhNmowSXdGcWpFR2ZWcWkxdEJUWFRPUkJLa0lNenlUc1c4LXpjTHlQcWRqd3BVT0VxVTl4eFBxd2k0bVNHb3F5eTU4YnJ4XzJ1WEMyVEN6ZGhtWTZKVmNPN0RsYThsYmc1NGpFQ3A4SGFrWDVpQmZIaElSd2JaNkZTbmRDTnhkRUpIY29heXc?oc=5",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/heg-demerger-gets-nclt-green-light-shareholders-to-receive-1-1-share-swap-11932782#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Punjab National Bank",
@@ -62,7 +108,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 116.5,
+      "lastClose": 117.48,
       "catalysts": [
         {
           "label": "BSE MD & CEO Sundararaman Ramamurthy Inaugurates PNB\u2019s One-Stop Branch for Stock Brokers - thenewsmanofindia.com",
@@ -89,87 +135,6 @@
         }
       ],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 723.0,
-      "catalysts": [
-        {
-          "label": "Indian Lenders Raise $4 Billion In Between June 16 And Aug. 13 Via Global Band Issuances",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "HDFC Bank, ITC, Hindustan Unilever, Dabur India, IRFC, UPL hit 52-week lows - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/economy/indian-lenders-raise-4-billion-in-between-june-16-and-aug-13-via-global-band-issuances-11932866#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNajB2MmRLTm5yd1BwVFJWclp4NkZVV0RyZEJoNGNDS3AydU9hU3JiVS0xZjg0SVdiUEhxbWljYlF5cU9RSGplZzhtdEJEX09ZaGtyTjV0dERQMFZiZEhkMjdfNWh6SDJYMF82c202Q09QZlRTNmF0UVNma20xeWx6M1BYaUVWdU1nekdNZ1Y5Rmx1WWtuTVgzcHo0LXc5SHp0MVZEWThwdXAyRUxfM2pYM1dUZXRHaFA3M2swU3RMN0hldjhyOGJoSmNwZl9Ddkt2TFVN0gHYAUFVX3lxTE02TG9hUENUbzdZeF9XWnBWVmwwU2dxWlVUVk9DaUFlN21YbUhuV1BlNWRKckRzTi1hU05OeXZZWjNfRElId0xGT05PSlVZUHV4QjY4bXRKSmRsa29pQTdpTmpEWXZva2ZRWUItRGxPckczWDUyLXBRZFlOcmozVzlRY1Byc2RFejNYS0JKWERzN3lhY1pYNEtZczZHbDlCUlVsYjhheC1hVDQ0N0dGeDRvdGIySXdadlV4Y0phcU9YMWZmanNtalBxbmlFajNoYVJJUjNoTG1iag?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "AVG Logistics Limited",
-      "symbol": "AVG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 17,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Saatvik Green Energy Limited",
@@ -242,14 +207,65 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Solex Energy Limited",
-      "symbol": "SOLEX",
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 720.0,
+      "catalysts": [
+        {
+          "label": "Indian Lenders Raise $4 Billion In Between June 16 And Aug. 13 Via Global Band Issuances",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "LIC Receives RBI Nod To Raise HDFC Bank Stake To 9.99%; Details Inside",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "HDFC Bank, ITC, Hindustan Unilever, Dabur India, IRFC, UPL hit 52-week lows - Business Standard",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/economy/indian-lenders-raise-4-billion-in-between-june-16-and-aug-13-via-global-band-issuances-11932866#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/lic-receives-rbi-nod-to-raise-hdfc-bank-stake-to-9-99-percent-details-inside-11933462#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNajB2MmRLTm5yd1BwVFJWclp4NkZVV0RyZEJoNGNDS3AydU9hU3JiVS0xZjg0SVdiUEhxbWljYlF5cU9RSGplZzhtdEJEX09ZaGtyTjV0dERQMFZiZEhkMjdfNWh6SDJYMF82c202Q09QZlRTNmF0UVNma20xeWx6M1BYaUVWdU1nekdNZ1Y5Rmx1WWtuTVgzcHo0LXc5SHp0MVZEWThwdXAyRUxfM2pYM1dUZXRHaFA3M2swU3RMN0hldjhyOGJoSmNwZl9Ddkt2TFVN0gHYAUFVX3lxTE02TG9hUENUbzdZeF9XWnBWVmwwU2dxWlVUVk9DaUFlN21YbUhuV1BlNWRKckRzTi1hU05OeXZZWjNfRElId0xGT05PSlVZUHV4QjY4bXRKSmRsa29pQTdpTmpEWXZva2ZRWUItRGxPckczWDUyLXBRZFlOcmozVzlRY1Byc2RFejNYS0JKWERzN3lhY1pYNEtZczZHbDlCUlVsYjhheC1hVDQ0N0dGeDRvdGIySXdadlV4Y0phcU9YMWZmanNtalBxbmlFajNoYVJJUjNoTG1iag?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "AVG Logistics Limited",
+      "symbol": "AVG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.0,
+      "predictionScore": 2.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -257,17 +273,17 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -312,32 +328,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "RMC Switchgears Limited",
-      "symbol": "RMC",
+      "company": "Solex Energy Limited",
+      "symbol": "SOLEX",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 88,
+      "predictionScore": 3.0,
+      "confidence": 84,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -382,32 +398,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Innova Captab Limited",
-      "symbol": "INNOVACAP",
+      "company": "Patanjali Foods Limited",
+      "symbol": "PATANJALI",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
+      "predictionScore": 2.2,
+      "confidence": 72,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1043.0,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -417,20 +433,62 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Heranba Industries Limited",
+      "symbol": "HERANBA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 69,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 161.83,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Board meeting Rescheduled",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    }
+  ],
+  "tomorrow": [
+    {
       "company": "HEG Limited",
       "symbol": "HEG",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
-      "horizon": "today",
+      "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 81,
+      "predictionScore": 5.8,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 739.25,
+      "technicalConfidence": 100,
+      "lastClose": 708.05,
       "catalysts": [
+        {
+          "label": "Stocks in news: Hyundai Motor India, BSE, HEG, Hexaware Tech and Oil India - economictimes.com",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "HEG Demerger Gets NCLT Green Light; Shareholders To Receive 1:1 Share Swap",
           "type": "company news",
@@ -440,15 +498,15 @@
           "label": "Press Release",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMXpTZ3VCeUx0TTVkTW1VWlRXUl85RldyVF96NzUzcmFFUmtrSWdZSEtLX1lqVTJNUU5mby0zQnhpMjZxbDRtUkdxcjlFTGxHOXFoQ2x6cjZOZXR3WWYwWFFuckVySW8tZkV5U0psYWVTVmk3TUkzaDVpTV9IdFBNU1owQ3NaVE13UEljT1dBS0EwQUplb2NyYmEwb2NBSW1BcE14Y0hRNDhvdWFLd2FGT2VheHpreUdmVjIyMDlFbHk3Wm1RTmYyQTAxdkNMU3lmWHJnRjZDa1dlZ1g00gHiAUFVX3lxTE1lcmNkcW5FLTZJRWdxcTRQOWxfLUhBWWdCT1JJS3ljMEtKbGZEdEdHRnNlVzVVWE5aT2c2RE45ZzBOaWotaXBMWUxjOEo4SWlETFh3ekgzdW5rRjVhNmowSXdGcWpFR2ZWcWkxdEJUWFRPUkJLa0lNenlUc1c4LXpjTHlQcWRqd3BVT0VxVTl4eFBxd2k0bVNHb3F5eTU4YnJ4XzJ1WEMyVEN6ZGhtWTZKVmNPN0RsYThsYmc1NGpFQ3A4SGFrWDVpQmZIaElSd2JaNkZTbmRDTnhkRUpIY29heXc?oc=5",
+          "verified": true
+        },
         {
           "label": "NDTV Business",
           "url": "https://www.ndtvprofit.com/markets/heg-demerger-gets-nclt-green-light-shareholders-to-receive-1-1-share-swap-11932782#publisher=newsstand",
@@ -456,9 +514,7 @@
         }
       ],
       "reason": "Fresh news and technical indicators agree."
-    }
-  ],
-  "tomorrow": [
+    },
     {
       "company": "Punjab National Bank",
       "symbol": "PNB",
@@ -472,7 +528,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 116.5,
+      "lastClose": 117.48,
       "catalysts": [
         {
           "label": "BSE MD & CEO Sundararaman Ramamurthy Inaugurates PNB\u2019s One-Stop Branch for Stock Brokers - thenewsmanofindia.com",
@@ -501,87 +557,6 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Innova Captab Limited",
-      "symbol": "INNOVACAP",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1043.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 723.0,
-      "catalysts": [
-        {
-          "label": "Indian Lenders Raise $4 Billion In Between June 16 And Aug. 13 Via Global Band Issuances",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "HDFC Bank, ITC, Hindustan Unilever, Dabur India, IRFC, UPL hit 52-week lows - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/economy/indian-lenders-raise-4-billion-in-between-june-16-and-aug-13-via-global-band-issuances-11932866#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNajB2MmRLTm5yd1BwVFJWclp4NkZVV0RyZEJoNGNDS3AydU9hU3JiVS0xZjg0SVdiUEhxbWljYlF5cU9RSGplZzhtdEJEX09ZaGtyTjV0dERQMFZiZEhkMjdfNWh6SDJYMF82c202Q09QZlRTNmF0UVNma20xeWx6M1BYaUVWdU1nekdNZ1Y5Rmx1WWtuTVgzcHo0LXc5SHp0MVZEWThwdXAyRUxfM2pYM1dUZXRHaFA3M2swU3RMN0hldjhyOGJoSmNwZl9Ddkt2TFVN0gHYAUFVX3lxTE02TG9hUENUbzdZeF9XWnBWVmwwU2dxWlVUVk9DaUFlN21YbUhuV1BlNWRKckRzTi1hU05OeXZZWjNfRElId0xGT05PSlVZUHV4QjY4bXRKSmRsa29pQTdpTmpEWXZva2ZRWUItRGxPckczWDUyLXBRZFlOcmozVzlRY1Byc2RFejNYS0JKWERzN3lhY1pYNEtZczZHbDlCUlVsYjhheC1hVDQ0N0dGeDRvdGIySXdadlV4Y0phcU9YMWZmanNtalBxbmlFajNoYVJJUjNoTG1iag?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Ceigall India Limited",
       "symbol": "CEIGALL",
       "exchange": "NSE",
@@ -589,15 +564,15 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.7,
+      "predictionScore": 4.4,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 309.15,
+      "technicalConfidence": 50,
+      "lastClose": 313.65,
       "catalysts": [
         {
-          "label": "Ceigall India shares in focus as JV bags EPC order worth \u20b9274 crore from MoRTH in Arunachal Pradesh - Upstox",
+          "label": "Ceigall India shares in focus as JV bags EPC order worth \u20b9274 crore from MoRTH in Arunachal Pradesh - upstox.com",
           "type": "contract",
           "verified": true
         },
@@ -628,38 +603,54 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "AVG Logistics Limited",
-      "symbol": "AVG",
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 17,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
+      "direction": "Negative watch",
+      "predictionScore": -3.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 720.0,
       "catalysts": [
         {
-          "label": "Record Date",
-          "type": "announcement",
+          "label": "Indian Lenders Raise $4 Billion In Between June 16 And Aug. 13 Via Global Band Issuances",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
+          "label": "LIC Receives RBI Nod To Raise HDFC Bank Stake To 9.99%; Details Inside",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
+          "label": "HDFC Bank, ITC, Hindustan Unilever, Dabur India, IRFC, UPL hit 52-week lows - Business Standard",
+          "type": "company news",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/economy/indian-lenders-raise-4-billion-in-between-june-16-and-aug-13-via-global-band-issuances-11932866#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/lic-receives-rbi-nod-to-raise-hdfc-bank-stake-to-9-99-percent-details-inside-11933462#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNajB2MmRLTm5yd1BwVFJWclp4NkZVV0RyZEJoNGNDS3AydU9hU3JiVS0xZjg0SVdiUEhxbWljYlF5cU9RSGplZzhtdEJEX09ZaGtyTjV0dERQMFZiZEhkMjdfNWh6SDJYMF82c202Q09QZlRTNmF0UVNma20xeWx6M1BYaUVWdU1nekdNZ1Y5Rmx1WWtuTVgzcHo0LXc5SHp0MVZEWThwdXAyRUxfM2pYM1dUZXRHaFA3M2swU3RMN0hldjhyOGJoSmNwZl9Ddkt2TFVN0gHYAUFVX3lxTE02TG9hUENUbzdZeF9XWnBWVmwwU2dxWlVUVk9DaUFlN21YbUhuV1BlNWRKckRzTi1hU05OeXZZWjNfRElId0xGT05PSlVZUHV4QjY4bXRKSmRsa29pQTdpTmpEWXZva2ZRWUItRGxPckczWDUyLXBRZFlOcmozVzlRY1Byc2RFejNYS0JKWERzN3lhY1pYNEtZczZHbDlCUlVsYjhheC1hVDQ0N0dGeDRvdGIySXdadlV4Y0phcU9YMWZmanNtalBxbmlFajNoYVJJUjNoTG1iag?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -733,14 +724,14 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Solex Energy Limited",
-      "symbol": "SOLEX",
+      "company": "AVG Logistics Limited",
+      "symbol": "AVG",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.0,
+      "predictionScore": 2.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -748,17 +739,17 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -803,58 +794,23 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "RMC Switchgears Limited",
-      "symbol": "RMC",
+      "company": "Solex Energy Limited",
+      "symbol": "SOLEX",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 88,
+      "predictionScore": 3.0,
+      "confidence": 84,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HEG Limited",
-      "symbol": "HEG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 739.25,
-      "catalysts": [
-        {
-          "label": "HEG Demerger Gets NCLT Green Light; Shareholders To Receive 1:1 Share Swap",
-          "type": "company news",
           "verified": true
         },
         {
@@ -863,20 +819,14 @@
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/heg-demerger-gets-nclt-green-light-shareholders-to-receive-1-1-share-swap-11932782#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "CESC Limited",
@@ -905,6 +855,76 @@
         },
         {
           "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Heranba Industries Limited",
+      "symbol": "HERANBA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 161.83,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Board meeting Rescheduled",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Innova Captab Limited",
+      "symbol": "INNOVACAP",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 73,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 1043.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         }
