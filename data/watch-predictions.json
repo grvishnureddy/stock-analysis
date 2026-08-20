@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T14:56:30+00:00",
+  "generatedAt": "2026-08-20T16:52:20+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -109,6 +109,53 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Amagi Media Labs Limited",
+      "symbol": "AMAGI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 15,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.6,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 60,
+      "lastClose": 576.45,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/amagi-media-labs-shareholders-to-sell-up-to-5-stake-via-rs-600-crore-block-deal-11937088#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "AVG Logistics Limited",
       "symbol": "AVG",
       "exchange": "NSE",
@@ -141,6 +188,47 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Aditya Birla Capital Limited",
+      "symbol": "ABCAPITAL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 409.0,
+      "catalysts": [
+        {
+          "label": "India's Aditya Birla Capital to enter gold loan market, targets 1,000 branches - Reuters",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM1lsY0dVMk9iMmlOdmQyQmFMSmU3Z0FSMWFYUlUxN0JTRGUyTFlTbU51Z1VobDM1YjlOenhNWGx6eEoxTy1qb1hTMk15bGpNbWpoOXlGdV83bXA1cjY2WEduTGw5WGFqWGljcTNON1JjMUkyUEh2dXJ3MVJhelVhcUlpOXlxbWRlVVU4R2I1aEVpZGlaYmFKSm9KRUFKN011cjZHbW5jclJ1SHNEYlU4SHIzMzdtSGVSUzZMd3Y3T0lvMGJqdXc?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -375,76 +463,6 @@
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Patanjali Foods Limited",
-      "symbol": "PATANJALI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 72,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Heranba Industries Limited",
-      "symbol": "HERANBA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 69,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 160.39,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Board meeting Rescheduled",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -557,6 +575,94 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Amagi Media Labs Limited",
+      "symbol": "AMAGI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 15,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.4,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 60,
+      "lastClose": 576.45,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/amagi-media-labs-shareholders-to-sell-up-to-5-stake-via-rs-600-crore-block-deal-11937088#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Aditya Birla Capital Limited",
+      "symbol": "ABCAPITAL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 409.0,
+      "catalysts": [
+        {
+          "label": "India's Aditya Birla Capital to enter gold loan market, targets 1,000 branches - Reuters",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM1lsY0dVMk9iMmlOdmQyQmFMSmU3Z0FSMWFYUlUxN0JTRGUyTFlTbU51Z1VobDM1YjlOenhNWGx6eEoxTy1qb1hTMk15bGpNbWpoOXlGdV83bXA1cjY2WEduTGw5WGFqWGljcTNON1JjMUkyUEh2dXJ3MVJhelVhcUlpOXlxbWRlVVU4R2I1aEVpZGlaYmFKSm9KRUFKN011cjZHbW5jclJ1SHNEYlU4SHIzMzdtSGVSUzZMd3Y3T0lvMGJqdXc?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -814,76 +920,6 @@
         {
           "label": "Board meeting Rescheduled",
           "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "RMC Switchgears Limited",
-      "symbol": "RMC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Rescission/termination(s)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Innova Captab Limited",
-      "symbol": "INNOVACAP",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 1084.2,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
           "verified": true
         }
       ],
