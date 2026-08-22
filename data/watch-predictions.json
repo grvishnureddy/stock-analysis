@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:42:05+00:00",
+  "generatedAt": "2026-08-22T13:02:15+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -109,67 +109,25 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Amagi Media Labs Limited",
-      "symbol": "AMAGI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.6,
-      "confidence": 68,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 60,
-      "lastClose": 599.85,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Accel, Two Others Sell Nearly 5% Stake In Amagi Media Labs For Rs 587 Crore",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/accel-two-others-sell-nearly-5-stake-in-amagi-media-labs-for-rs-587-crore-11942556#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Highway Infrastructure Limited",
       "symbol": "HILINFRA",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 3.0,
-      "confidence": 63,
+      "confidence": 70,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
@@ -177,11 +135,6 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -217,6 +170,41 @@
         },
         {
           "label": "Dividend",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Refex Industries Limited",
+      "symbol": "REFEX",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 56,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Disclosure under SEBI Takeover Regulations",
           "type": "announcement",
           "verified": true
         }
@@ -287,6 +275,41 @@
         },
         {
           "label": "Dividend",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "EFC (I) Limited",
+      "symbol": "EFCIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Neutral watch",
+      "predictionScore": 0.8,
+      "confidence": 55,
+      "riskLevel": "High",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Corrigendum",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -392,41 +415,6 @@
         },
         {
           "label": "Issue of Securities",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Skipper Limited",
-      "symbol": "SKIPPER",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 0.0,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Revised Record date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -543,22 +531,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Amagi Media Labs Limited",
-      "symbol": "AMAGI",
+      "company": "Highway Infrastructure Limited",
+      "symbol": "HILINFRA",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 73,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 60,
-      "lastClose": 599.85,
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         },
@@ -566,28 +559,11 @@
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "Accel, Two Others Sell Nearly 5% Stake In Amagi Media Labs For Rs 587 Crore",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/accel-two-others-sell-nearly-5-stake-in-amagi-media-labs-for-rs-587-crore-11942556#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Premier Limited",
@@ -605,7 +581,7 @@
       "lastClose": 2.72,
       "catalysts": [
         {
-          "label": "Premier League Champions Arsenal Sign Ezri Konsa From Aston Villa",
+          "label": "Manchester United vs Hull City Live Streaming: Likely Lineups; How To Watch Premier League Match Online?",
           "type": "company news",
           "verified": true
         },
@@ -619,45 +595,10 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/sports/premier-league-champions-arsenal-sign-ezri-konsa-from-aston-villa-11942274#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/sports/football-hull-city-vs-manchester-united-live-streaming-telecast-date-time-where-to-watch-premier-league-match-tv-online-jiohotstar-manu-utd-mufc-11937328#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Highway Infrastructure Limited",
-      "symbol": "HILINFRA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 63,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -722,6 +663,41 @@
         },
         {
           "label": "Change in Auditors",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Refex Industries Limited",
+      "symbol": "REFEX",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 56,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Disclosure under SEBI Takeover Regulations",
           "type": "announcement",
           "verified": true
         }
@@ -836,8 +812,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
+      "company": "EFC (I) Limited",
+      "symbol": "EFCIL",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
@@ -851,17 +827,17 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "General Updates",
+          "label": "Corrigendum",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
