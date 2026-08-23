@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T04:53:31+00:00",
+  "generatedAt": "2026-08-23T07:02:47+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -343,37 +343,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Gillette India Limited",
-      "symbol": "GILLETTE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 1,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 55,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 7498.5,
-      "catalysts": [
-        {
-          "label": "Corporate Actions This Week: P&G Health, Gillette India, PFC, TD Power, Senco Gold, Paras Defence & More",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-procter-and-gamble-health-gillette-india-pfc-td-power-senco-gold-paras-defence-check-full-list-11945339#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Aditya Birla Capital Limited",
       "symbol": "ABCAPITAL",
       "exchange": "NSE",
@@ -446,6 +415,41 @@
         },
         {
           "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Piccadily Agro Industries Limited",
+      "symbol": "PICCADIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Neutral watch",
+      "predictionScore": 1.5,
+      "confidence": 55,
+      "riskLevel": "High",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Dividend",
           "type": "announcement",
           "verified": true
         }
@@ -731,37 +735,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Gillette India Limited",
-      "symbol": "GILLETTE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 1,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 66,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 7498.5,
-      "catalysts": [
-        {
-          "label": "Corporate Actions This Week: P&G Health, Gillette India, PFC, TD Power, Senco Gold, Paras Defence & More",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-procter-and-gamble-health-gillette-india-pfc-td-power-senco-gold-paras-defence-check-full-list-11945339#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "DEE Development Engineers Limited",
       "symbol": "DEEDEV",
       "exchange": "NSE",
@@ -906,6 +879,41 @@
         {
           "label": "Disclosure under SEBI Takeover Regulations",
           "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bharat Petroleum Corporation Limited",
+      "symbol": "BPCL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -2.5,
+      "confidence": 55,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 311.0,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Fund Raising",
+          "type": "upcoming event",
           "verified": true
         }
       ],
