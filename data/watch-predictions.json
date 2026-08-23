@@ -1,8 +1,49 @@
 {
-  "generatedAt": "2026-08-23T08:50:20+00:00",
+  "generatedAt": "2026-08-23T10:43:21+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "Honasa Consumer Limited",
+      "symbol": "HONASA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 6.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 481.9,
+      "catalysts": [
+        {
+          "label": "Dividend Stocks To Watch This Week: MCX, Honasa Consumer, NALCO, Others \u2014 Check Record Dates",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/dividend-stocks-to-watch-this-week-mcx-honasa-consumer-nalco-others-check-record-dates-11947602#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
     {
       "company": "Urban Company Limited",
       "symbol": "URBANCO",
@@ -416,44 +457,50 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "EFC (I) Limited",
-      "symbol": "EFCIL",
+      "company": "Honasa Consumer Limited",
+      "symbol": "HONASA",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 0.8,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 7.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 481.9,
       "catalysts": [
         {
+          "label": "Dividend Stocks To Watch This Week: MCX, Honasa Consumer, NALCO, Others \u2014 Check Record Dates",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Corrigendum",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/dividend-stocks-to-watch-this-week-mcx-honasa-consumer-nalco-others-check-record-dates-11947602#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
     {
       "company": "Urban Company Limited",
       "symbol": "URBANCO",
@@ -772,7 +819,7 @@
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 4.5,
-      "confidence": 59,
+      "confidence": 58,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
@@ -867,41 +914,6 @@
         {
           "label": "Fund Raising",
           "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "EMS Limited",
-      "symbol": "EMSLIMITED",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Neutral watch",
-      "predictionScore": 1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
           "verified": true
         }
       ],
