@@ -1,8 +1,49 @@
 {
-  "generatedAt": "2026-08-23T07:02:47+00:00",
+  "generatedAt": "2026-08-23T08:50:20+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "Urban Company Limited",
+      "symbol": "URBANCO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 158.6,
+      "catalysts": [
+        {
+          "label": "Sensex Today Ends Flat | Nifty Above 24,250 | Urban Company Up 8% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcDVxZGQza254Nl90dnhYbGVGbHhfcXBvb05pYWU3T21lQ011aU9TMkRiUTdaYnU4MHNQdGZTUE5SRkJrbUdBb2lzMFhGZ19XeWVWY1Foa0ZrTWk2NXRtSVdpazBKTVl1ckU1MDdGdEcwcHBBNkVtVUpGVDIzam1xVUFKMmdYei1oRGhxRnRIRmJ5b2Z1bjJkT1UzUVVqN01jZU9xLWFKeEFuOFJzMFFpZDZSRlRTNjliaGtXOWRaQQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
     {
       "company": "Ceigall India Limited",
       "symbol": "CEIGALL",
@@ -80,47 +121,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Urban Company Limited",
-      "symbol": "URBANCO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 158.6,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends Flat | Nifty Above 24,250 | Urban Company Up 8% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcDVxZGQza254Nl90dnhYbGVGbHhfcXBvb05pYWU3T21lQ011aU9TMkRiUTdaYnU4MHNQdGZTUE5SRkJrbUdBb2lzMFhGZ19XeWVWY1Foa0ZrTWk2NXRtSVdpazBKTVl1ckU1MDdGdEcwcHBBNkVtVUpGVDIzam1xVUFKMmdYei1oRGhxRnRIRmJ5b2Z1bjJkT1UzUVVqN01jZU9xLWFKeEFuOFJzMFFpZDZSRlRTNjliaGtXOWRaQQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "HDFC Bank Limited",
       "symbol": "HDFCBANK",
       "exchange": "NSE",
@@ -194,47 +194,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HEG Limited",
-      "symbol": "HEG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 67,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 710.75,
-      "catalysts": [
-        {
-          "label": "Stocks in news: Hyundai Motor India, BSE, HEG, Hexaware Tech and Oil India - The Economic Times",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMXpTZ3VCeUx0TTVkTW1VWlRXUl85RldyVF96NzUzcmFFUmtrSWdZSEtLX1lqVTJNUU5mby0zQnhpMjZxbDRtUkdxcjlFTGxHOXFoQ2x6cjZOZXR3WWYwWFFuckVySW8tZkV5U0psYWVTVmk3TUkzaDVpTV9IdFBNU1owQ3NaVE13UEljT1dBS0EwQUplb2NyYmEwb2NBSW1BcE14Y0hRNDhvdWFLd2FGT2VheHpreUdmVjIyMDlFbHk3Wm1RTmYyQTAxdkNMU3lmWHJnRjZDa1dlZ1g0?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -457,6 +416,41 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "EFC (I) Limited",
+      "symbol": "EFCIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Neutral watch",
+      "predictionScore": 0.8,
+      "confidence": 55,
+      "riskLevel": "High",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Corrigendum",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -464,7 +458,7 @@
       "company": "Urban Company Limited",
       "symbol": "URBANCO",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -481,12 +475,12 @@
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -572,47 +566,6 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUDRhRFVQY1g0QTFGdkhRcVAzbXFWNDhvLWIyWnJ4X1haVDF6QVl5WFZTUVgtUlBQT2VfZGV2SXFVRFJjQXZPcGx2UTNUOGlFR3BtTDdmUlpvS2FnczlCOUdzTXk3TldtTjFqLWc0M1NVREViMXNPdW5LVXF2VGdXWDl0UVhHWVhFS0U5bUt1RU1VeXowcjRhZkFZZmt5ZHBrOE9HdlpSSFcwQ2dIQVhfLUpqYkM2cUNRbTJsaHYydE4zVjl3ZmttRk5TVkVfZERQNHl0RlpfQlItbmc2ZEwxaGhQRFpiMzNk0gHuAUFVX3lxTE1uU0ZXazRWRlhaYVBJVktvcmZ3SHZ0cUVDcW45X0pMcE1Pb3lyQ3A2a09aRHBJSG4yOTBXOG9XdUs3MXFmN255d3NyZzNPT0VXeW1Vc3RPSkt6akdwMUotb05IbUlWLUNTRk04dmlZT3NENmlSN3E5V181alhvTFV5ZDJLeUNuMHFwNTVyTkozLXRKS3M3WkRHQ0hUdDMzc1FMOW5TM1hFVHMycTAxSlNIT25SOHVxc3pNY0ZnUEszUnBkbjdXMnJJNFpleGs4OVl0a2F5MDlaclhVMU8xSUZGZFhPUFdNRXlJS2pvMnc?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HEG Limited",
-      "symbol": "HEG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 710.75,
-      "catalysts": [
-        {
-          "label": "Stocks in news: Hyundai Motor India, BSE, HEG, Hexaware Tech and Oil India - The Economic Times",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMXpTZ3VCeUx0TTVkTW1VWlRXUl85RldyVF96NzUzcmFFUmtrSWdZSEtLX1lqVTJNUU5mby0zQnhpMjZxbDRtUkdxcjlFTGxHOXFoQ2x6cjZOZXR3WWYwWFFuckVySW8tZkV5U0psYWVTVmk3TUkzaDVpTV9IdFBNU1owQ3NaVE13UEljT1dBS0EwQUplb2NyYmEwb2NBSW1BcE14Y0hRNDhvdWFLd2FGT2VheHpreUdmVjIyMDlFbHk3Wm1RTmYyQTAxdkNMU3lmWHJnRjZDa1dlZ1g0?oc=5",
           "verified": true
         }
       ],
@@ -818,7 +771,7 @@
       "gossipCount": 1,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.6,
+      "predictionScore": 4.5,
       "confidence": 59,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -914,6 +867,41 @@
         {
           "label": "Fund Raising",
           "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "EMS Limited",
+      "symbol": "EMSLIMITED",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Neutral watch",
+      "predictionScore": 1.5,
+      "confidence": 55,
+      "riskLevel": "High",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
           "verified": true
         }
       ],
