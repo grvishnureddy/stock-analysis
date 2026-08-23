@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T16:44:31+00:00",
+  "generatedAt": "2026-08-23T18:49:39+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -791,6 +791,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Cummins India Limited",
+      "symbol": "CUMMINSIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 60,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 5107.5,
+      "catalysts": [
+        {
+          "label": "Resignation of Director/KMP/SMP",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Resignation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Autoline Industries Limited",
       "symbol": "AUTOIND",
       "exchange": "NSE",
@@ -859,41 +894,6 @@
         {
           "label": "Disclosure under SEBI Takeover Regulations",
           "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bharat Petroleum Corporation Limited",
-      "symbol": "BPCL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.5,
-      "confidence": 55,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 311.0,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Fund Raising",
-          "type": "upcoming event",
           "verified": true
         }
       ],
