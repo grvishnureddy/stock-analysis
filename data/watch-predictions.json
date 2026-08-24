@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:02:16+00:00",
+  "generatedAt": "2026-08-24T16:57:07+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -88,6 +88,47 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 254.83,
+      "catalysts": [
+        {
+          "label": "Hy-Tech Engineers IPO GMP In Focus As Issue Opens For Subscription",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hy-tech-engineers-ipo-gmp-in-focus-as-issue-opens-for-subscription-11943776#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Highway Infrastructure Limited",
@@ -288,6 +329,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "AstraZeneca Pharma India Limited",
+      "symbol": "ASTRAZEN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 69,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 7232.0,
+      "catalysts": [
+        {
+          "label": "AstraZeneca Pharma India discloses Crisil ESG rating of 57 - scanx.trade",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2JYSjgyZ1B1SXFKeV9hLWY1a1FJb1RJZnFmMzQ5djdwUkdkTDNrS2wxWkg1NXZnbzR1MEwtVWJVMUFhempOakdZb21xRGZ3UTJlLUtfdGVmYVhVSkJLaTViT3J5c25MS3JWbnBLX0IwN042OGRTOHBuTVlxUy1KNzlad0ZUWi10NUNBV0U4RVk2YnVmLWt5VjduQXZDOExPNTJaTEJLeWhZd3U4ekFVaThn?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Bharat Petroleum Corporation Limited",
       "symbol": "BPCL",
       "exchange": "NSE",
@@ -391,82 +473,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Vikas EcoTech Limited",
-      "symbol": "VIKASECO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 1.06,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bank of Baroda",
-      "symbol": "BANKBARODA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": -1.7,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 241.5,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends 172 Points Lower | Nifty Below 24,250 | Bank of Baroda Down 3% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTklkNC04ZmlQUXo1a2g3dVBpS3JHVGljNnVQT3NCLU1TN3lkMW00TnU2OU8ySEQ2bGNIcnYwQW9wSHJnYzFUOGFwX3NmeDFvZTBTVDduLXhkU09Md3piNmRVdUVmQXFXZHNIV255Zzl6R2pHcEdlbjZyaWtEczRmbjh4VTV6YTVjcHlBeWVETEFhZjc1SFFRWTlwTVNLOGdXX3hOandsSXZvakFTaVBzcWdHOEdTdEpMc1FHRmhEMWxDU2lQamFybmxkZzhXNFVSeVAw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -478,7 +484,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 9.1,
+      "predictionScore": 9.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Neutral",
@@ -555,6 +561,47 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 254.83,
+      "catalysts": [
+        {
+          "label": "Hy-Tech Engineers IPO GMP In Focus As Issue Opens For Subscription",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hy-tech-engineers-ipo-gmp-in-focus-as-issue-opens-for-subscription-11943776#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Urban Company Limited",
@@ -720,6 +767,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "AstraZeneca Pharma India Limited",
+      "symbol": "ASTRAZEN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 80,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 7232.0,
+      "catalysts": [
+        {
+          "label": "AstraZeneca Pharma India discloses Crisil ESG rating of 57 - scanx.trade",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2JYSjgyZ1B1SXFKeV9hLWY1a1FJb1RJZnFmMzQ5djdwUkdkTDNrS2wxWkg1NXZnbzR1MEwtVWJVMUFhempOakdZb21xRGZ3UTJlLUtfdGVmYVhVSkJLaTViT3J5c25MS3JWbnBLX0IwN042OGRTOHBuTVlxUy1KNzlad0ZUWi10NUNBV0U4RVk2YnVmLWt5VjduQXZDOExPNTJaTEJLeWhZd3U4ekFVaThn?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Refex Industries Limited",
       "symbol": "REFEX",
       "exchange": "NSE",
@@ -851,82 +939,6 @@
         },
         {
           "label": "Change in Auditors",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bank of Baroda",
-      "symbol": "BANKBARODA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.4,
-      "confidence": 64,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 241.5,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends 172 Points Lower | Nifty Below 24,250 | Bank of Baroda Down 3% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTklkNC04ZmlQUXo1a2g3dVBpS3JHVGljNnVQT3NCLU1TN3lkMW00TnU2OU8ySEQ2bGNIcnYwQW9wSHJnYzFUOGFwX3NmeDFvZTBTVDduLXhkU09Md3piNmRVdUVmQXFXZHNIV255Zzl6R2pHcEdlbjZyaWtEczRmbjh4VTV6YTVjcHlBeWVETEFhZjc1SFFRWTlwTVNLOGdXX3hOandsSXZvakFTaVBzcWdHOEdTdEpMc1FHRmhEMWxDU2lQamFybmxkZzhXNFVSeVAw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "DEE Development Engineers Limited",
-      "symbol": "DEEDEV",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 63,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
           "type": "announcement",
           "verified": true
         }
