@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T03:13:56+00:00",
+  "generatedAt": "2026-08-25T04:55:20+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,12 +11,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 13.1,
+      "predictionScore": 15.2,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 322.15,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 327.35,
       "catalysts": [
         {
           "label": "Ceigall India share price in focus on Rs 704.70 crore order - Moneycontrol.com",
@@ -57,7 +57,48 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "PVR INOX Limited",
+      "symbol": "PVRINOX",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 7.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1236.3,
+      "catalysts": [
+        {
+          "label": "PVR INOX Shares Hit Fresh 52-Week High As Company To Consider Buyback On August 31",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Buyback",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/pvr-inox-shares-hit-fresh-52-week-high-as-company-to-consider-buyback-on-august-31-11954641#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "United Heat Transfer Limited",
@@ -102,16 +143,16 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 89,
+      "predictionScore": 5.3,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 254.83,
+      "technicalConfidence": 100,
+      "lastClose": 252.56,
       "catalysts": [
         {
-          "label": "Five Stocks To Buy Today: Hindustan Zinc, Siemens, Muthoot Finance, And More | August 25",
-          "type": "results",
+          "label": "Hy-Tech Engineers vs Skyways Air vs Symbiotec Pharmalab IPO GMP: Which Signals Highest Listing Gain?",
+          "type": "corporate action",
           "verified": true
         },
         {
@@ -129,43 +170,59 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/five-stocks-to-buy-august-25-hindustan-zinc-siemens-muthoot-finance-sail-and-engineers-india-11954235#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/hy-tech-engineers-vs-skyways-air-vs-symbiotec-pharmalab-ipo-gmp-which-signals-highest-listing-gain-11953463#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Kfin Technologies Limited",
-      "symbol": "KFINTECH",
+      "company": "Hindustan Copper Limited",
+      "symbol": "HINDCOPPER",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
+      "predictionScore": 4.3,
+      "confidence": 83,
+      "riskLevel": "Medium",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 969.9,
+      "lastClose": 536.6,
       "catalysts": [
         {
-          "label": "Tempsens Instruments India IPO allotment: How to check status online on NSE, BSE, KFin Technologies; listing date, time here - Upstox",
+          "label": "Hindustan Copper Share Price Falls Nearly 6% After Govt Launches Stake Sale",
           "type": "corporate action",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Offer for sale",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [],
+      "risks": [
+        {
+          "label": "Stock Market Live: Nifty Falls Near 24,100, Sensex Declines Over 200 Points; Hindustan Copper Down Over 5%",
+          "type": "company news",
+          "verified": true
+        }
+      ],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZksxSVEyUDM4aklxT3BIQlFXZ3VwQ2RYRTJIOGlWOVZXdmkyN2dJTE1DVC04RlBtOVVGZlh6ZE1HTE9Fd2FuSFdaOTZSWjZTeXZ5YlJ2ZU1JZ2VWWnRFS3VBeXVRaGFLb0JrUUwxV3g3TjM4X216UnRkTDR6VXRySXZkVFFsYy1xc0pyOGdtREdfM3k1NGxBSU02VC1xY3g4akNMb05lQ29KcXRaZ1dvYlUwaVlybTRheThZQjhXdjBudDk4WEhBRzVDTXNFdDRWVzc2VXA5TGJDdU5pY05jeThGTjBoUDh6OGcxWTlYVUNZa1lhTl9RYUh6SGZiNmlEMTN2NDRSMA?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hindustan-copper-share-price-falls-nearly-6-after-govt-launches-stake-sale-11954603#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-sensex-nifty-gift-nifty-fno-expiry-tcs-it-stocks-oil-prices-iran-11954259#publisher=newsstand",
           "verified": true
         }
       ],
@@ -184,7 +241,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 115.4,
+      "lastClose": 115.45,
       "catalysts": [
         {
           "label": "Market Overview: Reliance, Power Grid, and IREDA in Focus Today - India News Network",
@@ -207,6 +264,47 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUU5hdGlTVlNvcUwxMWxsanp6R2c5MXh3VHJidFEyR3EyUVlGMzVKbGJiWEZQT1FtR1lESnZhR1FXQkVLV2sxVzFQdkNWM3FUUjBGQ05hd00tZXBOaDU4RFB2VVJ0bHhmVTlDdzdlaHhVcVE5QTgtTzVuYUJRRFlCVmtkM0RabndUMjFXSDlzU1daTzQySFVOYlFuZ2xDWnc?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Kaynes Technology India Limited",
+      "symbol": "KAYNES",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 3952.0,
+      "catalysts": [
+        {
+          "label": "Kaynes Technology signs MoU with China\u2019s Bosgame to launch computing products in India; stock rises 2% - Upstox",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTHlpaGhTdDZrR1MxbHN4bWdscjE5Yi1lTlBRdUZ3SXp0TzdXcDB1MGNMc1BJSnZzSkxwMjgwZHBtdXRvSGtpcFU0MGUzaURaV1hKNUhZRWtwaWt0aXdWd0hZQ3JlZ3k5T3RTYXFwS1U4WUczTXc2ZWY0bEFvLThZdFhnWkwydWNpWTNneVlWLTI4LWVMLW5IanR5Y0ZOcEV2SFBOMTE0bkI0QzROd25SdWlZb1BDaUx5REZLUUtVdUlVLWk3YXh2WVJxNHppNE9kRlIxYWJaeGh1UFViN0lzUVBiME15b0pHT2N4SjRFeGN2Z3ZUWHM2NU1hak1FallFQjk3QWY3Qnc?oc=5",
           "verified": true
         }
       ],
@@ -248,32 +346,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "AstraZeneca Pharma India Limited",
-      "symbol": "ASTRAZEN",
+      "company": "Texmaco Rail & Engineering Limited",
+      "symbol": "TEXRAIL",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 69,
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 70,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 7415.5,
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 0,
+      "lastClose": 108.46,
       "catalysts": [
         {
-          "label": "AstraZeneca Pharma India discloses Crisil ESG rating of 57 - scanx.trade",
-          "type": "company news",
+          "label": "Texmaco Rail Shares Jump 6% As Company Fixes September 11 As Dividend Record Date",
+          "type": "corporate action",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Record Date",
           "type": "announcement",
           "verified": true
         }
@@ -281,8 +379,8 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2JYSjgyZ1B1SXFKeV9hLWY1a1FJb1RJZnFmMzQ5djdwUkdkTDNrS2wxWkg1NXZnbzR1MEwtVWJVMUFhempOakdZb21xRGZ3UTJlLUtfdGVmYVhVSkJLaTViT3J5c25MS3JWbnBLX0IwN042OGRTOHBuTVlxUy1KNzlad0ZUWi10NUNBV0U4RVk2YnVmLWt5VjduQXZDOExPNTJaTEJLeWhZd3U4ekFVaThn?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/texmaco-rail-shares-jump-6-percent-as-company-fixes-september-11-as-dividend-record-date-11954704#publisher=newsstand",
           "verified": true
         }
       ],
@@ -301,7 +399,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 179.65,
+      "lastClose": 182.57,
       "catalysts": [
         {
           "label": "SAIL Share Price News: Price Rise, Fundamentals and Peers - Univest",
@@ -330,108 +428,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharat Electronics Limited",
-      "symbol": "BEL",
+      "company": "Tata Consultancy Services Limited",
+      "symbol": "TCS",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.6,
-      "confidence": 66,
+      "predictionScore": 2.3,
+      "confidence": 68,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 409.0,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 2273.1,
       "catalysts": [
         {
-          "label": "Buy, Sell Or Hold: Data Patterns, Canara Bank, BEL, Kwality Wall's, Cummins India, Sansera Engineering \u2014 Ask Profit",
-          "type": "results",
+          "label": "TCS Among IT Stocks Declining After Porsche Unit Acquisition Draws Mixed Brokerage Views",
+          "type": "corporate action",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-data-patterns-canara-bank-bel-kwality-walls-cummins-india-sansera-engineering-ask-profit-11953576#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "DEE Development Engineers Limited",
-      "symbol": "DEEDEV",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 63,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Hindustan Copper Limited",
-      "symbol": "HINDCOPPER",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 61,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 574.15,
-      "catalysts": [
-        {
-          "label": "Stocks To Watch Today: TCS, Hindustan Copper, ICICI Bank, Coal India and UCO Bank And More",
+          "label": "TCS-Porsche Deal Strengthens Europe Play, Says Systematix Maintaining 'Hold' \u2014 Check New Target Price",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Offer for sale",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -440,40 +462,45 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-tcs-hindustan-copper-icici-bank-coal-india-and-uco-bank-and-more-11953668#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/tcs-among-it-stocks-declining-after-porsche-unit-acquisition-draws-mixed-brokerage-views-11954682#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/tcs-porsche-deal-strengthens-europe-play-says-systematix-maintaining-hold-check-new-target-price-11954660#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Highway Infrastructure Limited",
-      "symbol": "HILINFRA",
+      "company": "Bharat Petroleum Corporation Limited",
+      "symbol": "BPCL",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "direction": "Negative watch",
+      "predictionScore": -2.6,
+      "confidence": 64,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 311.65,
       "catalysts": [
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
         {
           "label": "General Updates",
           "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Fund Raising",
+          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -491,12 +518,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 12.8,
+      "predictionScore": 16.0,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 322.15,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 327.35,
       "catalysts": [
         {
           "label": "Ceigall India share price in focus on Rs 704.70 crore order - Moneycontrol.com",
@@ -537,7 +564,89 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "PVR INOX Limited",
+      "symbol": "PVRINOX",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 8.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1236.3,
+      "catalysts": [
+        {
+          "label": "PVR INOX Shares Hit Fresh 52-Week High As Company To Consider Buyback On August 31",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Buyback",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/pvr-inox-shares-hit-fresh-52-week-high-as-company-to-consider-buyback-on-august-31-11954641#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 252.56,
+      "catalysts": [
+        {
+          "label": "Hy-Tech Engineers vs Skyways Air vs Symbiotec Pharmalab IPO GMP: Which Signals Highest Listing Gain?",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hy-tech-engineers-vs-skyways-air-vs-symbiotec-pharmalab-ipo-gmp-which-signals-highest-listing-gain-11953463#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "United Heat Transfer Limited",
@@ -575,77 +684,52 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Engineers India Limited",
-      "symbol": "ENGINERSIN",
+      "company": "Hindustan Copper Limited",
+      "symbol": "HINDCOPPER",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.0,
+      "predictionScore": 5.8,
       "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 254.83,
-      "catalysts": [
-        {
-          "label": "Five Stocks To Buy Today: Hindustan Zinc, Siemens, Muthoot Finance, And More | August 25",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/five-stocks-to-buy-august-25-hindustan-zinc-siemens-muthoot-finance-sail-and-engineers-india-11954235#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Kfin Technologies Limited",
-      "symbol": "KFINTECH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.8,
-      "confidence": 87,
-      "riskLevel": "Standard",
+      "riskLevel": "Medium",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 969.9,
+      "lastClose": 536.6,
       "catalysts": [
         {
-          "label": "Tempsens Instruments India IPO allotment: How to check status online on NSE, BSE, KFin Technologies; listing date, time here - Upstox",
+          "label": "Hindustan Copper Share Price Falls Nearly 6% After Govt Launches Stake Sale",
           "type": "corporate action",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Offer for sale",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [],
+      "risks": [
+        {
+          "label": "Stock Market Live: Nifty Falls Near 24,100, Sensex Declines Over 200 Points; Hindustan Copper Down Over 5%",
+          "type": "company news",
+          "verified": true
+        }
+      ],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZksxSVEyUDM4aklxT3BIQlFXZ3VwQ2RYRTJIOGlWOVZXdmkyN2dJTE1DVC04RlBtOVVGZlh6ZE1HTE9Fd2FuSFdaOTZSWjZTeXZ5YlJ2ZU1JZ2VWWnRFS3VBeXVRaGFLb0JrUUwxV3g3TjM4X216UnRkTDR6VXRySXZkVFFsYy1xc0pyOGdtREdfM3k1NGxBSU02VC1xY3g4akNMb05lQ29KcXRaZ1dvYlUwaVlybTRheThZQjhXdjBudDk4WEhBRzVDTXNFdDRWVzc2VXA5TGJDdU5pY05jeThGTjBoUDh6OGcxWTlYVUNZa1lhTl9RYUh6SGZiNmlEMTN2NDRSMA?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hindustan-copper-share-price-falls-nearly-6-after-govt-launches-stake-sale-11954603#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-sensex-nifty-gift-nifty-fno-expiry-tcs-it-stocks-oil-prices-iran-11954259#publisher=newsstand",
           "verified": true
         }
       ],
@@ -664,7 +748,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 115.4,
+      "lastClose": 115.45,
       "catalysts": [
         {
           "label": "Market Overview: Reliance, Power Grid, and IREDA in Focus Today - India News Network",
@@ -693,32 +777,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "AstraZeneca Pharma India Limited",
-      "symbol": "ASTRAZEN",
+      "company": "Kaynes Technology India Limited",
+      "symbol": "KAYNES",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 80,
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 87,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 7415.5,
+      "lastClose": 3952.0,
       "catalysts": [
         {
-          "label": "AstraZeneca Pharma India discloses Crisil ESG rating of 57 - scanx.trade",
+          "label": "Kaynes Technology signs MoU with China\u2019s Bosgame to launch computing products in India; stock rises 2% - Upstox",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -727,7 +811,7 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2JYSjgyZ1B1SXFKeV9hLWY1a1FJb1RJZnFmMzQ5djdwUkdkTDNrS2wxWkg1NXZnbzR1MEwtVWJVMUFhempOakdZb21xRGZ3UTJlLUtfdGVmYVhVSkJLaTViT3J5c25MS3JWbnBLX0IwN042OGRTOHBuTVlxUy1KNzlad0ZUWi10NUNBV0U4RVk2YnVmLWt5VjduQXZDOExPNTJaTEJLeWhZd3U4ekFVaThn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTHlpaGhTdDZrR1MxbHN4bWdscjE5Yi1lTlBRdUZ3SXp0TzdXcDB1MGNMc1BJSnZzSkxwMjgwZHBtdXRvSGtpcFU0MGUzaURaV1hKNUhZRWtwaWt0aXdWd0hZQ3JlZ3k5T3RTYXFwS1U4WUczTXc2ZWY0bEFvLThZdFhnWkwydWNpWTNneVlWLTI4LWVMLW5IanR5Y0ZOcEV2SFBOMTE0bkI0QzROd25SdWlZb1BDaUx5REZLUUtVdUlVLWk3YXh2WVJxNHppNE9kRlIxYWJaeGh1UFViN0lzUVBiME15b0pHT2N4SjRFeGN2Z3ZUWHM2NU1hak1FallFQjk3QWY3Qnc?oc=5",
           "verified": true
         }
       ],
@@ -746,7 +830,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 179.65,
+      "lastClose": 182.57,
       "catalysts": [
         {
           "label": "SAIL Share Price News: Price Rise, Fundamentals and Peers - Univest",
@@ -810,33 +894,58 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharat Electronics Limited",
-      "symbol": "BEL",
+      "company": "Bharat Petroleum Corporation Limited",
+      "symbol": "BPCL",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.1,
+      "confidence": 74,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 311.65,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Fund Raising",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Fertilizers and Chemicals Travancore Limited",
+      "symbol": "FACT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 1,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.4,
-      "confidence": 71,
+      "predictionScore": 5.8,
+      "confidence": 73,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 409.0,
+      "technicalConfidence": 100,
+      "lastClose": 887.75,
       "catalysts": [
         {
-          "label": "Buy, Sell Or Hold: Data Patterns, Canara Bank, BEL, Kwality Wall's, Cummins India, Sansera Engineering \u2014 Ask Profit",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
+          "label": "Fertiliser Stocks Jump Up To 10% \u2014 FACT, Paradeep Phosphates, NFL Gain. Here's Why",
+          "type": "company news",
           "verified": true
         }
       ],
@@ -844,39 +953,34 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-data-patterns-canara-bank-bel-kwality-walls-cummins-india-sansera-engineering-ask-profit-11953576#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/fertilizer-stocks-jump-up-to-10-fact-paradeep-phosphates-nfl-gain-heres-why-11954653#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Hindustan Copper Limited",
-      "symbol": "HINDCOPPER",
+      "company": "Siemens Limited",
+      "symbol": "SIEMENS",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 2,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 70,
+      "predictionScore": 4.8,
+      "confidence": 73,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 574.15,
+      "technicalConfidence": 100,
+      "lastClose": 4069.3,
       "catalysts": [
         {
-          "label": "Stocks To Watch Today: TCS, Hindustan Copper, ICICI Bank, Coal India and UCO Bank And More",
+          "label": "Siemens rallies 5%, hits new high in subdued market; what's driving stock? - Business Standard",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Offer for sale",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
+          "label": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
           "type": "announcement",
           "verified": true
         }
@@ -884,81 +988,11 @@
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-tcs-hindustan-copper-icici-bank-coal-india-and-uco-bank-and-more-11953668#publisher=newsstand",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWXNrSEpaTHU0YU9velBwaGdzS08teERQaTZlVExmWTVKUGlUbzlFaXRfRnNrUW1QUXFhcnM4c2lzUEpRc1RJWWJiNDlXbjc4RUpNTFZDSkMwcVhxWWFFdkFhRDhmNnItZkpybE1kclVsRTZOREZzMTNvekJDWUQ1R3JrcjMwWG1FVnpsVW1EX1VrUnRVYTYwVEFTbUFrMkFhdGo3OUdlWUd0d0lmVDZDZGZIanNFYUx4QUFiOTB1S1ZQLVVkb3o1eUJ6YnRtZFQ0TG1v0gHYAUFVX3lxTE0tQU1EMEh3cEg5XzFFVkpOS2ZVUFBMUmhXNE81M2R0Z0xKM05ycVA0QV8xemtFSGpMZWlUQVktdGo4OG5DS0pQUHhHbnJhSm5DQzhaTC1rOGkwOEFQUmZSVEZlRXlhNXBrTW1jQkVGVGhmUnV1ZTdxX25rVTI2UlA0UVhBM3pLd1o2bktqSnhvWUNteHlWOWpPNTBaX18zaUQwYi0wbWhXeHZWZnpYeDVvWmwtd1hhTktRRlQzUm15VV9Ja0FjdDlqMGRhQ0NRelJRS2tXU294MQ?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "DEE Development Engineers Limited",
-      "symbol": "DEEDEV",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 63,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "The State Trading Corporation of India Limited",
-      "symbol": "STCINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 57,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 121.21,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Q1 FY27 results scheduled 2026-08-25",
-          "type": "result",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
