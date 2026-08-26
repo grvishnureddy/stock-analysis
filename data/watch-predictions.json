@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T03:19:57+00:00",
+  "generatedAt": "2026-08-26T04:57:30+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,12 +11,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 7.6,
+      "predictionScore": 9.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 322.15,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 327.75,
       "catalysts": [
         {
           "label": "Ceigall India shares soar 5% on bagging \u20b9705 crore EPC order from MoRTH in Arunanchal Pradesh - Upstox",
@@ -47,7 +47,90 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Mtar Technologies Limited",
+      "symbol": "MTARTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 8.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 6960.0,
+      "catalysts": [
+        {
+          "label": "MTAR Technologies Share Price Gains 3% on Rs 127-Crore Deal Win \u2014 Top Details Inside",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/mtar-technologies-share-price-gains-3-percent-on-rs-127-crore-deal-win-top-details-inside-11959679#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "GUJARAT ENERGY LIMITED",
+      "symbol": "GUJENERGY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -8.3,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 252.45,
+      "catalysts": [
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Gujarat Energy Share Price Falls After Double Downgrade By Morgan Stanley \u2014 Do You Own?",
+          "type": "risk",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/gujarat-energy-share-price-falls-after-double-downgrade-by-morgan-stanley-11959645#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "United Heat Transfer Limited",
@@ -97,7 +180,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 666.25,
+      "lastClose": 661.2,
       "catalysts": [
         {
           "label": "India's chemicals sector may outpace global growth, target 5-6% global share by FY30: IIFL Capital - CNBC TV18",
@@ -126,6 +209,47 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Hindustan Copper Limited",
+      "symbol": "HINDCOPPER",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 549.45,
+      "catalysts": [
+        {
+          "label": "Hindustan Copper OFS Opens For Retail Investors; Stock Rises Over 3%",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Offer for sale",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hindustan-copper-ofs-opens-for-retail-investors-stock-rises-over-3-11959731#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Steel Authority of India Limited",
       "symbol": "SAIL",
       "exchange": "NSE",
@@ -138,7 +262,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 184.59,
+      "lastClose": 182.64,
       "catalysts": [
         {
           "label": "SAIL Share Price News: Price Rise, Fundamentals and Peers - Univest",
@@ -167,6 +291,77 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Kfin Technologies Limited",
+      "symbol": "KFINTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 5.1,
+      "confidence": 75,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 960.95,
+      "catalysts": [
+        {
+          "label": "Tempsens Instruments India IPO allotment finalised: How to check status online on KFin Technologies, NSE, BSE; listing date, time here - Upstox",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZksxSVEyUDM4aklxT3BIQlFXZ3VwQ2RYRTJIOGlWOVZXdmkyN2dJTE1DVC04RlBtOVVGZlh6ZE1HTE9Fd2FuSFdaOTZSWjZTeXZ5YlJ2ZU1JZ2VWWnRFS3VBeXVRaGFLb0JrUUwxV3g3TjM4X216UnRkTDR6VXRySXZkVFFsYy1xc0pyOGdtREdfM3k1NGxBSU02VC1xY3g4akNMb05lQ29KcXRaZ1dvYlUwaVlybTRheThZQjhXdjBudDk4WEhBRzVDTXNFdDRWVzc2VXA5TGJDdU5pY05jeThGTjBoUDh6OGcxWTlYVUNZa1lhTl9RYUh6SGZiNmlEMTN2NDRSMA?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Supreme Engineering Limited",
+      "symbol": "SUPREMEENG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 71,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 2.68,
+      "catalysts": [
+        {
+          "label": "Financial Results/Fund Raising",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Kalyan Jewellers India Limited",
       "symbol": "KALYANKJIL",
       "exchange": "NSE",
@@ -174,12 +369,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.6,
-      "confidence": 73,
+      "predictionScore": 3.1,
+      "confidence": 65,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 612.6,
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 612.85,
       "catalysts": [
         {
           "label": "BSE, Kalyan Jewellers, Union Bank shares: Expert weighs in - BusinessToday - India IPO",
@@ -208,149 +403,62 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Hindustan Copper Limited",
-      "symbol": "HINDCOPPER",
+      "company": "JSW Dulux Limited",
+      "symbol": "JSWDULUX",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.5,
-      "confidence": 72,
+      "predictionScore": 2.2,
+      "confidence": 65,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 532.65,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Hindustan Copper share price: Stock plunges 7% - Here's why - India IPO",
-          "type": "corporate action",
+          "label": "Action(s) initiated or orders passed",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Offer for sale",
+          "label": "Action(s) initiated or orders passed",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2Ztb2Q3LVB1WWlaZ0xzcUFadUtEaERMZDN1VHdvTkRiRWlGQXJzQi03cVljRDNKTjhLV2Qwb3RKcFR3NUowRGZ1RFFRb3J0VUVlUWVkV1NKZDBHenZyRk9rZTJoa2xPbnRYX3lsNUd5NDQ5VHp2d1RaSkxJV2xEUURYdVFhMUlZNzN3cFVsR3VtY3hK?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Supreme Engineering Limited",
-      "symbol": "SUPREMEENG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 71,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 2.58,
-      "catalysts": [
-        {
-          "label": "Financial Results/Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Vodafone Idea Limited",
-      "symbol": "IDEA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 15.19,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends 287 Points Higher | Nifty Above 24,300 | Vodafone Idea Up 7% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Vodafone Idea surges 5% in weak market on huge volume; here's why - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNlNLTmRBb1RLSThwamtqTVpvWGpCdXhNZEQzazVOZ2dMWkZEZ2ZUOS1KM1FuMEdQNm9RWW01Q1J0bG40QWdjUmx0MXJwZ2VuakFmSlZFU2c4YkdVTElZV2pPeGR4X0YxR2lqTUFmSWhxZ0MwRlF3b2ZDU1d1N3Y4S1NYWEN2MjNtZDhqRG9UUE4zck1NUEZ5NXR1eTVKZ09KZy1yaWYyeEViMnhIYy1yM3hxZExTNWlRVFBtTXFBenNCZG1XWkExSnptRHZWRHo0?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYkROOFN1SFBVTjFSUjhROFRuNllrMFFFN1A3dU9yeUlmVUxHMFB4YUF5cFhKZk1MM2tRU1NGc2ZwTmViTU0wVkZJNFYwU3VhUUxxaUJaOU03RjdvdnlWSXJSdmlXbk1wcV9kdzhZWi1PSkRXNkNQa2ZfNTZnQVduaEZwdGphanZ3Y0doNDRqRUk5bzhENlNBOFVrRnJNTzc0WnUwZ20teHBFWlcwb1lrSWxKRTN6dnFxZTdmdnZmcDJodTI1U2lmVjZnbEtfdkluVVBFckRVMkhTZ9IB3wFBVV95cUxQNXJudWZyMXhubU5JeHYxUmcwTmhyWWFoa0JRb0sxMi1PWVpMQ1gwOFFPRnZQZ3pGNjZNRVM3MEllQWxTN3hDYkN5Qm9yQzNWTEg5RWk5ZzMxQkFHZ3dCMkpWOW1xYmh0dW9KNWdfUV9KaldFOTgyWGRtcUdQSXhUYWxqNHFoQU0tdHZndkliWk9WQzVVRUJZWDBNTXpIVHFzN09RaXZxaFRZZURjd0RYdE40ZjJQRDFfV2JSVzFKWDZyOWYxMV83SGxQVHNUd1FJaFg0WnBiaHBrUnRPT0Q0?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Kfin Technologies Limited",
-      "symbol": "KFINTECH",
+      "company": "Vedanta Limited",
+      "symbol": "VEDL",
       "exchange": "NSE",
       "confirmedNewsCount": 2,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 59,
+      "predictionScore": 4.2,
+      "confidence": 60,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 966.0,
+      "lastClose": 280.4,
       "catalysts": [
         {
-          "label": "Tempsens Instruments India IPO allotment: How to check status online on KFin Technologies, NSE, BSE; listing date, time here - Upstox",
-          "type": "corporate action",
+          "label": "Vedanta Aluminium Shares In Focus As Motilal Oswal Stays Bullish On Earnings Growth \u2014 Check Target Price",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Rescission/termination(s)",
           "type": "announcement",
           "verified": true
         }
@@ -358,113 +466,12 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZksxSVEyUDM4aklxT3BIQlFXZ3VwQ2RYRTJIOGlWOVZXdmkyN2dJTE1DVC04RlBtOVVGZlh6ZE1HTE9Fd2FuSFdaOTZSWjZTeXZ5YlJ2ZU1JZ2VWWnRFS3VBeXVRaGFLb0JrUUwxV3g3TjM4X216UnRkTDR6VXRySXZkVFFsYy1xc0pyOGdtREdfM3k1NGxBSU02VC1xY3g4akNMb05lQ29KcXRaZ1dvYlUwaVlybTRheThZQjhXdjBudDk4WEhBRzVDTXNFdDRWVzc2VXA5TGJDdU5pY05jeThGTjBoUDh6OGcxWTlYVUNZa1lhTl9RYUh6SGZiNmlEMTN2NDRSMA?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/vedanta-aluminium-shares-in-focus-as-motilal-oswal-stays-bullish-on-earnings-growth-check-target-price-11959545#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "DEE Development Engineers Limited",
-      "symbol": "DEEDEV",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 56,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Fertilizers and Chemicals Travancore Limited",
-      "symbol": "FACT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 1,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 55,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 784.25,
-      "catalysts": [
-        {
-          "label": "Loss-making FACT overtakes Coromandel by market cap - India IPO",
-          "type": "results",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGZtOS1LMVNjM2RKTFpXZmprWWI4LUJnak9CekhCOG9PbkRyNTg3RkZLVG93VHVJd2RoenJyY1lrSm9FTGhYWU1WNWJyOXdhQjFPWmJwYzBKOEpHSlZyU1kxdmtpM0VROUVMeHQxaEV0clN3c1ViVFNmZ2lvTEx0R2FFdUxJZUlQX2RwUUlHTGI?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "EMS Limited",
-      "symbol": "EMSLIMITED",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -476,12 +483,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 7.3,
+      "predictionScore": 10.5,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 322.15,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 327.75,
       "catalysts": [
         {
           "label": "Ceigall India shares soar 5% on bagging \u20b9705 crore EPC order from MoRTH in Arunanchal Pradesh - Upstox",
@@ -512,7 +519,90 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Mtar Technologies Limited",
+      "symbol": "MTARTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 10.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 6960.0,
+      "catalysts": [
+        {
+          "label": "MTAR Technologies Share Price Gains 3% on Rs 127-Crore Deal Win \u2014 Top Details Inside",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/mtar-technologies-share-price-gains-3-percent-on-rs-127-crore-deal-win-top-details-inside-11959679#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "GUJARAT ENERGY LIMITED",
+      "symbol": "GUJENERGY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -9.8,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 252.45,
+      "catalysts": [
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Gujarat Energy Share Price Falls After Double Downgrade By Morgan Stanley \u2014 Do You Own?",
+          "type": "risk",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/gujarat-energy-share-price-falls-after-double-downgrade-by-morgan-stanley-11959645#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "United Heat Transfer Limited",
@@ -562,7 +652,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 666.25,
+      "lastClose": 661.2,
       "catalysts": [
         {
           "label": "India's chemicals sector may outpace global growth, target 5-6% global share by FY30: IIFL Capital - CNBC TV18",
@@ -591,6 +681,47 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Hindustan Copper Limited",
+      "symbol": "HINDCOPPER",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 549.45,
+      "catalysts": [
+        {
+          "label": "Hindustan Copper OFS Opens For Retail Investors; Stock Rises Over 3%",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Offer for sale",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hindustan-copper-ofs-opens-for-retail-investors-stock-rises-over-3-11959731#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Steel Authority of India Limited",
       "symbol": "SAIL",
       "exchange": "NSE",
@@ -603,7 +734,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 184.59,
+      "lastClose": 182.64,
       "catalysts": [
         {
           "label": "SAIL Share Price News: Price Rise, Fundamentals and Peers - Univest",
@@ -632,32 +763,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Metro Brands Limited",
-      "symbol": "METROBRAND",
+      "company": "Kfin Technologies Limited",
+      "symbol": "KFINTECH",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 2,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 87,
+      "direction": "Positive watch",
+      "predictionScore": 6.6,
+      "confidence": 85,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 909.9,
+      "lastClose": 960.95,
       "catalysts": [
         {
-          "label": "Kotak Securities Upgrades Metro Brands To 'Add', But Cuts Target Price. Check Details",
-          "type": "company news",
+          "label": "Tempsens Instruments India IPO allotment finalised: How to check status online on KFin Technologies, NSE, BSE; listing date, time here - Upstox",
+          "type": "corporate action",
           "verified": true
         },
         {
           "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -665,12 +791,12 @@
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/kotak-securities-upgrades-metro-brands-to-add-but-cuts-target-price-check-details-11959350#publisher=newsstand",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZksxSVEyUDM4aklxT3BIQlFXZ3VwQ2RYRTJIOGlWOVZXdmkyN2dJTE1DVC04RlBtOVVGZlh6ZE1HTE9Fd2FuSFdaOTZSWjZTeXZ5YlJ2ZU1JZ2VWWnRFS3VBeXVRaGFLb0JrUUwxV3g3TjM4X216UnRkTDR6VXRySXZkVFFsYy1xc0pyOGdtREdfM3k1NGxBSU02VC1xY3g4akNMb05lQ29KcXRaZ1dvYlUwaVlybTRheThZQjhXdjBudDk4WEhBRzVDTXNFdDRWVzc2VXA5TGJDdU5pY05jeThGTjBoUDh6OGcxWTlYVUNZa1lhTl9RYUh6SGZiNmlEMTN2NDRSMA?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Supreme Engineering Limited",
@@ -685,7 +811,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 2.58,
+      "lastClose": 2.68,
       "catalysts": [
         {
           "label": "Financial Results/Fund Raising",
@@ -708,6 +834,47 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -2.4,
+      "confidence": 71,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 1127.9,
+      "catalysts": [
+        {
+          "label": "Sensex Today Trades Higher | Nifty Above 24,250 | Infosys & TCS Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTVBvVjRLYWlJYUNrVGgwV092UE44bWt1NXVwRnZSd3hJeG9RR3I5cTFWbEpQOVdaTVFndk95THdCR2ZfR2NmRkViSmx6Z2NRaDI5ZDd2dGVJTDE5MnZGZjU1N1htUTBIZTJmZm9zbHJIcV9EN2syX2NiYkdSOWlwN3JuYnBTdE9zYldmRzR3bVpkV0xSRFE1aUlPeW40aVlCY0JaekZRT0xmNXVtTGE2OGl2UTNQVmJ3Q3ExMkZ5UFNPYVByVDZHMzVRakc?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Kalyan Jewellers India Limited",
       "symbol": "KALYANKJIL",
       "exchange": "NSE",
@@ -715,12 +882,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.4,
-      "confidence": 78,
+      "predictionScore": 3.6,
+      "confidence": 68,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 612.6,
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 612.85,
       "catalysts": [
         {
           "label": "BSE, Kalyan Jewellers, Union Bank shares: Expert weighs in - BusinessToday - India IPO",
@@ -749,114 +916,27 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Hindustan Copper Limited",
-      "symbol": "HINDCOPPER",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.2,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 532.65,
-      "catalysts": [
-        {
-          "label": "Hindustan Copper share price: Stock plunges 7% - Here's why - India IPO",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Offer for sale",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2Ztb2Q3LVB1WWlaZ0xzcUFadUtEaERMZDN1VHdvTkRiRWlGQXJzQi03cVljRDNKTjhLV2Qwb3RKcFR3NUowRGZ1RFFRb3J0VUVlUWVkV1NKZDBHenZyRk9rZTJoa2xPbnRYX3lsNUd5NDQ5VHp2d1RaSkxJV2xEUURYdVFhMUlZNzN3cFVsR3VtY3hK?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Vodafone Idea Limited",
-      "symbol": "IDEA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 67,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 15.19,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends 287 Points Higher | Nifty Above 24,300 | Vodafone Idea Up 7% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Vodafone Idea surges 5% in weak market on huge volume; here's why - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNlNLTmRBb1RLSThwamtqTVpvWGpCdXhNZEQzazVOZ2dMWkZEZ2ZUOS1KM1FuMEdQNm9RWW01Q1J0bG40QWdjUmx0MXJwZ2VuakFmSlZFU2c4YkdVTElZV2pPeGR4X0YxR2lqTUFmSWhxZ0MwRlF3b2ZDU1d1N3Y4S1NYWEN2MjNtZDhqRG9UUE4zck1NUEZ5NXR1eTVKZ09KZy1yaWYyeEViMnhIYy1yM3hxZExTNWlRVFBtTXFBenNCZG1XWkExSnptRHZWRHo0?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYkROOFN1SFBVTjFSUjhROFRuNllrMFFFN1A3dU9yeUlmVUxHMFB4YUF5cFhKZk1MM2tRU1NGc2ZwTmViTU0wVkZJNFYwU3VhUUxxaUJaOU03RjdvdnlWSXJSdmlXbk1wcV9kdzhZWi1PSkRXNkNQa2ZfNTZnQVduaEZwdGphanZ3Y0doNDRqRUk5bzhENlNBOFVrRnJNTzc0WnUwZ20teHBFWlcwb1lrSWxKRTN6dnFxZTdmdnZmcDJodTI1U2lmVjZnbEtfdkluVVBFckRVMkhTZ9IB3wFBVV95cUxQNXJudWZyMXhubU5JeHYxUmcwTmhyWWFoa0JRb0sxMi1PWVpMQ1gwOFFPRnZQZ3pGNjZNRVM3MEllQWxTN3hDYkN5Qm9yQzNWTEg5RWk5ZzMxQkFHZ3dCMkpWOW1xYmh0dW9KNWdfUV9KaldFOTgyWGRtcUdQSXhUYWxqNHFoQU0tdHZndkliWk9WQzVVRUJZWDBNTXpIVHFzN09RaXZxaFRZZURjd0RYdE40ZjJQRDFfV2JSVzFKWDZyOWYxMV83SGxQVHNUd1FJaFg0WnBiaHBrUnRPT0Q0?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Kfin Technologies Limited",
-      "symbol": "KFINTECH",
+      "company": "Vedanta Limited",
+      "symbol": "VEDL",
       "exchange": "NSE",
       "confirmedNewsCount": 2,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.0,
-      "confidence": 66,
+      "predictionScore": 5.2,
+      "confidence": 67,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 966.0,
+      "lastClose": 280.4,
       "catalysts": [
         {
-          "label": "Tempsens Instruments India IPO allotment: How to check status online on KFin Technologies, NSE, BSE; listing date, time here - Upstox",
-          "type": "corporate action",
+          "label": "Vedanta Aluminium Shares In Focus As Motilal Oswal Stays Bullish On Earnings Growth \u2014 Check Target Price",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Rescission/termination(s)",
           "type": "announcement",
           "verified": true
         }
@@ -864,78 +944,12 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZksxSVEyUDM4aklxT3BIQlFXZ3VwQ2RYRTJIOGlWOVZXdmkyN2dJTE1DVC04RlBtOVVGZlh6ZE1HTE9Fd2FuSFdaOTZSWjZTeXZ5YlJ2ZU1JZ2VWWnRFS3VBeXVRaGFLb0JrUUwxV3g3TjM4X216UnRkTDR6VXRySXZkVFFsYy1xc0pyOGdtREdfM3k1NGxBSU02VC1xY3g4akNMb05lQ29KcXRaZ1dvYlUwaVlybTRheThZQjhXdjBudDk4WEhBRzVDTXNFdDRWVzc2VXA5TGJDdU5pY05jeThGTjBoUDh6OGcxWTlYVUNZa1lhTl9RYUh6SGZiNmlEMTN2NDRSMA?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/vedanta-aluminium-shares-in-focus-as-motilal-oswal-stays-bullish-on-earnings-growth-check-target-price-11959545#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Fertilizers and Chemicals Travancore Limited",
-      "symbol": "FACT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 1,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 66,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 784.25,
-      "catalysts": [
-        {
-          "label": "Loss-making FACT overtakes Coromandel by market cap - India IPO",
-          "type": "results",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGZtOS1LMVNjM2RKTFpXZmprWWI4LUJnak9CekhCOG9PbkRyNTg3RkZLVG93VHVJd2RoenJyY1lrSm9FTGhYWU1WNWJyOXdhQjFPWmJwYzBKOEpHSlZyU1kxdmtpM0VROUVMeHQxaEV0clN3c1ViVFNmZ2lvTEx0R2FFdUxJZUlQX2RwUUlHTGI?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "DEE Development Engineers Limited",
-      "symbol": "DEEDEV",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 56,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
 }
