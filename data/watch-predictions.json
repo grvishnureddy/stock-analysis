@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T15:54:16+00:00",
+  "generatedAt": "2026-08-26T17:06:27+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -48,7 +48,7 @@
       "company": "United Heat Transfer Limited",
       "symbol": "UHTL",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 15,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -70,7 +70,7 @@
           "verified": true
         },
         {
-          "label": "Change in Management",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -227,6 +227,47 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Juniper Green Energy Limited",
+      "symbol": "JNPR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 66,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Juniper Green Q1 Results: Profit Surges 54%, Margin Expands; Revenue Nears Rs 300 Crore",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/juniper-green-q1-results-profit-surges-54-margin-expands-revenue-nears-rs-300-crore-11962748#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "JSW Dulux Limited",
       "symbol": "JSWDULUX",
       "exchange": "NSE",
@@ -373,51 +414,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Gabriel India Limited",
-      "symbol": "GABRIEL",
+      "company": "Mold-Tek Packaging Limited",
+      "symbol": "MOLDTKPAC",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": -1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 1342.6,
-      "catalysts": [
-        {
-          "label": "Gabriel India forms strategic JV with South Korea-based HL Klemove - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZmpsUkVkbEFxeXllOURYeEMwWFEzdi1ESFYxbnQ0NU81MmtEb3MxWEpaLUUtQkF4UDVOR0I4M1lkcXpuQ1pTUGo1WHczQ294UzJtNGZYQTJ1ZlNNbGtQeDdOc2ZhSVg2MVlORFRqZFlzbzFpQnN3c05FdjgyRzU3LVcyN2lCWkx5X2NSZUJtOXpjNG52bm0wbjFucWtqYnl6REpjNzhyZVRFVFhLa3h4UndrenF4aFlrVkNXcG96alVwMXpyVmt5NjE3Z21WSE1SX3ZMZ3k1ejFsdGlibVdic3p30gHnAUFVX3lxTFB5NFk1djNtakoyTXAtZURpMW1CcnB5bVFhM0trOW9ZMk1zbnNxMlpvQ0hBbEdNSkYxTGpSRGY4aXF1MUloRVVQby1sTXB5ellnTWpqYi1DdTg1emZoUE1TZUlxajZIRTByTEl4TUNRUmUtbWItT1dXR2poX0t0Wm5DSVlyMzlWUDdUOGFBcEJpSGlIQnF1Nk45b09pbnE3b255UE1qLUJiM0N2ckRYYmhzZW9uNWdIVXZwX2Q2R216VFVWZU05Qk1Ga1Uxeml0ZnFLMjdJSExXTmwxNXp2MEpnay1RZ3lfTQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "EMS Limited",
-      "symbol": "EMSLIMITED",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Neutral watch",
@@ -429,17 +429,17 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         }
@@ -495,7 +495,7 @@
       "company": "United Heat Transfer Limited",
       "symbol": "UHTL",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 15,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -517,7 +517,7 @@
           "verified": true
         },
         {
-          "label": "Change in Management",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -715,6 +715,47 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Juniper Green Energy Limited",
+      "symbol": "JNPR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.0,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Juniper Green Q1 Results: Profit Surges 54%, Margin Expands; Revenue Nears Rs 300 Crore",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/juniper-green-q1-results-profit-surges-54-margin-expands-revenue-nears-rs-300-crore-11962748#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "JSW Dulux Limited",
       "symbol": "JSWDULUX",
       "exchange": "NSE",
@@ -858,47 +899,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Vodafone Idea Limited",
-      "symbol": "IDEA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 15.06,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends 287 Points Higher | Nifty Above 24,300 | Vodafone Idea Up 7% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNlNLTmRBb1RLSThwamtqTVpvWGpCdXhNZEQzazVOZ2dMWkZEZ2ZUOS1KM1FuMEdQNm9RWW01Q1J0bG40QWdjUmx0MXJwZ2VuakFmSlZFU2c4YkdVTElZV2pPeGR4X0YxR2lqTUFmSWhxZ0MwRlF3b2ZDU1d1N3Y4S1NYWEN2MjNtZDhqRG9UUE4zck1NUEZ5NXR1eTVKZ09KZy1yaWYyeEViMnhIYy1yM3hxZExTNWlRVFBtTXFBenNCZG1XWkExSnptRHZWRHo0?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
