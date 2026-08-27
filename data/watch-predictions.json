@@ -1,53 +1,146 @@
 {
-  "generatedAt": "2026-08-26T23:36:55+00:00",
+  "generatedAt": "2026-08-27T09:52:46+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "United Heat Transfer Limited",
-      "symbol": "UHTL",
+      "company": "Skipper Limited",
+      "symbol": "SKIPPER",
       "exchange": "NSE",
-      "confirmedNewsCount": 15,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
+      "predictionScore": 7.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 555.15,
       "catalysts": [
         {
-          "label": "Outcome of Board Meeting",
+          "label": "50% Return in Six Months: This Stock Jumped 3% After Getting Rs 1,305 Crore New Project Order",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/50-return-in-six-months-this-stock-jumped-3-after-getting-rs-1-305-crore-new-project-order-11965281#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 7.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 247.0,
+      "catalysts": [
+        {
+          "label": "Hy-Tech Engineers IPO GMP Points To 85% Listing Gain On Final Day Of Bidding",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "IPO GMP Today: Hy-Tech Engineers vs Symbiotec vs Skyways\u2014Which Signals Better Listing Gains?",
+          "type": "corporate action",
           "verified": true
         },
         {
           "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hy-tech-engineers-ipo-gmp-points-to-83-listing-gain-on-final-day-of-bidding-11964767#publisher=newsstand",
+          "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/ipo-gmp-today-hy-tech-engineers-vs-symbiotec-vs-skyways-which-signals-better-listing-gains-11961151#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1447.2,
+      "catalysts": [
+        {
+          "label": "Sensex Today Trades Higher | Nifty Above 24,350 | Kotak Mahindra & ICICI Bank Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOVpwLXJteW9BdXNCalc5VmdwRW9sX01pOEYwNFlpcGk4QlhXM0Q0T1VaSEM3U2IwUWd6WmItcEhzN2MyZGVRZDgzYTlDWmh6MkV4a21JZEU4WDRrNHhoTTUwWHRnRVU2UHhISVpuc01sek1rQ193bnhlSmRJZ2RPNDI0bTNCMTNuR3VodFZwcnVwRmV3R2t3amlOcFdPRElRZklfMG5mNXQ4MXBWUEppaDhTenRBcTR2RHZlS3M5eGpVRzg1U2tOVEZzN2tPOF9HZ1JxTDJEdHB6NktzOGc?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Ceigall India Limited",
       "symbol": "CEIGALL",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 90,
+      "predictionScore": 4.5,
+      "confidence": 80,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
@@ -74,47 +167,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Arvind Limited",
-      "symbol": "ARVIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 539.3,
-      "catalysts": [
-        {
-          "label": "Dividend Alert: Multibagger Arvind Sets Record Date For Rs 4.5/Share Payout. Check Details",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/dividend-alert-multibagger-arvind-sets-record-date-for-rs-4-5-share-payout-check-details-11963035#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Supreme Engineering Limited",
       "symbol": "SUPREMEENG",
       "exchange": "NSE",
@@ -127,7 +179,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 2.63,
+      "lastClose": 2.73,
       "catalysts": [
         {
           "label": "Financial Results/Fund Raising",
@@ -148,78 +200,6 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "NTPC Limited",
-      "symbol": "NTPC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -5.4,
-      "confidence": 68,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 334.6,
-      "catalysts": [
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "NSE, BSE Slap Rs 59 Lakh Fine On Three PSU Power Giants. Here's Why",
-          "type": "risk",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/nse-bse-slap-rs-59-lakh-fine-on-three-psu-power-giants-heres-why-11962722#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "JSW Dulux Limited",
-      "symbol": "JSWDULUX",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 65,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Rail Vikas Nigam Limited",
@@ -257,6 +237,124 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "NBCC (India) Limited",
+      "symbol": "NBCC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 1,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 63,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 88.5,
+      "catalysts": [
+        {
+          "label": "NBCC Receives Rajasthan School Education Project | Sai Parenterals Arm Extends OTC Supply Agreement | Top Buzzing Stocks Today - Equitymaster",
+          "type": "company news",
+          "verified": false
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWVh5SWpwdGEwYjNXRnpYVU1UM3dVeU1CR2hObUtSYVRaejZneV9CUGFmX2tjWE03XzRHZGduRHFZNGNNMDNlSWlWc1p6RGF2T2hqbEdVMHk2WGg2ZzJ4UHlvT08taWlQV1hoY2VDZXlRZWpaZEx4Rm9fTUVXamNnUGgyZHNGSmlXRDIwV3dhWTBGMmkwa1NUYk9XT0pqZ2hzZDVvNnlCT1RwUjNXVk9aYXNjdGNrdWhTM0VJTFhYcklhT2dsNlFIUVJydTZDUzhtSVFyME9kbU5HbVFaNnlYY2RvaFp1MzNRZUdZZ1pnR0VOXy0zVnFSX2ViZVh0ZVlJNFNNNG5kdjBwUWY1cGgtU0FB?oc=5",
+          "verified": false
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bharti Airtel Limited",
+      "symbol": "BHARTIARTL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.0,
+      "confidence": 63,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1885.8,
+      "catalysts": [
+        {
+          "label": "Bharti Airtel Trades Lower As Singtel Signals Plans To Equalize Stake With Sunil Mittal's 23.2% Holding",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Sensex Today Ends 183 Points Lower | Nifty Below 24,250 | Infosys & Bharti Airtel Top Losers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/bharti-airtel-trades-lower-as-singtel-signals-plans-to-equalize-stake-with-sunil-mittals-23-2-holding-11965648#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU0dvd1Vwd3ZfWHBBWFVNRHVtMDVvQ01BbzJOSk1VRlBldGNFZnNYMktzUGdLbXpiVGdtbnNmTlBRX3BwWFZVdUFGRU5xdk5Ic1JablNaSDZYMzg4THlRRkpMMzYtT0pvX2JvVE1xdmV5MXVYZWVfWE4zcWRlckVQTDNpeWNzWTlvNVltR0U4WURxZDJGS1o3Z0xNWk13bFZScklMMkM4cmwyNlhZajlCNFpiS2xYSi1TSXNqR0ZqT2JtcGQ4WTIwSWM5dGVpaXBCQkNHVTJ4WE5VbTl4R2ZjUDRn?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Imagicaaworld Entertainment Limited",
+      "symbol": "IMAGICAA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 1,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.3,
+      "confidence": 62,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 60.21,
+      "catalysts": [
+        {
+          "label": "Why Did Imagicaaworld Entertainment Share Price Hit 20% Upper Circuit?",
+          "type": "results",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/why-did-imagicaaworld-entertainment-share-price-hit-20-percent-upper-circuit-11965790#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "DEE Development Engineers Limited",
       "symbol": "DEEDEV",
       "exchange": "NSE",
@@ -292,49 +390,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bharti Airtel Limited",
-      "symbol": "BHARTIARTL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.0,
-      "confidence": 56,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1902.1,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends 183 Points Lower | Nifty Below 24,250 | Infosys & Bharti Airtel Top Losers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU0dvd1Vwd3ZfWHBBWFVNRHVtMDVvQ01BbzJOSk1VRlBldGNFZnNYMktzUGdLbXpiVGdtbnNmTlBRX3BwWFZVdUFGRU5xdk5Ic1JablNaSDZYMzg4THlRRkpMMzYtT0pvX2JvVE1xdmV5MXVYZWVfWE4zcWRlckVQTDNpeWNzWTlvNVltR0U4WURxZDJGS1o3Z0xNWk13bFZScklMMkM4cmwyNlhZajlCNFpiS2xYSi1TSXNqR0ZqT2JtcGQ4WTIwSWM5dGVpaXBCQkNHVTJ4WE5VbTl4R2ZjUDRn?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
+      "company": "Tata Steel Limited",
+      "symbol": "TATASTEEL",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
@@ -345,20 +402,20 @@
       "riskLevel": "High",
       "technicalSignal": "Bearish",
       "technicalConfidence": 50,
-      "lastClose": 727.2,
+      "lastClose": 186.8,
       "catalysts": [
         {
-          "label": "HDFC Bank Faces Class Action Lawsuit In US Over Alleged Bribery Scheme",
+          "label": "Sensex Today Trades Flat | Nifty Above 24,200 | Kotak Mahindra & Tata Steel Top Gainers - Equitymaster",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
           "type": "announcement",
           "verified": true
         }
@@ -366,8 +423,8 @@
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/class-action-suit-moved-against-hdfc-bank-in-us-for-securities-law-breach-adrs-crack-nearly-1-11963184#publisher=newsstand",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaGltOW9uM0lvSUtXWXUydFFWTm4wRzZCZWpBMFVfanF2dl85THBDSFNsSFZsOFFhNmVMVElDTjBMN00zS3JUMUlUUDJEeVRubC1icW9UcEcxLTRiVmV2TmhsTDc4aHRTZ2RrV0lxYlJnaUV5LTVMTWtXQW9INWV3OXZ4NEJLVGU0bVFUQnA4UXhlcTAzMUJxcjMyczl4ek1OeDBlT2IxNTM3dFJXSzFtRGNyTV9BODc4bHhDLWJieno1LVl4YzdqUGUtWHBtQTZfOE5vT3V1aWZhUW8?oc=5",
           "verified": true
         }
       ],
@@ -407,25 +464,27 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "Gabriel India Limited",
-      "symbol": "GABRIEL",
+      "company": "Skipper Limited",
+      "symbol": "SKIPPER",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": -1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 1346.0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 8.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 555.15,
       "catalysts": [
         {
-          "label": "Gabriel India forms strategic JV with South Korea-based HL Klemove - Business Standard",
-          "type": "company news",
+          "label": "50% Return in Six Months: This Stock Jumped 3% After Getting Rs 1,305 Crore New Project Order",
+          "type": "contract",
           "verified": true
         },
         {
@@ -434,7 +493,94 @@
           "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/50-return-in-six-months-this-stock-jumped-3-after-getting-rs-1-305-crore-new-project-order-11965281#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 8.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 247.0,
+      "catalysts": [
+        {
+          "label": "Hy-Tech Engineers IPO GMP Points To 85% Listing Gain On Final Day Of Bidding",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "IPO GMP Today: Hy-Tech Engineers vs Symbiotec vs Skyways\u2014Which Signals Better Listing Gains?",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hy-tech-engineers-ipo-gmp-points-to-83-listing-gain-on-final-day-of-bidding-11964767#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/ipo-gmp-today-hy-tech-engineers-vs-symbiotec-vs-skyways-which-signals-better-listing-gains-11961151#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1447.2,
+      "catalysts": [
+        {
+          "label": "Sensex Today Trades Higher | Nifty Above 24,350 | Kotak Mahindra & ICICI Bank Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -443,36 +589,90 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZmpsUkVkbEFxeXllOURYeEMwWFEzdi1ESFYxbnQ0NU81MmtEb3MxWEpaLUUtQkF4UDVOR0I4M1lkcXpuQ1pTUGo1WHczQ294UzJtNGZYQTJ1ZlNNbGtQeDdOc2ZhSVg2MVlORFRqZFlzbzFpQnN3c05FdjgyRzU3LVcyN2lCWkx5X2NSZUJtOXpjNG52bm0wbjFucWtqYnl6REpjNzhyZVRFVFhLa3h4UndrenF4aFlrVkNXcG96alVwMXpyVmt5NjE3Z21WSE1SX3ZMZ3k1ejFsdGlibVdic3p30gHnAUFVX3lxTFB5NFk1djNtakoyTXAtZURpMW1CcnB5bVFhM0trOW9ZMk1zbnNxMlpvQ0hBbEdNSkYxTGpSRGY4aXF1MUloRVVQby1sTXB5ellnTWpqYi1DdTg1emZoUE1TZUlxajZIRTByTEl4TUNRUmUtbWItT1dXR2poX0t0Wm5DSVlyMzlWUDdUOGFBcEJpSGlIQnF1Nk45b09pbnE3b255UE1qLUJiM0N2ckRYYmhzZW9uNWdIVXZwX2Q2R216VFVWZU05Qk1Ga1Uxeml0ZnFLMjdJSExXTmwxNXp2MEpnay1RZ3lfTQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOVpwLXJteW9BdXNCalc5VmdwRW9sX01pOEYwNFlpcGk4QlhXM0Q0T1VaSEM3U2IwUWd6WmItcEhzN2MyZGVRZDgzYTlDWmh6MkV4a21JZEU4WDRrNHhoTTUwWHRnRVU2UHhISVpuc01sek1rQ193bnhlSmRJZ2RPNDI0bTNCMTNuR3VodFZwcnVwRmV3R2t3amlOcFdPRElRZklfMG5mNXQ4MXBWUEppaDhTenRBcTR2RHZlS3M5eGpVRzg1U2tOVEZzN2tPOF9HZ1JxTDJEdHB6NktzOGc?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 714.45,
+      "catalysts": [
+        {
+          "label": "Margin Squeeze To RoE Drop: How HDFC Bank Trailed ICICI Bank Under Sashidhar Jagdishan Era",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Stock Market Live: Nifty 50 Slips Below 24,200, Sensex Drops Over 300 Points; HDFC Bank At 52-Week Low",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "HDFC Bank Faces Class Action Lawsuit In US Over Alleged Bribery Scheme",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/margin-squeeze-to-roe-drop-how-hdfc-bank-trailed-icici-bank-under-sashidhar-jagdishan-era-11803010#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-sensex-nifty-gift-nifty-nvidia-earnings-fed-crude-oil-geopolitical-tensions-11964193#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/class-action-suit-moved-against-hdfc-bank-in-us-for-securities-law-breach-adrs-crack-nearly-1-11963184#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-share-price-falls-after-us-class-action-lawsuit-over-alleged-bribery-scheme-11964590#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
+    },
     {
-      "company": "United Heat Transfer Limited",
-      "symbol": "UHTL",
+      "company": "Supreme Engineering Limited",
+      "symbol": "SUPREMEENG",
       "exchange": "NSE",
-      "confirmedNewsCount": 15,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 90,
+      "predictionScore": 5.2,
+      "confidence": 81,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 2.73,
       "catalysts": [
         {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
+          "label": "Financial Results/Fund Raising",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
@@ -484,18 +684,18 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Ceigall India Limited",
       "symbol": "CEIGALL",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 90,
+      "predictionScore": 4.5,
+      "confidence": 80,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
@@ -522,109 +722,22 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Arvind Limited",
-      "symbol": "ARVIND",
+      "company": "IIFL Finance Limited",
+      "symbol": "IIFL",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 539.3,
-      "catalysts": [
-        {
-          "label": "Dividend Alert: Multibagger Arvind Sets Record Date For Rs 4.5/Share Payout. Check Details",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/dividend-alert-multibagger-arvind-sets-record-date-for-rs-4-5-share-payout-check-details-11963035#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Gabriel India Limited",
-      "symbol": "GABRIEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 1346.0,
-      "catalysts": [
-        {
-          "label": "Gabriel India forms strategic JV with South Korea-based HL Klemove - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZmpsUkVkbEFxeXllOURYeEMwWFEzdi1ESFYxbnQ0NU81MmtEb3MxWEpaLUUtQkF4UDVOR0I4M1lkcXpuQ1pTUGo1WHczQ294UzJtNGZYQTJ1ZlNNbGtQeDdOc2ZhSVg2MVlORFRqZFlzbzFpQnN3c05FdjgyRzU3LVcyN2lCWkx5X2NSZUJtOXpjNG52bm0wbjFucWtqYnl6REpjNzhyZVRFVFhLa3h4UndrenF4aFlrVkNXcG96alVwMXpyVmt5NjE3Z21WSE1SX3ZMZ3k1ejFsdGlibVdic3p30gHnAUFVX3lxTFB5NFk1djNtakoyTXAtZURpMW1CcnB5bVFhM0trOW9ZMk1zbnNxMlpvQ0hBbEdNSkYxTGpSRGY4aXF1MUloRVVQby1sTXB5ellnTWpqYi1DdTg1emZoUE1TZUlxajZIRTByTEl4TUNRUmUtbWItT1dXR2poX0t0Wm5DSVlyMzlWUDdUOGFBcEJpSGlIQnF1Nk45b09pbnE3b255UE1qLUJiM0N2ckRYYmhzZW9uNWdIVXZwX2Q2R216VFVWZU05Qk1Ga1Uxeml0ZnFLMjdJSExXTmwxNXp2MEpnay1RZ3lfTQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Supreme Engineering Limited",
-      "symbol": "SUPREMEENG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.7,
-      "confidence": 78,
-      "riskLevel": "Standard",
+      "predictionScore": 2.2,
+      "confidence": 74,
+      "riskLevel": "Medium",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 2.63,
+      "lastClose": 638.0,
       "catalysts": [
         {
-          "label": "Financial Results/Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         },
@@ -632,52 +745,109 @@
           "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "NTPC Limited",
-      "symbol": "NTPC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -6.4,
-      "confidence": 75,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 334.6,
-      "catalysts": [
+        },
         {
-          "label": "Action(s) taken or orders passed",
+          "label": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [
         {
-          "label": "NSE, BSE Slap Rs 59 Lakh Fine On Three PSU Power Giants. Here's Why",
-          "type": "risk",
+          "label": "Manappuram, Muthoot, IIFL Finance Fall Up to 5%: Why Are Gold Financier Stocks Declining?",
+          "type": "company news",
           "verified": true
         }
       ],
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/nse-bse-slap-rs-59-lakh-fine-on-three-psu-power-giants-heres-why-11962722#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/manappuram-muthoot-iifl-finance-fall-up-to-5-percent-why-are-gold-financier-stocks-declining-11965362#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Imagicaaworld Entertainment Limited",
+      "symbol": "IMAGICAA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 1,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.8,
+      "confidence": 73,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 60.21,
+      "catalysts": [
+        {
+          "label": "Why Did Imagicaaworld Entertainment Share Price Hit 20% Upper Circuit?",
+          "type": "results",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/why-did-imagicaaworld-entertainment-share-price-hit-20-percent-upper-circuit-11965790#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
+      "company": "Bharti Airtel Limited",
+      "symbol": "BHARTIARTL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 72,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1885.8,
+      "catalysts": [
+        {
+          "label": "Bharti Airtel Trades Lower As Singtel Signals Plans To Equalize Stake With Sunil Mittal's 23.2% Holding",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Sensex Today Ends 183 Points Lower | Nifty Below 24,250 | Infosys & Bharti Airtel Top Losers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/bharti-airtel-trades-lower-as-singtel-signals-plans-to-equalize-stake-with-sunil-mittals-23-2-holding-11965648#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU0dvd1Vwd3ZfWHBBWFVNRHVtMDVvQ01BbzJOSk1VRlBldGNFZnNYMktzUGdLbXpiVGdtbnNmTlBRX3BwWFZVdUFGRU5xdk5Ic1JablNaSDZYMzg4THlRRkpMMzYtT0pvX2JvVE1xdmV5MXVYZWVfWE4zcWRlckVQTDNpeWNzWTlvNVltR0U4WURxZDJGS1o3Z0xNWk13bFZScklMMkM4cmwyNlhZajlCNFpiS2xYSi1TSXNqR0ZqT2JtcGQ4WTIwSWM5dGVpaXBCQkNHVTJ4WE5VbTl4R2ZjUDRn?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tata Steel Limited",
+      "symbol": "TATASTEEL",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
@@ -688,131 +858,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 50,
-      "lastClose": 727.2,
+      "lastClose": 186.8,
       "catalysts": [
         {
-          "label": "HDFC Bank Faces Class Action Lawsuit In US Over Alleged Bribery Scheme",
+          "label": "Sensex Today Trades Flat | Nifty Above 24,200 | Kotak Mahindra & Tata Steel Top Gainers - Equitymaster",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/class-action-suit-moved-against-hdfc-bank-in-us-for-securities-law-breach-adrs-crack-nearly-1-11963184#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "JSW Dulux Limited",
-      "symbol": "JSWDULUX",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 65,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Simbhaoli Sugars Limited",
-      "symbol": "SIMBHALS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 64,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 9.12,
-      "catalysts": [
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bharti Airtel Limited",
-      "symbol": "BHARTIARTL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 64,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1902.1,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends 183 Points Lower | Nifty Below 24,250 | Infosys & Bharti Airtel Top Losers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
           "type": "announcement",
           "verified": true
         }
@@ -821,8 +880,49 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU0dvd1Vwd3ZfWHBBWFVNRHVtMDVvQ01BbzJOSk1VRlBldGNFZnNYMktzUGdLbXpiVGdtbnNmTlBRX3BwWFZVdUFGRU5xdk5Ic1JablNaSDZYMzg4THlRRkpMMzYtT0pvX2JvVE1xdmV5MXVYZWVfWE4zcWRlckVQTDNpeWNzWTlvNVltR0U4WURxZDJGS1o3Z0xNWk13bFZScklMMkM4cmwyNlhZajlCNFpiS2xYSi1TSXNqR0ZqT2JtcGQ4WTIwSWM5dGVpaXBCQkNHVTJ4WE5VbTl4R2ZjUDRn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaGltOW9uM0lvSUtXWXUydFFWTm4wRzZCZWpBMFVfanF2dl85THBDSFNsSFZsOFFhNmVMVElDTjBMN00zS3JUMUlUUDJEeVRubC1icW9UcEcxLTRiVmV2TmhsTDc4aHRTZ2RrV0lxYlJnaUV5LTVMTWtXQW9INWV3OXZ4NEJLVGU0bVFUQnA4UXhlcTAzMUJxcjMyczl4ek1OeDBlT2IxNTM3dFJXSzFtRGNyTV9BODc4bHhDLWJieno1LVl4YzdqUGUtWHBtQTZfOE5vT3V1aWZhUW8?oc=5",
           "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "NBCC (India) Limited",
+      "symbol": "NBCC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 1,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 88.5,
+      "catalysts": [
+        {
+          "label": "NBCC Receives Rajasthan School Education Project | Sai Parenterals Arm Extends OTC Supply Agreement | Top Buzzing Stocks Today - Equitymaster",
+          "type": "company news",
+          "verified": false
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWVh5SWpwdGEwYjNXRnpYVU1UM3dVeU1CR2hObUtSYVRaejZneV9CUGFmX2tjWE03XzRHZGduRHFZNGNNMDNlSWlWc1p6RGF2T2hqbEdVMHk2WGg2ZzJ4UHlvT08taWlQV1hoY2VDZXlRZWpaZEx4Rm9fTUVXamNnUGgyZHNGSmlXRDIwV3dhWTBGMmkwa1NUYk9XT0pqZ2hzZDVvNnlCT1RwUjNXVk9aYXNjdGNrdWhTM0VJTFhYcklhT2dsNlFIUVJydTZDUzhtSVFyME9kbU5HbVFaNnlYY2RvaFp1MzNRZUdZZ1pnR0VOXy0zVnFSX2ViZVh0ZVlJNFNNNG5kdjBwUWY1cGgtU0FB?oc=5",
+          "verified": false
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
@@ -860,47 +960,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Vodafone Idea Limited",
-      "symbol": "IDEA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 15.06,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends 287 Points Higher | Nifty Above 24,300 | Vodafone Idea Up 7% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNlNLTmRBb1RLSThwamtqTVpvWGpCdXhNZEQzazVOZ2dMWkZEZ2ZUOS1KM1FuMEdQNm9RWW01Q1J0bG40QWdjUmx0MXJwZ2VuakFmSlZFU2c4YkdVTElZV2pPeGR4X0YxR2lqTUFmSWhxZ0MwRlF3b2ZDU1d1N3Y4S1NYWEN2MjNtZDhqRG9UUE4zck1NUEZ5NXR1eTVKZ09KZy1yaWYyeEViMnhIYy1yM3hxZExTNWlRVFBtTXFBenNCZG1XWkExSnptRHZWRHo0?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
