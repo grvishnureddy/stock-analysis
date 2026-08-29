@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T02:50:38+00:00",
+  "updatedAt": "2026-08-29T11:08:25+00:00",
   "instruments": [
     {
       "name": "Nifty 50",
@@ -2221,14 +2221,18 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 4504.1,
-      "asOf": "2026-08-28",
-      "change1d": -2.29,
-      "change1w": -2.6,
-      "change1m": 9.85,
+      "price": 4609.7,
+      "asOf": "2026-08-27",
+      "change1d": 0.25,
+      "change1w": 2.07,
+      "change1m": 14.25,
       "rangeLow": 4033.7,
       "rangeHigh": 4640.8,
       "chart": [
+        {
+          "date": "2026-05-27",
+          "close": 4447.5
+        },
         {
           "date": "2026-05-28",
           "close": 4499.3
@@ -2484,10 +2488,6 @@
         {
           "date": "2026-08-27",
           "close": 4609.7
-        },
-        {
-          "date": "2026-08-28",
-          "close": 4504.1
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF"
@@ -2498,14 +2498,18 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 67.09,
-      "asOf": "2026-08-28",
-      "change1d": -3.37,
-      "change1w": -3.43,
-      "change1m": 14.08,
+      "price": 69.43,
+      "asOf": "2026-08-27",
+      "change1d": 2.12,
+      "change1w": 2.06,
+      "change1m": 20.0,
       "rangeLow": 57.59,
       "rangeHigh": 69.47,
       "chart": [
+        {
+          "date": "2026-05-27",
+          "close": 74.6
+        },
         {
           "date": "2026-05-28",
           "close": 75.64
@@ -2761,10 +2765,6 @@
         {
           "date": "2026-08-27",
           "close": 69.43
-        },
-        {
-          "date": "2026-08-28",
-          "close": 67.09
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/SI%3DF"
@@ -2775,14 +2775,18 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / lb",
-      "price": 6.64,
-      "asOf": "2026-08-28",
-      "change1d": 0.76,
-      "change1w": 0.91,
-      "change1m": 3.11,
-      "rangeLow": 6.44,
+      "price": 6.59,
+      "asOf": "2026-08-27",
+      "change1d": 0.0,
+      "change1w": 2.01,
+      "change1m": 5.1,
+      "rangeLow": 6.27,
       "rangeHigh": 6.71,
       "chart": [
+        {
+          "date": "2026-05-27",
+          "close": 6.3
+        },
         {
           "date": "2026-05-28",
           "close": 6.4
@@ -3038,10 +3042,6 @@
         {
           "date": "2026-08-27",
           "close": 6.59
-        },
-        {
-          "date": "2026-08-28",
-          "close": 6.64
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/HG%3DF"
@@ -3052,14 +3052,18 @@
       "type": "energy",
       "market": "Global",
       "unit": "USD / barrel",
-      "price": 83.44,
-      "asOf": "2026-08-28",
-      "change1d": -0.11,
-      "change1w": -4.16,
-      "change1m": -0.18,
+      "price": 83.53,
+      "asOf": "2026-08-27",
+      "change1d": 1.58,
+      "change1w": -4.9,
+      "change1m": -1.1,
       "rangeLow": 75.22,
       "rangeHigh": 87.83,
       "chart": [
+        {
+          "date": "2026-05-27",
+          "close": 88.68
+        },
         {
           "date": "2026-05-28",
           "close": 88.9
@@ -3315,10 +3319,6 @@
         {
           "date": "2026-08-27",
           "close": 83.53
-        },
-        {
-          "date": "2026-08-28",
-          "close": 83.44
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/CL%3DF"
@@ -3560,7 +3560,7 @@
         "symbol": "INFY",
         "company": "Infosys Ltd.",
         "industry": "Information Technology",
-        "lastPrice": 1144.0,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3770,7 +3770,7 @@
         "symbol": "TATASTEEL",
         "company": "Tata Steel Ltd.",
         "industry": "Metals & Mining",
-        "lastPrice": 186.5,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3994,7 +3994,7 @@
         "symbol": "INFY",
         "company": "Infosys Ltd.",
         "industry": "Information Technology",
-        "lastPrice": 1144.0,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -4348,7 +4348,7 @@
         "symbol": "TATASTEEL",
         "company": "Tata Steel Ltd.",
         "industry": "Metals & Mining",
-        "lastPrice": 186.5,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -4410,7 +4410,7 @@
         "symbol": "AUROPHARMA",
         "company": "Aurobindo Pharma Ltd.",
         "industry": "Healthcare",
-        "lastPrice": 1645.3,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
