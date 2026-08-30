@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T00:22:24+00:00",
+  "generatedAt": "2026-08-30T08:21:05+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,7 +11,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
+      "predictionScore": 5.9,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -80,6 +80,93 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbFFPdUN3aU84anpLRF9mRTQwLTMxNW84d0poWkdWRnJ0QTBlek4wY0s5MjhaeUROVXB1cTZEUHVRM3lJM194dWczQlVoWUNmRFJOaW9Ga2U1OVNZQ29WQnZqMDI1SHAwMTRBbE9Qa3l1MGdPSi1hNUlMRGdJaW92cS1qdTZVWmxNWUs0QXVIZmFFdmU1eTBoaFpIVUhYOUhYN01TZmZqYTA3dEZUUEFMLTVqZHNFSDB3WWpyUUxISTJaa0loS1pj0gHMAUFVX3lxTE91Mm9XbjVOOGl6YXFvaXd6RXRLeHdmTlE5bkR2dmFfdTc0MGxzVUZkQmpkekRJV0w2QjlOaGp0Tmltc3hkclVVNmg2a3FlLS1iNW5uRlozcW9CWGtEd042N1lPdVZ4RUJHamROYmNBQTdzbXFiZ0F3QndlU0Z6eGotV3YwMmhMd2dHMmlocGF0ZTU3WXh0aDl3eEFSZ2RaU0hUWExCRHlaeHQtZ0YwQ3Q1TDh0Sl8yYjh2ZHdvdHFGUlRJRDJfRGJSNUxwdg?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "GAIL (India) Limited",
+      "symbol": "GAIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.9,
+      "confidence": 82,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 171.1,
+      "catalysts": [
+        {
+          "label": "Corporate Actions This Week: Coal India, ONGC, Glenmark Pharma, GAIL, Nirlon \u2014 Check Full List Here",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "GAIL (India) Limited (NSE:GAIL) Stock Goes Ex-Dividend In Just Three Days - simplywall.st",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-coal-india-ongc-glenmark-pharma-gail-nirlon-check-full-list-here-11973725#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOVFtQzZHOHFOY2ZLakdqR2tkNF9LM2NYQ2xGWlRyZmxUQ3F5N2FBMk1uX1ZMcWs0Rlkxbm5lVlhHS2FIcXp6SVlLa2pLblpNZ0pCT1lLeU5GTmZTQVdrZjJhTERFTHE4N1ZHazljS0NhUW1weXRZS05kdUFseHVNcHFqempuWGRObV9Dc0NSSFJudWUxRk4yd0h3ZWtmQmROZllXeU1yaVlnUmNVY1B0WDdoYzIweEFFRnFNMGhKQUJtejRJT0h1LVduc2Z0U0XSAdQBQVVfeXFMTjJOUWFYWGIzUjdUc2VMWnJYOFBOT2JEUlZTaW9Jbm95Y0s4RkhuMDhmWmtCdHM5TUVpdEtkZ3JJUjhNd2lhV3ExZWRJVWZIS0daeGs3LVlyVVFSN2kyWjBPeUlldkNMN0JZZVM4c1FOX1BGd0gwYnRzLUtPRDVuNjVSWGNlWExjczNMZXIxRHRHSVBIMzVhMlA2emN5MURibWd6Qm5IVUYwU3E0cVNfOV9pc3NmdTFGQzh4LXdWQjdHTVpUU0ljNXRaVDhzNnZiZXl2QXQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ACC Limited",
+      "symbol": "ACC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1306.4,
+      "catalysts": [
+        {
+          "label": "ACC Men's Premier Cup 2026: Schedule, Teams, Live Streaming And Squads",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/sports/acc-mens-premier-cup-2026-schedule-teams-live-streaming-and-squads-11974513#publisher=newsstand",
           "verified": true
         }
       ],
@@ -203,6 +290,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "NTPC Limited",
+      "symbol": "NTPC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.6,
+      "confidence": 64,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 330.05,
+      "catalysts": [
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Krystal Integrated Services Limited",
       "symbol": "KRYSTAL",
       "exchange": "NSE",
@@ -236,88 +358,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bank of India",
-      "symbol": "BANKINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 144.0,
-      "catalysts": [
-        {
-          "label": "Central Bank of India accepts resignation of GM Umesh Kumar Singh - scanx.trade",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "iPhone 17 Pro Available With Major Discount On Flipkart: Check Offers",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWTBiTUYza3pmT19rZWxyTjFtSDNIRHlTamgxUldjRjgxQlZSbFlVdUNNcDhSMEtvNlhYUnhwc0JXUE95NlVXZWQwb2gzRXlBRGJuOUctd3FIeFRsOUtPM2VJeGRQNzlNNW9rX09nc1pPcGtaM2VBOXZzUFJOZUVRLThmSzBCbHZDUDNwVXVuRkNpbzNuNnlIMHpibjNVT0pFb1ZpM1p4bG9kUHJsSDNWd1ZvY1o3YU0?oc=5",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/technology/iphone-17-pro-available-with-major-discount-on-flipkart-check-offers-11975183#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Foseco India Limited",
-      "symbol": "FOSECOIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.5,
-      "confidence": 59,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 6110.5,
-      "catalysts": [
-        {
-          "label": "Foseco India block deal: SBI Mutual Fund, Mirae, Invesco and LIC among buyers - CNBC TV18",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUhveVkyRk5lWlhMbkh1WHVYMGhWZFVaOXFQbnl2MFNXVld3aE1KWEU1ZWpaQ2tfaWR1MVYxZ2xLSDhRN05sRUhQeDZpR2J1NkpiTFNvRWVnYnlPRkxCV3RQRnpoeWlKN3cyS18xS3hidE1JRDlEbFQtUTRqZW1GRFZhLUp5cnBObzl3ZkdkVTkxM3FFLWcxdkZoU09lbDA1NlpxV0RJbkFIMU5BNFRvMGU5UEZKM2tQQnhN0gHAAUFVX3lxTE9HY04yV1NvUFZkYzFoU3k2a2p2RHZtaFlqS3ZKNTFpSGQxRUQ4RV82Rkc4TlBtUDRtdGluWmFxblowOXN0STFITFRpM3ctNVVKYVB2WWxTOXZqZ083bU9nZ3RpbmRlaU5HcmJUaEtRcjZBdEx0dDRRWU1JazNEVE1jOEp6Vm14QmpXUjV3dGs3TWxlMDRpZFdDZk1hU0k2S29fRVI1QzBHbTAyeWUxd0NjMEJVd2VPWTBleHFJYnJkSQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Federal-Mogul Goetze (India) Limited.",
@@ -390,73 +430,49 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Mold-Tek Packaging Limited",
-      "symbol": "MOLDTKPAC",
+      "company": "Bharti Airtel Limited",
+      "symbol": "BHARTIARTL",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "direction": "Negative watch",
+      "predictionScore": -2.0,
+      "confidence": 56,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1882.4,
       "catalysts": [
         {
-          "label": "General Updates",
-          "type": "announcement",
+          "label": "Seven top Indian firms lose \u20b91.13 lakh crore in market value as equities extend corrective phase; Reliance and Bharti Airtel hit hardest - Fortune India",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "General Updates",
-          "type": "announcement",
+          "label": "Mcap Of Seven Of Top-10 Most-Valued Firms Erodes Rs 1.13 Lakh Crore; Airtel, RIL Worst Hit",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Action(s) taken or orders passed",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Patel Integrated Logistics Limited",
-      "symbol": "PATINTLOG",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
+      "sources": [
         {
-          "label": "Updates",
-          "type": "announcement",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWnAwRjVUTC15SGdYeHFzdTlJZ3hGdUtPVzZCOWEwY0dBbGdGVGlEY3oxRHJRb01LSkFVaUJmbHNmMTZfNFlWYWl3eTF6ZC1YWlhtVDVEdFR2U3F5RmVGcUF4eWhodGt5X292eUhXT0c0dWJtSFMyZEc0VkhTeU45bEtNX1NCTmY4bXVybjJCblk1T3dVT2kzdlJ5MUlhVHItMWFaVW9rcVU5bUlwSFhRTkw5VkpHczNBZHdWcTBvNXhaWW5vZ1VCMks1d01mOXBfbFVoT3lwV3N4RzNnaEw1R291WXU5NFQtbjBJYkNuQ3ZGVmtWWkZqOFJvUUk5NXU0bHdYbjhnZ0_SAZYCQVVfeXFMTUx3ZERtTVJ2QTBYNERINEVLaW04QTVKTGw4RkNscnpEUGxEZ2YwbmlxVFBoSDloYmxwdTJZSkY4TUlzZmwtbzBjTnpLY3U0UEM1ZWh4X0s0aE9Obnl2dHlTcXlfTFdsTWNKV0tXMmpFRUotLTJCcUhHR0RVXzY1ZHFMVlFHMGVieFhlX3A0ODhZMldyN0JtUXhKaEprcVp3Vy1QUkdGTmZHTTNCME5rTllWV2c5QlAxS2RCb0VBRjcyWklNNmdSYzlTQ0Qyci1GclI4bldPaC03WlZERF92STFCVkg4LTlHeEFGaFhocENWcDE1a1N6LXp2bThLVkRqb0NCc1dzWDE3VE9NbWIzYV95Z213Y3c?oc=5",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/mcap-of-seven-of-top-10-most-valued-firms-erodes-rs-1-13-lakh-crore-airtel-reliance-worst-hit-11977063#publisher=newsstand",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
@@ -469,7 +485,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 7.0,
+      "predictionScore": 6.9,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -538,6 +554,47 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbFFPdUN3aU84anpLRF9mRTQwLTMxNW84d0poWkdWRnJ0QTBlek4wY0s5MjhaeUROVXB1cTZEUHVRM3lJM194dWczQlVoWUNmRFJOaW9Ga2U1OVNZQ29WQnZqMDI1SHAwMTRBbE9Qa3l1MGdPSi1hNUlMRGdJaW92cS1qdTZVWmxNWUs0QXVIZmFFdmU1eTBoaFpIVUhYOUhYN01TZmZqYTA3dEZUUEFMLTVqZHNFSDB3WWpyUUxISTJaa0loS1pj0gHMAUFVX3lxTE91Mm9XbjVOOGl6YXFvaXd6RXRLeHdmTlE5bkR2dmFfdTc0MGxzVUZkQmpkekRJV0w2QjlOaGp0Tmltc3hkclVVNmg2a3FlLS1iNW5uRlozcW9CWGtEd042N1lPdVZ4RUJHamROYmNBQTdzbXFiZ0F3QndlU0Z6eGotV3YwMmhMd2dHMmlocGF0ZTU3WXh0aDl3eEFSZ2RaU0hUWExCRHlaeHQtZ0YwQ3Q1TDh0Sl8yYjh2ZHdvdHFGUlRJRDJfRGJSNUxwdg?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ACC Limited",
+      "symbol": "ACC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 87,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1306.4,
+      "catalysts": [
+        {
+          "label": "ACC Men's Premier Cup 2026: Schedule, Teams, Live Streaming And Squads",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/sports/acc-mens-premier-cup-2026-schedule-teams-live-streaming-and-squads-11974513#publisher=newsstand",
           "verified": true
         }
       ],
@@ -620,6 +677,128 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Aurobindo Pharma Limited",
+      "symbol": "AUROPHARMA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.4,
+      "confidence": 78,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 1637.0,
+      "catalysts": [
+        {
+          "label": "Stocks to watch on August 31: M&M, Cupid, Aurobindo Pharma, OLA, KP Green Engineering among shares in focus - Livemint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeHRtaDZNcmQ2SkxnMTZwZjV4NmRCdGN6NXlZSEp6cy1FdmQyNEtEX0NJMTJIbzdlU3d1MEYxeUtaX3Qwa2JPQUpzanIzQXEtU25QVXd6aE9VdVRsbVR2a0V3ZFR2NS1wYzhhakthZHJTNUpjZTVTOXltQWxldW9aSXhVS2kzeGVDVFRaRzJlYXBiSUxlWDJkX2NXUl80ODQ4YllxQTNKWGJvREJwT1BWNUJ4bFVTRUVlVV9TRF8yLV9MaExwUnFlekNrbHE0RmVMNWkzRHhnX1R6Qlk4Z25HYzExbndybFd0R29DVVVDY1VZaTlEbWozanBhZTMxRHFBVWfSAYcCQVVfeXFMUE5BdndnRjhvaDd3VzlickFYTVFuUlVkdjI2THdiTnR6dTJNMDZQTlhxSXl6RFphejZnbUxLLU9IR2otSHcyUEh3dXo3WFM3YUJwRXdZVzJvQzBBaXVGUUJMaEptS1o4bEtVTmtjUC1lS0ZpMFNSZGw0WEMzaXV0c2Q3Nmp2ZHR2THRmMjVUQ1FXMU1yX0l4UmZzU2FlLU9WcnpDUjhBY2NxeGpqVzNBZ1pEdU5TYV8tcnRhRnhZV0w4bV9uWjFuZ3JzXzVRMUo5bnFieFhGMm12bXl2SkJXRTRNQnROVVJlSjFPMzVSdDd1VkxWSVRlaGdXbElnTElrYlRkNmM5MDQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "GAIL (India) Limited",
+      "symbol": "GAIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.1,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 171.1,
+      "catalysts": [
+        {
+          "label": "Corporate Actions This Week: Coal India, ONGC, Glenmark Pharma, GAIL, Nirlon \u2014 Check Full List Here",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "GAIL (India) Limited (NSE:GAIL) Stock Goes Ex-Dividend In Just Three Days - simplywall.st",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-coal-india-ongc-glenmark-pharma-gail-nirlon-check-full-list-here-11973725#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOVFtQzZHOHFOY2ZLakdqR2tkNF9LM2NYQ2xGWlRyZmxUQ3F5N2FBMk1uX1ZMcWs0Rlkxbm5lVlhHS2FIcXp6SVlLa2pLblpNZ0pCT1lLeU5GTmZTQVdrZjJhTERFTHE4N1ZHazljS0NhUW1weXRZS05kdUFseHVNcHFqempuWGRObV9Dc0NSSFJudWUxRk4yd0h3ZWtmQmROZllXeU1yaVlnUmNVY1B0WDdoYzIweEFFRnFNMGhKQUJtejRJT0h1LVduc2Z0U0XSAdQBQVVfeXFMTjJOUWFYWGIzUjdUc2VMWnJYOFBOT2JEUlZTaW9Jbm95Y0s4RkhuMDhmWmtCdHM5TUVpdEtkZ3JJUjhNd2lhV3ExZWRJVWZIS0daeGs3LVlyVVFSN2kyWjBPeUlldkNMN0JZZVM4c1FOX1BGd0gwYnRzLUtPRDVuNjVSWGNlWExjczNMZXIxRHRHSVBIMzVhMlA2emN5MURibWd6Qm5IVUYwU3E0cVNfOV9pc3NmdTFGQzh4LXdWQjdHTVpUU0ljNXRaVDhzNnZiZXl2QXQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "NTPC Limited",
+      "symbol": "NTPC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.1,
+      "confidence": 74,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 330.05,
+      "catalysts": [
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "NBCC (India) Limited",
       "symbol": "NBCC",
       "exchange": "NSE",
@@ -661,27 +840,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Foseco India Limited",
-      "symbol": "FOSECOIND",
+      "company": "Bharti Airtel Limited",
+      "symbol": "BHARTIARTL",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 68,
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 64,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 6110.5,
+      "lastClose": 1882.4,
       "catalysts": [
         {
-          "label": "Foseco India block deal: SBI Mutual Fund, Mirae, Invesco and LIC among buyers - CNBC TV18",
+          "label": "Seven top Indian firms lose \u20b91.13 lakh crore in market value as equities extend corrective phase; Reliance and Bharti Airtel hit hardest - Fortune India",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Mcap Of Seven Of Top-10 Most-Valued Firms Erodes Rs 1.13 Lakh Crore; Airtel, RIL Worst Hit",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Action(s) taken or orders passed",
           "type": "announcement",
           "verified": true
         }
@@ -690,53 +874,12 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUhveVkyRk5lWlhMbkh1WHVYMGhWZFVaOXFQbnl2MFNXVld3aE1KWEU1ZWpaQ2tfaWR1MVYxZ2xLSDhRN05sRUhQeDZpR2J1NkpiTFNvRWVnYnlPRkxCV3RQRnpoeWlKN3cyS18xS3hidE1JRDlEbFQtUTRqZW1GRFZhLUp5cnBObzl3ZkdkVTkxM3FFLWcxdkZoU09lbDA1NlpxV0RJbkFIMU5BNFRvMGU5UEZKM2tQQnhN0gHAAUFVX3lxTE9HY04yV1NvUFZkYzFoU3k2a2p2RHZtaFlqS3ZKNTFpSGQxRUQ4RV82Rkc4TlBtUDRtdGluWmFxblowOXN0STFITFRpM3ctNVVKYVB2WWxTOXZqZ083bU9nZ3RpbmRlaU5HcmJUaEtRcjZBdEx0dDRRWU1JazNEVE1jOEp6Vm14QmpXUjV3dGs3TWxlMDRpZFdDZk1hU0k2S29fRVI1QzBHbTAyeWUxd0NjMEJVd2VPWTBleHFJYnJkSQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Bank of India",
-      "symbol": "BANKINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 67,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 144.0,
-      "catalysts": [
-        {
-          "label": "Central Bank of India accepts resignation of GM Umesh Kumar Singh - scanx.trade",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "iPhone 17 Pro Available With Major Discount On Flipkart: Check Offers",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWTBiTUYza3pmT19rZWxyTjFtSDNIRHlTamgxUldjRjgxQlZSbFlVdUNNcDhSMEtvNlhYUnhwc0JXUE95NlVXZWQwb2gzRXlBRGJuOUctd3FIeFRsOUtPM2VJeGRQNzlNNW9rX09nc1pPcGtaM2VBOXZzUFJOZUVRLThmSzBCbHZDUDNwVXVuRkNpbzNuNnlIMHpibjNVT0pFb1ZpM1p4bG9kUHJsSDNWd1ZvY1o3YU0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWnAwRjVUTC15SGdYeHFzdTlJZ3hGdUtPVzZCOWEwY0dBbGdGVGlEY3oxRHJRb01LSkFVaUJmbHNmMTZfNFlWYWl3eTF6ZC1YWlhtVDVEdFR2U3F5RmVGcUF4eWhodGt5X292eUhXT0c0dWJtSFMyZEc0VkhTeU45bEtNX1NCTmY4bXVybjJCblk1T3dVT2kzdlJ5MUlhVHItMWFaVW9rcVU5bUlwSFhRTkw5VkpHczNBZHdWcTBvNXhaWW5vZ1VCMks1d01mOXBfbFVoT3lwV3N4RzNnaEw1R291WXU5NFQtbjBJYkNuQ3ZGVmtWWkZqOFJvUUk5NXU0bHdYbjhnZ0_SAZYCQVVfeXFMTUx3ZERtTVJ2QTBYNERINEVLaW04QTVKTGw4RkNscnpEUGxEZ2YwbmlxVFBoSDloYmxwdTJZSkY4TUlzZmwtbzBjTnpLY3U0UEM1ZWh4X0s0aE9Obnl2dHlTcXlfTFdsTWNKV0tXMmpFRUotLTJCcUhHR0RVXzY1ZHFMVlFHMGVieFhlX3A0ODhZMldyN0JtUXhKaEprcVp3Vy1QUkdGTmZHTTNCME5rTllWV2c5QlAxS2RCb0VBRjcyWklNNmdSYzlTQ0Qyci1GclI4bldPaC03WlZERF92STFCVkg4LTlHeEFGaFhocENWcDE1a1N6LXp2bThLVkRqb0NCc1dzWDE3VE9NbWIzYV95Z213Y3c?oc=5",
           "verified": true
         },
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/technology/iphone-17-pro-available-with-major-discount-on-flipkart-check-offers-11975183#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/mcap-of-seven-of-top-10-most-valued-firms-erodes-rs-1-13-lakh-crore-airtel-reliance-worst-hit-11977063#publisher=newsstand",
           "verified": true
         }
       ],
@@ -778,143 +921,44 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Federal-Mogul Goetze (India) Limited.",
-      "symbol": "FMGOETZE",
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 58,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Setco Automotive Limited",
-      "symbol": "SETCO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 57,
+      "predictionScore": 3.2,
+      "confidence": 60,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 17.86,
+      "lastClose": 144.0,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
+          "label": "Central Bank of India accepts resignation of GM Umesh Kumar Singh - scanx.trade",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Q1 FY27 results scheduled 2026-08-31",
-          "type": "result",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ceigall India Limited",
-      "symbol": "CEIGALL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 56,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mold-Tek Packaging Limited",
-      "symbol": "MOLDTKPAC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 14,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Neutral watch",
-      "predictionScore": 1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
+      "sources": [
         {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWTBiTUYza3pmT19rZWxyTjFtSDNIRHlTamgxUldjRjgxQlZSbFlVdUNNcDhSMEtvNlhYUnhwc0JXUE95NlVXZWQwb2gzRXlBRGJuOUctd3FIeFRsOUtPM2VJeGRQNzlNNW9rX09nc1pPcGtaM2VBOXZzUFJOZUVRLThmSzBCbHZDUDNwVXVuRkNpbzNuNnlIMHpibjNVT0pFb1ZpM1p4bG9kUHJsSDNWd1ZvY1o3YU0?oc=5",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
