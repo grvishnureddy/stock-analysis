@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T11:21:48+00:00",
+  "updatedAt": "2026-09-04T16:25:02+00:00",
   "instruments": [
     {
       "name": "Nifty 50",
@@ -1114,18 +1114,14 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY AUTO",
-      "price": 27099.75,
-      "asOf": "2026-07-17",
-      "change1d": 1.24,
-      "change1w": 0.89,
-      "change1m": 1.4,
+      "price": 27710.9,
+      "asOf": "2026-09-04",
+      "change1d": 2.26,
+      "change1w": 2.7,
+      "change1m": 3.61,
       "rangeLow": 26384.35,
-      "rangeHigh": 27353.95,
+      "rangeHigh": 27710.9,
       "chart": [
-        {
-          "date": "2026-04-15",
-          "close": 26483.1
-        },
         {
           "date": "2026-04-16",
           "close": 26382.75
@@ -1381,6 +1377,10 @@
         {
           "date": "2026-07-17",
           "close": 27099.75
+        },
+        {
+          "date": "2026-09-04",
+          "close": 27710.9
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXAUTO"
@@ -1391,18 +1391,14 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY METAL",
-      "price": 12436.95,
-      "asOf": "2026-07-17",
-      "change1d": -0.47,
-      "change1w": -1.99,
-      "change1m": -4.41,
+      "price": 13317.45,
+      "asOf": "2026-09-04",
+      "change1d": 7.08,
+      "change1w": 5.68,
+      "change1m": 2.36,
       "rangeLow": 12394.75,
-      "rangeHigh": 13091.2,
+      "rangeHigh": 13317.45,
       "chart": [
-        {
-          "date": "2026-04-15",
-          "close": 12548.0
-        },
         {
           "date": "2026-04-16",
           "close": 12740.2
@@ -1658,6 +1654,10 @@
         {
           "date": "2026-07-17",
           "close": 12436.95
+        },
+        {
+          "date": "2026-09-04",
+          "close": 13317.45
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXMETAL"
@@ -2221,11 +2221,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 4516.7,
+      "price": 4485.3,
       "asOf": "2026-09-04",
-      "change1d": 0.56,
-      "change1w": 0.86,
-      "change1m": 6.48,
+      "change1d": -0.14,
+      "change1w": 0.16,
+      "change1m": 5.74,
       "rangeLow": 4242.0,
       "rangeHigh": 4640.8,
       "chart": [
@@ -2487,7 +2487,7 @@
         },
         {
           "date": "2026-09-04",
-          "close": 4516.7
+          "close": 4485.3
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF"
@@ -2498,11 +2498,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 67.38,
+      "price": 66.77,
       "asOf": "2026-09-04",
-      "change1d": 0.61,
-      "change1w": 0.57,
-      "change1m": 9.67,
+      "change1d": -0.3,
+      "change1w": -0.34,
+      "change1m": 8.68,
       "rangeLow": 61.44,
       "rangeHigh": 69.47,
       "chart": [
@@ -2764,7 +2764,7 @@
         },
         {
           "date": "2026-09-04",
-          "close": 67.38
+          "close": 66.77
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/SI%3DF"
@@ -2775,11 +2775,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / lb",
-      "price": 6.65,
+      "price": 6.68,
       "asOf": "2026-09-04",
-      "change1d": 1.06,
-      "change1w": 1.37,
-      "change1m": -0.6,
+      "change1d": 1.52,
+      "change1w": 1.83,
+      "change1m": -0.15,
       "rangeLow": 6.46,
       "rangeHigh": 6.71,
       "chart": [
@@ -3041,7 +3041,7 @@
         },
         {
           "date": "2026-09-04",
-          "close": 6.65
+          "close": 6.68
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/HG%3DF"
@@ -3052,11 +3052,11 @@
       "type": "energy",
       "market": "Global",
       "unit": "USD / barrel",
-      "price": 90.5,
+      "price": 90.69,
       "asOf": "2026-09-04",
-      "change1d": -0.88,
-      "change1w": 8.51,
-      "change1m": 17.09,
+      "change1d": -0.67,
+      "change1w": 8.74,
+      "change1m": 17.34,
       "rangeLow": 77.29,
       "rangeHigh": 91.3,
       "chart": [
@@ -3318,7 +3318,7 @@
         },
         {
           "date": "2026-09-04",
-          "close": 90.5
+          "close": 90.69
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/CL%3DF"
@@ -3630,7 +3630,7 @@
         "symbol": "MARUTI",
         "company": "Maruti Suzuki India Ltd.",
         "industry": "Automobile and Auto Components",
-        "lastPrice": 12690.0,
+        "lastPrice": 12694.0,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3810,7 +3810,7 @@
         "symbol": "ULTRACEMCO",
         "company": "UltraTech Cement Ltd.",
         "industry": "Construction Materials",
-        "lastPrice": 11327.0,
+        "lastPrice": 11408.0,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -4156,7 +4156,7 @@
         "symbol": "MARUTI",
         "company": "Maruti Suzuki India Ltd.",
         "industry": "Automobile and Auto Components",
-        "lastPrice": 12690.0,
+        "lastPrice": 12694.0,
         "change": null,
         "pChange": null,
         "volume": null,
