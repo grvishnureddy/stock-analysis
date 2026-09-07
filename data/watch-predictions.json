@@ -1,49 +1,8 @@
 {
-  "generatedAt": "2026-09-07T18:45:18+00:00",
+  "generatedAt": "2026-09-07T22:52:03+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
-    {
-      "company": "PVR INOX Limited",
-      "symbol": "PVRINOX",
-      "exchange": "NSE",
-      "confirmedNewsCount": 14,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 8.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1227.2,
-      "catalysts": [
-        {
-          "label": "Buyback Alert: PVR Inox's Rs 300-Crore Issue Opens Sept 10. Check Details",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Buyback",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/buyback-alert-pvr-inoxs-rs-300-crore-issue-opens-sept-10-check-details-12014649#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
     {
       "company": "Happy Square Outsourcing Services Limited",
       "symbol": "WHITEFORCE",
@@ -106,6 +65,82 @@
         },
         {
           "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1273.0,
+      "catalysts": [
+        {
+          "label": "HDFC Bank, ICICI Bank Among Buyers Of State Power Lender REC's Tokenised Bond",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/hdfc-bank-icici-bank-among-buyers-of-state-power-lender-recs-tokenised-bond-12015071#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "PVR INOX Limited",
+      "symbol": "PVRINOX",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Buyback",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "News Verification",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "News Verification",
           "type": "announcement",
           "verified": true
         }
@@ -220,6 +255,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Punjab National Bank",
+      "symbol": "PNB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.6,
+      "confidence": 73,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 117.0,
+      "catalysts": [
+        {
+          "label": "PNB MetLife Declares Rs 1,210 Crore Annual Bonus For Participating Policyholders",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/pnb-metlife-declares-rs-1-210-crore-annual-bonus-for-participating-policyholders-12015069#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "United Breweries Limited",
       "symbol": "UBL",
       "exchange": "NSE",
@@ -227,8 +303,8 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -2.3,
-      "confidence": 69,
+      "predictionScore": -2.4,
+      "confidence": 70,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
@@ -364,116 +440,9 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Pfizer Limited",
-      "symbol": "PFIZER",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 62,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 4609.7,
-      "catalysts": [
-        {
-          "label": "Novartis India to acquire Minipress, Pfizer\u2019s high blood pressure drug, for \u20b91,250 crore - CNBC TV18",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTNtLTFtQjBkb1ItTV9DVGlubVYzV2hTTTVHcGlNRTRGRGxFb1pOZUhwWGZsSkFqdnQ1RDJmbHc2bGRBWVlBSHltaFZfZ0Y0N1hPQ3loTzRSYmN0czF4Tk15VjNPQTFPd1A4elRfZE9lczVMWHZEdUY1X1BzaTlMdlFKUWprR3NpX1hZVl8tbVJkUHI5eDFmZDBEd0VuMlp4anpUZDVaTkMtMXlqMkFFWmVBOGlUVmVXOERGVExPdzJEZl9ZRmgwT213YmZxNW5BQUHSAdcBQVVfeXFMTkFUVVp0Wk52VjNUVWNFanpQZ05ZN2paejNtZHlDSVcyaEVsdHVULU1pb3FYeGFCbHlmcExkYmZkUnZyRzdHLTNGMDE2TjVXQ1hYa1o5WTRSUnRSdkZSWE1wdHpZc0NMUkludGJnRkVhZkVUUEhFQkUzN1lGUmdQUkxJVXNSd0dVLVdsc29ydWYzSEV4c0dtYUoyajNtOFBLaG9YNkZoRThMVVdKbHRLWGc5Tmd2RDJCMEJsNndQdVFjQUp0VVJRS21GQnZpOGxIR1pSQVFUZUE?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "The India Cements Limited",
-      "symbol": "INDIACEM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 62,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 362.5,
-      "catalysts": [
-        {
-          "label": "Acquisition",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
-    {
-      "company": "PVR INOX Limited",
-      "symbol": "PVRINOX",
-      "exchange": "NSE",
-      "confirmedNewsCount": 14,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 9.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1227.2,
-      "catalysts": [
-        {
-          "label": "Buyback Alert: PVR Inox's Rs 300-Crore Issue Opens Sept 10. Check Details",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Buyback",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/buyback-alert-pvr-inoxs-rs-300-crore-issue-opens-sept-10-check-details-12014649#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
     {
       "company": "Happy Square Outsourcing Services Limited",
       "symbol": "WHITEFORCE",
@@ -542,6 +511,123 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1273.0,
+      "catalysts": [
+        {
+          "label": "HDFC Bank, ICICI Bank Among Buyers Of State Power Lender REC's Tokenised Bond",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/hdfc-bank-icici-bank-among-buyers-of-state-power-lender-recs-tokenised-bond-12015071#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "PVR INOX Limited",
+      "symbol": "PVRINOX",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Buyback",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "News Verification",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "News Verification",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "India Glycols Limited",
+      "symbol": "INDIAGLYCO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -2.9,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 260.4,
+      "catalysts": [
+        {
+          "label": "Three Ennature Bio Pharma directors resign amid India Glycols merger - scanx.trade",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ1ZuX3U5bU4xVkJQalJick1qd09zM210aWZteU1CeUdrMGRhckpZZ3pQRmFHZ05MendOWlFxWkZRa2d1QzZYZUgwaThIQWVpUXFoVEEtQTNOUHZKREJzSHRlNWd3Nnk2TjJJUmxUNFNKT0lLNXlieksxWEg1RzJqdEE5bTFqQ1kybHRPcklhcTZKbjAyc1lDVTM1SDJBbWR4aHEtQmVsRkg0WlowMDZOR1lhdFhWQlN1dXNGcQ?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -657,7 +743,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -3.8,
+      "predictionScore": -3.9,
       "confidence": 80,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
@@ -689,6 +775,47 @@
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Punjab National Bank",
+      "symbol": "PNB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.4,
+      "confidence": 78,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 117.0,
+      "catalysts": [
+        {
+          "label": "PNB MetLife Declares Rs 1,210 Crore Annual Bonus For Participating Policyholders",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/pnb-metlife-declares-rs-1-210-crore-annual-bonus-for-participating-policyholders-12015069#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "UltraTech Cement Limited",
@@ -761,113 +888,6 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdnhIM1hIb1VySENzSVVyTFZMVUg4bnYwNk8tLXgxT3VLQlJoRUNpZ0VxVzlxQmNCX2RHOHhkakdydlBZRi0xbEVEM2pjYlYtSzY2RFNPMmNYS01RQmlwVDdfN3hneHBIMnlQZVZqa0Z1NllpTXduR0cxaGhkTVRNbFNuTVh5WVpPQnYxbE1fZGFNR0FLcjVfYmpwdjNpSkV4Vm5zV1Bka1FlNWRzMnh2U3FlSUZwU0dVRWdWRXo4QlpzZkYydnk5RGxNUndOekxscUZUaUx5VWY0MlJlZzNhUmxLNGZrQTJoRUlNQUJBZkpiREh0aG84YzVWVW1EeWtyekN0ZnNB0gGLAkFVX3lxTE9WZ2xuZmJzd3VuTUxxV2dzZUlSRjgwOHlmaWdzbjh2UU5McE14TnpTR2RBRmY0V2FTWWhKMUw2UktMdjNXekdUaFBDMF82ZHFiZEJlVVhfQ3FTV0JBYUV3M3gtcFU3NHptUnQtbU55dnN5YWViY2VzWGJHZTNNdGVLNGs0b0x5b0s5N09yaTgyUnppTnFvTHNrWkdpekdLQi1OMWRDcEhPVThlR2Q4OWdIamFhcHI4TDhpemF6LVN3bF9OamQwcTl3N2tNVGFvbnhRaGpzeVNYYTJ5RUUxbl94UFg0amF3QjR1cWdqb2xldC1tcUdwVGdzSFloVm4wVTBsSnBLQzJEVUVQZw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Pfizer Limited",
-      "symbol": "PFIZER",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 4609.7,
-      "catalysts": [
-        {
-          "label": "Novartis India to acquire Minipress, Pfizer\u2019s high blood pressure drug, for \u20b91,250 crore - CNBC TV18",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTNtLTFtQjBkb1ItTV9DVGlubVYzV2hTTTVHcGlNRTRGRGxFb1pOZUhwWGZsSkFqdnQ1RDJmbHc2bGRBWVlBSHltaFZfZ0Y0N1hPQ3loTzRSYmN0czF4Tk15VjNPQTFPd1A4elRfZE9lczVMWHZEdUY1X1BzaTlMdlFKUWprR3NpX1hZVl8tbVJkUHI5eDFmZDBEd0VuMlp4anpUZDVaTkMtMXlqMkFFWmVBOGlUVmVXOERGVExPdzJEZl9ZRmgwT213YmZxNW5BQUHSAdcBQVVfeXFMTkFUVVp0Wk52VjNUVWNFanpQZ05ZN2paejNtZHlDSVcyaEVsdHVULU1pb3FYeGFCbHlmcExkYmZkUnZyRzdHLTNGMDE2TjVXQ1hYa1o5WTRSUnRSdkZSWE1wdHpZc0NMUkludGJnRkVhZkVUUEhFQkUzN1lGUmdQUkxJVXNSd0dVLVdsc29ydWYzSEV4c0dtYUoyajNtOFBLaG9YNkZoRThMVVdKbHRLWGc5Tmd2RDJCMEJsNndQdVFjQUp0VVJRS21GQnZpOGxIR1pSQVFUZUE?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "The India Cements Limited",
-      "symbol": "INDIACEM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 362.5,
-      "catalysts": [
-        {
-          "label": "Acquisition",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Havells India Limited",
-      "symbol": "HAVELLS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 66,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1154.0,
-      "catalysts": [
-        {
-          "label": "Buy, Sell Or Hold: Vodafone Idea, Infosys, Havells India, PNB Housing Finance And Urban Company \u2014 Ask Profit",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating- Revision",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-vodafone-idea-infosys-havells-india-pnb-housing-finance-and-urban-company-ask-profit-12014847#publisher=newsstand",
           "verified": true
         }
       ],
