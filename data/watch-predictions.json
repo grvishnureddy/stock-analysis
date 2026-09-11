@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T11:25:33+00:00",
+  "generatedAt": "2026-09-11T16:31:08+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,11 +7,11 @@
       "company": "Bhagyanagar India Limited",
       "symbol": "BHAGYANGR",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.3,
+      "predictionScore": 4.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -24,7 +24,7 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
@@ -48,7 +48,7 @@
       "company": "Cochin Shipyard Limited",
       "symbol": "COCHINSHIP",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -65,12 +65,12 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Agreements",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -127,6 +127,93 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 140.0,
+      "catalysts": [
+        {
+          "label": "Reserve Bank of India announces \u20b91 lakh crore OMO sale in 3 tranches to boost liquidity - Livemint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQ0k1VlRDOWpxOTllSmNXVzlCODRaSU83SUZkYVRERmVfU29UcHJIWk81UVdRb1FVekdaQlgtWVFuNTdkWkluN1RONFl4MTJ2S3NGZ1lBV1hEeWw5R19DNWNzMzd5VDZ6c0FuWHBEUDdONWVsY3lpSTB2akNBTTJ6RU4yNURjc3pteEttS255dGdJaC1TYkxZZWxyc2J1Z1ExckVTZWNteF93NmptUUQxelo2NTlkYUxPaXFCY0pPeVpISXlla3h6U0tSTU9pa2c1NG1EQ1JfNUpLRmJSclZqZFgwXzlLamJWUGN4dUlYX0fSAfYBQVVfeXFMT0NzUW1PTHZYbTRGaFFoUFlZa3M1dnE4UVUtVk8xekN3cHBrbG44MEFJS1EzLUNVZUFaRkt1UHJQZWJoZHNLY3ZsV1J5ZlFZbzlnUXRqRmI3MF9BRDZJcEhHZVR1RzE3Q2JxX29Hc1NERkU0eEs1U242OEtBVW9hNlF4MVBOY0kzQlc2N3FpUW9WVGMxb1ctaTY1TDkzR2V5b05uczYydUg1RjA3MzNLN0lPempocXBmTFFDeTAyc1NrRUJQdW42MXVUdlFGbldhNWQ0dVNZVEM3Vl8zZ0xrazNjbnVnRmt4QVlZTW0xYjBQVUJ1bmtn?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 14,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 17,
+      "lastClose": 1846.5,
+      "catalysts": [
+        {
+          "label": "OP Bhatt Exit: Coforge Board 'Gobsmacked' As KPMG Reveals Withheld Ratings",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Second Exit At Coforge: NRC Chair DK Singh Resigns After KMPG Audit Flags Hidden Scores",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/op-bhatt-exit-coforge-board-gobsmacked-as-kpmg-reveals-withheld-ratings-12033439#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/second-exit-at-coforge-nrc-chair-dk-singh-resigns-after-kmpg-audit-flags-hidden-scores-12034464#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Supreme Engineering Limited",
       "symbol": "SUPREMEENG",
       "exchange": "NSE",
@@ -153,6 +240,41 @@
         },
         {
           "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "UltraTech Cement Limited",
+      "symbol": "ULTRACEMCO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 11000.0,
+      "catalysts": [
+        {
+          "label": "Rumour Verification - Regulation 30(11)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
@@ -197,41 +319,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "UltraTech Cement Limited",
-      "symbol": "ULTRACEMCO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 11000.0,
-      "catalysts": [
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Cessation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Premier Energies Limited",
       "symbol": "PREMIERENE",
       "exchange": "NSE",
@@ -247,7 +334,7 @@
       "lastClose": 974.2,
       "catalysts": [
         {
-          "label": "Premier Energies to form JV with RCT India for setting up 12 GWh BESS manufacturing facility - business-standard.com",
+          "label": "Premier Energies to form JV with RCT India for setting up 12 GWh BESS manufacturing facility - Business Standard",
           "type": "company news",
           "verified": true
         },
@@ -288,7 +375,7 @@
       "lastClose": 961.15,
       "catalysts": [
         {
-          "label": "Shilpa Medicare secures CDSCO approval for launch of OERIS in India - business-standard.com",
+          "label": "Shilpa Medicare secures CDSCO approval for launch of OERIS in India - Business Standard",
           "type": "company news",
           "verified": true
         },
@@ -388,88 +475,6 @@
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "3i Infotech Limited",
-      "symbol": "3IINFOLTD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 66,
-      "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 22.85,
-      "catalysts": [
-        {
-          "label": "3i Infotech secures 3-year contract from leading commodity exchange in India - business-standard.com",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcTFTVmFqWm1DOC1SR0RlNGxzTFp6NHRVTjZqenVpcXNubGYtVFlwSzlWa3p2QmZnenJERWE4MlBDRURtU21uT2lOWHhFanBBYTZfVG9yXzNkN3U0R3NCLWFHczNUNFJvYkJmV2w1cFdvclpSRVk5RkdaZFlGd0ZyN09vRjRaV2hONF9OZkxqeHRHaWYtQVZSeWItV2xfMzA1c2RaWUdYd0YtbGgtTlhna3Z3STl2Nkw1dWhGTDhkVTBlM1ZXcFM5dG9hOG5Xd1BaSnBEcDNlRFpiWU8yeV9wbFpVNWdhT0pwUHU0aWE3NNIB9AFBVV95cUxQWGF1VXIwRmFjbXJOUUhKSVQzb2JBYmtaOGhHZXdSSHYzTjRFTFcxdUFyZEx3LUkwM1E5a2czQi1wLWo0OUNaOVBST3RqZDlhOWd0MHRUdFJWaXNXNkdIcFA1Z3NYQ3pIOE9kOHpYb19oU2ZmNXU3U2paVlUyVkNseHRKczREQjBRZkpWUUFwODBVVlpMdHdfaUphMFJnNDlzc1ZpVGtDLV8yZ2lzeWFQMUJ0aV9rZTdNeFJralpyazlISWx5dG95VkVlQXcwdEs0bGRWVFA4X1lrbllWVGRJZGtZNlJmZm1wQUlJcnlXWk92a0Y2?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "India Tourism Development Corporation Limited",
-      "symbol": "ITDC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 57,
-      "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
-      "lastClose": 690.85,
-      "catalysts": [
-        {
-          "label": "India Tourism Development Corporation Limited (NSE:ITDC) Looks Like A Good Stock, And It's Going Ex-Dividend Soon - simplywall.st",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Spurt in Volume",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Spurt in Volume",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbUdBb2tOdFdmZ3loQUhJTnVxRDdzWWhoZVEwYUZnaTdUdHRTeE9MMTR4V3h1Mm9UeXp3OEpLOURMNkZzdTJzN2lmNWY0VmUwYk94ZnA1THhabVZhTFdLbmZkVDkzVkxCY2pkbVpZRjlXdU1EUExjSnJRZWVKMEpUdmx2VWRKcGhZN09HS2pMbG12LUY4RExpWnY2M2VadnJjVHdyYUh3SUlYQ0hmSVNGMU01R0xZajMtRVMtMFBUVTY0OFBZM3FfaXhtanNFc01jZWl0Z1RoQWRJZEpiVlZpcDlTWHlzazVkdldlbkV2Y9IB9AFBVV95cUxOeHVaektRel9PenlRdTlUendJNG1wNjNYY1dQbWhEdDRJaHBNNERaTW9sdU5mcU5FeUEwbV85UHJLdkM5ZmR2Mk14TmlkRFk0YWI2YVdnN3R5UmUwMTFCOGFodmY2T3ZWNG53MTJCNjFOb2N3UGQycmNkN2JYMFB3bkhKa2hpTGM4VGpMUVRudjFwak9uMzU3eUszWjlNMFJ3VmxLY0ZrV2VOYkxvdDlnVTFyTkx4YWRDTDlIeTJTVmhaRHdMTEpVQzl1ckY4dUNyRVF6QXI1X0VlUkZseTFXNHNUTjlkWGR6TVE5VEp1TUJpXzRO?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
     }
   ],
   "tomorrow": [
@@ -477,11 +482,11 @@
       "company": "Bhagyanagar India Limited",
       "symbol": "BHAGYANGR",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.8,
+      "predictionScore": 5.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -494,7 +499,7 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
@@ -518,7 +523,7 @@
       "company": "Cochin Shipyard Limited",
       "symbol": "COCHINSHIP",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -535,12 +540,12 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Agreements",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -597,6 +602,82 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "UltraTech Cement Limited",
+      "symbol": "ULTRACEMCO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 11000.0,
+      "catalysts": [
+        {
+          "label": "Rumour Verification - Regulation 30(11)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 140.0,
+      "catalysts": [
+        {
+          "label": "Reserve Bank of India announces \u20b91 lakh crore OMO sale in 3 tranches to boost liquidity - Livemint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQ0k1VlRDOWpxOTllSmNXVzlCODRaSU83SUZkYVRERmVfU29UcHJIWk81UVdRb1FVekdaQlgtWVFuNTdkWkluN1RONFl4MTJ2S3NGZ1lBV1hEeWw5R19DNWNzMzd5VDZ6c0FuWHBEUDdONWVsY3lpSTB2akNBTTJ6RU4yNURjc3pteEttS255dGdJaC1TYkxZZWxyc2J1Z1ExckVTZWNteF93NmptUUQxelo2NTlkYUxPaXFCY0pPeVpISXlla3h6U0tSTU9pa2c1NG1EQ1JfNUpLRmJSclZqZFgwXzlLamJWUGN4dUlYX0fSAfYBQVVfeXFMT0NzUW1PTHZYbTRGaFFoUFlZa3M1dnE4UVUtVk8xekN3cHBrbG44MEFJS1EzLUNVZUFaRkt1UHJQZWJoZHNLY3ZsV1J5ZlFZbzlnUXRqRmI3MF9BRDZJcEhHZVR1RzE3Q2JxX29Hc1NERkU0eEs1U242OEtBVW9hNlF4MVBOY0kzQlc2N3FpUW9WVGMxb1ctaTY1TDkzR2V5b05uczYydUg1RjA3MzNLN0lPempocXBmTFFDeTAyc1NrRUJQdW42MXVUdlFGbldhNWQ0dVNZVEM3Vl8zZ0xrazNjbnVnRmt4QVlZTW0xYjBQVUJ1bmtn?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Supreme Engineering Limited",
       "symbol": "SUPREMEENG",
       "exchange": "NSE",
@@ -632,69 +713,28 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Ola Electric Mobility Limited",
-      "symbol": "OLAELEC",
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
       "exchange": "NSE",
-      "confirmedNewsCount": 16,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 2.4,
+      "predictionScore": 2.8,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
-      "lastClose": 38.54,
+      "technicalConfidence": 17,
+      "lastClose": 1846.5,
       "catalysts": [
         {
-          "label": "Sensex Today Ends 138 Points Higher | Nifty Above 23,450 | Ola Electric Mobility Up 5% - Equitymaster",
+          "label": "OP Bhatt Exit: Coforge Board 'Gobsmacked' As KPMG Reveals Withheld Ratings",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Second Exit At Coforge: NRC Chair DK Singh Resigns After KMPG Audit Flags Hidden Scores",
           "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFYyQ3QxTHhpSGRHX3ZvRUVuLWFZVllDa2F4VllSUkhIRncxQnlVWFhSdGR1Q1NCdUlNM1Z2V1BOLXFqdVdHNktkVF83bnZOS3FzZy1BM3JmbFpobkFzQzBEejJ4WFVQRnpteFVRTWZsOHl2WlJ1dHRXcm9jZXd2NEptWi1hR2RoTU9xcEkzMkVnVmJ5ZThKd2JGTERNZkZrMDA5QlVLWmhnM1hzM0t4VWVfd296VzhoTHpjdUl1M1lLeE9lZ3pUanhCaEdtV0NBQ041bnNaLTM1QQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Bank of India",
-      "symbol": "BANKINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 140.0,
-      "catalysts": [
-        {
-          "label": "NSE IPO: How SBI's 80 Paise-A-Share Cost Could Turn Into Rs 2,851 Crore Sale Proceeds",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
           "verified": true
         },
         {
@@ -707,46 +747,16 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/nse-ipo-how-sbis-80-paise-a-share-cost-could-turn-into-rs-2-851-crore-sale-proceeds-12032411#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "UltraTech Cement Limited",
-      "symbol": "ULTRACEMCO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 11000.0,
-      "catalysts": [
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
+          "url": "https://www.ndtvprofit.com/business/op-bhatt-exit-coforge-board-gobsmacked-as-kpmg-reveals-withheld-ratings-12033439#publisher=newsstand",
           "verified": true
         },
         {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Cessation",
-          "type": "announcement",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/second-exit-at-coforge-nrc-chair-dk-singh-resigns-after-kmpg-audit-flags-hidden-scores-12034464#publisher=newsstand",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Premier Energies Limited",
@@ -764,7 +774,7 @@
       "lastClose": 974.2,
       "catalysts": [
         {
-          "label": "Premier Energies to form JV with RCT India for setting up 12 GWh BESS manufacturing facility - business-standard.com",
+          "label": "Premier Energies to form JV with RCT India for setting up 12 GWh BESS manufacturing facility - Business Standard",
           "type": "company news",
           "verified": true
         },
@@ -846,7 +856,7 @@
       "lastClose": 961.15,
       "catalysts": [
         {
-          "label": "Shilpa Medicare secures CDSCO approval for launch of OERIS in India - business-standard.com",
+          "label": "Shilpa Medicare secures CDSCO approval for launch of OERIS in India - Business Standard",
           "type": "company news",
           "verified": true
         },
@@ -907,44 +917,38 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bank of Baroda",
-      "symbol": "BANKBARODA",
+      "company": "Happy Square Outsourcing Services Limited",
+      "symbol": "WHITEFORCE",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.1,
-      "confidence": 77,
+      "direction": "Positive watch",
+      "predictionScore": 6.0,
+      "confidence": 70,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 238.13,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "NSE IPO size cut: SBI, Bank of Baroda, GIC Re and Indian Bank shares react - Business Today",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Resignation of Director/KMP/SMP",
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1VEaHktN0I5TURhQnFMdEdhcEVkWExIMWVwN2g2Q0JlM2s1UDRBYVdLUVo2Q3A1dS02em81cHBZZUVPZ184cEJDeWhuS2o0WG45cXRCZWNjdjVxUjdjOFBUTGE1QmNtMUlaMWtJWlFqRVRGdTVoVGZxX2hBLTFPaEM0Y0E2ajdZU0I0TEdtSUdpN3lVTzRaZFRDOG1vUEJEeWtJcUF3dV90b0xjc3FYRE1xeXRodEFCeDhaR00wbEhaem9wdkFWc0tONnFHRnNlbnpabTVFU2ppcDQwcTVhZtIB5gFBVV95cUxOR3d6UmZFZkowUWdNM3FXWmhNWjhRUDQzWUhqdjFFNWs2QlNZNXl2MVRVb1FQSEpNcTJzY1VNTHR6YkNSNVFpTlluTjNNejROQU55QW5PQkhGSkYzUDRMT2ZSZDN4emo4QklOYThhckNIdUlHVV8yUGZVaW9RT1FSYjBKcGRkQjRsa3BGTy1mZnhCektXc002d0J3akdpd0otYXIzUDNocmdDc0lsQUl1WDFiY0lHNE9Nd3RkaExCX2wwSEs3aHNIeXJPYmNscTdkS2ROZURwdjBZcjJDS0pFU0EtTVVmZw?oc=5",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
