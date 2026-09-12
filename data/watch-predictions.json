@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T18:25:54+00:00",
+  "generatedAt": "2026-09-12T22:20:21+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -19,7 +19,7 @@
       "lastClose": 380.4,
       "catalysts": [
         {
-          "label": "Board of Ceigall India approves acquisition of project SPV and investment in JV - business-standard.com",
+          "label": "Board of Ceigall India approves acquisition of project SPV and investment in JV - Business Standard",
           "type": "corporate action",
           "verified": true
         },
@@ -101,7 +101,7 @@
       "lastClose": 1381.0,
       "catalysts": [
         {
-          "label": "Sensex Today Ends 121 Points Lower | Nifty Below 23,400 | Cochin Shipyard Down 9% - Equitymaster",
+          "label": "Sensex Today Ends 121 Points Lower | Nifty Below 23,400 | Cochin Shipyard Down 9% - equitymaster.com",
           "type": "company news",
           "verified": true
         },
@@ -308,45 +308,56 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "MphasiS Limited",
-      "symbol": "MPHASIS",
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -2.3,
-      "confidence": 69,
-      "riskLevel": "Standard",
+      "predictionScore": -2.5,
+      "confidence": 72,
+      "riskLevel": "Medium",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 2295.0,
+      "technicalConfidence": 50,
+      "lastClose": 708.25,
       "catalysts": [
         {
-          "label": "PM Modi, Xi Jinping Seek To Strengthen India-China Ties, Discuss Border, Trade And Investment",
+          "label": "Indian Stocks Dip Marginally; Crude Cools, IT & HDFC Bank Gain - Rediff MoneyWiz",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Disclosure of material issue",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [
+      "risks": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/world/pm-modi-xi-jinping-seek-to-strengthen-india-china-ties-discuss-border-trade-and-investment-12038226#publisher=newsstand",
+          "label": "Indian Markets Dip: HDFC Bank, IT Stocks Limit Losses - Rediff MoneyWiz",
+          "type": "company news",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0JFd3lfeThkY0NmRWUxM2hscE5xTGJ1Y3FOUUVvME9sbU0waTdXNDdNclo1VFRIdnNOcW1KTU5wT2hpZ2hYSlhmWGEyTGxxSHJuZExNaGtpaTB1RDJjU3hSQ1pjMFEyTkRMczVNdWhVSF9tQUpyY2Q2dDhnUlBCcXh6azZNSmV6U0JZZFVGX1lwWHlUcnliRENnQko0aV96OE5qbzhPdGQ4S0Y0YjI00gG0AUFVX3lxTE1nM3lVZGNNOXNZNVdRUWg0RlNhY0pFQV92OVlpNTJ0V3BZRlRnY29XdWgzS0VGMXN6X2hQUE5uYnplOVBaT1dNdkNPcFpIXzFYaWhrMzR0SzlveTd1RUJ0cUNaRmdlQnZqQlZHaFRWdWV4cjFwM0FHdXRHZmVMRklKejJSNlN0R1Q5dUNqbEJ1Y19VOW1JUEtCYmdIeXprTHJiRDA3WWdZRmhKaVRSdDZTVWVwcA?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRko1a2s4amFTZmhlY053U1VTS0NLX2QzeUwzT1o5Y0RQbTBvX1N5SFNjaWVtSDVMRllXbGtjeHY2RXJuRE0zYmlFWDRrUnd1Z3Zyb2NZbGo0WmV2T1VxTl9ESFloOEQtQkJxSTBGN3NnckdUMmo1S0hIbmdXUjlDYW5xSTA4STh4UW5ZM2doNmhlTExMcDFyLUdYN0dQeWZ4anNVajFn0gGrAUFVX3lxTE1ETUNlNmFGeG5aZHRwLVBJM1BMUW5fX3JwUUxIcVR3Sno2eTJ1cUMyUmswVjBVMTJYMVlBRFVzNGhIdkMtZXhUc0ZOczNFMF9LZlZ4UzFvRjkycDVPS3lURzI1ckN0cWFvellXUWhwZm5uODlRdHF5MnFvd1psUnduNzQ1SENYZG5BUURwcmlNMExTdXFGLUYyOERJMjBxYUpza1hTRGtlcE1XVQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "SEDEMAC Mechatronics Limited",
@@ -461,7 +472,7 @@
       "lastClose": 380.4,
       "catalysts": [
         {
-          "label": "Board of Ceigall India approves acquisition of project SPV and investment in JV - business-standard.com",
+          "label": "Board of Ceigall India approves acquisition of project SPV and investment in JV - Business Standard",
           "type": "corporate action",
           "verified": true
         },
@@ -543,7 +554,7 @@
       "lastClose": 1381.0,
       "catalysts": [
         {
-          "label": "Sensex Today Ends 121 Points Lower | Nifty Below 23,400 | Cochin Shipyard Down 9% - Equitymaster",
+          "label": "Sensex Today Ends 121 Points Lower | Nifty Below 23,400 | Cochin Shipyard Down 9% - equitymaster.com",
           "type": "company news",
           "verified": true
         },
@@ -680,47 +691,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "MphasiS Limited",
-      "symbol": "MPHASIS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.8,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 2295.0,
-      "catalysts": [
-        {
-          "label": "PM Modi, Xi Jinping Seek To Strengthen India-China Ties, Discuss Border, Trade And Investment",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/world/pm-modi-xi-jinping-seek-to-strengthen-india-china-ties-discuss-border-trade-and-investment-12038226#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Commercial Syn Bags Limited",
       "symbol": "COMSYN",
       "exchange": "NSE",
@@ -754,6 +724,58 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 77,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 708.25,
+      "catalysts": [
+        {
+          "label": "Indian Stocks Dip Marginally; Crude Cools, IT & HDFC Bank Gain - Rediff MoneyWiz",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Disclosure of material issue",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Indian Markets Dip: HDFC Bank, IT Stocks Limit Losses - Rediff MoneyWiz",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0JFd3lfeThkY0NmRWUxM2hscE5xTGJ1Y3FOUUVvME9sbU0waTdXNDdNclo1VFRIdnNOcW1KTU5wT2hpZ2hYSlhmWGEyTGxxSHJuZExNaGtpaTB1RDJjU3hSQ1pjMFEyTkRMczVNdWhVSF9tQUpyY2Q2dDhnUlBCcXh6azZNSmV6U0JZZFVGX1lwWHlUcnliRENnQko0aV96OE5qbzhPdGQ4S0Y0YjI00gG0AUFVX3lxTE1nM3lVZGNNOXNZNVdRUWg0RlNhY0pFQV92OVlpNTJ0V3BZRlRnY29XdWgzS0VGMXN6X2hQUE5uYnplOVBaT1dNdkNPcFpIXzFYaWhrMzR0SzlveTd1RUJ0cUNaRmdlQnZqQlZHaFRWdWV4cjFwM0FHdXRHZmVMRklKejJSNlN0R1Q5dUNqbEJ1Y19VOW1JUEtCYmdIeXprTHJiRDA3WWdZRmhKaVRSdDZTVWVwcA?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRko1a2s4amFTZmhlY053U1VTS0NLX2QzeUwzT1o5Y0RQbTBvX1N5SFNjaWVtSDVMRllXbGtjeHY2RXJuRE0zYmlFWDRrUnd1Z3Zyb2NZbGo0WmV2T1VxTl9ESFloOEQtQkJxSTBGN3NnckdUMmo1S0hIbmdXUjlDYW5xSTA4STh4UW5ZM2doNmhlTExMcDFyLUdYN0dQeWZ4anNVajFn0gGrAUFVX3lxTE1ETUNlNmFGeG5aZHRwLVBJM1BMUW5fX3JwUUxIcVR3Sno2eTJ1cUMyUmswVjBVMTJYMVlBRFVzNGhIdkMtZXhUc0ZOczNFMF9LZlZ4UzFvRjkycDVPS3lURzI1ckN0cWFvellXUWhwZm5uODlRdHF5MnFvd1psUnduNzQ1SENYZG5BUURwcmlNMExTdXFGLUYyOERJMjBxYUpza1hTRGtlcE1XVQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Focus Lighting and Fixtures Limited",
@@ -851,38 +873,44 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "SEDEMAC Mechatronics Limited",
-      "symbol": "SEDEMAC",
+      "company": "Indian Bank",
+      "symbol": "INDIANB",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 65,
+      "direction": "Negative watch",
+      "predictionScore": -2.7,
+      "confidence": 67,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 853.5,
       "catalysts": [
         {
-          "label": "Action(s) taken or orders passed",
+          "label": "NSE IPO: Indian Bank to divest up to 17.91% of its holding in National Stock Exchange via Offer for Sale - Livemint",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Strikes/Lockouts/Disturbances",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOV0RhdzlKOXJXOVdta05fb185ZXQyRTM5aUNGcEltbnp5QUwzUHdicEpUNG1pNk40bVhyZHRMQlNKSkNQdnVZcndaY2RjT2c3aDFIckJSYnppdDYxeU5KY2RibG9jVno3akVCaFBMTFFUeWN0aS04WWNDcmlpZFhvSzBjNHI1Qm0xQXZmODhjQy1CVWNkcVVvbkxiMS1vRkZfaExWa000SlBidXNnbVlmb1htV2FJY1NFcjFwRFpabUhzaG5OcG5DOWZvQTRsTi1yVkNfSm53SHFiZEpsaDRTaHJDaXVMRURWSmdQMng0bFdLaWVaMnpEczFTUVZGcHJybFHSAYcCQVVfeXFMT2Z1b21zbVVZQ3UxQVZVQlJHekRBbXBwWVFDZ0xnOGs3NU5pZ0RtUHl4QW4zN2NVN05TSDVHc3NBWlc5VVBEM3phZjNxS29vWjNvYnB1VVZBVm40Nnl4djBIY1BVbXdHSTFDcjZHaHJmM2J1WC02U1dlam5LV25rdVBlQ0hNMjB0Tmc1dlJteXZjTnFJN2FWVTZ3ejNZR25iNWwxQi1ubzVEZ3NrTGdXcGdxQ2xDd1RTM3Z1WEN0ZXVueFBMTl9NV0V1aTM3S3hUMjVoeVZpYU1YWnhtVUptaFRqbDNpOXBfaHh4YU53MnFOSjF5MFlicjdZdGtmS3VBTHNRM0hTSVk?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
