@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T12:12:02+00:00",
+  "generatedAt": "2026-09-12T15:35:09+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -86,6 +86,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "UltraTech Cement Limited",
+      "symbol": "ULTRACEMCO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 11000.0,
+      "catalysts": [
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Rumour Verification - Regulation 30(11)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Supreme Engineering Limited",
       "symbol": "SUPREMEENG",
       "exchange": "NSE",
@@ -112,41 +147,6 @@
         },
         {
           "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "UltraTech Cement Limited",
-      "symbol": "ULTRACEMCO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 11000.0,
-      "catalysts": [
-        {
-          "label": "Rumour Verification - Regulation 30(11)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
@@ -195,63 +195,6 @@
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.5,
-      "confidence": 79,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 708.25,
-      "catalysts": [
-        {
-          "label": "HDFC Bank Reappoints Srinivasa Rangan, Jimmy Tata As Whole-Time Directors",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Indian Stocks Dip Marginally; Crude Cools, IT & HDFC Bank Gain - Rediff MoneyWiz",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Disclosure of material issue",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Indian Markets Dip: HDFC Bank, IT Stocks Limit Losses - Rediff MoneyWiz",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/hdfc-bank-reappoints-srinivasa-rangan-jimmy-tata-as-whole-time-directors-submits-two-names-for-md-ceo-12037293#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0JFd3lfeThkY0NmRWUxM2hscE5xTGJ1Y3FOUUVvME9sbU0waTdXNDdNclo1VFRIdnNOcW1KTU5wT2hpZ2hYSlhmWGEyTGxxSHJuZExNaGtpaTB1RDJjU3hSQ1pjMFEyTkRMczVNdWhVSF9tQUpyY2Q2dDhnUlBCcXh6azZNSmV6U0JZZFVGX1lwWHlUcnliRENnQko0aV96OE5qbzhPdGQ4S0Y0YjI00gG0AUFVX3lxTE1nM3lVZGNNOXNZNVdRUWg0RlNhY0pFQV92OVlpNTJ0V3BZRlRnY29XdWgzS0VGMXN6X2hQUE5uYnplOVBaT1dNdkNPcFpIXzFYaWhrMzR0SzlveTd1RUJ0cUNaRmdlQnZqQlZHaFRWdWV4cjFwM0FHdXRHZmVMRklKejJSNlN0R1Q5dUNqbEJ1Y19VOW1JUEtCYmdIeXprTHJiRDA3WWdZRmhKaVRSdDZTVWVwcA?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRko1a2s4amFTZmhlY053U1VTS0NLX2QzeUwzT1o5Y0RQbTBvX1N5SFNjaWVtSDVMRllXbGtjeHY2RXJuRE0zYmlFWDRrUnd1Z3Zyb2NZbGo0WmV2T1VxTl9ESFloOEQtQkJxSTBGN3NnckdUMmo1S0hIbmdXUjlDYW5xSTA4STh4UW5ZM2doNmhlTExMcDFyLUdYN0dQeWZ4anNVajFn0gGrAUFVX3lxTE1ETUNlNmFGeG5aZHRwLVBJM1BMUW5fX3JwUUxIcVR3Sno2eTJ1cUMyUmswVjBVMTJYMVlBRFVzNGhIdkMtZXhUc0ZOczNFMF9LZlZ4UzFvRjkycDVPS3lURzI1ckN0cWFvellXUWhwZm5uODlRdHF5MnFvd1psUnduNzQ1SENYZG5BUURwcmlNMExTdXFGLUYyOERJMjBxYUpza1hTRGtlcE1XVQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Commercial Syn Bags Limited",
@@ -324,6 +267,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "MphasiS Limited",
+      "symbol": "MPHASIS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.3,
+      "confidence": 69,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 2295.0,
+      "catalysts": [
+        {
+          "label": "PM Modi, Xi Jinping Seek To Strengthen India-China Ties, Discuss Border, Trade And Investment",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/world/pm-modi-xi-jinping-seek-to-strengthen-india-china-ties-discuss-border-trade-and-investment-12038226#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "SEDEMAC Mechatronics Limited",
       "symbol": "SEDEMAC",
       "exchange": "NSE",
@@ -356,42 +340,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Rallis India Limited",
-      "symbol": "RALLIS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 62,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 201.99,
-      "catalysts": [
-        {
-          "label": "SBI Mutual Fund reduces Rallis India stake to 5.1074% after share sale - scanx.trade",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYUZLUE9DTGUzWnotd0V1U1BsOEhxZ1JsbVFZb2JVU1RqU09wVGUwM05iQ2FsNmhOVEFOSDdfZ1lJQmNkYUowQ0Qza3VvR1Nmamp1OV9KUHp1S3Q3Q0oyRS10bGdRQ283cDVNWmlZV09lbWJFemxFS2NXZER3endDX29EUzdOQzc1ZmRLMnZDRXplTmVJdTZaNHhkS3VhRWFyS3gwWDctUHpMTnZsUUp4RXZWNVFlYWFY?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -446,6 +394,41 @@
         },
         {
           "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bharat Petroleum Corporation Limited",
+      "symbol": "BPCL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.0,
+      "confidence": 56,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 304.5,
+      "catalysts": [
+        {
+          "label": "Action(s) initiated or orders passed",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -542,7 +525,7 @@
       "company": "UltraTech Cement Limited",
       "symbol": "ULTRACEMCO",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -554,17 +537,17 @@
       "lastClose": 11000.0,
       "catalysts": [
         {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Rumour Verification - Regulation 30(11)",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
@@ -653,17 +636,22 @@
       "company": "HDFC Bank Limited",
       "symbol": "HDFCBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 85,
+      "predictionScore": -2.3,
+      "confidence": 84,
       "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 50,
       "lastClose": 708.25,
       "catalysts": [
+        {
+          "label": "HDFC Bank CEO Race: Nuvama Backs Bharucha Over External Bets",
+          "type": "corporate action",
+          "verified": true
+        },
         {
           "label": "HDFC Bank Reappoints Srinivasa Rangan, Jimmy Tata As Whole-Time Directors",
           "type": "company news",
@@ -672,11 +660,6 @@
         {
           "label": "Indian Stocks Dip Marginally; Crude Cools, IT & HDFC Bank Gain - Rediff MoneyWiz",
           "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Disclosure of material issue",
-          "type": "announcement",
           "verified": true
         }
       ],
@@ -688,6 +671,11 @@
         }
       ],
       "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/hdfc-bank-ceo-race-nuvama-backs-bharucha-over-external-bets-12038000#publisher=newsstand",
+          "verified": true
+        },
         {
           "label": "NDTV Business",
           "url": "https://www.ndtvprofit.com/business/hdfc-bank-reappoints-srinivasa-rangan-jimmy-tata-as-whole-time-directors-submits-two-names-for-md-ceo-12037293#publisher=newsstand",
@@ -704,7 +692,48 @@
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "MphasiS Limited",
+      "symbol": "MPHASIS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.8,
+      "confidence": 80,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 2295.0,
+      "catalysts": [
+        {
+          "label": "PM Modi, Xi Jinping Seek To Strengthen India-China Ties, Discuss Border, Trade And Investment",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/world/pm-modi-xi-jinping-seek-to-strengthen-india-china-ties-discuss-border-trade-and-investment-12038226#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Commercial Syn Bags Limited",
@@ -777,42 +806,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Rallis India Limited",
-      "symbol": "RALLIS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 201.99,
-      "catalysts": [
-        {
-          "label": "SBI Mutual Fund reduces Rallis India stake to 5.1074% after share sale - scanx.trade",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYUZLUE9DTGUzWnotd0V1U1BsOEhxZ1JsbVFZb2JVU1RqU09wVGUwM05iQ2FsNmhOVEFOSDdfZ1lJQmNkYUowQ0Qza3VvR1Nmamp1OV9KUHp1S3Q3Q0oyRS10bGdRQ283cDVNWmlZV09lbWJFemxFS2NXZER3endDX29EUzdOQzc1ZmRLMnZDRXplTmVJdTZaNHhkS3VhRWFyS3gwWDctUHpMTnZsUUp4RXZWNVFlYWFY?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "The India Cements Limited",
       "symbol": "INDIACEM",
       "exchange": "NSE",
@@ -873,45 +866,38 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "BLACKBUCK LIMITED",
-      "symbol": "BLACKBUCK",
+      "company": "SEDEMAC Mechatronics Limited",
+      "symbol": "SEDEMAC",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.8,
-      "confidence": 73,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 628.15,
+      "predictionScore": 2.2,
+      "confidence": 65,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "General Updates",
+          "label": "Action(s) taken or orders passed",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "Accel India IV sells 1.48% stake in Blackbuck via open market - scanx.trade",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVWNPUzhfMDNnLXFpM09RUlgyN256cEpZeHdBQjBPVGhwcklmSzhkNW1HQXJjSjJRWTE3M2hNZkNhU3V4SVhac1hjZnlTTXZEVFVyWWo4emdaREM4cDhkbnBZby1OQmVuRlFPY2xEb290TENxN0tuSUJGLWc4NDFiWldkQ0hfaURydXYtVmVhV3BpcF9lWFpNbmd0bFY2QUpRaVBuQUthR05ocDVRV2VBNzBuODI?oc=5",
-          "verified": true
-        }
-      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
