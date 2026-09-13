@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T04:52:10+00:00",
+  "generatedAt": "2026-09-13T11:56:14+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,7 +11,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.5,
+      "predictionScore": 5.4,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -84,6 +84,47 @@
         }
       ],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Cochin Shipyard Limited",
+      "symbol": "COCHINSHIP",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1381.0,
+      "catalysts": [
+        {
+          "label": "Sensex Today Ends 121 Points Lower | Nifty Below 23,400 | Cochin Shipyard Down 9% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Agreements",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQTBnQmp3c3dQODFkdmxJeHY0Y3J4Z29NUG5sZC1pVmEtVzdVMkZLdTljOVJ2bWhxS2xZVHEtLXJlY0pSY2szcUluQ09qMld3WTc5YUhZOUFsdGxXcHFlWHZXWXJiZnZvVDYyR3dhRXA5dlBEMkM3RU5NSzJnTkdIemFaRVRUNWJzM3A1bGxCZGlUeEFhWTBTbTNpTGw2c0Nia0ZoNHpuZjdyam9WQUNFdVdrVlZQY3F4RHYyVlNVNlduWmp6bDJXSWtYaDFKQmtYeUJR?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "UltraTech Cement Limited",
@@ -238,6 +279,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "MphasiS Limited",
+      "symbol": "MPHASIS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 2295.0,
+      "catalysts": [
+        {
+          "label": "BRICS Day 2: Early Warning System To Incubator Network \u2014 Five Takeaways From PM Modi's Speech",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/india/early-warning-system-to-incubator-network-three-top-takeaways-from-pm-modis-day-2-address-12040124#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Focus Lighting and Fixtures Limited",
       "symbol": "FOCUS",
       "exchange": "NSE",
@@ -273,6 +355,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 69,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1037.7,
+      "catalysts": [
+        {
+          "label": "Market weekly wrap: SENSEX, NIFTY50 fall 2% for 5th straight week; Infosys, HCLTech top losers - Upstox",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblJNbmJEaHdtbGQzNmllWGhuSk0yR3R6Tm8wVmt3TVI2WU00bUdwcGlvNjNlZTltMmtfeXJFTDQ2NER0ZE1HOXFHbzlIWjJTMUxDbzlyMXhiQUlGTmpReFM0WTZQOGdXNUhfekpXWGhCSTFPWFBJM3FtalowbHhkOHJTcFBkNlVMRnNJdXQ0ZVhxZWI1OFc2TXdXVUU0Qk5oZnh2eFVlTWpsa0hQbzNrNnhMWEhnMTViZ3VvM0NVWDg3TTF5M21ZRk5oajdVNl9QUjZSRV9fUGRVX28wM29lZTRPRFo?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "The India Cements Limited",
       "symbol": "INDIACEM",
       "exchange": "NSE",
@@ -294,36 +417,6 @@
         },
         {
           "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 62,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1037.7,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -366,82 +459,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bharat Petroleum Corporation Limited",
-      "symbol": "BPCL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.0,
-      "confidence": 56,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 304.5,
-      "catalysts": [
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": -1.7,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 708.25,
-      "catalysts": [
-        {
-          "label": "Indian Stocks Dip Marginally; Crude Cools, IT & HDFC Bank Gain - Rediff MoneyWiz",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Disclosure of material issue",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0JFd3lfeThkY0NmRWUxM2hscE5xTGJ1Y3FOUUVvME9sbU0waTdXNDdNclo1VFRIdnNOcW1KTU5wT2hpZ2hYSlhmWGEyTGxxSHJuZExNaGtpaTB1RDJjU3hSQ1pjMFEyTkRMczVNdWhVSF9tQUpyY2Q2dDhnUlBCcXh6azZNSmV6U0JZZFVGX1lwWHlUcnliRENnQko0aV96OE5qbzhPdGQ4S0Y0YjI00gG0AUFVX3lxTE1nM3lVZGNNOXNZNVdRUWg0RlNhY0pFQV92OVlpNTJ0V3BZRlRnY29XdWgzS0VGMXN6X2hQUE5uYnplOVBaT1dNdkNPcFpIXzFYaWhrMzR0SzlveTd1RUJ0cUNaRmdlQnZqQlZHaFRWdWV4cjFwM0FHdXRHZmVMRklKejJSNlN0R1Q5dUNqbEJ1Y19VOW1JUEtCYmdIeXprTHJiRDA3WWdZRmhKaVRSdDZTVWVwcA?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -453,7 +470,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.5,
+      "predictionScore": 6.4,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -526,6 +543,47 @@
         }
       ],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Cochin Shipyard Limited",
+      "symbol": "COCHINSHIP",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1381.0,
+      "catalysts": [
+        {
+          "label": "Sensex Today Ends 121 Points Lower | Nifty Below 23,400 | Cochin Shipyard Down 9% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Agreements",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQTBnQmp3c3dQODFkdmxJeHY0Y3J4Z29NUG5sZC1pVmEtVzdVMkZLdTljOVJ2bWhxS2xZVHEtLXJlY0pSY2szcUluQ09qMld3WTc5YUhZOUFsdGxXcHFlWHZXWXJiZnZvVDYyR3dhRXA5dlBEMkM3RU5NSzJnTkdIemFaRVRUNWJzM3A1bGxCZGlUeEFhWTBTbTNpTGw2c0Nia0ZoNHpuZjdyam9WQUNFdVdrVlZQY3F4RHYyVlNVNlduWmp6bDJXSWtYaDFKQmtYeUJR?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "UltraTech Cement Limited",
@@ -680,6 +738,88 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "MphasiS Limited",
+      "symbol": "MPHASIS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 87,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 2295.0,
+      "catalysts": [
+        {
+          "label": "BRICS Day 2: Early Warning System To Incubator Network \u2014 Five Takeaways From PM Modi's Speech",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/india/early-warning-system-to-incubator-network-three-top-takeaways-from-pm-modis-day-2-address-12040124#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 80,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1037.7,
+      "catalysts": [
+        {
+          "label": "Market weekly wrap: SENSEX, NIFTY50 fall 2% for 5th straight week; Infosys, HCLTech top losers - Upstox",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblJNbmJEaHdtbGQzNmllWGhuSk0yR3R6Tm8wVmt3TVI2WU00bUdwcGlvNjNlZTltMmtfeXJFTDQ2NER0ZE1HOXFHbzlIWjJTMUxDbzlyMXhiQUlGTmpReFM0WTZQOGdXNUhfekpXWGhCSTFPWFBJM3FtalowbHhkOHJTcFBkNlVMRnNJdXQ0ZVhxZWI1OFc2TXdXVUU0Qk5oZnh2eFVlTWpsa0hQbzNrNnhMWEhnMTViZ3VvM0NVWDg3TTF5M21ZRk5oajdVNl9QUjZSRV9fUGRVX28wM29lZTRPRFo?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Focus Lighting and Fixtures Limited",
       "symbol": "FOCUS",
       "exchange": "NSE",
@@ -745,92 +885,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
+      "company": "Indian Bank",
+      "symbol": "INDIANB",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1037.7,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bharat Petroleum Corporation Limited",
-      "symbol": "BPCL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 64,
+      "predictionScore": -3.0,
+      "confidence": 70,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 304.5,
+      "lastClose": 853.5,
       "catalysts": [
         {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
+          "label": "Top stocks to buy under \u20b9100 by Sumeet Bagadia: Inox Wind, South Indian Bank, Paisalo Digital; check stop-loss, target - Livemint",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Change in Auditors",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.4,
-      "confidence": 64,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 708.25,
-      "catalysts": [
-        {
-          "label": "Indian Stocks Dip Marginally; Crude Cools, IT & HDFC Bank Gain - Rediff MoneyWiz",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Disclosure of material issue",
+          "label": "Strikes/Lockouts/Disturbances",
           "type": "announcement",
           "verified": true
         },
@@ -844,40 +919,10 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0JFd3lfeThkY0NmRWUxM2hscE5xTGJ1Y3FOUUVvME9sbU0waTdXNDdNclo1VFRIdnNOcW1KTU5wT2hpZ2hYSlhmWGEyTGxxSHJuZExNaGtpaTB1RDJjU3hSQ1pjMFEyTkRMczVNdWhVSF9tQUpyY2Q2dDhnUlBCcXh6azZNSmV6U0JZZFVGX1lwWHlUcnliRENnQko0aV96OE5qbzhPdGQ4S0Y0YjI00gG0AUFVX3lxTE1nM3lVZGNNOXNZNVdRUWg0RlNhY0pFQV92OVlpNTJ0V3BZRlRnY29XdWgzS0VGMXN6X2hQUE5uYnplOVBaT1dNdkNPcFpIXzFYaWhrMzR0SzlveTd1RUJ0cUNaRmdlQnZqQlZHaFRWdWV4cjFwM0FHdXRHZmVMRklKejJSNlN0R1Q5dUNqbEJ1Y19VOW1JUEtCYmdIeXprTHJiRDA3WWdZRmhKaVRSdDZTVWVwcA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNS1scGhvZjdrU2VsbThsOHBJTDRKT2t2eUJaU1lsVWpTbFg0cGRNUjIxSG1ZZWo2WHFYeWcyRlBMNE1uTXlxclBfTjJsV0d6TVN2NndXYS1SVThndkE2V05KTHF4a3pTRUF3LWpuaFhKdC03YkJIQTZOdWJqbkFXX0JWaGdjcWE1MXRhRndyNldpeXpCXzFvenJ3UUJQT2lEcHlsZ3VvRjQ5MC1MblAydDB1T0ZHQ2dkU3N3RGcycWExNWJjb1VET082OUZ2NkROeEI4TVJJQ0gzN1JFWHpRS1lvdHZnTG5pcmtMMXVkSVNQMXhxTWNuc29pNnZhUDFvZHNCY29oMGNRS0NCMHkw0gGUAkFVX3lxTE8wUG0tcnhjLTZzR3hmbzlMdU01OEhDdEsySlFVQjdKVTFlSFZBckU3aVdXeVY3RU5rUlo1WTY5TVVzSzV1cXc5VnF5MC02OUw0UFFMVFFLcVFraFJJRjIwV3JqODk5eGFpQ09IaEFHam1WVTU5dGlSdzg0cjlWNE5YbUVfdjgxQWtBc0llQzBoeVdyNlpnVGN5ZklGUHdpbFBMSkh5S2V6V3hMTjljMG5MVmtNMXhBWHQyLW5kQ1ptS0lFU2FRVDZiMkVNdmdyaklRNXlPTzBYRGNEaFhrUWRJLUFCWHdyM3ZpZHRBMXRWclpxVEI1dFJ6NEpNMW1fbld2T3F5WURRZWlyT3ZxTTAyY1NmZA?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bharti Airtel Limited",
-      "symbol": "BHARTIARTL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 58,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1831.1,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
