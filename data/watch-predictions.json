@@ -1,49 +1,8 @@
 {
-  "generatedAt": "2026-09-15T11:47:25+00:00",
+  "generatedAt": "2026-09-15T17:02:14+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
-    {
-      "company": "Bank of India",
-      "symbol": "BANKINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 137.61,
-      "catalysts": [
-        {
-          "label": "Japan Bonds Fall On Defense Spending Report Despite Solid Sale",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/japan-bonds-fall-on-defense-spending-report-despite-solid-sale-12048188#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
     {
       "company": "UltraTech Cement Limited",
       "symbol": "ULTRACEMCO",
@@ -77,6 +36,47 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "NBCC (India) Limited",
+      "symbol": "NBCC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 80.69,
+      "catalysts": [
+        {
+          "label": "NBCC India bags multiple orders worth \u20b9145 crore; shares tumble 34% year-to-date - Upstox",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS09Zdkp3d0xjRTM4azg4LWFKS0lTY2NTVG1vYndOQzlVOWtHaDlHQkt5emtDaTR0ZVFqVFpLci0tNVlkVTJFTEhONENhNjBpUWdBNGVCSThyajlQUFBIQ082d0VURlhsSThfamhDNWJJNlkyZU5reER2a0Q2LWxEMi1CalRhamd4YjdKMU9DTGVrX1pQRHZlUzBYM0pzcFNoOTFZSXBWQ0ZwM3hHNktOV01GS2VQLXN4dE5mZkJBc0F4a0RPMFpQZXZvTm5fc09vbGc?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -187,6 +187,53 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.7,
+      "confidence": 68,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1077.0,
+      "catalysts": [
+        {
+          "label": "Infosys, Wipro ADRs surge up to 6%: What it means for Indian IT stocks on Tuesday - Livemint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "AI Seesaw: Infosys, Wipro ADRs, Accenture, Cognizant Tumble As Chip Stocks Recover",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/ai-seesaw-infosys-wipro-adrs-accenture-cognizant-tumble-as-chip-stocks-recover-pre-market-12049788#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNlJUT2UyeEM1a0EyREdnM3R6bTdsSVlxQ3JTdUJWR3EtVFQzWkZXTG9rVVN5T0dJVlJ0bkoyLTlYdklUQVBEbE9lSGJ5bGJ2REhBTGdMYjcySmlyZm9QZzZwTHpSb2J4SnFfUnZnRnRPZDRLdEdMREpab0ZaLVBfbTFjN21sS3RxcXpVZ2lRc2dwRkdpdVJ1eWlhZnY2aW5GNGVwNGtKejlTTGpkZlBleGVWRDRyUDRLXzNwUF9xMjlpYzY2Y3Z0b2VfTk5kWGlBdy1zMDFoTVRtRThKWk1GOF9n0gHnAUFVX3lxTE9lM2RRcklMME80b0xfTHczWFhhTnRmbnFrVXV5NnZNby1fUjZiT1RnVVlWQVk4Y0FYbjNFLTBlbk9HZUtWVWJxTWlRX25tY09nbUJsX01mbTN6T0stQjM1cVVQQUpCUThla1lVVFVsSG9tUEJtQkl6WGdqbU13ZGZrQzJsNDJUdjh2VEZTVW1QQ1BsV2V0LUtVVVV6Nm1EbVV0dXpQTlcwUzVFWmF3UkoyaTY5OEhjRlNTdWdzLTdTUnpfc1didTRkenJ2Ykl6bGtyTWFGVHN2aS1tV1hLVV9ZbzQ5U25WWQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Supreme Engineering Limited",
       "symbol": "SUPREMEENG",
       "exchange": "NSE",
@@ -237,7 +284,7 @@
       "lastClose": 5.84,
       "catalysts": [
         {
-          "label": "Leather stocks down today: Super Tannery, AKI India, Amin Tannery, Euro-Leder Fashion under pressure; Here's why - livemint.com",
+          "label": "Leather stocks down today: Super Tannery, AKI India, Amin Tannery, Euro-Leder Fashion under pressure; Here's why - Livemint",
           "type": "company news",
           "verified": true
         },
@@ -252,6 +299,42 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMnFNQjMtdXdyT1k5SFhBQ0tUbUdkbmpJcnd1TnN1UmtmSktRamIyeUNBZ19oeHMtMUE2NFJTa0owazZfNkxsTDhCb196SFBYN2VKQk9zSEc5Y20xZEZQZWl1UDVkQjVIOWZlT1R0MEtCT05UMHFBMzVWSnBwZlRsS0tyM2lUQU80WUptemwwTUQtSTRHSXo0WEpzZFEtc3VXdVlDRlBHNngzWHZkeDVIRWtyVS00V05JWEtxbnR4TFhOY2ZyMXFqLWEyeW9hcDhvSzBnZTAtSVBDTEJXM2hvMTJSM0RPcUFuT29NQzNTN0tsU2R5dnFwYmNHSUhGMXZUaHRvTGNuRdIBjAJBVV95cUxQMGlzTk1objJzTU9DTXF1aEwySklvR2QwTEV6dVA5MXhRWFBET29IVk56a1licy1VVDRvcjZKakstYy1SaHZjZzlnTG9nMWg3bmRRaGNISWRja1JjYVl5YlBaeEMyMkZLanJ6blNycnU3Y2pxbzdpalRKT0pSVHoxbFN6NklKVTJUSm1tVnFNZ1BUdUg3QVhrdzVPUk1saGticGJPdmJ3TVBuV203UnUtVGszUVJpYTlvQ1plcDVsTjRpRU95NXM5cGhNQ3JZRk5MRmtDakxGRmFRdVZrNnAwZjNKN2s4UU1LVGE2R2IxX05oMmo4Z0ZCM2dVM0JOcEpCdDRsX2h3bWF1Znhu?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ACC Limited",
+      "symbol": "ACC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 62,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1225.2,
+      "catalysts": [
+        {
+          "label": "Women's Asia Cup Trophy Row: BCCI Offered Alternative, ACC Rejected It",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/sports/womens-asia-cup-trophy-row-bcci-offered-alternative-acc-rejected-it-12050880#publisher=newsstand",
           "verified": true
         }
       ],
@@ -285,6 +368,47 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Hindustan Zinc Limited",
+      "symbol": "HINDZINC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 61,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 560.9,
+      "catalysts": [
+        {
+          "label": "Hindustan Zinc, GMDC, NMDC to Vedanta | 6 stocks that could strike 'gold' in India\u2019s big critical minerals push - Livemint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQTVhR1BmSE1MU0ttZmlBU1Y5SXVtSHdZckJyTXVVcmJiVmpYcFAtVGd5LUZhN2ZhSGIzZEZzZHJNR1oxcGR3WGJpWWxWek51VUxyWWpOTzgyU21SS3hmWi0tbU4wNmdMX0ZwZlNjUUxqdlZ4VkF6QXdSemJnX3dhX1Vja1VFeGJiVUVwVmYxSVNRQklWT3FnWmNJY284aUp6a0lidVBDNVFsSXFKYUdMdjJsaXFVUGd3VmF2WW5OUlk0Mi15QWpnamFtdzNFM2xubmprX292YWJuZHlKQ2xyNUxucEZ5VVY3d1VDOWRKeTBQakg2RURlVXRvYXB5UzZMZlpFYzZB0gGLAkFVX3lxTFA4aTIxLWJxWVR6eTl5Z1UwaE40NG45ZGFCVVEwNW1PcERhSTVyZXFmSG9wdFg0TFZ4Z3hfR3hmenBPM2VVdVVVME1PRkdQdHdSSm52ZFcyczZpZWdVcHJtdF9ZcnZVcVVoYnVYRUgyQnRPYzYyWW9KT0lETHNfNG5RNmdKaDcyV3Rmcm5oeEZ4Q0dsU1pMTk1DWFJsSzF2UkNGaldRWlk1d1R3SWlyRWw5VkYwUGxMbkxIZXR0THNLYm9wRzFkVGtlaXhySldtalhjNlFYSTJuLUV6bTFPSzBuOEdVV2FBdThPMjNCT3hqOXJjc3l1STRWZUNQVXM4Tml5SzBWOG93R0NZWQ?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -327,182 +451,9 @@
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Solar Industries India Limited",
-      "symbol": "SOLARINDS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": -1.7,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 19250.0,
-      "catalysts": [
-        {
-          "label": "Solar Industries, Data Patterns, MTAR Tech, other defence stocks drag Nifty India Defence down 4%; here's why - Upstox",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYTFxZGJsME1UV056dE1Yc0RpejF0bzdmYlkxejJJV3hQMGhhQU1hWjFuSHZmRmRPM0JackVqQjEwUThQTjBENFR0ajVCc0h4OVR2TkxIS0NFYXB5Zk01MDkzeVEycXl6cmVGOUQ3NEsweWZEQlpKNmxDa2lYZ2ppSVZDQUhlbWpXQV9obmZLTzdhZHJfeEQwVDNxZWRWeVZXNVRqaV84OGJ6LUc3dTlPeTFseWtSeXlYQjU0N195alp3R3lXQzRCMHRxUlA2bnFjWEIwT0dhRmhtMnYyTDlKR3ZtS0xNYlotX1NfQkZaVi1FdlJpVkE?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 1.4,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 716.55,
-      "catalysts": [
-        {
-          "label": "HDFC Bank Leadership Change To Tata Sons Listing: What Raamdeo Agrawal Has To Say? - NDTV Profit",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Stock market today: Will Sensex, Nifty open higher? HDFC Bank to be in focus - India Today",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Share Market News: HDFC Bank shares jump 3 percent after hitting 52-week low in previous session, check key d - India.com",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNmFXYU8wQTBVSW4yQ0xVd3pZcXpaWVVkbzVKUlBxMDNnV3lfWnBYajZ2UDVYYWV3WVVpdlZ6SXFPSjBWdU5LQUNIYWVDdzZoTC1DekZ6elRfNjZ1SER5QjVKeHZvME0yNXRrRHJFcGNjbmJMRVNtTUZnYTJhbmxCdW5vQlVVYTFqTUx6UXB2ck9PUm9ZTW1vQXU3WElqSldPdmJ5N0pTZXBRNW94XzRORlRwMnhTQTJLME5SYV9oUXcwaENsV0pHelNrM0FGN3lPVlV5ZktxbEZVa2JpejdsUk1jRkp2RmNYWDdFTmhZUTVhdHJSZ3fSAf4BQVVfeXFMTXI0NzZRQ29XQ0c3U3FKeU1WbjhsckdJU3VDaGRjbzQ3YWdaT3RJOFdQM0RqOFEyNVRUQUJjc0YtYWU1aUl6QXdjc0pNNWtITWtCRmUzOE55czM4WDAxOS1mNEJhUEkxTkJjaUJyZGplODdSWkxVZ0FiMW0xVXpJeU1LRHlZbGdzeDJ4WnJMVzJYdFRzenViV2RpSDN5bXVOT1RpVEo1RG5CUllZUUc3OEhlZHV4bTJZM3lId19aTWdsZ1hkR2pzWW5VeVFRTDN3QXUxZ29sVEFfYXYwWC1RQUxHMmVZdXRaRjVKZG9VaWFkN0JLQ1A2ZTh2dUc5dEE?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZTM1SWhkQzFxOUVPRmxROEZkY0Y2bmhUcVR4RG56SWl3WmZPcmFlMXYzcGtyQnpwaVlnTmRYSk1yMFdmRjVTVDJJY3REc0hpb1B3UklzNGhGamlCS19PN0tmaHd0VS1QODZXd3FRLUpTRVpQVUt2UUFCQVlFcjZOVGZndTN4Ylotd3hUNzdNcjZRMjhHZnJJX0gyNUZWQzdtb2J5cUlUdGZJRE9NX3FPWWVseENmWHNvS2pmVmwydmpzMU5EZGNpb29KUFpqQU5meUVmdjVjdUFQdFpwVE9FMnFPVlXSAeoBQVVfeXFMUG4zR3NFa0xwUF8zekZ0Z2ZiQWdvcm0yT29XN0p4MnVGaDg2VFpYdlRhRDFCWXNub3RzRVRSSEJlOTBWUDBDVHlKMnVmMk5WT3VOT1BWcE9FZjktWmc1aVBhV2VqU3J0ZFY3N3lhUE9Gb2pjdzl0YTR3MHZaVTQwQkh6WmM4WUE5NHVaaGRRUExLLV9qWGk0X29LaS1qZVVBb0IwSk9hem9udkdPWC1LV0ZzazE5NFNzbDVLMTAwa1hnR1FfU1ZrNDBaeFljUUhTdXZPdWpDVno5RUJQU3ZmWTAxNEhWOV9DSXB3?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPNW5iaDRZaTFENk13elJ5UFJHclVwU21mcTNLQmpRNE56alp5RldVTEx3UlgwNHZ3Q2M2cjFVV2dVWGVSRVZFMG1sVHU1N0NmZFdIZnJCcWszYTFtQmNwSXdTVEdMUDhYcG1ZQjM2N3ZUVFRUUm9HQmxHZjBwMTJTR2N3dTR5TUF4VWVfREZJcDU1a2VqcVA5QnZ3dkp0S3hHd2VyQ2xiODVpNktWdHR6N2UyZWJOdXZVazlXcUpxeUNNSUFmb0YtcXc1UlprR1pwOEc5SWQweG5FdEk5R1dncFpwY2hRcEduS1NZNkowWktSMXNmTE5jTG9iOV9pRVh2YjhNWDI4ekc4SGFIUDF1WkFXemMzOG13anpXc9IBogJBVV95cUxNU0QydVF3Y2JqY1Q4VFNqejhNMjhEYkk2Sld2UlMyclZUODU0aWdyaGY3dmxKWVNoN0hoNDF2UEhuV2pZWnh0dzFxTXB2RTlvcjVsLTQ4c2RjNWNEY0pmYTlaUkdEbnU1SFBkOTIyVUo0Sl9qS1ZMMmVWN2Q5ZlFGTlIwT09SR2p0NklQQXRXeVp2NUNSSmdXRlNFYzBoNG1jYl9NTllWWDNWSFlNZVRwa29nYVFJTTZTX2tlR3M0TzRuVmdaN2pST2wxSGdLS3d5NDZYYW83WW4zejZmY1o5Yy1nS1VRRnZxS0h6U1lrTThBRGRmbzlnM2dEX3haUHh3MDBlTjlySDZNbTlpd0FxNVBvYTRiUWFJSHdpRzE3dzJtdw?oc=5",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/raamdeo-agrawal-on-indian-stock-market-hdfc-bank-leadership-change-oil-us-iran-war-us-treasury-yields-tata-sons-listing-12048602#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Equitas Small Finance Bank Limited",
-      "symbol": "EQUITASBNK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 0.8,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
-    {
-      "company": "Bank of India",
-      "symbol": "BANKINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 137.61,
-      "catalysts": [
-        {
-          "label": "Japan Bonds Fall On Defense Spending Report Despite Solid Sale",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/japan-bonds-fall-on-defense-spending-report-despite-solid-sale-12048188#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
     {
       "company": "UltraTech Cement Limited",
       "symbol": "ULTRACEMCO",
@@ -539,6 +490,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "NBCC (India) Limited",
+      "symbol": "NBCC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 80.69,
+      "catalysts": [
+        {
+          "label": "NBCC India bags multiple orders worth \u20b9145 crore; shares tumble 34% year-to-date - Upstox",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS09Zdkp3d0xjRTM4azg4LWFKS0lTY2NTVG1vYndOQzlVOWtHaDlHQkt5emtDaTR0ZVFqVFpLci0tNVlkVTJFTEhONENhNjBpUWdBNGVCSThyajlQUFBIQ082d0VURlhsSThfamhDNWJJNlkyZU5reER2a0Q2LWxEMi1CalRhamd4YjdKMU9DTGVrX1pQRHZlUzBYM0pzcFNoOTFZSXBWQ0ZwM3hHNktOV01GS2VQLXN4dE5mZkJBc0F4a0RPMFpQZXZvTm5fc09vbGc?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Maruti Suzuki India Limited",
       "symbol": "MARUTI",
       "exchange": "NSE",
@@ -547,7 +539,7 @@
       "horizon": "tomorrow",
       "direction": "Negative watch",
       "predictionScore": -5.8,
-      "confidence": 80,
+      "confidence": 79,
       "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
@@ -609,6 +601,53 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -5.0,
+      "confidence": 77,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1077.0,
+      "catalysts": [
+        {
+          "label": "Infosys, Wipro ADRs surge up to 6%: What it means for Indian IT stocks on Tuesday - Livemint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "AI Seesaw: Infosys, Wipro ADRs, Accenture, Cognizant Tumble As Chip Stocks Recover",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/ai-seesaw-infosys-wipro-adrs-accenture-cognizant-tumble-as-chip-stocks-recover-pre-market-12049788#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNlJUT2UyeEM1a0EyREdnM3R6bTdsSVlxQ3JTdUJWR3EtVFQzWkZXTG9rVVN5T0dJVlJ0bkoyLTlYdklUQVBEbE9lSGJ5bGJ2REhBTGdMYjcySmlyZm9QZzZwTHpSb2J4SnFfUnZnRnRPZDRLdEdMREpab0ZaLVBfbTFjN21sS3RxcXpVZ2lRc2dwRkdpdVJ1eWlhZnY2aW5GNGVwNGtKejlTTGpkZlBleGVWRDRyUDRLXzNwUF9xMjlpYzY2Y3Z0b2VfTk5kWGlBdy1zMDFoTVRtRThKWk1GOF9n0gHnAUFVX3lxTE9lM2RRcklMME80b0xfTHczWFhhTnRmbnFrVXV5NnZNby1fUjZiT1RnVVlWQVk4Y0FYbjNFLTBlbk9HZUtWVWJxTWlRX25tY09nbUJsX01mbTN6T0stQjM1cVVQQUpCUThla1lVVFVsSG9tUEJtQkl6WGdqbU13ZGZrQzJsNDJUdjh2VEZTVW1QQ1BsV2V0LUtVVVV6Nm1EbVV0dXpQTlcwUzVFWmF3UkoyaTY5OEhjRlNTdWdzLTdTUnpfc1didTRkenJ2Ykl6bGtyTWFGVHN2aS1tV1hLVV9ZbzQ5U25WWQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "The Orissa Minerals Development Company Limited",
@@ -696,7 +735,7 @@
       "lastClose": 5.84,
       "catalysts": [
         {
-          "label": "Leather stocks down today: Super Tannery, AKI India, Amin Tannery, Euro-Leder Fashion under pressure; Here's why - livemint.com",
+          "label": "Leather stocks down today: Super Tannery, AKI India, Amin Tannery, Euro-Leder Fashion under pressure; Here's why - Livemint",
           "type": "company news",
           "verified": true
         },
@@ -711,6 +750,42 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMnFNQjMtdXdyT1k5SFhBQ0tUbUdkbmpJcnd1TnN1UmtmSktRamIyeUNBZ19oeHMtMUE2NFJTa0owazZfNkxsTDhCb196SFBYN2VKQk9zSEc5Y20xZEZQZWl1UDVkQjVIOWZlT1R0MEtCT05UMHFBMzVWSnBwZlRsS0tyM2lUQU80WUptemwwTUQtSTRHSXo0WEpzZFEtc3VXdVlDRlBHNngzWHZkeDVIRWtyVS00V05JWEtxbnR4TFhOY2ZyMXFqLWEyeW9hcDhvSzBnZTAtSVBDTEJXM2hvMTJSM0RPcUFuT29NQzNTN0tsU2R5dnFwYmNHSUhGMXZUaHRvTGNuRdIBjAJBVV95cUxQMGlzTk1objJzTU9DTXF1aEwySklvR2QwTEV6dVA5MXhRWFBET29IVk56a1licy1VVDRvcjZKakstYy1SaHZjZzlnTG9nMWg3bmRRaGNISWRja1JjYVl5YlBaeEMyMkZLanJ6blNycnU3Y2pxbzdpalRKT0pSVHoxbFN6NklKVTJUSm1tVnFNZ1BUdUg3QVhrdzVPUk1saGticGJPdmJ3TVBuV203UnUtVGszUVJpYTlvQ1plcDVsTjRpRU95NXM5cGhNQ3JZRk5MRmtDakxGRmFRdVZrNnAwZjNKN2s4UU1LVGE2R2IxX05oMmo4Z0ZCM2dVM0JOcEpCdDRsX2h3bWF1Znhu?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ACC Limited",
+      "symbol": "ACC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 73,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1225.2,
+      "catalysts": [
+        {
+          "label": "Women's Asia Cup Trophy Row: BCCI Offered Alternative, ACC Rejected It",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/sports/womens-asia-cup-trophy-row-bcci-offered-alternative-acc-rejected-it-12050880#publisher=newsstand",
           "verified": true
         }
       ],
@@ -744,6 +819,47 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Hindustan Zinc Limited",
+      "symbol": "HINDZINC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 560.9,
+      "catalysts": [
+        {
+          "label": "Hindustan Zinc, GMDC, NMDC to Vedanta | 6 stocks that could strike 'gold' in India\u2019s big critical minerals push - Livemint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQTVhR1BmSE1MU0ttZmlBU1Y5SXVtSHdZckJyTXVVcmJiVmpYcFAtVGd5LUZhN2ZhSGIzZEZzZHJNR1oxcGR3WGJpWWxWek51VUxyWWpOTzgyU21SS3hmWi0tbU4wNmdMX0ZwZlNjUUxqdlZ4VkF6QXdSemJnX3dhX1Vja1VFeGJiVUVwVmYxSVNRQklWT3FnWmNJY284aUp6a0lidVBDNVFsSXFKYUdMdjJsaXFVUGd3VmF2WW5OUlk0Mi15QWpnamFtdzNFM2xubmprX292YWJuZHlKQ2xyNUxucEZ5VVY3d1VDOWRKeTBQakg2RURlVXRvYXB5UzZMZlpFYzZB0gGLAkFVX3lxTFA4aTIxLWJxWVR6eTl5Z1UwaE40NG45ZGFCVVEwNW1PcERhSTVyZXFmSG9wdFg0TFZ4Z3hfR3hmenBPM2VVdVVVME1PRkdQdHdSSm52ZFcyczZpZWdVcHJtdF9ZcnZVcVVoYnVYRUgyQnRPYzYyWW9KT0lETHNfNG5RNmdKaDcyV3Rmcm5oeEZ4Q0dsU1pMTk1DWFJsSzF2UkNGaldRWlk1d1R3SWlyRWw5VkYwUGxMbkxIZXR0THNLYm9wRzFkVGtlaXhySldtalhjNlFYSTJuLUV6bTFPSzBuOEdVV2FBdThPMjNCT3hqOXJjc3l1STRWZUNQVXM4Tml5SzBWOG93R0NZWQ?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -782,119 +898,6 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMVVOZ01hMzVJdFJhYzJsbW5nZndMRHMwdW1hN1dhREIxaEhMeDREVXl1WGV4TnNycnlYenNxNDBSVlRTQ1JzRkdaVGgzY01WbnJuMFRiOFZLbGo0amRtZkk5Vl9VZWtRcWhHWEsyQnI4dHJHS1JYTW5yd1RWcjBYOHc1M21wVFVJZ3VKX3p5SmNRS1hYVG5MVEowSzFmMURpc29oQTBael9FVTRxYlVDYjZIdVIyeEVlUy16XzZDWU10aC10RUIxUGNXS1pNemhvQWtUZUJLREpEMkF3OEFKbFp3QjRuY2ZaMURNY1QxblVFaXRiOVhuemJXeTh2Zkk?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Solar Industries India Limited",
-      "symbol": "SOLARINDS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.4,
-      "confidence": 64,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 19250.0,
-      "catalysts": [
-        {
-          "label": "Solar Industries, Data Patterns, MTAR Tech, other defence stocks drag Nifty India Defence down 4%; here's why - Upstox",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYTFxZGJsME1UV056dE1Yc0RpejF0bzdmYlkxejJJV3hQMGhhQU1hWjFuSHZmRmRPM0JackVqQjEwUThQTjBENFR0ajVCc0h4OVR2TkxIS0NFYXB5Zk01MDkzeVEycXl6cmVGOUQ3NEsweWZEQlpKNmxDa2lYZ2ppSVZDQUhlbWpXQV9obmZLTzdhZHJfeEQwVDNxZWRWeVZXNVRqaV84OGJ6LUc3dTlPeTFseWtSeXlYQjU0N195alp3R3lXQzRCMHRxUlA2bnFjWEIwT0dhRmhtMnYyTDlKR3ZtS0xNYlotX1NfQkZaVi1FdlJpVkE?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 63,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1077.0,
-      "catalysts": [
-        {
-          "label": "Infosys, Wipro ADRs surge up to 6%: What it means for Indian IT stocks on Tuesday - livemint.com",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNlJUT2UyeEM1a0EyREdnM3R6bTdsSVlxQ3JTdUJWR3EtVFQzWkZXTG9rVVN5T0dJVlJ0bkoyLTlYdklUQVBEbE9lSGJ5bGJ2REhBTGdMYjcySmlyZm9QZzZwTHpSb2J4SnFfUnZnRnRPZDRLdEdMREpab0ZaLVBfbTFjN21sS3RxcXpVZ2lRc2dwRkdpdVJ1eWlhZnY2aW5GNGVwNGtKejlTTGpkZlBleGVWRDRyUDRLXzNwUF9xMjlpYzY2Y3Z0b2VfTk5kWGlBdy1zMDFoTVRtRThKWk1GOF9n0gHnAUFVX3lxTE9lM2RRcklMME80b0xfTHczWFhhTnRmbnFrVXV5NnZNby1fUjZiT1RnVVlWQVk4Y0FYbjNFLTBlbk9HZUtWVWJxTWlRX25tY09nbUJsX01mbTN6T0stQjM1cVVQQUpCUThla1lVVFVsSG9tUEJtQkl6WGdqbU13ZGZrQzJsNDJUdjh2VEZTVW1QQ1BsV2V0LUtVVVV6Nm1EbVV0dXpQTlcwUzVFWmF3UkoyaTY5OEhjRlNTdWdzLTdTUnpfc1didTRkenJ2Ykl6bGtyTWFGVHN2aS1tV1hLVV9ZbzQ5U25WWQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Kfin Technologies Limited",
-      "symbol": "KFINTECH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.9,
-      "confidence": 59,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 884.8,
-      "catalysts": [
-        {
-          "label": "Steamhouse India IPO allotment status: How to check online on NSE, BSE, KFin Technologies; listing date, time here - Upstox",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUThKTjBLaVRQVWRJbEtYOEJzRndPTzlTLXRscDBrVUNTYmloVmE5M0hvaGEzWFE5amZGdnFoWHRSMkdaWTREZHowMXlta01kRXNZZHZIMmhBVW5iUGxZYlE1bEZYVGFrZEFLYm41QzhUM2oxY05RTFZLYlZwcjNDZFVKOFk3SzFlcFZ4eDQ5YVRzYk1rVzBIV2ZyTXpzNzVmS1lPcmxwanFiNkltRTZxUm80YTlNZXRMN0sxcUx4d2pZX1o5QTUtTVFmeWNlVEZyZ1hkUUR5bVE4R1o1eDk2NExPbFUyZFN5QUtrSzdMOWNjY1h1cnlCbTZn?oc=5",
           "verified": true
         }
       ],
