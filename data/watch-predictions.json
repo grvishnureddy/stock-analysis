@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-15T04:57:51+00:00",
+  "generatedAt": "2026-09-15T11:47:25+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "UltraTech Cement Limited",
-      "symbol": "ULTRACEMCO",
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -16,8 +16,54 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 10796.0,
+      "lastClose": 137.61,
       "catalysts": [
+        {
+          "label": "Japan Bonds Fall On Defense Spending Report Despite Solid Sale",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/japan-bonds-fall-on-defense-spending-report-despite-solid-sale-12048188#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "UltraTech Cement Limited",
+      "symbol": "ULTRACEMCO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 10697.0,
+      "catalysts": [
+        {
+          "label": "Rumour Verification - Regulation 30(11)",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
@@ -27,61 +73,10 @@
           "label": "Rumour Verification - Regulation 30(11)",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bharat Petroleum Corporation Limited",
-      "symbol": "BPCL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.9,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 305.3,
-      "catalysts": [
-        {
-          "label": "PSU dividend kings: ONGC, BPCL, HPCL, Coal India, among top 8 PSU stocks with highest dividend yield | Crown goes to? - IndiaIPO",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "PSU dividend kings: ONGC, BPCL, HPCL, Coal India, among top 8 PSU stocks with highest dividend yield | Crown goes to? - Livemint",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWFJnS3R6UHlMSmtxeVVBLVVJalNoaEJMRzd4RU9zVC1zU3FjM05tTDVfWGhTSUcwQUQ0THBRMVhCbXBMcm1lVDZkTFZjVE8tUW5XMzlJQTNwVmxNeHQ2WktRekluYi1LZ3NHTlRha0pSNmljdS1fTDd6QjJ3aDRGZ2VEaU9ack5seF9hcTF4MVNCbVJMNUozLUczVzdFMEZjMkl5aHhzRHNYUVRyNUY5TTZYU1U1VUNzYm40MDc0Z2VOZUtwRmFidTdsaVpfQkNST3B5REJLeXBUZ0tUVEE?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWGdLR24ybUJGN3FVUDhjUWpEUlpuYW5FZHpCNnd0OEtIendQSEMwelJTSi00TUtJTmtIcGFxTVBJNUVtY0ROMTVQSFpfdk1OUmJhUldEdlRWMmNaQjlfTHdMZ2hEMlBTS0xCSlJ0QzNxLVFGVE40TmstVnFsazV4U0dyVnhxbklfUXZEaU9rT2RJbnFVczU0a2JRNUNQcGY1WXY2YVNKaHU1WExlUnVnbHM3QXlZWVNsRENKcWpVMmloQkxKcm9xQ0dyaG9yNjJuQnZrLUo1dHFlOVR0MEVBeWlhT0JWSGhEQTVmenN1bXhfd1V1WXpaT3FUY1BpNEktZVhpcDBpQ0J1OFHSAZACQVVfeXFMT1pJdW4tVlNRaGxsMW5zM0NTTTItZHFmSmpLalVheHphVmRxZUQ3YkZaLU5PbnBEczI3aHFWcTF6c3p2UzJoaDNwbDQ4azEtekVINUFFdVhtcUkyQ0tCYXNOQ0kwQ0pLdF9kS1V6YlRJTHBTRW5wLWpGQ3NsZ3NSNzFEMzhzb1VydU9XMDNWbWxIM244ajlNTWhtb0lmUUJwems3Mzg5X2ozQzM3VThkRkpILXpqVUs3SmNzeXlxZDNxdVN6ZWRXZC0zaVd0bHNaNjZ4bHR6STdaMkh4MEh4QXUtcTdCQS10dktSZ2ZidWk2LWUwZEJYVkdRVEZaeVpjbGxyNmVCMlgya1d1MHdKcE4?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -120,6 +115,43 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Maruti Suzuki India Limited",
+      "symbol": "MARUTI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 69,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 12231.0,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Maruti Suzuki India Ltd continues to decline - Business Standard",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3k4bkkzbWVEZ0F5MWJfR3ZqcWV0VTN1bUZfVGcwSFZJckYtOWVvNnhicVRHMS1BRFJYZDV2VFBDX1d5X2JaaVBOTTVlV1lvM2V3Um1YWUlKZFVXRzBDdW5mTFNRU2U4QmMtWVBCYmFyRUdURW56b0dJYzdEYjlHV1Fhc01OTkZhMTc1akVjaHh3bWNITFJjZHZ5RXNGeWVMLWdZeEY5cHo1clNRcU9LaldQN04xdEhHOHEyaG5jdkUtNlBl0gHKAUFVX3lxTE5hN2FWTFNOR09kWXhVWl94Y1hUMUM3dEhmYUlEVVpoLWR3S0xUeU9UNExiS0Fjand5Y3I0bkQzUmtnZURKZGZFRWlhVVRZclQ4el93c2pQdmN4TlFUTURyak5TdThSOVBGdFg0TmZnd2RXcHBIdmxYODAyZ2FZQ1ZpS3RqcEdhWV91YUdKT0VoWVBVdjZ4UGdXUGhVUUtKdnFjanM3VUJjMnU2Q1NoemVxeHY3aWpVcDlYNVdPaDlsV09iRndRaGN3U3c?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "The Orissa Minerals Development Company Limited",
       "symbol": "ORISSAMINE",
       "exchange": "NSE",
@@ -132,7 +164,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 3959.9,
+      "lastClose": 3877.9,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -190,6 +222,42 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "AKI India Limited",
+      "symbol": "AKI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 62,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 5.84,
+      "catalysts": [
+        {
+          "label": "Leather stocks down today: Super Tannery, AKI India, Amin Tannery, Euro-Leder Fashion under pressure; Here's why - livemint.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Price movement",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMnFNQjMtdXdyT1k5SFhBQ0tUbUdkbmpJcnd1TnN1UmtmSktRamIyeUNBZ19oeHMtMUE2NFJTa0owazZfNkxsTDhCb196SFBYN2VKQk9zSEc5Y20xZEZQZWl1UDVkQjVIOWZlT1R0MEtCT05UMHFBMzVWSnBwZlRsS0tyM2lUQU80WUptemwwTUQtSTRHSXo0WEpzZFEtc3VXdVlDRlBHNngzWHZkeDVIRWtyVS00V05JWEtxbnR4TFhOY2ZyMXFqLWEyeW9hcDhvSzBnZTAtSVBDTEJXM2hvMTJSM0RPcUFuT29NQzNTN0tsU2R5dnFwYmNHSUhGMXZUaHRvTGNuRdIBjAJBVV95cUxQMGlzTk1objJzTU9DTXF1aEwySklvR2QwTEV6dVA5MXhRWFBET29IVk56a1licy1VVDRvcjZKakstYy1SaHZjZzlnTG9nMWg3bmRRaGNISWRja1JjYVl5YlBaeEMyMkZLanJ6blNycnU3Y2pxbzdpalRKT0pSVHoxbFN6NklKVTJUSm1tVnFNZ1BUdUg3QVhrdzVPUk1saGticGJPdmJ3TVBuV203UnUtVGszUVJpYTlvQ1plcDVsTjRpRU95NXM5cGhNQ3JZRk5MRmtDakxGRmFRdVZrNnAwZjNKN2s4UU1LVGE2R2IxX05oMmo4Z0ZCM2dVM0JOcEpCdDRsX2h3bWF1Znhu?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "The India Cements Limited",
       "symbol": "INDIACEM",
       "exchange": "NSE",
@@ -202,7 +270,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 344.0,
+      "lastClose": 336.0,
       "catalysts": [
         {
           "label": "Copy of Newspaper Publication",
@@ -220,145 +288,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 61,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1087.1,
-      "catalysts": [
-        {
-          "label": "Infosys, Wipro ADRs surge up to 6%: What it means for Indian IT stocks on Tuesday - Livemint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Market weekly wrap: SENSEX, NIFTY50 fall 2% for 5th straight week; Infosys, HCLTech top losers - Upstox",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNlJUT2UyeEM1a0EyREdnM3R6bTdsSVlxQ3JTdUJWR3EtVFQzWkZXTG9rVVN5T0dJVlJ0bkoyLTlYdklUQVBEbE9lSGJ5bGJ2REhBTGdMYjcySmlyZm9QZzZwTHpSb2J4SnFfUnZnRnRPZDRLdEdMREpab0ZaLVBfbTFjN21sS3RxcXpVZ2lRc2dwRkdpdVJ1eWlhZnY2aW5GNGVwNGtKejlTTGpkZlBleGVWRDRyUDRLXzNwUF9xMjlpYzY2Y3Z0b2VfTk5kWGlBdy1zMDFoTVRtRThKWk1GOF9n0gHnAUFVX3lxTE9lM2RRcklMME80b0xfTHczWFhhTnRmbnFrVXV5NnZNby1fUjZiT1RnVVlWQVk4Y0FYbjNFLTBlbk9HZUtWVWJxTWlRX25tY09nbUJsX01mbTN6T0stQjM1cVVQQUpCUThla1lVVFVsSG9tUEJtQkl6WGdqbU13ZGZrQzJsNDJUdjh2VEZTVW1QQ1BsV2V0LUtVVVV6Nm1EbVV0dXpQTlcwUzVFWmF3UkoyaTY5OEhjRlNTdWdzLTdTUnpfc1didTRkenJ2Ykl6bGtyTWFGVHN2aS1tV1hLVV9ZbzQ5U25WWQ?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblJNbmJEaHdtbGQzNmllWGhuSk0yR3R6Tm8wVmt3TVI2WU00bUdwcGlvNjNlZTltMmtfeXJFTDQ2NER0ZE1HOXFHbzlIWjJTMUxDbzlyMXhiQUlGTmpReFM0WTZQOGdXNUhfekpXWGhCSTFPWFBJM3FtalowbHhkOHJTcFBkNlVMRnNJdXQ0ZVhxZWI1OFc2TXdXVUU0Qk5oZnh2eFVlTWpsa0hQbzNrNnhMWEhnMTViZ3VvM0NVWDg3TTF5M21ZRk5oajdVNl9QUjZSRV9fUGRVX28wM29lZTRPRFo?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Engineers India Limited",
-      "symbol": "ENGINERSIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 263.8,
-      "catalysts": [
-        {
-          "label": "OpenAI's $300 Million Camera Bet: ChatGPT Owner Reportedly Buys Former Apple Engineers' Camera Startup",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/openais-300-million-camera-bet-chatgpt-owner-reportedly-buys-former-apple-engineers-camera-startup-glass-imaging-12047464#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Filatex India Limited",
-      "symbol": "FILATEX",
-      "exchange": "NSE",
-      "confirmedNewsCount": 1,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 55,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 86.33,
-      "catalysts": [
-        {
-          "label": "BSE Filatex India Stock: Elliott Wave Points TP 134 - Moneymunch",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aYUlmWnJZOUJuOUlLVzRYZzJJbWhjRzdRaHJhNExxcXVVSlhfTFFreThKTEJfWDlhc2QxVWVBYmFjQS1PcjA1VjAtUEJqeDhPOC1JVnpXSnF2Q1FSdUU5VHkxU0FaOVVVWGp2OEt4Mk12Y2dUdkkwSGx5V2o4S1U?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Indian Bank",
-      "symbol": "INDIANB",
+      "company": "Premier Energies Limited",
+      "symbol": "PREMIERENE",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": -1.9,
-      "confidence": 55,
-      "riskLevel": "High",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 60,
+      "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 845.6,
+      "technicalConfidence": 67,
+      "lastClose": 945.0,
       "catalysts": [
         {
-          "label": "Top stocks to buy under \u20b9100 by Sumeet Bagadia: Inox Wind, South Indian Bank, Paisalo Digital; check stop-loss, target - Livemint",
-          "type": "results",
+          "label": "Waaree Energies, Premier Energies, Vikram Solar: US finalises steep duties on Indian solar imports; stocks in focus - Upstox",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Strikes/Lockouts/Disturbances",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
@@ -372,39 +322,39 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNS1scGhvZjdrU2VsbThsOHBJTDRKT2t2eUJaU1lsVWpTbFg0cGRNUjIxSG1ZZWo2WHFYeWcyRlBMNE1uTXlxclBfTjJsV0d6TVN2NndXYS1SVThndkE2V05KTHF4a3pTRUF3LWpuaFhKdC03YkJIQTZOdWJqbkFXX0JWaGdjcWE1MXRhRndyNldpeXpCXzFvenJ3UUJQT2lEcHlsZ3VvRjQ5MC1MblAydDB1T0ZHQ2dkU3N3RGcycWExNWJjb1VET082OUZ2NkROeEI4TVJJQ0gzN1JFWHpRS1lvdHZnTG5pcmtMMXVkSVNQMXhxTWNuc29pNnZhUDFvZHNCY29oMGNRS0NCMHkw0gGUAkFVX3lxTE8wUG0tcnhjLTZzR3hmbzlMdU01OEhDdEsySlFVQjdKVTFlSFZBckU3aVdXeVY3RU5rUlo1WTY5TVVzSzV1cXc5VnF5MC02OUw0UFFMVFFLcVFraFJJRjIwV3JqODk5eGFpQ09IaEFHam1WVTU5dGlSdzg0cjlWNE5YbUVfdjgxQWtBc0llQzBoeVdyNlpnVGN5ZklGUHdpbFBMSkh5S2V6V3hMTjljMG5MVmtNMXhBWHQyLW5kQ1ptS0lFU2FRVDZiMkVNdmdyaklRNXlPTzBYRGNEaFhrUWRJLUFCWHdyM3ZpZHRBMXRWclpxVEI1dFJ6NEpNMW1fbld2T3F5WURRZWlyT3ZxTTAyY1NmZA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMVVOZ01hMzVJdFJhYzJsbW5nZndMRHMwdW1hN1dhREIxaEhMeDREVXl1WGV4TnNycnlYenNxNDBSVlRTQ1JzRkdaVGgzY01WbnJuMFRiOFZLbGo0amRtZkk5Vl9VZWtRcWhHWEsyQnI4dHJHS1JYTW5yd1RWcjBYOHc1M21wVFVJZ3VKX3p5SmNRS1hYVG5MVEowSzFmMURpc29oQTBael9FVTRxYlVDYjZIdVIyeEVlUy16XzZDWU10aC10RUIxUGNXS1pNemhvQWtUZUJLREpEMkF3OEFKbFp3QjRuY2ZaMURNY1QxblVFaXRiOVhuemJXeTh2Zkk?oc=5",
           "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Suzlon Energy Limited",
-      "symbol": "SUZLON",
+      "company": "Solar Industries India Limited",
+      "symbol": "SOLARINDS",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Neutral watch",
-      "predictionScore": -1.8,
+      "predictionScore": -1.7,
       "confidence": 55,
       "riskLevel": "High",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 43.96,
+      "technicalConfidence": 50,
+      "lastClose": 19250.0,
       "catalysts": [
         {
-          "label": "Suzlon Energy Share Price Today, Suzlon Energy Stock Price Live NSE/BSE Updates - The Economic Times",
+          "label": "Solar Industries, Data Patterns, MTAR Tech, other defence stocks drag Nifty India Defence down 4%; here's why - Upstox",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -413,7 +363,63 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUN3NHdfQWhzcXVOLWNhSG5BZVRtajJrXzQ1TlZXVGdMVEEwdUxOSWtoZTRXcS1EUFMtcUdCdGJXOUtIbWdMbWVDV1lHcGh4a0EwSWtrM2prQ0xfV0pwVUVGS2NiRUFVaWFZZm82MGhIRXRTYkliX2FjNFVjYVp6YXE5dVFwNGs?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYTFxZGJsME1UV056dE1Yc0RpejF0bzdmYlkxejJJV3hQMGhhQU1hWjFuSHZmRmRPM0JackVqQjEwUThQTjBENFR0ajVCc0h4OVR2TkxIS0NFYXB5Zk01MDkzeVEycXl6cmVGOUQ3NEsweWZEQlpKNmxDa2lYZ2ppSVZDQUhlbWpXQV9obmZLTzdhZHJfeEQwVDNxZWRWeVZXNVRqaV84OGJ6LUc3dTlPeTFseWtSeXlYQjU0N195alp3R3lXQzRCMHRxUlA2bnFjWEIwT0dhRmhtMnYyTDlKR3ZtS0xNYlotX1NfQkZaVi1FdlJpVkE?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Neutral watch",
+      "predictionScore": 1.4,
+      "confidence": 55,
+      "riskLevel": "High",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 17,
+      "lastClose": 716.55,
+      "catalysts": [
+        {
+          "label": "HDFC Bank Leadership Change To Tata Sons Listing: What Raamdeo Agrawal Has To Say? - NDTV Profit",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Stock market today: Will Sensex, Nifty open higher? HDFC Bank to be in focus - India Today",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Share Market News: HDFC Bank shares jump 3 percent after hitting 52-week low in previous session, check key d - India.com",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNmFXYU8wQTBVSW4yQ0xVd3pZcXpaWVVkbzVKUlBxMDNnV3lfWnBYajZ2UDVYYWV3WVVpdlZ6SXFPSjBWdU5LQUNIYWVDdzZoTC1DekZ6elRfNjZ1SER5QjVKeHZvME0yNXRrRHJFcGNjbmJMRVNtTUZnYTJhbmxCdW5vQlVVYTFqTUx6UXB2ck9PUm9ZTW1vQXU3WElqSldPdmJ5N0pTZXBRNW94XzRORlRwMnhTQTJLME5SYV9oUXcwaENsV0pHelNrM0FGN3lPVlV5ZktxbEZVa2JpejdsUk1jRkp2RmNYWDdFTmhZUTVhdHJSZ3fSAf4BQVVfeXFMTXI0NzZRQ29XQ0c3U3FKeU1WbjhsckdJU3VDaGRjbzQ3YWdaT3RJOFdQM0RqOFEyNVRUQUJjc0YtYWU1aUl6QXdjc0pNNWtITWtCRmUzOE55czM4WDAxOS1mNEJhUEkxTkJjaUJyZGplODdSWkxVZ0FiMW0xVXpJeU1LRHlZbGdzeDJ4WnJMVzJYdFRzenViV2RpSDN5bXVOT1RpVEo1RG5CUllZUUc3OEhlZHV4bTJZM3lId19aTWdsZ1hkR2pzWW5VeVFRTDN3QXUxZ29sVEFfYXYwWC1RQUxHMmVZdXRaRjVKZG9VaWFkN0JLQ1A2ZTh2dUc5dEE?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZTM1SWhkQzFxOUVPRmxROEZkY0Y2bmhUcVR4RG56SWl3WmZPcmFlMXYzcGtyQnpwaVlnTmRYSk1yMFdmRjVTVDJJY3REc0hpb1B3UklzNGhGamlCS19PN0tmaHd0VS1QODZXd3FRLUpTRVpQVUt2UUFCQVlFcjZOVGZndTN4Ylotd3hUNzdNcjZRMjhHZnJJX0gyNUZWQzdtb2J5cUlUdGZJRE9NX3FPWWVseENmWHNvS2pmVmwydmpzMU5EZGNpb29KUFpqQU5meUVmdjVjdUFQdFpwVE9FMnFPVlXSAeoBQVVfeXFMUG4zR3NFa0xwUF8zekZ0Z2ZiQWdvcm0yT29XN0p4MnVGaDg2VFpYdlRhRDFCWXNub3RzRVRSSEJlOTBWUDBDVHlKMnVmMk5WT3VOT1BWcE9FZjktWmc1aVBhV2VqU3J0ZFY3N3lhUE9Gb2pjdzl0YTR3MHZaVTQwQkh6WmM4WUE5NHVaaGRRUExLLV9qWGk0X29LaS1qZVVBb0IwSk9hem9udkdPWC1LV0ZzazE5NFNzbDVLMTAwa1hnR1FfU1ZrNDBaeFljUUhTdXZPdWpDVno5RUJQU3ZmWTAxNEhWOV9DSXB3?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPNW5iaDRZaTFENk13elJ5UFJHclVwU21mcTNLQmpRNE56alp5RldVTEx3UlgwNHZ3Q2M2cjFVV2dVWGVSRVZFMG1sVHU1N0NmZFdIZnJCcWszYTFtQmNwSXdTVEdMUDhYcG1ZQjM2N3ZUVFRUUm9HQmxHZjBwMTJTR2N3dTR5TUF4VWVfREZJcDU1a2VqcVA5QnZ3dkp0S3hHd2VyQ2xiODVpNktWdHR6N2UyZWJOdXZVazlXcUpxeUNNSUFmb0YtcXc1UlprR1pwOEc5SWQweG5FdEk5R1dncFpwY2hRcEduS1NZNkowWktSMXNmTE5jTG9iOV9pRVh2YjhNWDI4ekc4SGFIUDF1WkFXemMzOG13anpXc9IBogJBVV95cUxNU0QydVF3Y2JqY1Q4VFNqejhNMjhEYkk2Sld2UlMyclZUODU0aWdyaGY3dmxKWVNoN0hoNDF2UEhuV2pZWnh0dzFxTXB2RTlvcjVsLTQ4c2RjNWNEY0pmYTlaUkdEbnU1SFBkOTIyVUo0Sl9qS1ZMMmVWN2Q5ZlFGTlIwT09SR2p0NklQQXRXeVp2NUNSSmdXRlNFYzBoNG1jYl9NTllWWDNWSFlNZVRwa29nYVFJTTZTX2tlR3M0TzRuVmdaN2pST2wxSGdLS3d5NDZYYW83WW4zejZmY1o5Yy1nS1VRRnZxS0h6U1lrTThBRGRmbzlnM2dEX3haUHh3MDBlTjlySDZNbTlpd0FxNVBvYTRiUWFJSHdpRzE3dzJtdw?oc=5",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/raamdeo-agrawal-on-indian-stock-market-hdfc-bank-leadership-change-oil-us-iran-war-us-treasury-yields-tata-sons-listing-12048602#publisher=newsstand",
           "verified": true
         }
       ],
@@ -457,10 +463,10 @@
   ],
   "tomorrow": [
     {
-      "company": "UltraTech Cement Limited",
-      "symbol": "ULTRACEMCO",
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -469,8 +475,54 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 10796.0,
+      "lastClose": 137.61,
       "catalysts": [
+        {
+          "label": "Japan Bonds Fall On Defense Spending Report Despite Solid Sale",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/japan-bonds-fall-on-defense-spending-report-despite-solid-sale-12048188#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "UltraTech Cement Limited",
+      "symbol": "ULTRACEMCO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 10697.0,
+      "catalysts": [
+        {
+          "label": "Rumour Verification - Regulation 30(11)",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
@@ -480,16 +532,48 @@
           "label": "Rumour Verification - Regulation 30(11)",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Maruti Suzuki India Limited",
+      "symbol": "MARUTI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -5.8,
+      "confidence": 80,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 12231.0,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Maruti Suzuki India Ltd continues to decline - Business Standard",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3k4bkkzbWVEZ0F5MWJfR3ZqcWV0VTN1bUZfVGcwSFZJckYtOWVvNnhicVRHMS1BRFJYZDV2VFBDX1d5X2JaaVBOTTVlV1lvM2V3Um1YWUlKZFVXRzBDdW5mTFNRU2U4QmMtWVBCYmFyRUdURW56b0dJYzdEYjlHV1Fhc01OTkZhMTc1akVjaHh3bWNITFJjZHZ5RXNGeWVMLWdZeEY5cHo1clNRcU9LaldQN04xdEhHOHEyaG5jdkUtNlBl0gHKAUFVX3lxTE5hN2FWTFNOR09kWXhVWl94Y1hUMUM3dEhmYUlEVVpoLWR3S0xUeU9UNExiS0Fjand5Y3I0bkQzUmtnZURKZGZFRWlhVVRZclQ4el93c2pQdmN4TlFUTURyak5TdThSOVBGdFg0TmZnd2RXcHBIdmxYODAyZ2FZQ1ZpS3RqcEdhWV91YUdKT0VoWVBVdjZ4UGdXUGhVUUtKdnFjanM3VUJjMnU2Q1NoemVxeHY3aWpVcDlYNVdPaDlsV09iRndRaGN3U3c?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Supreme Engineering Limited",
@@ -539,7 +623,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 3959.9,
+      "lastClose": 3877.9,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -597,6 +681,42 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "AKI India Limited",
+      "symbol": "AKI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 73,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 5.84,
+      "catalysts": [
+        {
+          "label": "Leather stocks down today: Super Tannery, AKI India, Amin Tannery, Euro-Leder Fashion under pressure; Here's why - livemint.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Price movement",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMnFNQjMtdXdyT1k5SFhBQ0tUbUdkbmpJcnd1TnN1UmtmSktRamIyeUNBZ19oeHMtMUE2NFJTa0owazZfNkxsTDhCb196SFBYN2VKQk9zSEc5Y20xZEZQZWl1UDVkQjVIOWZlT1R0MEtCT05UMHFBMzVWSnBwZlRsS0tyM2lUQU80WUptemwwTUQtSTRHSXo0WEpzZFEtc3VXdVlDRlBHNngzWHZkeDVIRWtyVS00V05JWEtxbnR4TFhOY2ZyMXFqLWEyeW9hcDhvSzBnZTAtSVBDTEJXM2hvMTJSM0RPcUFuT29NQzNTN0tsU2R5dnFwYmNHSUhGMXZUaHRvTGNuRdIBjAJBVV95cUxQMGlzTk1objJzTU9DTXF1aEwySklvR2QwTEV6dVA5MXhRWFBET29IVk56a1licy1VVDRvcjZKakstYy1SaHZjZzlnTG9nMWg3bmRRaGNISWRja1JjYVl5YlBaeEMyMkZLanJ6blNycnU3Y2pxbzdpalRKT0pSVHoxbFN6NklKVTJUSm1tVnFNZ1BUdUg3QVhrdzVPUk1saGticGJPdmJ3TVBuV203UnUtVGszUVJpYTlvQ1plcDVsTjRpRU95NXM5cGhNQ3JZRk5MRmtDakxGRmFRdVZrNnAwZjNKN2s4UU1LVGE2R2IxX05oMmo4Z0ZCM2dVM0JOcEpCdDRsX2h3bWF1Znhu?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "The India Cements Limited",
       "symbol": "INDIACEM",
       "exchange": "NSE",
@@ -609,7 +729,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 344.0,
+      "lastClose": 336.0,
       "catalysts": [
         {
           "label": "Copy of Newspaper Publication",
@@ -627,27 +747,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Indian Bank",
-      "symbol": "INDIANB",
+      "company": "Premier Energies Limited",
+      "symbol": "PREMIERENE",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
       "predictionScore": -3.2,
-      "confidence": 71,
+      "confidence": 67,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 845.6,
+      "technicalConfidence": 67,
+      "lastClose": 945.0,
       "catalysts": [
         {
-          "label": "Top stocks to buy under \u20b9100 by Sumeet Bagadia: Inox Wind, South Indian Bank, Paisalo Digital; check stop-loss, target - Livemint",
-          "type": "results",
+          "label": "Waaree Energies, Premier Energies, Vikram Solar: US finalises steep duties on Indian solar imports; stocks in focus - Upstox",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Strikes/Lockouts/Disturbances",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
@@ -661,7 +781,48 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNS1scGhvZjdrU2VsbThsOHBJTDRKT2t2eUJaU1lsVWpTbFg0cGRNUjIxSG1ZZWo2WHFYeWcyRlBMNE1uTXlxclBfTjJsV0d6TVN2NndXYS1SVThndkE2V05KTHF4a3pTRUF3LWpuaFhKdC03YkJIQTZOdWJqbkFXX0JWaGdjcWE1MXRhRndyNldpeXpCXzFvenJ3UUJQT2lEcHlsZ3VvRjQ5MC1MblAydDB1T0ZHQ2dkU3N3RGcycWExNWJjb1VET082OUZ2NkROeEI4TVJJQ0gzN1JFWHpRS1lvdHZnTG5pcmtMMXVkSVNQMXhxTWNuc29pNnZhUDFvZHNCY29oMGNRS0NCMHkw0gGUAkFVX3lxTE8wUG0tcnhjLTZzR3hmbzlMdU01OEhDdEsySlFVQjdKVTFlSFZBckU3aVdXeVY3RU5rUlo1WTY5TVVzSzV1cXc5VnF5MC02OUw0UFFMVFFLcVFraFJJRjIwV3JqODk5eGFpQ09IaEFHam1WVTU5dGlSdzg0cjlWNE5YbUVfdjgxQWtBc0llQzBoeVdyNlpnVGN5ZklGUHdpbFBMSkh5S2V6V3hMTjljMG5MVmtNMXhBWHQyLW5kQ1ptS0lFU2FRVDZiMkVNdmdyaklRNXlPTzBYRGNEaFhrUWRJLUFCWHdyM3ZpZHRBMXRWclpxVEI1dFJ6NEpNMW1fbld2T3F5WURRZWlyT3ZxTTAyY1NmZA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMVVOZ01hMzVJdFJhYzJsbW5nZndMRHMwdW1hN1dhREIxaEhMeDREVXl1WGV4TnNycnlYenNxNDBSVlRTQ1JzRkdaVGgzY01WbnJuMFRiOFZLbGo0amRtZkk5Vl9VZWtRcWhHWEsyQnI4dHJHS1JYTW5yd1RWcjBYOHc1M21wVFVJZ3VKX3p5SmNRS1hYVG5MVEowSzFmMURpc29oQTBael9FVTRxYlVDYjZIdVIyeEVlUy16XzZDWU10aC10RUIxUGNXS1pNemhvQWtUZUJLREpEMkF3OEFKbFp3QjRuY2ZaMURNY1QxblVFaXRiOVhuemJXeTh2Zkk?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Solar Industries India Limited",
+      "symbol": "SOLARINDS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -2.4,
+      "confidence": 64,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 19250.0,
+      "catalysts": [
+        {
+          "label": "Solar Industries, Data Patterns, MTAR Tech, other defence stocks drag Nifty India Defence down 4%; here's why - Upstox",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYTFxZGJsME1UV056dE1Yc0RpejF0bzdmYlkxejJJV3hQMGhhQU1hWjFuSHZmRmRPM0JackVqQjEwUThQTjBENFR0ajVCc0h4OVR2TkxIS0NFYXB5Zk01MDkzeVEycXl6cmVGOUQ3NEsweWZEQlpKNmxDa2lYZ2ppSVZDQUhlbWpXQV9obmZLTzdhZHJfeEQwVDNxZWRWeVZXNVRqaV84OGJ6LUc3dTlPeTFseWtSeXlYQjU0N195alp3R3lXQzRCMHRxUlA2bnFjWEIwT0dhRmhtMnYyTDlKR3ZtS0xNYlotX1NfQkZaVi1FdlJpVkE?oc=5",
           "verified": true
         }
       ],
@@ -671,24 +832,19 @@
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 2,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
       "predictionScore": -4.0,
-      "confidence": 70,
+      "confidence": 63,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1087.1,
+      "lastClose": 1077.0,
       "catalysts": [
         {
-          "label": "Infosys, Wipro ADRs surge up to 6%: What it means for Indian IT stocks on Tuesday - Livemint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Market weekly wrap: SENSEX, NIFTY50 fall 2% for 5th straight week; Infosys, HCLTech top losers - Upstox",
+          "label": "Infosys, Wipro ADRs surge up to 6%: What it means for Indian IT stocks on Tuesday - livemint.com",
           "type": "company news",
           "verified": true
         },
@@ -704,79 +860,28 @@
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNlJUT2UyeEM1a0EyREdnM3R6bTdsSVlxQ3JTdUJWR3EtVFQzWkZXTG9rVVN5T0dJVlJ0bkoyLTlYdklUQVBEbE9lSGJ5bGJ2REhBTGdMYjcySmlyZm9QZzZwTHpSb2J4SnFfUnZnRnRPZDRLdEdMREpab0ZaLVBfbTFjN21sS3RxcXpVZ2lRc2dwRkdpdVJ1eWlhZnY2aW5GNGVwNGtKejlTTGpkZlBleGVWRDRyUDRLXzNwUF9xMjlpYzY2Y3Z0b2VfTk5kWGlBdy1zMDFoTVRtRThKWk1GOF9n0gHnAUFVX3lxTE9lM2RRcklMME80b0xfTHczWFhhTnRmbnFrVXV5NnZNby1fUjZiT1RnVVlWQVk4Y0FYbjNFLTBlbk9HZUtWVWJxTWlRX25tY09nbUJsX01mbTN6T0stQjM1cVVQQUpCUThla1lVVFVsSG9tUEJtQkl6WGdqbU13ZGZrQzJsNDJUdjh2VEZTVW1QQ1BsV2V0LUtVVVV6Nm1EbVV0dXpQTlcwUzVFWmF3UkoyaTY5OEhjRlNTdWdzLTdTUnpfc1didTRkenJ2Ykl6bGtyTWFGVHN2aS1tV1hLVV9ZbzQ5U25WWQ?oc=5",
           "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblJNbmJEaHdtbGQzNmllWGhuSk0yR3R6Tm8wVmt3TVI2WU00bUdwcGlvNjNlZTltMmtfeXJFTDQ2NER0ZE1HOXFHbzlIWjJTMUxDbzlyMXhiQUlGTmpReFM0WTZQOGdXNUhfekpXWGhCSTFPWFBJM3FtalowbHhkOHJTcFBkNlVMRnNJdXQ0ZVhxZWI1OFc2TXdXVUU0Qk5oZnh2eFVlTWpsa0hQbzNrNnhMWEhnMTViZ3VvM0NVWDg3TTF5M21ZRk5oajdVNl9QUjZSRV9fUGRVX28wM29lZTRPRFo?oc=5",
-          "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Suzlon Energy Limited",
-      "symbol": "SUZLON",
+      "company": "Kfin Technologies Limited",
+      "symbol": "KFINTECH",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 2,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 69,
+      "predictionScore": -2.9,
+      "confidence": 59,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 43.96,
+      "lastClose": 884.8,
       "catalysts": [
         {
-          "label": "Suzlon Energy Share Price Today, Suzlon Energy Stock Price Live NSE/BSE Updates - The Economic Times",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUN3NHdfQWhzcXVOLWNhSG5BZVRtajJrXzQ1TlZXVGdMVEEwdUxOSWtoZTRXcS1EUFMtcUdCdGJXOUtIbWdMbWVDV1lHcGh4a0EwSWtrM2prQ0xfV0pwVUVGS2NiRUFVaWFZZm82MGhIRXRTYkliX2FjNFVjYVp6YXE5dVFwNGs?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Engineers India Limited",
-      "symbol": "ENGINERSIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.2,
-      "confidence": 67,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 263.8,
-      "catalysts": [
-        {
-          "label": "OpenAI's $300 Million Camera Bet: ChatGPT Owner Reportedly Buys Former Apple Engineers' Camera Startup",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
-          "type": "announcement",
+          "label": "Steamhouse India IPO allotment status: How to check online on NSE, BSE, KFin Technologies; listing date, time here - Upstox",
+          "type": "corporate action",
           "verified": true
         },
         {
@@ -788,123 +893,11 @@
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/openais-300-million-camera-bet-chatgpt-owner-reportedly-buys-former-apple-engineers-camera-startup-glass-imaging-12047464#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Filatex India Limited",
-      "symbol": "FILATEX",
-      "exchange": "NSE",
-      "confirmedNewsCount": 1,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 66,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 86.33,
-      "catalysts": [
-        {
-          "label": "BSE Filatex India Stock: Elliott Wave Points TP 134 - Moneymunch",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aYUlmWnJZOUJuOUlLVzRYZzJJbWhjRzdRaHJhNExxcXVVSlhfTFFreThKTEJfWDlhc2QxVWVBYmFjQS1PcjA1VjAtUEJqeDhPOC1JVnpXSnF2Q1FSdUU5VHkxU0FaOVVVWGp2OEt4Mk12Y2dUdkkwSGx5V2o4S1U?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUThKTjBLaVRQVWRJbEtYOEJzRndPTzlTLXRscDBrVUNTYmloVmE5M0hvaGEzWFE5amZGdnFoWHRSMkdaWTREZHowMXlta01kRXNZZHZIMmhBVW5iUGxZYlE1bEZYVGFrZEFLYm41QzhUM2oxY05RTFZLYlZwcjNDZFVKOFk3SzFlcFZ4eDQ5YVRzYk1rVzBIV2ZyTXpzNzVmS1lPcmxwanFiNkltRTZxUm80YTlNZXRMN0sxcUx4d2pZX1o5QTUtTVFmeWNlVEZyZ1hkUUR5bVE4R1o1eDk2NExPbFUyZFN5QUtrSzdMOWNjY1h1cnlCbTZn?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bharat Petroleum Corporation Limited",
-      "symbol": "BPCL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Neutral watch",
-      "predictionScore": 1.4,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 305.3,
-      "catalysts": [
-        {
-          "label": "PSU dividend kings: ONGC, BPCL, HPCL, Coal India, among top 8 PSU stocks with highest dividend yield | Crown goes to? - IndiaIPO",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "PSU dividend kings: ONGC, BPCL, HPCL, Coal India, among top 8 PSU stocks with highest dividend yield | Crown goes to? - Livemint",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWFJnS3R6UHlMSmtxeVVBLVVJalNoaEJMRzd4RU9zVC1zU3FjM05tTDVfWGhTSUcwQUQ0THBRMVhCbXBMcm1lVDZkTFZjVE8tUW5XMzlJQTNwVmxNeHQ2WktRekluYi1LZ3NHTlRha0pSNmljdS1fTDd6QjJ3aDRGZ2VEaU9ack5seF9hcTF4MVNCbVJMNUozLUczVzdFMEZjMkl5aHhzRHNYUVRyNUY5TTZYU1U1VUNzYm40MDc0Z2VOZUtwRmFidTdsaVpfQkNST3B5REJLeXBUZ0tUVEE?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWGdLR24ybUJGN3FVUDhjUWpEUlpuYW5FZHpCNnd0OEtIendQSEMwelJTSi00TUtJTmtIcGFxTVBJNUVtY0ROMTVQSFpfdk1OUmJhUldEdlRWMmNaQjlfTHdMZ2hEMlBTS0xCSlJ0QzNxLVFGVE40TmstVnFsazV4U0dyVnhxbklfUXZEaU9rT2RJbnFVczU0a2JRNUNQcGY1WXY2YVNKaHU1WExlUnVnbHM3QXlZWVNsRENKcWpVMmloQkxKcm9xQ0dyaG9yNjJuQnZrLUo1dHFlOVR0MEVBeWlhT0JWSGhEQTVmenN1bXhfd1V1WXpaT3FUY1BpNEktZVhpcDBpQ0J1OFHSAZACQVVfeXFMT1pJdW4tVlNRaGxsMW5zM0NTTTItZHFmSmpLalVheHphVmRxZUQ3YkZaLU5PbnBEczI3aHFWcTF6c3p2UzJoaDNwbDQ4azEtekVINUFFdVhtcUkyQ0tCYXNOQ0kwQ0pLdF9kS1V6YlRJTHBTRW5wLWpGQ3NsZ3NSNzFEMzhzb1VydU9XMDNWbWxIM244ajlNTWhtb0lmUUJwems3Mzg5X2ozQzM3VThkRkpILXpqVUs3SmNzeXlxZDNxdVN6ZWRXZC0zaVd0bHNaNjZ4bHR6STdaMkh4MEh4QXUtcTdCQS10dktSZ2ZidWk2LWUwZEJYVkdRVEZaeVpjbGxyNmVCMlgya1d1MHdKcE4?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Coforge Limited",
-      "symbol": "COFORGE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 15,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Neutral watch",
-      "predictionScore": 0.8,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 1818.0,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
