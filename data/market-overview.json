@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T18:17:19+00:00",
+  "updatedAt": "2026-09-17T22:52:36+00:00",
   "instruments": [
     {
       "name": "Nifty 50",
@@ -7,14 +7,18 @@
       "type": "index",
       "market": "NSE",
       "nseIndex": "NIFTY 50",
-      "price": 23270.6,
-      "asOf": "2026-09-17",
-      "change1d": 0.23,
-      "change1w": -0.69,
-      "change1m": -3.66,
+      "price": 23217.6,
+      "asOf": "2026-09-16",
+      "change1d": 0.43,
+      "change1w": -1.77,
+      "change1m": -4.41,
       "rangeLow": 23118.6,
       "rangeHigh": 24334.55,
       "chart": [
+        {
+          "date": "2026-06-16",
+          "close": 23989.15
+        },
         {
           "date": "2026-06-17",
           "close": 24085.7
@@ -270,10 +274,6 @@
         {
           "date": "2026-09-16",
           "close": 23217.6
-        },
-        {
-          "date": "2026-09-17",
-          "close": 23270.6
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ENSEI"
@@ -283,14 +283,18 @@
       "symbol": "^BSESN",
       "type": "index",
       "market": "BSE",
-      "price": 74314.59,
-      "asOf": "2026-09-17",
-      "change1d": -0.03,
-      "change1w": -0.6,
-      "change1m": -3.78,
+      "price": 74336.45,
+      "asOf": "2026-09-16",
+      "change1d": 0.45,
+      "change1w": -1.64,
+      "change1m": -4.36,
       "rangeLow": 74003.82,
-      "rangeHigh": 77656.09,
+      "rangeHigh": 77728.16,
       "chart": [
+        {
+          "date": "2026-06-16",
+          "close": 76808.48
+        },
         {
           "date": "2026-06-17",
           "close": 77155.62
@@ -546,10 +550,6 @@
         {
           "date": "2026-09-16",
           "close": 74336.45
-        },
-        {
-          "date": "2026-09-17",
-          "close": 74314.59
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5EBSESN"
@@ -560,14 +560,18 @@
       "type": "index",
       "market": "NSE",
       "nseIndex": "NIFTY BANK",
-      "price": 56055.75,
-      "asOf": "2026-09-17",
-      "change1d": -0.42,
-      "change1w": -0.43,
-      "change1m": -2.11,
+      "price": 56292.45,
+      "asOf": "2026-09-16",
+      "change1d": 0.89,
+      "change1w": -0.85,
+      "change1m": -2.1,
       "rangeLow": 55794.75,
       "rangeHigh": 58024.95,
       "chart": [
+        {
+          "date": "2026-06-16",
+          "close": 57297.15
+        },
         {
           "date": "2026-06-17",
           "close": 57585.05
@@ -823,10 +827,6 @@
         {
           "date": "2026-09-16",
           "close": 56292.45
-        },
-        {
-          "date": "2026-09-17",
-          "close": 56055.75
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ENSEBANK"
@@ -837,14 +837,18 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY IT",
-      "price": 29155.6,
-      "asOf": "2026-09-17",
-      "change1d": 0.23,
-      "change1w": 0.84,
-      "change1m": -3.5,
+      "price": 29087.65,
+      "asOf": "2026-09-16",
+      "change1d": -1.58,
+      "change1w": -2.66,
+      "change1m": -5.58,
       "rangeLow": 28890.9,
       "rangeHigh": 31496.7,
       "chart": [
+        {
+          "date": "2026-06-16",
+          "close": 28568.1
+        },
         {
           "date": "2026-06-17",
           "close": 28809.55
@@ -1100,10 +1104,6 @@
         {
           "date": "2026-09-16",
           "close": 29087.65
-        },
-        {
-          "date": "2026-09-17",
-          "close": 29155.6
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXIT"
@@ -1668,14 +1668,18 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY PHARMA",
-      "price": 26579.25,
-      "asOf": "2026-09-17",
-      "change1d": 1.66,
-      "change1w": -0.42,
-      "change1m": 0.82,
+      "price": 26146.2,
+      "asOf": "2026-09-16",
+      "change1d": -0.16,
+      "change1w": -2.73,
+      "change1m": -0.74,
       "rangeLow": 26146.2,
       "rangeHigh": 27186.45,
       "chart": [
+        {
+          "date": "2026-06-16",
+          "close": 24157.85
+        },
         {
           "date": "2026-06-17",
           "close": 24146.55
@@ -1931,10 +1935,6 @@
         {
           "date": "2026-09-16",
           "close": 26146.2
-        },
-        {
-          "date": "2026-09-17",
-          "close": 26579.25
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXPHARMA"
@@ -1944,14 +1944,18 @@
       "symbol": "^INDIAVIX",
       "type": "volatility",
       "market": "NSE",
-      "price": 12.29,
-      "asOf": "2026-09-17",
-      "change1d": -6.68,
-      "change1w": 3.1,
-      "change1m": 7.9,
+      "price": 13.17,
+      "asOf": "2026-09-16",
+      "change1d": -1.94,
+      "change1w": 17.28,
+      "change1m": 16.24,
       "rangeLow": 10.57,
       "rangeHigh": 13.43,
       "chart": [
+        {
+          "date": "2026-06-16",
+          "close": 13.36
+        },
         {
           "date": "2026-06-17",
           "close": 13.19
@@ -2207,10 +2211,6 @@
         {
           "date": "2026-09-16",
           "close": 13.17
-        },
-        {
-          "date": "2026-09-17",
-          "close": 12.29
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5EINDIAVIX"
@@ -2221,11 +2221,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 4402.9,
+      "price": 4387.3,
       "asOf": "2026-09-17",
-      "change1d": 0.35,
-      "change1w": -0.1,
-      "change1m": -0.4,
+      "change1d": -0.0,
+      "change1w": -0.45,
+      "change1m": -0.75,
       "rangeLow": 4332.8,
       "rangeHigh": 4697.8,
       "chart": [
@@ -2487,7 +2487,7 @@
         },
         {
           "date": "2026-09-17",
-          "close": 4402.9
+          "close": 4387.3
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF"
@@ -2498,11 +2498,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 66.11,
+      "price": 65.87,
       "asOf": "2026-09-17",
-      "change1d": 2.83,
-      "change1w": 2.85,
-      "change1m": 3.39,
+      "change1d": 2.46,
+      "change1w": 2.47,
+      "change1m": 3.02,
       "rangeLow": 63.24,
       "rangeHigh": 69.47,
       "chart": [
@@ -2764,7 +2764,7 @@
         },
         {
           "date": "2026-09-17",
-          "close": 66.11
+          "close": 65.87
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/SI%3DF"
@@ -2775,11 +2775,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / lb",
-      "price": 6.65,
+      "price": 6.62,
       "asOf": "2026-09-17",
-      "change1d": 3.42,
-      "change1w": 2.78,
-      "change1m": 2.62,
+      "change1d": 2.95,
+      "change1w": 2.32,
+      "change1m": 2.16,
       "rangeLow": 6.33,
       "rangeHigh": 6.8,
       "chart": [
@@ -3041,7 +3041,7 @@
         },
         {
           "date": "2026-09-17",
-          "close": 6.65
+          "close": 6.62
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/HG%3DF"
@@ -3052,11 +3052,11 @@
       "type": "energy",
       "market": "Global",
       "unit": "USD / barrel",
-      "price": 101.82,
+      "price": 101.17,
       "asOf": "2026-09-17",
-      "change1d": -0.6,
-      "change1w": -0.64,
-      "change1m": 19.87,
+      "change1d": -1.23,
+      "change1w": -1.28,
+      "change1m": 19.11,
       "rangeLow": 82.23,
       "rangeHigh": 105.83,
       "chart": [
@@ -3318,7 +3318,7 @@
         },
         {
           "date": "2026-09-17",
-          "close": 101.82
+          "close": 101.17
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/CL%3DF"
@@ -3410,7 +3410,7 @@
         "symbol": "BEL",
         "company": "Bharat Electronics Ltd.",
         "industry": "Capital Goods",
-        "lastPrice": null,
+        "lastPrice": 395.45,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -4136,7 +4136,7 @@
         "symbol": "HEROMOTOCO",
         "company": "Hero MotoCorp Ltd.",
         "industry": "Automobile and Auto Components",
-        "lastPrice": 5325.0,
+        "lastPrice": null,
         "change": null,
         "pChange": null,
         "volume": null,
