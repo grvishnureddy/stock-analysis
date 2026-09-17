@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T00:34:38+00:00",
+  "generatedAt": "2026-09-17T07:43:09+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -16,7 +16,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 10697.0,
+      "lastClose": 10808.0,
       "catalysts": [
         {
           "label": "Copy of Newspaper Publication",
@@ -74,41 +74,56 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "NBCC (India) Limited",
-      "symbol": "NBCC",
+      "company": "IFCI Limited",
+      "symbol": "IFCI",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
+      "confirmedNewsCount": 6,
+      "gossipCount": 1,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.5,
-      "confidence": 77,
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 72,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 81.41,
+      "technicalConfidence": 50,
+      "lastClose": 77.17,
       "catalysts": [
         {
-          "label": "NBCC India bags multiple orders worth \u20b9145 crore; shares tumble 34% year-to-date - upstox.com",
-          "type": "company news",
+          "label": "IFCI, New India Assurance Shares Rally as NSE IPO Opens for Subscription - India Infoline",
+          "type": "corporate action",
           "verified": true
         },
         {
-          "label": "Updates",
-          "type": "announcement",
+          "label": "NSE IPO: IFCI, New India Assurance, other stocks rally up to 9% as Rs 22,569 crore IPO opens. How much exp - The Economic Times",
+          "type": "corporate action",
           "verified": true
         },
         {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
+          "label": "NSE IPO buzz lifts New India Assurance, IFCI up to 9% | What do technical experts say? - livemint.com",
+          "type": "corporate action",
+          "verified": false
         }
       ],
       "risks": [],
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS09Zdkp3d0xjRTM4azg4LWFKS0lTY2NTVG1vYndOQzlVOWtHaDlHQkt5emtDaTR0ZVFqVFpLci0tNVlkVTJFTEhONENhNjBpUWdBNGVCSThyajlQUFBIQ082d0VURlhsSThfamhDNWJJNlkyZU5reER2a0Q2LWxEMi1CalRhamd4YjdKMU9DTGVrX1pQRHZlUzBYM0pzcFNoOTFZSXBWQ0ZwM3hHNktOV01GS2VQLXN4dE5mZkJBc0F4a0RPMFpQZXZvTm5fc09vbGc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQajJfdmV3alpqWXFkcnFZQWpsOUJnMVdyNHN0emZVclhfZUl0TzlOajcwamtNTzZxTHVIMmNxbmlCU1c5dzN0NFQ3R0xkeGtBbU9FUExCVGlQaDh1ekFGQkU5Uzg0RkF5OU43elhzNGd0MjR6aElJY2hLVnVERjVhaHFlbjQxelgyQkpTZ1RVTFNGMExsNjAwZTJGTnhVbG5UaEt4QzRTMkVtUlVHNVEw?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPeFd4V3hON2pvVFNMa3NUbU1lMVpuSkU0N0lOZGhLcDB3b25sZDNmVlpxeUpnTWNVazdJVEdxMkJnTXh0ZGFfaXRPN2pnUkRPZjRMOVdzbWk1amFTSXBlZ3B3ZmUwMkNLdlluNG9HakNGSDUtZ0Rpbnd6eklwOWo4YVBsUUdMdGxpNHEzTWRXZ0d1Q0FuYy00SXB5ZkZrUko1NUFQMnhaZTRiYVg3ZENNWmJhM1B0VUYzR2xVdlFXSXN5YzJya2lTMjhLcGQ3OTBfMThxRGhmZUZUSVZVQU1mVHlQbVFEZEltVFBfN0Zkbko3elQ0VHAzMWpyOFFkTnhKNktING1iaFlib3NISl9uN0dnRUNXd0RwVkxhQ9IBogJBVV95cUxPbGd4UF92Z0x3ck04blNwMHdxQjc3aGpMdzF1WFZqeEo1UDlmUTM3N0JjYjhRRWxvSGk1Q2pxcFliRUJyNWVRNmZhLUJWX2pBTlhNUEJ2ZWFGS3E0WlZZMG1FcENMYnFEZk90WE1UTjJ1X2I1cVpKaTNyTl9xSlJnVy1RdWh5RmJyWjY1S0hlbHE5SHhsNXJfdUlxZnRNTmtXeDIyc0J1YWFodXJVcDhjdGRoU1E5T2gtNjlScG53dGNBVktPYnpFMThxVURENndhYmlNcnhmampFZjktd1RxVzdieVBmRXA5QlFKYzdpSUVKT2dvbENEakx3Q0RxV2Z0SFIzUVl2dVczZ0EyTExIVFgtSzEwQXJLeVgtQUhLME1HUQ?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdEtlbFplYmNzOFpkdy1adnFtdUNISHBSeEJUZEx6THZPM2kzNUJkNDUyaTFlMXlIUWtBY1JTM1BoaDJveEMtaXdROGZ5RXdwdS13Vkt3ZGRwWHFfTkpIcFRMa3k3dXBBZl9LeHliRThhdW9Td29CUWhxNFBiel9sWmUxQWVTLUtueXVVSWVXRVUxSnNsZ1JJOHVXS3A4cDI4c0VyekFWRUdjdlNOYjl5U1BPSmNFdGVJcTNpX0NZRmdQQjd1clQzejEyNjR1U1dERW1fYWY1ZUxtXzdWWDVZbXVxR2dkUdIB6wFBVV95cUxPckg1aW93Mk1SOEtMN2kxRmxhclJWM0JGdjZ2c0FLRkU2VFlzc3hyVjBRYnNPUjMzTXp4dzVMS1lRcTc5X2Rid3hEY05MOTNwWm1RX2hSRENVazFOa2VDN3FMV3Q5SjYyWFZQamNyX1k2bi13LXdxVElUWGVXRDRlTDlOeGk0WFFWN0REWk0xczFJc0ZuQVlER2FLUkJhTDdFUlQ3YXNteGJqbWd3VnpXTG9OdVZyQzJ4a09lVzBENjZlWXNfUVM3VnBkRi1XV1dCQWZfcnhsa2xfSm9wYklwaUlVcW82YWZnM0pV?oc=5",
+          "verified": false
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb01RZktlcDdpWDREOVNxYUNHNjJjTlVGaU5GTjVCOWhiV20yWUxpeXlKNGRZNUYtekkyU2tCb2oyd0JHTFFKY00tdW1KTUN0eGhPb21EQ0dlSTRaUzRsNEQ0MEVTd2RVUUNwRWtNaWRRTzc1NnpZcmg4M1MzVUFJYTZzN0ZCdEZkcVRBTUJvQzlEekFwX2JueHA1QTl3OXJBSU1VMGtFSG8xQUIxR1lzeWR1V2ZmcjY2Q3l0RThkOUNoWWdXOV9QQzdOczJFSmhXcVdFaklSb28wdTFObE0tSkRTTUtFMUJDUWfSAe8BQVVfeXFMUDFfZTNXc2FoTHp4TXk2YVg5VUM2bXdOSHd3QXZnNkhhaGppcTdHQl9KMXRSOTJrNXM4M2trelI5QzRDR2d6RnAzUzF1YW5WSVNsV0I3dUZIdURRalZuNy0zZlc0bThZaHdmQUxuWll4Y3k4aEI0SVIycXYyVmp0YlhNdzdnVUFoam9BcXRoV2RFdlBVLXdwTHRld09Od0c5MDVvekxNVkxUUXQ5bmxYR2VjMFdWUUF4WjZqZXM1X1U4cmt3T284WFFNc2tGajBEYjZJNjFKNXplcWk2ZU9HQmJFM0tYSjdHVVpsTlBMTlE?oc=5",
           "verified": true
         }
       ],
@@ -127,7 +142,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 336.0,
+      "lastClose": 350.95,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -150,6 +165,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 67,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1017.1,
+      "catalysts": [
+        {
+          "label": "Sensex Today Trades Flat | Nifty Above 23,200 | Bajaj Finance & Bharat Elec Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbVo4YTFTcWlkTEhUUlc4ODRUUzFEaXJ3Q1VGRGJWTUdiYmlWWGlENm5fbFRnR0ZtWFcwcEVybGIxaDhQSUZrY1BQS0tHSkZxaWpEWXZ5R2VCbnl4TWRLOVJCZnd6NVpCZnh1SFZMa19iZGNDSEtQckcycWFtRVlVQmI2eVpWMGpPYWQyaVd1cnFJUzFSWFZnYzBHMldrUmJqNjVTSTltRVltTFJ1eG91YV9qbUxGYmlsc0l0VFZWRnk3Wnp4aENfaDM3bGpDSmh5ZldvLTdGSHhHOUE?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "The Orissa Minerals Development Company Limited",
       "symbol": "ORISSAMINE",
       "exchange": "NSE",
@@ -162,7 +218,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 3877.9,
+      "lastClose": 3883.6,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -188,22 +244,17 @@
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 2,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 61,
+      "predictionScore": -3.3,
+      "confidence": 62,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1060.0,
+      "technicalConfidence": 100,
+      "lastClose": 1053.0,
       "catalysts": [
-        {
-          "label": "Top stocks in focus tomorrow: Investors must watch Infosys, Mazagon Dock shares on Thursday, 17 Sept | Triggers - Livemint",
-          "type": "company news",
-          "verified": true
-        },
         {
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
@@ -216,13 +267,7 @@
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSkVRNzR3ekhOU3JUaWVYUzI1RE9qT1lRY3lNUDQyM3lLZG1oNnJPYzVPSlNya0I1ZWtjejYyam14Vkw4OWpPdmhkd1dLaHJtNlo2dnRaYXpSa1V6TElLX3JGcHM4SXNDZlRPX3Q2Rk02eE9tOWNqSHBLalhSSkJGckpqQ0QxZ1VtZ3VTUkpmbjZPQkFJc29fd19pZUR5dUZsVC1DN1I1blA3NUN1SHMzNHd2czRrS2pwMWhwbEtkeWFDOTZNemRQWGdLVENWRGVSQkMwNDR3QVJiSUZ2WXBwTG5UUTJMV0dSbkgyeU5vVdIB9AFBVV95cUxOb2xMNEkyZjFpY281bVZpZ2xxVXdNTUV1WEc3dklnTklWWjlpQUlvd0JzTXdNRF91SHZxZGFzbXVpd2dRVU9vTHJWcGFvM0RMSEtRRkIwZHUtZUJQaTZxWFVxN3l1ekVrN0VSLUhVT21EU3VXVVNLZkl0WmJjcG43ZVd1WGJQT010MXVjLS11aEp4U2tYbG1tX1RhOVJ2LXJZZHp2Z0wtVW9hOENtNVBUNUNSZmlIaGZlZXFnOGNINUEyenhNanplWk5Pb3F1cC1pbmJYVFM4SGlySU1wUjgtXzJkY0hZTXlkVWl4b2FsZzR2TTB5?oc=5",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -238,7 +283,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 3.39,
+      "lastClose": 3.51,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -296,33 +341,58 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
+      "company": "Bharat Petroleum Corporation Limited",
+      "symbol": "BPCL",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 1.9,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
-      "lastClose": 721.5,
+      "direction": "Negative watch",
+      "predictionScore": -2.0,
+      "confidence": 56,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 306.15,
       "catalysts": [
         {
-          "label": "HDFC Bank Leadership Change To Tata Sons Listing: What Raamdeo Agrawal Has To Say? - ndtvprofit.com",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Action(s) initiated or orders passed",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Indian Bank",
+      "symbol": "INDIANB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 1,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 55,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 847.2,
+      "catalysts": [
+        {
+          "label": "US Fed rate hike impact on Indian banking: FOMC outcome effect on bank stocks - livemint.com",
           "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure of material issue",
-          "type": "announcement",
           "verified": true
         }
       ],
@@ -330,15 +400,15 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNmFXYU8wQTBVSW4yQ0xVd3pZcXpaWVVkbzVKUlBxMDNnV3lfWnBYajZ2UDVYYWV3WVVpdlZ6SXFPSjBWdU5LQUNIYWVDdzZoTC1DekZ6elRfNjZ1SER5QjVKeHZvME0yNXRrRHJFcGNjbmJMRVNtTUZnYTJhbmxCdW5vQlVVYTFqTUx6UXB2ck9PUm9ZTW1vQXU3WElqSldPdmJ5N0pTZXBRNW94XzRORlRwMnhTQTJLME5SYV9oUXcwaENsV0pHelNrM0FGN3lPVlV5ZktxbEZVa2JpejdsUk1jRkp2RmNYWDdFTmhZUTVhdHJSZ3fSAf4BQVVfeXFMTXI0NzZRQ29XQ0c3U3FKeU1WbjhsckdJU3VDaGRjbzQ3YWdaT3RJOFdQM0RqOFEyNVRUQUJjc0YtYWU1aUl6QXdjc0pNNWtITWtCRmUzOE55czM4WDAxOS1mNEJhUEkxTkJjaUJyZGplODdSWkxVZ0FiMW0xVXpJeU1LRHlZbGdzeDJ4WnJMVzJYdFRzenViV2RpSDN5bXVOT1RpVEo1RG5CUllZUUc3OEhlZHV4bTJZM3lId19aTWdsZ1hkR2pzWW5VeVFRTDN3QXUxZ29sVEFfYXYwWC1RQUxHMmVZdXRaRjVKZG9VaWFkN0JLQ1A2ZTh2dUc5dEE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMEF6Y3A4bnVXUDJiTWtxb0UyUmhwVktPZUtlZmRmdUF6cUFyLVNTOTJ0UVFUaUhJdGRYQ29Gd0JTN015UnY2STRTXzVIdmtfQk1aSjJocFZTR1VXNnplbHlJZF9yc2lSMnMzOWhkb2s5dDB4dlZPeVh1REtYRnlBd2hCNnotbDYwSFNELXpTeDByRFBDMXlaMFpEaG9TRnBNa3FkOGtzUkRHQnhyWkE1Z1B3TU9MaDVHLUpoazFLX1pTS3BZSnRCTVdpOWRkVWVHY09KN2lVZWZ3bWhDeFZV0gHkAUFVX3lxTE5oZEhVV0R2cTItbjQ3OUxsT2JjcGhrNWRMU3l1c1ExNlZrOEdRaUg0NzlSdGtwbXhyazBvd05oY1k5OTI4TWg2enRIdUhDdTBtNDVFUE5rYWdNU1RuRnZHbGcwYU55SlhRZFhYOEVrb0w5Nm1ZbEhmcTRQb1lVTlJseC1nSk4ycFQwaTgyaXkwUVN3Z09nbi1iOWpGMmpicjFESlRNaGM3Mk12LWFndTVrM0xXZDQ4Y0JuUDRCb3d1VGhoaEpEWkYyT2NVUTZiNzBJd3VJZVNQWGREem95YTlMM2Y2cQ?oc=5",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Solar Industries India Limited",
-      "symbol": "SOLARINDS",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -349,56 +419,15 @@
       "riskLevel": "High",
       "technicalSignal": "Bearish",
       "technicalConfidence": 50,
-      "lastClose": 18900.0,
+      "lastClose": 1251.4,
       "catalysts": [
         {
-          "label": "Solar Industries, Data Patterns, MTAR Tech, other defence stocks drag Nifty India Defence down 4%; here's why - upstox.com",
+          "label": "Personal Loan Interest Rates September 2026: Axis Bank, HDFC Bank, ICICI Bank And Others \u2014 Check Rates, EMIs",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYTFxZGJsME1UV056dE1Yc0RpejF0bzdmYlkxejJJV3hQMGhhQU1hWjFuSHZmRmRPM0JackVqQjEwUThQTjBENFR0ajVCc0h4OVR2TkxIS0NFYXB5Zk01MDkzeVEycXl6cmVGOUQ3NEsweWZEQlpKNmxDa2lYZ2ppSVZDQUhlbWpXQV9obmZLTzdhZHJfeEQwVDNxZWRWeVZXNVRqaV84OGJ6LUc3dTlPeTFseWtSeXlYQjU0N195alp3R3lXQzRCMHRxUlA2bnFjWEIwT0dhRmhtMnYyTDlKR3ZtS0xNYlotX1NfQkZaVi1FdlJpVkE?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Hero MotoCorp Limited",
-      "symbol": "HEROMOTOCO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": -1.4,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 5166.0,
-      "catalysts": [
-        {
-          "label": "Buy, Sell Or Hold: Hero MotoCorp, Vishal Mega Mart, M&M, Laurus Labs And Waaree Energies \u2014 Ask Profit",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         },
@@ -412,45 +441,10 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-hero-motocorp-vishal-mega-mart-m-m-laurus-labs-and-waaree-energies-ask-profit-12056432#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/personal-finance/personal-loan-interest-rates-september-2026-axis-bank-hdfc-bank-icici-bank-and-others-check-rates-emis-12053354#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Coforge Limited",
-      "symbol": "COFORGE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 14,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": -1.1,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
-      "lastClose": 1766.7,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
@@ -468,7 +462,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 10697.0,
+      "lastClose": 10808.0,
       "catalysts": [
         {
           "label": "Copy of Newspaper Publication",
@@ -526,47 +520,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "NBCC (India) Limited",
-      "symbol": "NBCC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 81.41,
-      "catalysts": [
-        {
-          "label": "NBCC India bags multiple orders worth \u20b9145 crore; shares tumble 34% year-to-date - upstox.com",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS09Zdkp3d0xjRTM4azg4LWFKS0lTY2NTVG1vYndOQzlVOWtHaDlHQkt5emtDaTR0ZVFqVFpLci0tNVlkVTJFTEhONENhNjBpUWdBNGVCSThyajlQUFBIQ082d0VURlhsSThfamhDNWJJNlkyZU5reER2a0Q2LWxEMi1CalRhamd4YjdKMU9DTGVrX1pQRHZlUzBYM0pzcFNoOTFZSXBWQ0ZwM3hHNktOV01GS2VQLXN4dE5mZkJBc0F4a0RPMFpQZXZvTm5fc09vbGc?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "The India Cements Limited",
       "symbol": "INDIACEM",
       "exchange": "NSE",
@@ -579,7 +532,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 336.0,
+      "lastClose": 350.95,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -593,6 +546,77 @@
         },
         {
           "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 74,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1017.1,
+      "catalysts": [
+        {
+          "label": "Sensex Today Trades Flat | Nifty Above 23,200 | Bajaj Finance & Bharat Elec Top Gainers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbVo4YTFTcWlkTEhUUlc4ODRUUzFEaXJ3Q1VGRGJWTUdiYmlWWGlENm5fbFRnR0ZtWFcwcEVybGIxaDhQSUZrY1BQS0tHSkZxaWpEWXZ5R2VCbnl4TWRLOVJCZnd6NVpCZnh1SFZMa19iZGNDSEtQckcycWFtRVlVQmI2eVpWMGpPYWQyaVd1cnFJUzFSWFZnYzBHMldrUmJqNjVTSTltRVltTFJ1eG91YV9qbUxGYmlsc0l0VFZWRnk3Wnp4aENfaDM3bGpDSmh5ZldvLTdGSHhHOUE?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 73,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1053.0,
+      "catalysts": [
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -614,7 +638,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 3.39,
+      "lastClose": 3.51,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -637,47 +661,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 70,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1060.0,
-      "catalysts": [
-        {
-          "label": "Top stocks in focus tomorrow: Investors must watch Infosys, Mazagon Dock shares on Thursday, 17 Sept | Triggers - Livemint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSkVRNzR3ekhOU3JUaWVYUzI1RE9qT1lRY3lNUDQyM3lLZG1oNnJPYzVPSlNya0I1ZWtjejYyam14Vkw4OWpPdmhkd1dLaHJtNlo2dnRaYXpSa1V6TElLX3JGcHM4SXNDZlRPX3Q2Rk02eE9tOWNqSHBLalhSSkJGckpqQ0QxZ1VtZ3VTUkpmbjZPQkFJc29fd19pZUR5dUZsVC1DN1I1blA3NUN1SHMzNHd2czRrS2pwMWhwbEtkeWFDOTZNemRQWGdLVENWRGVSQkMwNDR3QVJiSUZ2WXBwTG5UUTJMV0dSbkgyeU5vVdIB9AFBVV95cUxOb2xMNEkyZjFpY281bVZpZ2xxVXdNTUV1WEc3dklnTklWWjlpQUlvd0JzTXdNRF91SHZxZGFzbXVpd2dRVU9vTHJWcGFvM0RMSEtRRkIwZHUtZUJQaTZxWFVxN3l1ekVrN0VSLUhVT21EU3VXVVNLZkl0WmJjcG43ZVd1WGJQT010MXVjLS11aEp4U2tYbG1tX1RhOVJ2LXJZZHp2Z0wtVW9hOENtNVBUNUNSZmlIaGZlZXFnOGNINUEyenhNanplWk5Pb3F1cC1pbmJYVFM4SGlySU1wUjgtXzJkY0hZTXlkVWl4b2FsZzR2TTB5?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "The Orissa Minerals Development Company Limited",
       "symbol": "ORISSAMINE",
       "exchange": "NSE",
@@ -690,7 +673,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 3877.9,
+      "lastClose": 3883.6,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -713,6 +696,169 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Indian Bank",
+      "symbol": "INDIANB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 1,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 66,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 847.2,
+      "catalysts": [
+        {
+          "label": "US Fed rate hike impact on Indian banking: FOMC outcome effect on bank stocks - livemint.com",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMEF6Y3A4bnVXUDJiTWtxb0UyUmhwVktPZUtlZmRmdUF6cUFyLVNTOTJ0UVFUaUhJdGRYQ29Gd0JTN015UnY2STRTXzVIdmtfQk1aSjJocFZTR1VXNnplbHlJZF9yc2lSMnMzOWhkb2s5dDB4dlZPeVh1REtYRnlBd2hCNnotbDYwSFNELXpTeDByRFBDMXlaMFpEaG9TRnBNa3FkOGtzUkRHQnhyWkE1Z1B3TU9MaDVHLUpoazFLX1pTS3BZSnRCTVdpOWRkVWVHY09KN2lVZWZ3bWhDeFZV0gHkAUFVX3lxTE5oZEhVV0R2cTItbjQ3OUxsT2JjcGhrNWRMU3l1c1ExNlZrOEdRaUg0NzlSdGtwbXhyazBvd05oY1k5OTI4TWg2enRIdUhDdTBtNDVFUE5rYWdNU1RuRnZHbGcwYU55SlhRZFhYOEVrb0w5Nm1ZbEhmcTRQb1lVTlJseC1nSk4ycFQwaTgyaXkwUVN3Z09nbi1iOWpGMmpicjFESlRNaGM3Mk12LWFndTVrM0xXZDQ4Y0JuUDRCb3d1VGhoaEpEWkYyT2NVUTZiNzBJd3VJZVNQWGREem95YTlMM2Y2cQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "IFCI Limited",
+      "symbol": "IFCI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 1,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.3,
+      "confidence": 66,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 77.17,
+      "catalysts": [
+        {
+          "label": "IFCI, New India Assurance Shares Rally as NSE IPO Opens for Subscription - India Infoline",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "NSE IPO: IFCI, New India Assurance, other stocks rally up to 9% as Rs 22,569 crore IPO opens. How much exp - The Economic Times",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "NSE IPO buzz lifts New India Assurance, IFCI up to 9% | What do technical experts say? - livemint.com",
+          "type": "corporate action",
+          "verified": false
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQajJfdmV3alpqWXFkcnFZQWpsOUJnMVdyNHN0emZVclhfZUl0TzlOajcwamtNTzZxTHVIMmNxbmlCU1c5dzN0NFQ3R0xkeGtBbU9FUExCVGlQaDh1ekFGQkU5Uzg0RkF5OU43elhzNGd0MjR6aElJY2hLVnVERjVhaHFlbjQxelgyQkpTZ1RVTFNGMExsNjAwZTJGTnhVbG5UaEt4QzRTMkVtUlVHNVEw?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPeFd4V3hON2pvVFNMa3NUbU1lMVpuSkU0N0lOZGhLcDB3b25sZDNmVlpxeUpnTWNVazdJVEdxMkJnTXh0ZGFfaXRPN2pnUkRPZjRMOVdzbWk1amFTSXBlZ3B3ZmUwMkNLdlluNG9HakNGSDUtZ0Rpbnd6eklwOWo4YVBsUUdMdGxpNHEzTWRXZ0d1Q0FuYy00SXB5ZkZrUko1NUFQMnhaZTRiYVg3ZENNWmJhM1B0VUYzR2xVdlFXSXN5YzJya2lTMjhLcGQ3OTBfMThxRGhmZUZUSVZVQU1mVHlQbVFEZEltVFBfN0Zkbko3elQ0VHAzMWpyOFFkTnhKNktING1iaFlib3NISl9uN0dnRUNXd0RwVkxhQ9IBogJBVV95cUxPbGd4UF92Z0x3ck04blNwMHdxQjc3aGpMdzF1WFZqeEo1UDlmUTM3N0JjYjhRRWxvSGk1Q2pxcFliRUJyNWVRNmZhLUJWX2pBTlhNUEJ2ZWFGS3E0WlZZMG1FcENMYnFEZk90WE1UTjJ1X2I1cVpKaTNyTl9xSlJnVy1RdWh5RmJyWjY1S0hlbHE5SHhsNXJfdUlxZnRNTmtXeDIyc0J1YWFodXJVcDhjdGRoU1E5T2gtNjlScG53dGNBVktPYnpFMThxVURENndhYmlNcnhmampFZjktd1RxVzdieVBmRXA5QlFKYzdpSUVKT2dvbENEakx3Q0RxV2Z0SFIzUVl2dVczZ0EyTExIVFgtSzEwQXJLeVgtQUhLME1HUQ?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdEtlbFplYmNzOFpkdy1adnFtdUNISHBSeEJUZEx6THZPM2kzNUJkNDUyaTFlMXlIUWtBY1JTM1BoaDJveEMtaXdROGZ5RXdwdS13Vkt3ZGRwWHFfTkpIcFRMa3k3dXBBZl9LeHliRThhdW9Td29CUWhxNFBiel9sWmUxQWVTLUtueXVVSWVXRVUxSnNsZ1JJOHVXS3A4cDI4c0VyekFWRUdjdlNOYjl5U1BPSmNFdGVJcTNpX0NZRmdQQjd1clQzejEyNjR1U1dERW1fYWY1ZUxtXzdWWDVZbXVxR2dkUdIB6wFBVV95cUxPckg1aW93Mk1SOEtMN2kxRmxhclJWM0JGdjZ2c0FLRkU2VFlzc3hyVjBRYnNPUjMzTXp4dzVMS1lRcTc5X2Rid3hEY05MOTNwWm1RX2hSRENVazFOa2VDN3FMV3Q5SjYyWFZQamNyX1k2bi13LXdxVElUWGVXRDRlTDlOeGk0WFFWN0REWk0xczFJc0ZuQVlER2FLUkJhTDdFUlQ3YXNteGJqbWd3VnpXTG9OdVZyQzJ4a09lVzBENjZlWXNfUVM3VnBkRi1XV1dCQWZfcnhsa2xfSm9wYklwaUlVcW82YWZnM0pV?oc=5",
+          "verified": false
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb01RZktlcDdpWDREOVNxYUNHNjJjTlVGaU5GTjVCOWhiV20yWUxpeXlKNGRZNUYtekkyU2tCb2oyd0JHTFFKY00tdW1KTUN0eGhPb21EQ0dlSTRaUzRsNEQ0MEVTd2RVUUNwRWtNaWRRTzc1NnpZcmg4M1MzVUFJYTZzN0ZCdEZkcVRBTUJvQzlEekFwX2JueHA1QTl3OXJBSU1VMGtFSG8xQUIxR1lzeWR1V2ZmcjY2Q3l0RThkOUNoWWdXOV9QQzdOczJFSmhXcVdFaklSb28wdTFObE0tSkRTTUtFMUJDUWfSAe8BQVVfeXFMUDFfZTNXc2FoTHp4TXk2YVg5VUM2bXdOSHd3QXZnNkhhaGppcTdHQl9KMXRSOTJrNXM4M2trelI5QzRDR2d6RnAzUzF1YW5WSVNsV0I3dUZIdURRalZuNy0zZlc0bThZaHdmQUxuWll4Y3k4aEI0SVIycXYyVmp0YlhNdzdnVUFoam9BcXRoV2RFdlBVLXdwTHRld09Od0c5MDVvekxNVkxUUXQ5bmxYR2VjMFdWUUF4WjZqZXM1X1U4cmt3T284WFFNc2tGajBEYjZJNjFKNXplcWk2ZU9HQmJFM0tYSjdHVVpsTlBMTlE?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bharat Petroleum Corporation Limited",
+      "symbol": "BPCL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 64,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 306.15,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Action(s) initiated or orders passed",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -2.4,
+      "confidence": 64,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 1251.4,
+      "catalysts": [
+        {
+          "label": "Personal Loan Interest Rates September 2026: Axis Bank, HDFC Bank, ICICI Bank And Others \u2014 Check Rates, EMIs",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/personal-finance/personal-loan-interest-rates-september-2026-axis-bank-hdfc-bank-icici-bank-and-others-check-rates-emis-12053354#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Hero MotoCorp Limited",
       "symbol": "HEROMOTOCO",
       "exchange": "NSE",
@@ -720,12 +866,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -2.9,
-      "confidence": 66,
+      "predictionScore": -2.1,
+      "confidence": 57,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 5166.0,
+      "technicalConfidence": 83,
+      "lastClose": 5311.0,
       "catalysts": [
         {
           "label": "Buy, Sell Or Hold: Hero MotoCorp, Vishal Mega Mart, M&M, Laurus Labs And Waaree Energies \u2014 Ask Profit",
@@ -751,169 +897,6 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Solar Industries India Limited",
-      "symbol": "SOLARINDS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.4,
-      "confidence": 64,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 18900.0,
-      "catalysts": [
-        {
-          "label": "Solar Industries, Data Patterns, MTAR Tech, other defence stocks drag Nifty India Defence down 4%; here's why - upstox.com",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYTFxZGJsME1UV056dE1Yc0RpejF0bzdmYlkxejJJV3hQMGhhQU1hWjFuSHZmRmRPM0JackVqQjEwUThQTjBENFR0ajVCc0h4OVR2TkxIS0NFYXB5Zk01MDkzeVEycXl6cmVGOUQ3NEsweWZEQlpKNmxDa2lYZ2ppSVZDQUhlbWpXQV9obmZLTzdhZHJfeEQwVDNxZWRWeVZXNVRqaV84OGJ6LUc3dTlPeTFseWtSeXlYQjU0N195alp3R3lXQzRCMHRxUlA2bnFjWEIwT0dhRmhtMnYyTDlKR3ZtS0xNYlotX1NfQkZaVi1FdlJpVkE?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Nestle India Limited",
-      "symbol": "NESTLEIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 1362.0,
-      "catalysts": [
-        {
-          "label": "Nestl\u00e9 India (NESTLEIND) Share/Stock Price Live NSE/BSE - techgraph.co",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "RIL, HUL, Nestle, Tata Consumer, Hyundai shares on the rise today | Key things to know - Livemint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qZGxIaWZZUW1jX2xMT1o0czF3Zm8zcDYySkMzdHotZ2ZOMFpJWWI3TVRrUDdqRUljNERxWFNKRXRHMzRzTUQyamhBVFU3bmdrSWtHdFJZSmtSQmtDSEZ3dk5EZw?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYXU1aHZLZzBfWkNoeTczLVJPMDJwUXJiYnhyQmEyazJQNnNVMUpJY3FRMzRPWlRqNks1R1NnVlZ4SVQ3c2F4SGJWY3NlZzhib2RnQzlYT2V5cjdWWFNQcUFZYlc2MWpERWxEYkxiaEdDQUc4dmR1SzdXVThENTZmb0pROHE4U2w1R2lRUV9jTmFuMlNyUmFBeU1PWFpVVWc2c2swd092ZEhqLXItSUNwRDJQMXp5N3RmQW55N2wycDBWVlQ5MnlKbnlEa3VBbWxseVppSERPWGwtcGJZU0VHcVN1VGNJeGcyR1RHLTNFONIB9AFBVV95cUxPNTYxa3NpOTJORXg5QmNTM05iWTBCempXaUh4THJPX1AxX2tWOEhGcDVUZ2VKSmJoRUtJOG5TbnhJY0M2RWhCLTV3bFUzTFVGc2NCZ3BaQlJ2VGNhd29EbGl5eUxIRldwbFRUTV94N3hIU25LNEhuWTlSeFBnVFJ3UVJYODFtNFQ4RXR4aXpYYlFVQkozdzBzRDFZeWxubTNfRG9YX3pOeUllWFhyVUdOTHRmd3ZOM2pMa1c1Yzdfa1JUM2VJZVNYUHZOTjdkb0R0VFM5UXlraU0wbkIxZ0J4OVpHV1EzY1hrNmp0VW0wU180anU2?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.4,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
-      "lastClose": 721.5,
-      "catalysts": [
-        {
-          "label": "HDFC Bank Leadership Change To Tata Sons Listing: What Raamdeo Agrawal Has To Say? - ndtvprofit.com",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure of material issue",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNmFXYU8wQTBVSW4yQ0xVd3pZcXpaWVVkbzVKUlBxMDNnV3lfWnBYajZ2UDVYYWV3WVVpdlZ6SXFPSjBWdU5LQUNIYWVDdzZoTC1DekZ6elRfNjZ1SER5QjVKeHZvME0yNXRrRHJFcGNjbmJMRVNtTUZnYTJhbmxCdW5vQlVVYTFqTUx6UXB2ck9PUm9ZTW1vQXU3WElqSldPdmJ5N0pTZXBRNW94XzRORlRwMnhTQTJLME5SYV9oUXcwaENsV0pHelNrM0FGN3lPVlV5ZktxbEZVa2JpejdsUk1jRkp2RmNYWDdFTmhZUTVhdHJSZ3fSAf4BQVVfeXFMTXI0NzZRQ29XQ0c3U3FKeU1WbjhsckdJU3VDaGRjbzQ3YWdaT3RJOFdQM0RqOFEyNVRUQUJjc0YtYWU1aUl6QXdjc0pNNWtITWtCRmUzOE55czM4WDAxOS1mNEJhUEkxTkJjaUJyZGplODdSWkxVZ0FiMW0xVXpJeU1LRHlZbGdzeDJ4WnJMVzJYdFRzenViV2RpSDN5bXVOT1RpVEo1RG5CUllZUUc3OEhlZHV4bTJZM3lId19aTWdsZ1hkR2pzWW5VeVFRTDN3QXUxZ29sVEFfYXYwWC1RQUxHMmVZdXRaRjVKZG9VaWFkN0JLQ1A2ZTh2dUc5dEE?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Focus Lighting and Fixtures Limited",
-      "symbol": "FOCUS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 56,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release (Revised)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
