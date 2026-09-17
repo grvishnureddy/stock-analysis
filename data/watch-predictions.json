@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T21:23:15+00:00",
+  "generatedAt": "2026-09-17T00:34:38+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,7 +7,7 @@
       "company": "UltraTech Cement Limited",
       "symbol": "ULTRACEMCO",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -74,41 +74,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Focus Lighting and Fixtures Limited",
-      "symbol": "FOCUS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release (Revised)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "NBCC (India) Limited",
       "symbol": "NBCC",
       "exchange": "NSE",
@@ -116,15 +81,15 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -2.4,
+      "predictionScore": -2.5,
       "confidence": 77,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 80.69,
+      "lastClose": 81.41,
       "catalysts": [
         {
-          "label": "NBCC India bags multiple orders worth \u20b9145 crore; shares tumble 34% year-to-date - Upstox",
+          "label": "NBCC India bags multiple orders worth \u20b9145 crore; shares tumble 34% year-to-date - upstox.com",
           "type": "company news",
           "verified": true
         },
@@ -150,19 +115,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Supreme Engineering Limited",
-      "symbol": "SUPREMEENG",
+      "company": "The India Cements Limited",
+      "symbol": "INDIACEM",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 67,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 69,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 3.39,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 336.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -170,13 +135,13 @@
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Shareholders meeting",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -220,36 +185,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "The India Cements Limited",
-      "symbol": "INDIACEM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 62,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 336.0,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
@@ -262,15 +197,15 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1077.0,
+      "lastClose": 1060.0,
       "catalysts": [
         {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
+          "label": "Top stocks in focus tomorrow: Investors must watch Infosys, Mazagon Dock shares on Thursday, 17 Sept | Triggers - Livemint",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
@@ -281,8 +216,125 @@
         }
       ],
       "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSkVRNzR3ekhOU3JUaWVYUzI1RE9qT1lRY3lNUDQyM3lLZG1oNnJPYzVPSlNya0I1ZWtjejYyam14Vkw4OWpPdmhkd1dLaHJtNlo2dnRaYXpSa1V6TElLX3JGcHM4SXNDZlRPX3Q2Rk02eE9tOWNqSHBLalhSSkJGckpqQ0QxZ1VtZ3VTUkpmbjZPQkFJc29fd19pZUR5dUZsVC1DN1I1blA3NUN1SHMzNHd2czRrS2pwMWhwbEtkeWFDOTZNemRQWGdLVENWRGVSQkMwNDR3QVJiSUZ2WXBwTG5UUTJMV0dSbkgyeU5vVdIB9AFBVV95cUxOb2xMNEkyZjFpY281bVZpZ2xxVXdNTUV1WEc3dklnTklWWjlpQUlvd0JzTXdNRF91SHZxZGFzbXVpd2dRVU9vTHJWcGFvM0RMSEtRRkIwZHUtZUJQaTZxWFVxN3l1ekVrN0VSLUhVT21EU3VXVVNLZkl0WmJjcG43ZVd1WGJQT010MXVjLS11aEp4U2tYbG1tX1RhOVJ2LXJZZHp2Z0wtVW9hOENtNVBUNUNSZmlIaGZlZXFnOGNINUEyenhNanplWk5Pb3F1cC1pbmJYVFM4SGlySU1wUjgtXzJkY0hZTXlkVWl4b2FsZzR2TTB5?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Supreme Engineering Limited",
+      "symbol": "SUPREMEENG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 60,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 3.39,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Focus Lighting and Fixtures Limited",
+      "symbol": "FOCUS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 56,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release (Revised)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Neutral watch",
+      "predictionScore": 1.9,
+      "confidence": 55,
+      "riskLevel": "High",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 721.5,
+      "catalysts": [
+        {
+          "label": "HDFC Bank Leadership Change To Tata Sons Listing: What Raamdeo Agrawal Has To Say? - ndtvprofit.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Disclosure of material issue",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNmFXYU8wQTBVSW4yQ0xVd3pZcXpaWVVkbzVKUlBxMDNnV3lfWnBYajZ2UDVYYWV3WVVpdlZ6SXFPSjBWdU5LQUNIYWVDdzZoTC1DekZ6elRfNjZ1SER5QjVKeHZvME0yNXRrRHJFcGNjbmJMRVNtTUZnYTJhbmxCdW5vQlVVYTFqTUx6UXB2ck9PUm9ZTW1vQXU3WElqSldPdmJ5N0pTZXBRNW94XzRORlRwMnhTQTJLME5SYV9oUXcwaENsV0pHelNrM0FGN3lPVlV5ZktxbEZVa2JpejdsUk1jRkp2RmNYWDdFTmhZUTVhdHJSZ3fSAf4BQVVfeXFMTXI0NzZRQ29XQ0c3U3FKeU1WbjhsckdJU3VDaGRjbzQ3YWdaT3RJOFdQM0RqOFEyNVRUQUJjc0YtYWU1aUl6QXdjc0pNNWtITWtCRmUzOE55czM4WDAxOS1mNEJhUEkxTkJjaUJyZGplODdSWkxVZ0FiMW0xVXpJeU1LRHlZbGdzeDJ4WnJMVzJYdFRzenViV2RpSDN5bXVOT1RpVEo1RG5CUllZUUc3OEhlZHV4bTJZM3lId19aTWdsZ1hkR2pzWW5VeVFRTDN3QXUxZ29sVEFfYXYwWC1RQUxHMmVZdXRaRjVKZG9VaWFkN0JLQ1A2ZTh2dUc5dEE?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Solar Industries India Limited",
@@ -297,10 +349,10 @@
       "riskLevel": "High",
       "technicalSignal": "Bearish",
       "technicalConfidence": 50,
-      "lastClose": 19250.0,
+      "lastClose": 18900.0,
       "catalysts": [
         {
-          "label": "Solar Industries, Data Patterns, MTAR Tech, other defence stocks drag Nifty India Defence down 4%; here's why - Upstox",
+          "label": "Solar Industries, Data Patterns, MTAR Tech, other defence stocks drag Nifty India Defence down 4%; here's why - upstox.com",
           "type": "company news",
           "verified": true
         },
@@ -326,52 +378,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Nestle India Limited",
-      "symbol": "NESTLEIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": -1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 1362.0,
-      "catalysts": [
-        {
-          "label": "Nestl\u00e9 India (NESTLEIND) Share/Stock Price Live NSE/BSE - TechGraph",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "RIL, HUL, Nestle, Tata Consumer, Hyundai shares on the rise today | Key things to know - Livemint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qZGxIaWZZUW1jX2xMT1o0czF3Zm8zcDYySkMzdHotZ2ZOMFpJWWI3TVRrUDdqRUljNERxWFNKRXRHMzRzTUQyamhBVFU3bmdrSWtHdFJZSmtSQmtDSEZ3dk5EZw?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYXU1aHZLZzBfWkNoeTczLVJPMDJwUXJiYnhyQmEyazJQNnNVMUpJY3FRMzRPWlRqNks1R1NnVlZ4SVQ3c2F4SGJWY3NlZzhib2RnQzlYT2V5cjdWWFNQcUFZYlc2MWpERWxEYkxiaEdDQUc4dmR1SzdXVThENTZmb0pROHE4U2w1R2lRUV9jTmFuMlNyUmFBeU1PWFpVVWc2c2swd092ZEhqLXItSUNwRDJQMXp5N3RmQW55N2wycDBWVlQ5MnlKbnlEa3VBbWxseVppSERPWGwtcGJZU0VHcVN1VGNJeGcyR1RHLTNFONIB9AFBVV95cUxPNTYxa3NpOTJORXg5QmNTM05iWTBCempXaUh4THJPX1AxX2tWOEhGcDVUZ2VKSmJoRUtJOG5TbnhJY0M2RWhCLTV3bFUzTFVGc2NCZ3BaQlJ2VGNhd29EbGl5eUxIRldwbFRUTV94N3hIU25LNEhuWTlSeFBnVFJ3UVJYODFtNFQ4RXR4aXpYYlFVQkozdzBzRDFZeWxubTNfRG9YX3pOeUllWFhyVUdOTHRmd3ZOM2pMa1c1Yzdfa1JUM2VJZVNYUHZOTjdkb0R0VFM5UXlraU0wbkIxZ0J4OVpHV1EzY1hrNmp0VW0wU180anU2?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Hero MotoCorp Limited",
       "symbol": "HEROMOTOCO",
       "exchange": "NSE",
@@ -379,7 +385,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Neutral watch",
-      "predictionScore": -1.3,
+      "predictionScore": -1.4,
       "confidence": 55,
       "riskLevel": "High",
       "technicalSignal": "Bearish",
@@ -413,32 +419,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Venus Pipes & Tubes Limited",
-      "symbol": "VENUSPIPES",
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Neutral watch",
-      "predictionScore": 0.8,
+      "predictionScore": -1.1,
       "confidence": 55,
       "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 1766.7,
       "catalysts": [
         {
-          "label": "Shareholders meeting",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Issue of Securities",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -453,7 +459,7 @@
       "company": "UltraTech Cement Limited",
       "symbol": "ULTRACEMCO",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -527,15 +533,15 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -3.9,
+      "predictionScore": -4.0,
       "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 80.69,
+      "lastClose": 81.41,
       "catalysts": [
         {
-          "label": "NBCC India bags multiple orders worth \u20b9145 crore; shares tumble 34% year-to-date - Upstox",
+          "label": "NBCC India bags multiple orders worth \u20b9145 crore; shares tumble 34% year-to-date - upstox.com",
           "type": "company news",
           "verified": true
         },
@@ -561,32 +567,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Focus Lighting and Fixtures Limited",
-      "symbol": "FOCUS",
+      "company": "The India Cements Limited",
+      "symbol": "INDIACEM",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
       "confidence": 80,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 336.0,
       "catalysts": [
         {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release (Revised)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -599,12 +605,12 @@
       "company": "Supreme Engineering Limited",
       "symbol": "SUPREMEENG",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 3.7,
-      "confidence": 78,
+      "confidence": 71,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
@@ -631,36 +637,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "The India Cements Limited",
-      "symbol": "INDIACEM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 336.0,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
@@ -673,15 +649,15 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1077.0,
+      "lastClose": 1060.0,
       "catalysts": [
         {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
+          "label": "Top stocks in focus tomorrow: Investors must watch Infosys, Mazagon Dock shares on Thursday, 17 Sept | Triggers - Livemint",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
@@ -692,7 +668,13 @@
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSkVRNzR3ekhOU3JUaWVYUzI1RE9qT1lRY3lNUDQyM3lLZG1oNnJPYzVPSlNya0I1ZWtjejYyam14Vkw4OWpPdmhkd1dLaHJtNlo2dnRaYXpSa1V6TElLX3JGcHM4SXNDZlRPX3Q2Rk02eE9tOWNqSHBLalhSSkJGckpqQ0QxZ1VtZ3VTUkpmbjZPQkFJc29fd19pZUR5dUZsVC1DN1I1blA3NUN1SHMzNHd2czRrS2pwMWhwbEtkeWFDOTZNemRQWGdLVENWRGVSQkMwNDR3QVJiSUZ2WXBwTG5UUTJMV0dSbkgyeU5vVdIB9AFBVV95cUxOb2xMNEkyZjFpY281bVZpZ2xxVXdNTUV1WEc3dklnTklWWjlpQUlvd0JzTXdNRF91SHZxZGFzbXVpd2dRVU9vTHJWcGFvM0RMSEtRRkIwZHUtZUJQaTZxWFVxN3l1ekVrN0VSLUhVT21EU3VXVVNLZkl0WmJjcG43ZVd1WGJQT010MXVjLS11aEp4U2tYbG1tX1RhOVJ2LXJZZHp2Z0wtVW9hOENtNVBUNUNSZmlIaGZlZXFnOGNINUEyenhNanplWk5Pb3F1cC1pbmJYVFM4SGlySU1wUjgtXzJkY0hZTXlkVWl4b2FsZzR2TTB5?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -738,7 +720,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -2.8,
+      "predictionScore": -2.9,
       "confidence": 66,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
@@ -784,10 +766,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 50,
-      "lastClose": 19250.0,
+      "lastClose": 18900.0,
       "catalysts": [
         {
-          "label": "Solar Industries, Data Patterns, MTAR Tech, other defence stocks drag Nifty India Defence down 4%; here's why - Upstox",
+          "label": "Solar Industries, Data Patterns, MTAR Tech, other defence stocks drag Nifty India Defence down 4%; here's why - upstox.com",
           "type": "company news",
           "verified": true
         },
@@ -816,19 +798,19 @@
       "company": "Nestle India Limited",
       "symbol": "NESTLEIND",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -2.5,
-      "confidence": 62,
+      "predictionScore": -3.2,
+      "confidence": 60,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
       "lastClose": 1362.0,
       "catalysts": [
         {
-          "label": "Nestl\u00e9 India (NESTLEIND) Share/Stock Price Live NSE/BSE - TechGraph",
+          "label": "Nestl\u00e9 India (NESTLEIND) Share/Stock Price Live NSE/BSE - techgraph.co",
           "type": "company news",
           "verified": true
         },
@@ -859,32 +841,73 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Coforge Limited",
-      "symbol": "COFORGE",
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 20,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Neutral watch",
-      "predictionScore": 0.8,
-      "confidence": 55,
-      "riskLevel": "High",
+      "direction": "Positive watch",
+      "predictionScore": 2.4,
+      "confidence": 60,
+      "riskLevel": "Standard",
       "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 1775.5,
+      "technicalConfidence": 33,
+      "lastClose": 721.5,
       "catalysts": [
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "HDFC Bank Leadership Change To Tata Sons Listing: What Raamdeo Agrawal Has To Say? - ndtvprofit.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Disclosure of material issue",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNmFXYU8wQTBVSW4yQ0xVd3pZcXpaWVVkbzVKUlBxMDNnV3lfWnBYajZ2UDVYYWV3WVVpdlZ6SXFPSjBWdU5LQUNIYWVDdzZoTC1DekZ6elRfNjZ1SER5QjVKeHZvME0yNXRrRHJFcGNjbmJMRVNtTUZnYTJhbmxCdW5vQlVVYTFqTUx6UXB2ck9PUm9ZTW1vQXU3WElqSldPdmJ5N0pTZXBRNW94XzRORlRwMnhTQTJLME5SYV9oUXcwaENsV0pHelNrM0FGN3lPVlV5ZktxbEZVa2JpejdsUk1jRkp2RmNYWDdFTmhZUTVhdHJSZ3fSAf4BQVVfeXFMTXI0NzZRQ29XQ0c3U3FKeU1WbjhsckdJU3VDaGRjbzQ3YWdaT3RJOFdQM0RqOFEyNVRUQUJjc0YtYWU1aUl6QXdjc0pNNWtITWtCRmUzOE55czM4WDAxOS1mNEJhUEkxTkJjaUJyZGplODdSWkxVZ0FiMW0xVXpJeU1LRHlZbGdzeDJ4WnJMVzJYdFRzenViV2RpSDN5bXVOT1RpVEo1RG5CUllZUUc3OEhlZHV4bTJZM3lId19aTWdsZ1hkR2pzWW5VeVFRTDN3QXUxZ29sVEFfYXYwWC1RQUxHMmVZdXRaRjVKZG9VaWFkN0JLQ1A2ZTh2dUc5dEE?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Focus Lighting and Fixtures Limited",
+      "symbol": "FOCUS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 56,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Press Release (Revised)",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
