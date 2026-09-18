@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T04:47:27+00:00",
+  "generatedAt": "2026-09-18T11:19:12+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,12 +11,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
+      "predictionScore": -2.8,
+      "confidence": 89,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 10980.0,
+      "technicalConfidence": 83,
+      "lastClose": 11014.0,
       "catalysts": [
         {
           "label": "Copy of Newspaper Publication",
@@ -39,33 +39,85 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "IFCI Limited",
-      "symbol": "IFCI",
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.8,
+      "direction": "Negative watch",
+      "predictionScore": -6.2,
       "confidence": 88,
-      "riskLevel": "Standard",
+      "riskLevel": "Medium",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 76.54,
+      "technicalConfidence": 67,
+      "lastClose": 1372.4,
       "catalysts": [
         {
-          "label": "New India Assurance, IFCI Ride On NSE IPO Wave: Here's Why Shares Zoomed Up To 9% - NDTV Profit",
-          "type": "results",
+          "label": "Nestle India share price falls 3%: FSSAI takes legal action over 3 baby products - Livemint",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "NSE IPO impact: IFCI, New India Assurance, GIC RE shares rally up to 9% - Business Standard",
-          "type": "corporate action",
+          "label": "News Verification",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "IFCI, New India Assurance Shares Rally as NSE IPO Opens for Subscription - India Infoline",
-          "type": "corporate action",
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "FSSAI Cracks Down On Nestle India Over Infant Formula Products; Flags Claims In NAN Excella Pro, Lactogen Pro",
+          "type": "risk",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/fssai-cracks-down-on-nestle-india-over-infant-formula-products-flags-claims-in-nan-excella-pro-lactogen-pro-12063548#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZFpNV2pETEhqLTV3dW83bDNYQnV1TWJrQloxWTZZb1Utei1aeEw3LUQ3OEpnMkNEdkt1R2g2dzdkUGZIT2REY3hhU0Fob1pKeWdYclJBSVcyTEV4QWREaEI1eHBxVU1KamZsbG9lX0xNSkpLaEdTZWpHSk0zbUtlbGF5WjFlbTBkQnJLOVktaG9vOUZzVU9GYWZvb255bk9Da1NiZGI4a3BNRGlKX3IxQlctSVVkRTRUMWNlR0tGX1VTbVZhUlZQU3JMN1I3U2NMNXJaRWtlMkpxc0dpckwyallR0gHnAUFVX3lxTE1qR0JLT0Z5ZEVfTTBJVGFEMnVkejFRb2RUS3AyUHotdE1tXzhpQTZNbGNwUnlybjNKSC1ubkJmeU1vclBqVzQ3MWtsNXhKT1BkbEFFYUJLUkVFLWZEYWZpbHFuRHhUeFBSWmgtRTdyR0poQmpzWWdIbjRjeGFXU0pjek9Gd3dONl95SzFnQUFkVHZwbnA5MkZ5SDhFaWpaRklrRXc1VTZOSkRLR0xYN3dndVUwc1YxOF9WdWRnaDViSWZ0THhnTDhMTURTSmJSd3drRnpqVlBIT20wTHl1ZE9melZpLXJzTQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "CESC Limited",
+      "symbol": "CESC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 141.53,
+      "catalysts": [
+        {
+          "label": "Adani Energy vs CESC vs Tata Power vs NTPC vs Power Grid: Which stock has more upside? Target price by PL Capital - Livemint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -73,105 +125,39 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXMtcFlyNXFqaWg1Q1E4N0VJOFBlMy1xWGlfX1BwVzV4N3g2MEY1RDBXRS1OVGRkNFRfZjNraUF0V0QxUnE4VnZXTW1WQTh2ZUxsbjJWOEUxRk5qNTB2NUZGR0dZVWtTM3IydU52aVNDeUJDY1U4ZjE2R1BPUUo3RmdSWEVnYVpGRUoyVjJ1c3Y0alN3SmtEbDV0U0M2RUppai1IX2NqejNOd0NXbzJyZ3NKQVE3T1R1NXZDa2dn0gHGAUFVX3lxTE9zblJ1WjUya3RZa1lfWUFfaVNPMlZiX1p0Ny1Pb1AxSW1OWWlOSWRkd2U1Z3RvS3dGdW45UFBlMk5sQ0xub0dIM3J4VjZMTkVlclgwRjBUejRqbFFOMzdicHpzOHNRU1FrVmJzdjNsQVVDRlZsSVY3VzdkRmxRMkU0SmlWbHh3VmtEOHZMaFFRWU5IcmVtTFBVZHV1Yl9XZG5WR2YwWlZJMnM3Z0t1TUVtV0ZEcHpLb2xXbktQbFZfOEtCNkR5QQ?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUjBhRTl6OGtXMXRpY2hmc0RYeWo0a3NJQkhOM0xKeU9JeXlIc0VCM3d1TTZSaUhIT1ZySnV1T3NtR0xyMWROTWVpNnRFc1ZuZGUyczVJM2hEMWk1OEJCVXpvcXZvTWFZV2JLTGtWWmF6SUU2a1pSV0JoTDl4cDdBSERyUTc4cUw1UV9CcVl5VEVrei1sM1pnUHRoOWVfTXNLX3N5a0FwR1NtYUhudy15bmtuSlRxYm92ZzZkM0lLc3o5cG5jMGlSWjFVVkt6eEHSAdQBQVVfeXFMTjlhb3I4dUk1ZkprX3RQNXJRYXZPdk5Vb2RXMzlrd0x6UHR6NWhfZUU0WkVsUUhueXFZNTJITnNaYWRUTVZkckRTVUhTb2pUenNuNXZOYTRSYWM2TTNBZG5WdFJzNXQ1dktCUWNpU3NyN09zcmdYYmV0amkxRXpDLXNrMGdaZjgyM2lYNUk0UWx0c3JyMHVWZS1salBYLW41NTV6cS1VR29aQXUwWU1IeVIxdFo2YVlTaVhONzVqVU9FQ0tiZHJBakJfaE5LWlNsNi1INng?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQajJfdmV3alpqWXFkcnFZQWpsOUJnMVdyNHN0emZVclhfZUl0TzlOajcwamtNTzZxTHVIMmNxbmlCU1c5dzN0NFQ3R0xkeGtBbU9FUExCVGlQaDh1ekFGQkU5Uzg0RkF5OU43elhzNGd0MjR6aElJY2hLVnVERjVhaHFlbjQxelgyQkpTZ1RVTFNGMExsNjAwZTJGTnhVbG5UaEt4QzRTMkVtUlVHNVEw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQ1h1czJ6MG1IMVJvSlhNTWFBQ3FnNjZxMlBaV2xQR0t2eUprTkNoVVRwbVNEUEwzZlZPdmlhZm1JUzlaYllMdkFoTzlTVzNiUUNSclJyMWtadHU1NFdZcTZXcDZKWG9lZnd2ZEJWOWNsYlJwN3M5M3dORGUxQ2dtNWJEUThPOXE5eTFSOVFvTzdoeFdia3FzdU95bEZUbmpZbF91enJTQ1VpS1I0bGNpMXRUZFNaeTdzZVduMlVNOTFZNlFGSXVoTkpFLVhtcEJwZmZrTk94b0JmNkZWZFZLRTAwVEZVRFRZY3kyOTZVWUY2Y0FhbW44Z3R0OGE4dnVCSkRxUlZ3XzNKb1hPUFHSAZMCQVVfeXFMTTNHTGhVWTk3QkI4dC1STXZVaXFmRzhwNEJTQlNuRzlTNHBaVm5SOGt2dmpoVXNHTXJxaDloa2VKYXU4UWU3OXhDNTQ0c09ta1BfZlRmOThsRHNQVS12MXhtMHdoMXh3ZGpHNml4UUJneU1Nc1J3SXBtaU5rc3BOTzN0XzFoX3UzSjlnMUhVNlFzTWRaLVI0WmxVZ2VFcWdvTnViVHNEZjUyak1FdXZKNEgzVFdYVHJvanFSQzQ5ZDBIaGdXRk5vRVhGUEVwVDVjdWNoZWlmeUNGQjhLcU96Nk1KLVRGZlE5YnRzVURHYl9BaThtb09iQ1dxejMtdWttU29VbEJCY0taZVpkLXBTRm82YWs?oc=5",
           "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Steamhouse India Limited",
-      "symbol": "STEAMHOUSE",
+      "company": "Mason Infratech Limited",
+      "symbol": "MASON",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.3,
-      "confidence": 86,
+      "predictionScore": 6.0,
+      "confidence": 70,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Steamhouse India listing: Shares list at 16.6% premium compare to IPO price on NSE - upstox.com",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Steamhouse India shares list at 17% premium over IPO price on NSE; should you buy, sell or hold? - Moneycontrol.com",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Steamhouse India Shares List at 17% Premium: IPO Debut - HDFC Sky",
-          "type": "corporate action",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZHU3ZERYT3FqR3ljNGJyYWo2d19XV0hvY3FVam1BV0Y1c2drYXJ3TDdYN1ltMGUwYmhFWmtFRWJ4RFN1UHFFRzlMT3U2cnNNUHFXT3d0Qk9fTnFBT00td01qUkxRVzJ1blh4U1pQdmJWMUdrTE9PWWk1NHNGSUVuOFFFaXFORDBKb1ZmYW9WNnQzcmtkNURjclJyY2UteWtJRFFlY3pNUkQ4TVlXY09WN0I0VUJxSTJNalhEcU5jUTJxSmZMVjJYT2hoTFZJaEI3U3c?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSDU1RV8wTWNLMl95anpRQW03bV9NUklhZGV3NjY0RTdLY0VPejd6VHIyRWRCNFhQM3dXQlJCSHEwMTFUWUNySW1FaTlVdUhmbWdEMWk0WU9mNHhqWWJRTHZGQlprYktGd1d2QVdaX0hCRTNFenpHVXAyS1NRbjN4VXNHSFpYeFJLSHcxQVZ6RmJSUGk3Z1FKMUZGOXhtcWlsTGlfN3hKZFNLQzNkNnJhb1c3ckVqZzRzbnNUV2x1OUxVcU44VUZBOVhNSVJEOXRQRG82V21vcV9ZUDgzSEdwY1VscWJWZUQx0gHuAUFVX3lxTE1CalhJamxwVDRVaDlIckhhUFZiNlgtdkdTWEZWZVJtWFAxRVhheHdFU3ZVcU02VVdtLW1kWFFJeWJxS1FsMjdjSHVTN2xTRXNDY01hS2dFV2NTaXJZVHNDYTBkZU5QaXFNaUZ1XzFZaGx0RFlMby10NzdzQ254eWx4aG5uLW82WlhDc2tyVzdrUkRxcFh2V08yeVBKaUN2YktzS1gzWUVCbTNudEVCYmZvV1UzZDBXNnIxWWdyZlVlN2ZUNk1nZ2pnX1VjWnBqbUdKdUJEWXBQWTdEMXJCMnU1ZmxrTXpJT1VsWE5reEE?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS0hRaVloaFAyc3pLLUdEWTA3MXpOLU9qV1pGUHJ2VFRUd3hKb3FWUW5QN3ZkLURITUkxemNndXBiQm1Hc2VUSV9qQXhBOWV2a3cwTlU2ZWQ3UV9MWHd2eVYtWmVJU0FWc2NmUlNDRDl0R0F4YWJOMXZUcEMzUUUxWEVkc0ZwZThfUTZHbnNGRTdPeUU?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS0o2UmZtTGNoOVlSVlMzOWhLdm5YSWlRREZQQWdsNDV4dHVTbzZQZjNOYjIzcHV4T01tMmJzRllzVkJEOFJjVTZHY1lYa2VrS003dGtTQ2RWdy1QU3NnbDZuXzdLaURqWDZZdnFPcERPYzk1V2RZY0xoakxUc1VadU5ORV9LOWR4TWdSZEM3YlRWT2V0VmJ3MXdXS0RFZ3JXQ0MyVXc2QQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 82,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1244.7,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -216,6 +202,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Vedanta Limited",
+      "symbol": "VEDL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.0,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 267.6,
+      "catalysts": [
+        {
+          "label": "Vedanta Approves Rs 3,500 Crore NCD Issue Through Private Placement",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Issue of Securities",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/vedanta-approves-rs-3-500-crore-ncd-issue-through-private-placement-12063411#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "HCL Technologies Limited",
       "symbol": "HCLTECH",
       "exchange": "NSE",
@@ -228,7 +255,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1247.0,
+      "lastClose": 1249.3,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -251,20 +278,101 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
+      "company": "Tata Elxsi Limited",
+      "symbol": "TATAELXSI",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
       "predictionScore": -3.3,
-      "confidence": 62,
+      "confidence": 69,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1047.8,
+      "lastClose": 3266.7,
       "catalysts": [
+        {
+          "label": "SEMICON India 2026: Syrma, Tata Tech, Tata Elxsi, MosChip shares jump up to 10%; here is why - Upstox",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbXBkNksySEMwQWhZMGcyZUVHcUI5ME1pTmZpT2VEMVBRbkRRaTR0cXRISWx3b3dQal9ReHpXb20yME5ER2VWOGRfcGMyaXg0eTdNUGpUcWNTNC1TSnJXME45Q0xHYmJNZy1FZEVOS2tlZHdQUXBSQUNoM3pvNTd2cFBTNjJTY3J3ampNUVczMWZna201ZTRhMHVRQ3VyXzdObkcxTzdLN2pMdE5TVHZVYzlhT3BNdG01M3pQREQ3UlU5QnQ3ck92clB4aXRnMHk0S1loMHQwZURySHFpdXRVWXowblB2d2g0WjlNZ1MxZw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "The India Cements Limited",
+      "symbol": "INDIACEM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 69,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 344.8,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 69,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1051.4,
+      "catalysts": [
+        {
+          "label": "Allotment of Securities",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Copy of Newspaper Publication",
           "type": "announcement",
@@ -316,149 +424,100 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Focus Lighting and Fixtures Limited",
-      "symbol": "FOCUS",
+      "company": "Bharat Heavy Electricals Limited",
+      "symbol": "BHEL",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 56,
+      "predictionScore": 2.6,
+      "confidence": 59,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 439.9,
       "catalysts": [
         {
-          "label": "Shareholders meeting",
+          "label": "Chandan Taparia of Motilal Oswal recommends 3 stocks to buy: Laurus Labs, BHEL, HDFC Life; check stop-loss, target price - Livemint",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release (Revised)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Arrangements for strategic, technical, manufacturing, or marketing tie up",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWk5DcEFZTWZnQ3h5MmdnWFVqdWZia1lDd1htRDd3ZEFYT0JBaFpHc292dUo1ZUNPYy1lY01uZnowcW1Dejh0NldkMjYyMzhtUHlOa3R1cHg5aHBueXZGZzdTTEhqZXF5NXBFR0psckJWQmZkcTRQU3RkbTJudmU2NHRDd0daQmNVXzhrVi16UzdQeEU2QU1EcjUySHVpTW5vRHFoRzhWNU5LYzgyaTVUR2RaZThURS1uM015V2VHZmk4WWxtM2tBQnZKdEJ0Z25LY205Q01JcnhPVXIwd0FHWm1acEw5WUxlRkhha25sR3BSdWhjdm81RGZWa3ItMGsxU25DRXgzcUM2NkHSAZACQVVfeXFMT3luVTVlQ3B1TG81cnZGYmZuNFpONEJXUE9HVTFSSHhESHdLaE1oTkdsaHloczI5RnhGX0pxdEVtdkFBd0hGVTc5a0VPRVRDSFk0dUdJX29tUkdRaUt5SDk4TC1FWGI5eDBlVUpRaDMtTHI4TEQ4aUtyUnZtcjA3TkdUSGdNRk5sSVRlRllaeFJkSGxvcV9xOFVOTmZmNFpZQVJsRHdIb1llNzdsRmk1UXZPbkF5dFhtUHlsNERtWUZjSW5zZ2VPVWl2Sk5EZ0VPTmRjeDFIem5sZ001VWpEeUJJTVBaMzdzc0g2cDlDMFZQd0RuVkxmeDdoeEkyTG1zeUkwMnFFWWVCTV9mUlRvTTQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "Indian Bank",
-      "symbol": "INDIANB",
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
       "exchange": "NSE",
-      "confirmedNewsCount": 1,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
-      "horizon": "today",
+      "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 55,
-      "riskLevel": "Standard",
+      "predictionScore": -7.2,
+      "confidence": 90,
+      "riskLevel": "Medium",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 840.95,
+      "technicalConfidence": 67,
+      "lastClose": 1372.4,
       "catalysts": [
         {
-          "label": "US Fed rate hike impact on Indian banking: FOMC outcome effect on bank stocks - Livemint",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMEF6Y3A4bnVXUDJiTWtxb0UyUmhwVktPZUtlZmRmdUF6cUFyLVNTOTJ0UVFUaUhJdGRYQ29Gd0JTN015UnY2STRTXzVIdmtfQk1aSjJocFZTR1VXNnplbHlJZF9yc2lSMnMzOWhkb2s5dDB4dlZPeVh1REtYRnlBd2hCNnotbDYwSFNELXpTeDByRFBDMXlaMFpEaG9TRnBNa3FkOGtzUkRHQnhyWkE1Z1B3TU9MaDVHLUpoazFLX1pTS3BZSnRCTVdpOWRkVWVHY09KN2lVZWZ3bWhDeFZV0gHkAUFVX3lxTE5oZEhVV0R2cTItbjQ3OUxsT2JjcGhrNWRMU3l1c1ExNlZrOEdRaUg0NzlSdGtwbXhyazBvd05oY1k5OTI4TWg2enRIdUhDdTBtNDVFUE5rYWdNU1RuRnZHbGcwYU55SlhRZFhYOEVrb0w5Nm1ZbEhmcTRQb1lVTlJseC1nSk4ycFQwaTgyaXkwUVN3Z09nbi1iOWpGMmpicjFESlRNaGM3Mk12LWFndTVrM0xXZDQ4Y0JuUDRCb3d1VGhoaEpEWkYyT2NVUTZiNzBJd3VJZVNQWGREem95YTlMM2Y2cQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Skyways Air Services Limited",
-      "symbol": "SKYWAYS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Stock Alert: Skyways Air Services, Share India, Kothari Inds, ESAF SFB - Business Standard",
+          "label": "Nestle India share price falls 3%: FSSAI takes legal action over 3 baby products - Livemint",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Agreements",
+          "label": "News Verification",
           "type": "announcement",
           "verified": true
         },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTnFMNk5PbmlzVU1YTGlkY2swMXVEcmFxeEZWRXJGdm9ITER1akZoS3pXaXNPT1pIdXk1WlEzUFB4VjduM3htUk0yRTlTTko3NmJKSnlkcjdZS0gxbENKcU5CeXN2aWV2a3dvSDNLWDVPSVRtV09od3k3eU9rQ2FSNExVemFzUlV4aUprX3AwWVFsZzROd3R6OWlZekdaNW80djNubDNaWkZDenlfMFBOMjU5LTRVV1lzdWprd0FxWDVRdGJvMUJvQjdoU0k0NDAzMWYtMV9XdGpJck8wMjFiX0xR0gHnAUFVX3lxTE5rajJwUEVWRVdvbkhZZ1JnSGJzaHVtbFc0MG5fZU9oTC1SelhMX094aWV0UTdXb3VRcVItYW1EZWVDdzFZU2dNVmZOLXBreXQzLTg1RGRxOGZ4Q0NwYTJKMmtKYmxGcThYVDFaT0RXV2gtdDQ4bFhBcEZTeUxFY0pacXBBVkVBU3UxMElxSjRWOUtEQzY5U25SUE1JbXp6VlAzSnB4X0loVlFZc0ZzYnFQeDVRc2t0T2JqcnQxRUVtMEZwRzdvTi1sN2N2dEc3Q3Q5dXhPU0NaYUJ0aTA4RDFZR090aDN2MA?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Coforge Limited",
-      "symbol": "COFORGE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 15,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": -1.1,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
-      "lastClose": 1779.6,
-      "catalysts": [
         {
           "label": "General Updates",
           "type": "announcement",
           "verified": true
-        },
+        }
+      ],
+      "risks": [
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
+          "label": "FSSAI Cracks Down On Nestle India Over Infant Formula Products; Flags Claims In NAN Excella Pro, Lactogen Pro",
+          "type": "risk",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/fssai-cracks-down-on-nestle-india-over-infant-formula-products-flags-claims-in-nan-excella-pro-lactogen-pro-12063548#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZFpNV2pETEhqLTV3dW83bDNYQnV1TWJrQloxWTZZb1Utei1aeEw3LUQ3OEpnMkNEdkt1R2g2dzdkUGZIT2REY3hhU0Fob1pKeWdYclJBSVcyTEV4QWREaEI1eHBxVU1KamZsbG9lX0xNSkpLaEdTZWpHSk0zbUtlbGF5WjFlbTBkQnJLOVktaG9vOUZzVU9GYWZvb255bk9Da1NiZGI4a3BNRGlKX3IxQlctSVVkRTRUMWNlR0tGX1VTbVZhUlZQU3JMN1I3U2NMNXJaRWtlMkpxc0dpckwyallR0gHnAUFVX3lxTE1qR0JLT0Z5ZEVfTTBJVGFEMnVkejFRb2RUS3AyUHotdE1tXzhpQTZNbGNwUnlybjNKSC1ubkJmeU1vclBqVzQ3MWtsNXhKT1BkbEFFYUJLUkVFLWZEYWZpbHFuRHhUeFBSWmgtRTdyR0poQmpzWWdIbjRjeGFXU0pjek9Gd3dONl95SzFnQUFkVHZwbnA5MkZ5SDhFaWpaRklrRXc1VTZOSkRLR0xYN3dndVUwc1YxOF9WdWRnaDViSWZ0THhnTDhMTURTSmJSd3drRnpqVlBIT20wTHl1ZE9melZpLXJzTQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
     {
       "company": "UltraTech Cement Limited",
       "symbol": "ULTRACEMCO",
@@ -467,12 +526,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.8,
+      "predictionScore": -4.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 10980.0,
+      "technicalConfidence": 83,
+      "lastClose": 11014.0,
       "catalysts": [
         {
           "label": "Copy of Newspaper Publication",
@@ -495,19 +554,101 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
+      "company": "CESC Limited",
+      "symbol": "CESC",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 90,
+      "predictionScore": -4.8,
+      "confidence": 87,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1244.7,
+      "technicalConfidence": 100,
+      "lastClose": 141.53,
+      "catalysts": [
+        {
+          "label": "Adani Energy vs CESC vs Tata Power vs NTPC vs Power Grid: Which stock has more upside? Target price by PL Capital - Livemint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQ1h1czJ6MG1IMVJvSlhNTWFBQ3FnNjZxMlBaV2xQR0t2eUprTkNoVVRwbVNEUEwzZlZPdmlhZm1JUzlaYllMdkFoTzlTVzNiUUNSclJyMWtadHU1NFdZcTZXcDZKWG9lZnd2ZEJWOWNsYlJwN3M5M3dORGUxQ2dtNWJEUThPOXE5eTFSOVFvTzdoeFdia3FzdU95bEZUbmpZbF91enJTQ1VpS1I0bGNpMXRUZFNaeTdzZVduMlVNOTFZNlFGSXVoTkpFLVhtcEJwZmZrTk94b0JmNkZWZFZLRTAwVEZVRFRZY3kyOTZVWUY2Y0FhbW44Z3R0OGE4dnVCSkRxUlZ3XzNKb1hPUFHSAZMCQVVfeXFMTTNHTGhVWTk3QkI4dC1STXZVaXFmRzhwNEJTQlNuRzlTNHBaVm5SOGt2dmpoVXNHTXJxaDloa2VKYXU4UWU3OXhDNTQ0c09ta1BfZlRmOThsRHNQVS12MXhtMHdoMXh3ZGpHNml4UUJneU1Nc1J3SXBtaU5rc3BOTzN0XzFoX3UzSjlnMUhVNlFzTWRaLVI0WmxVZ2VFcWdvTnViVHNEZjUyak1FdXZKNEgzVFdYVHJvanFSQzQ5ZDBIaGdXRk5vRVhGUEVwVDVjdWNoZWlmeUNGQjhLcU96Nk1KLVRGZlE5YnRzVURHYl9BaThtb09iQ1dxejMtdWttU29VbEJCY0taZVpkLXBTRm82YWs?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tata Elxsi Limited",
+      "symbol": "TATAELXSI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 80,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 3266.7,
+      "catalysts": [
+        {
+          "label": "SEMICON India 2026: Syrma, Tata Tech, Tata Elxsi, MosChip shares jump up to 10%; here is why - Upstox",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbXBkNksySEMwQWhZMGcyZUVHcUI5ME1pTmZpT2VEMVBRbkRRaTR0cXRISWx3b3dQal9ReHpXb20yME5ER2VWOGRfcGMyaXg0eTdNUGpUcWNTNC1TSnJXME45Q0xHYmJNZy1FZEVOS2tlZHdQUXBSQUNoM3pvNTd2cFBTNjJTY3J3ampNUVczMWZna201ZTRhMHVRQ3VyXzdObkcxTzdLN2pMdE5TVHZVYzlhT3BNdG01M3pQREQ3UlU5QnQ3ck92clB4aXRnMHk0S1loMHQwZURySHFpdXRVWXowblB2d2g0WjlNZ1MxZw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "The India Cements Limited",
+      "symbol": "INDIACEM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 80,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 344.8,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -515,12 +656,12 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -530,107 +671,76 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Steamhouse India Limited",
-      "symbol": "STEAMHOUSE",
+      "company": "Infosys Limited",
+      "symbol": "INFY",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.3,
-      "confidence": 86,
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 80,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1051.4,
       "catalysts": [
         {
-          "label": "Steamhouse India listing: Shares list at 16.6% premium compare to IPO price on NSE - upstox.com",
-          "type": "corporate action",
+          "label": "Allotment of Securities",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Steamhouse India shares list at 17% premium over IPO price on NSE; should you buy, sell or hold? - Moneycontrol.com",
-          "type": "corporate action",
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Steamhouse India Shares List at 17% Premium: IPO Debut - HDFC Sky",
-          "type": "corporate action",
+          "label": "Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZHU3ZERYT3FqR3ljNGJyYWo2d19XV0hvY3FVam1BV0Y1c2drYXJ3TDdYN1ltMGUwYmhFWmtFRWJ4RFN1UHFFRzlMT3U2cnNNUHFXT3d0Qk9fTnFBT00td01qUkxRVzJ1blh4U1pQdmJWMUdrTE9PWWk1NHNGSUVuOFFFaXFORDBKb1ZmYW9WNnQzcmtkNURjclJyY2UteWtJRFFlY3pNUkQ4TVlXY09WN0I0VUJxSTJNalhEcU5jUTJxSmZMVjJYT2hoTFZJaEI3U3c?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSDU1RV8wTWNLMl95anpRQW03bV9NUklhZGV3NjY0RTdLY0VPejd6VHIyRWRCNFhQM3dXQlJCSHEwMTFUWUNySW1FaTlVdUhmbWdEMWk0WU9mNHhqWWJRTHZGQlprYktGd1d2QVdaX0hCRTNFenpHVXAyS1NRbjN4VXNHSFpYeFJLSHcxQVZ6RmJSUGk3Z1FKMUZGOXhtcWlsTGlfN3hKZFNLQzNkNnJhb1c3ckVqZzRzbnNUV2x1OUxVcU44VUZBOVhNSVJEOXRQRG82V21vcV9ZUDgzSEdwY1VscWJWZUQx0gHuAUFVX3lxTE1CalhJamxwVDRVaDlIckhhUFZiNlgtdkdTWEZWZVJtWFAxRVhheHdFU3ZVcU02VVdtLW1kWFFJeWJxS1FsMjdjSHVTN2xTRXNDY01hS2dFV2NTaXJZVHNDYTBkZU5QaXFNaUZ1XzFZaGx0RFlMby10NzdzQ254eWx4aG5uLW82WlhDc2tyVzdrUkRxcFh2V08yeVBKaUN2YktzS1gzWUVCbTNudEVCYmZvV1UzZDBXNnIxWWdyZlVlN2ZUNk1nZ2pnX1VjWnBqbUdKdUJEWXBQWTdEMXJCMnU1ZmxrTXpJT1VsWE5reEE?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS0hRaVloaFAyc3pLLUdEWTA3MXpOLU9qV1pGUHJ2VFRUd3hKb3FWUW5QN3ZkLURITUkxemNndXBiQm1Hc2VUSV9qQXhBOWV2a3cwTlU2ZWQ3UV9MWHd2eVYtWmVJU0FWc2NmUlNDRDl0R0F4YWJOMXZUcEMzUUUxWEVkc0ZwZThfUTZHbnNGRTdPeUU?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS0o2UmZtTGNoOVlSVlMzOWhLdm5YSWlRREZQQWdsNDV4dHVTbzZQZjNOYjIzcHV4T01tMmJzRllzVkJEOFJjVTZHY1lYa2VrS003dGtTQ2RWdy1QU3NnbDZuXzdLaURqWDZZdnFPcERPYzk1V2RZY0xoakxUc1VadU5ORV9LOWR4TWdSZEM3YlRWT2V0VmJ3MXdXS0RFZ3JXQ0MyVXc2QQ?oc=5",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "IFCI Limited",
-      "symbol": "IFCI",
+      "company": "Vedanta Limited",
+      "symbol": "VEDL",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.1,
-      "confidence": 83,
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 78,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 76.54,
+      "technicalConfidence": 83,
+      "lastClose": 267.6,
       "catalysts": [
         {
-          "label": "New India Assurance, IFCI Ride On NSE IPO Wave: Here's Why Shares Zoomed Up To 9% - NDTV Profit",
-          "type": "results",
+          "label": "Vedanta Approves Rs 3,500 Crore NCD Issue Through Private Placement",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "NSE IPO impact: IFCI, New India Assurance, GIC RE shares rally up to 9% - Business Standard",
-          "type": "corporate action",
+          "label": "Credit Rating",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "IFCI, New India Assurance Shares Rally as NSE IPO Opens for Subscription - India Infoline",
-          "type": "corporate action",
+          "label": "Issue of Securities",
+          "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXMtcFlyNXFqaWg1Q1E4N0VJOFBlMy1xWGlfX1BwVzV4N3g2MEY1RDBXRS1OVGRkNFRfZjNraUF0V0QxUnE4VnZXTW1WQTh2ZUxsbjJWOEUxRk5qNTB2NUZGR0dZVWtTM3IydU52aVNDeUJDY1U4ZjE2R1BPUUo3RmdSWEVnYVpGRUoyVjJ1c3Y0alN3SmtEbDV0U0M2RUppai1IX2NqejNOd0NXbzJyZ3NKQVE3T1R1NXZDa2dn0gHGAUFVX3lxTE9zblJ1WjUya3RZa1lfWUFfaVNPMlZiX1p0Ny1Pb1AxSW1OWWlOSWRkd2U1Z3RvS3dGdW45UFBlMk5sQ0xub0dIM3J4VjZMTkVlclgwRjBUejRqbFFOMzdicHpzOHNRU1FrVmJzdjNsQVVDRlZsSVY3VzdkRmxRMkU0SmlWbHh3VmtEOHZMaFFRWU5IcmVtTFBVZHV1Yl9XZG5WR2YwWlZJMnM3Z0t1TUVtV0ZEcHpLb2xXbktQbFZfOEtCNkR5QQ?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUjBhRTl6OGtXMXRpY2hmc0RYeWo0a3NJQkhOM0xKeU9JeXlIc0VCM3d1TTZSaUhIT1ZySnV1T3NtR0xyMWROTWVpNnRFc1ZuZGUyczVJM2hEMWk1OEJCVXpvcXZvTWFZV2JLTGtWWmF6SUU2a1pSV0JoTDl4cDdBSERyUTc4cUw1UV9CcVl5VEVrei1sM1pnUHRoOWVfTXNLX3N5a0FwR1NtYUhudy15bmtuSlRxYm92ZzZkM0lLc3o5cG5jMGlSWjFVVkt6eEHSAdQBQVVfeXFMTjlhb3I4dUk1ZkprX3RQNXJRYXZPdk5Vb2RXMzlrd0x6UHR6NWhfZUU0WkVsUUhueXFZNTJITnNaYWRUTVZkckRTVUhTb2pUenNuNXZOYTRSYWM2TTNBZG5WdFJzNXQ1dktCUWNpU3NyN09zcmdYYmV0amkxRXpDLXNrMGdaZjgyM2lYNUk0UWx0c3JyMHVWZS1salBYLW41NTV6cS1VR29aQXUwWU1IeVIxdFo2YVlTaVhONzVqVU9FQ0tiZHJBakJfaE5LWlNsNi1INng?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQajJfdmV3alpqWXFkcnFZQWpsOUJnMVdyNHN0emZVclhfZUl0TzlOajcwamtNTzZxTHVIMmNxbmlCU1c5dzN0NFQ3R0xkeGtBbU9FUExCVGlQaDh1ekFGQkU5Uzg0RkF5OU43elhzNGd0MjR6aElJY2hLVnVERjVhaHFlbjQxelgyQkpTZ1RVTFNGMExsNjAwZTJGTnhVbG5UaEt4QzRTMkVtUlVHNVEw?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/vedanta-approves-rs-3-500-crore-ncd-issue-through-private-placement-12063411#publisher=newsstand",
           "verified": true
         }
       ],
@@ -649,7 +759,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1247.0,
+      "lastClose": 1249.3,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -658,36 +768,6 @@
         },
         {
           "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1047.8,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
@@ -737,6 +817,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Mason Infratech Limited",
+      "symbol": "MASON",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.0,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Happy Square Outsourcing Services Limited",
       "symbol": "WHITEFORCE",
       "exchange": "NSE",
@@ -772,8 +887,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Indian Bank",
-      "symbol": "INDIANB",
+      "company": "Thomas Scott (India) Limited",
+      "symbol": "THOMASCOTT",
       "exchange": "NSE",
       "confirmedNewsCount": 1,
       "gossipCount": 0,
@@ -784,10 +899,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 840.95,
+      "lastClose": 236.55,
       "catalysts": [
         {
-          "label": "US Fed rate hike impact on Indian banking: FOMC outcome effect on bank stocks - Livemint",
+          "label": "Thomas Scott (India) Limited: Performance & Quotes, THOMASCOTT Stock Price on NSE India S.E. Exchange - marketscreener.com",
           "type": "company news",
           "verified": true
         }
@@ -796,121 +911,8 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMEF6Y3A4bnVXUDJiTWtxb0UyUmhwVktPZUtlZmRmdUF6cUFyLVNTOTJ0UVFUaUhJdGRYQ29Gd0JTN015UnY2STRTXzVIdmtfQk1aSjJocFZTR1VXNnplbHlJZF9yc2lSMnMzOWhkb2s5dDB4dlZPeVh1REtYRnlBd2hCNnotbDYwSFNELXpTeDByRFBDMXlaMFpEaG9TRnBNa3FkOGtzUkRHQnhyWkE1Z1B3TU9MaDVHLUpoazFLX1pTS3BZSnRCTVdpOWRkVWVHY09KN2lVZWZ3bWhDeFZV0gHkAUFVX3lxTE5oZEhVV0R2cTItbjQ3OUxsT2JjcGhrNWRMU3l1c1ExNlZrOEdRaUg0NzlSdGtwbXhyazBvd05oY1k5OTI4TWg2enRIdUhDdTBtNDVFUE5rYWdNU1RuRnZHbGcwYU55SlhRZFhYOEVrb0w5Nm1ZbEhmcTRQb1lVTlJseC1nSk4ycFQwaTgyaXkwUVN3Z09nbi1iOWpGMmpicjFESlRNaGM3Mk12LWFndTVrM0xXZDQ4Y0JuUDRCb3d1VGhoaEpEWkYyT2NVUTZiNzBJd3VJZVNQWGREem95YTlMM2Y2cQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWlZHNHdNZlBPdmxsZHVHVlZlM0RCM0ExOTZ3dzhrdXhick9WTGE1MndUZFZYQ05VMC1sU0kwYWZlZ3IzMGd0M0tFMWdncjdrTUpvNVdBLU9zeXF6VEtyaGJ5S0FiM3ZHbW43UFhNWFk5Mi0tOElpT3FNY25MYlUtcGRlckp4NnVpUko4emp3?oc=5",
           "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Hindustan Copper Limited",
-      "symbol": "HINDCOPPER",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 63,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 494.5,
-      "catalysts": [
-        {
-          "label": "Hindustan Copper future roadmap: Where is the company headed? - Livemint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYU55ME1oWjljVVBIeExrNWl6S2lSem5JMmZzUnA2VU5JbzFNNGxvenBNMjMwU21JdG13NnJZWU56N2o4SFF2ZUVnZHF1WWVvZ3ktS2dPcGhXM1g3dFAwX0g2c3NXc2JGRFBNVlNXc3hhR2o0U2M5WVpDTW9aQ2lWeURtSkczSkFhSU8wMWJWTWQ0V3dnTF9RUkpfNjRPY21yRlpnZlJDSXNHX0JwZUVlazVvdVc4OHRrNVE?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Syrma SGS Technology Limited",
-      "symbol": "SYRMA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 63,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 1721.0,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends Flat | Nifty Above 23,250 | Syrma SGS Technology Up 7% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Why Syrma SGS Technology share price is rising today? Explained - Livemint",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdk9kcFo2bTZBSC11WWY2M3FLTzRWTmtyLTNsZGkzalROSlY3UTB5c2dhTm9vZnU0bFlLSUlMWEF4MlAxYjhCV3otMnJvaXplZEw1YjZTRnlFQ2haRVNOYmlzajJhRzM0emhTM21Kb28zTEtwSHdCVHc0cEF1a1Q1M0VrSEIyakducDVUa0p2MXpXejd0YVRhMWtta2NnUkp6R3pvQzhBU0RuZVlzS3pCYllHQWdDWGtadHdTNDBVTVA1Q2pNS2Jj?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR2U3cWJhcWdQM3VBV3RJeXR6TXNZbWc4ZTUyUTNBLXlmX1BjTkdSRW82UjJGUVBkNnlnYlJJRF9palQ0SnAzOUg5cG5iWWlfZG9lZEl5M2E2RWhnaWlIR2IwUjFLRUtsdzlQeVh3N3ZpUnhKUDZWb2Rmd2dtc05xVWxXZWpqdG02RWtHWmIyNTQzSVkyRTY1NUtpVVFqTVNsMzZxOVZab0U4bUxhdjltd0tlOG81QW1QamxtVEhkNUI0TGw4SzRQYUdDZXDSAdIBQVVfeXFMUDRXWDRybHo1Z2JDSlUweUJWaXFDTE1DNm5OVXFFUEJNMFBTeVp3YVg5MGtPRXcyLUlVN3ZtWUduVEc2Q1JVZTdPZl9lRGdYOVJkZVplWmxPX2tBTWZZWkxwOGJhVzhXNkZtRTNBcW9wYVE4RENva1l2aHR4eEx0aEY0MTNLRmZ4OXFub1kxMFVCLUlXRkg5NFVtQUI1Y0h2V0M0M1VPd0JreEFfaU5uRktnemdpd21kTnpZQ1FGT2g1dTBZQkdialRNMkRPSThJTS1n?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Kaynes Technology India Limited",
-      "symbol": "KAYNES",
-      "exchange": "NSE",
-      "confirmedNewsCount": 1,
-      "gossipCount": 1,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 62,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 3568.7,
-      "catalysts": [
-        {
-          "label": "Kaynes Technology share price gains 5% amid SEMICON India 2026 buzz: Check stock performance - Livemint",
-          "type": "company news",
-          "verified": false
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmtMTlZSU3JKLVVUVWt6cWFQamZtaFNpeWZQcm55SHM0dkhwN3RYRW9lTTFGVlg0M0gtX2F3YU9JTnctMEFfVEZST0dtUmlYOW11c19JTW13MTNvNmVwaWNpay1ycmd6YzlFR1c3elktcWFxY21KSVNrX2N1S2pwUTJWcGhNZ1BfSG43T0h6T3ZyN2x3ZHAtMXNIR0Z5TjFtVGd2WFFJX2pxb3hmX3pURi1fdXIyd0ZNT1J0emxhY0xzWGh3eDBlRzN6YndUVk1IVklBQjRGUVBzbTRZZDczR1ZVRC1sc2NyZlF1Rk9BT3ZZdw?oc=5",
-          "verified": false
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
