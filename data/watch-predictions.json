@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T12:31:35+00:00",
+  "generatedAt": "2026-09-19T17:18:35+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -30,6 +30,41 @@
         },
         {
           "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "United Heat Transfer Limited",
+      "symbol": "UHTL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 77,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Preferential issue",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Increase in Authorised Capital",
           "type": "announcement",
           "verified": true
         }
@@ -71,47 +106,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "CESC Limited",
-      "symbol": "CESC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 141.53,
-      "catalysts": [
-        {
-          "label": "Adani Energy vs CESC vs Tata Power vs NTPC vs Power Grid: Which stock has more upside? Target price by PL Capital - Livemint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQ1h1czJ6MG1IMVJvSlhNTWFBQ3FnNjZxMlBaV2xQR0t2eUprTkNoVVRwbVNEUEwzZlZPdmlhZm1JUzlaYllMdkFoTzlTVzNiUUNSclJyMWtadHU1NFdZcTZXcDZKWG9lZnd2ZEJWOWNsYlJwN3M5M3dORGUxQ2dtNWJEUThPOXE5eTFSOVFvTzdoeFdia3FzdU95bEZUbmpZbF91enJTQ1VpS1I0bGNpMXRUZFNaeTdzZVduMlVNOTFZNlFGSXVoTkpFLVhtcEJwZmZrTk94b0JmNkZWZFZLRTAwVEZVRFRZY3kyOTZVWUY2Y0FhbW44Z3R0OGE4dnVCSkRxUlZ3XzNKb1hPUFHSAZMCQVVfeXFMTTNHTGhVWTk3QkI4dC1STXZVaXFmRzhwNEJTQlNuRzlTNHBaVm5SOGt2dmpoVXNHTXJxaDloa2VKYXU4UWU3OXhDNTQ0c09ta1BfZlRmOThsRHNQVS12MXhtMHdoMXh3ZGpHNml4UUJneU1Nc1J3SXBtaU5rc3BOTzN0XzFoX3UzSjlnMUhVNlFzTWRaLVI0WmxVZ2VFcWdvTnViVHNEZjUyak1FdXZKNEgzVFdYVHJvanFSQzQ5ZDBIaGdXRk5vRVhGUEVwVDVjdWNoZWlmeUNGQjhLcU96Nk1KLVRGZlE5YnRzVURHYl9BaThtb09iQ1dxejMtdWttU29VbEJCY0taZVpkLXBTRm82YWs?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -416,12 +410,12 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Sensex Today Ends Flat | Nifty Above 23,300 | Skyways Air Services Up 6% - Equitymaster",
+          "label": "Sensex Today Ends Flat | Nifty Above 23,300 | Skyways Air Services Up 6% - equitymaster.com",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Stock Alert: Skyways Air Services, Share India, Kothari Inds, ESAF SFB - business-standard.com",
+          "label": "Stock Alert: Skyways Air Services, Share India, Kothari Inds, ESAF SFB - Business Standard",
           "type": "company news",
           "verified": true
         },
@@ -481,47 +475,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "CESC Limited",
-      "symbol": "CESC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 141.53,
-      "catalysts": [
-        {
-          "label": "Adani Energy vs CESC vs Tata Power vs NTPC vs Power Grid: Which stock has more upside? Target price by PL Capital - Livemint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQ1h1czJ6MG1IMVJvSlhNTWFBQ3FnNjZxMlBaV2xQR0t2eUprTkNoVVRwbVNEUEwzZlZPdmlhZm1JUzlaYllMdkFoTzlTVzNiUUNSclJyMWtadHU1NFdZcTZXcDZKWG9lZnd2ZEJWOWNsYlJwN3M5M3dORGUxQ2dtNWJEUThPOXE5eTFSOVFvTzdoeFdia3FzdU95bEZUbmpZbF91enJTQ1VpS1I0bGNpMXRUZFNaeTdzZVduMlVNOTFZNlFGSXVoTkpFLVhtcEJwZmZrTk94b0JmNkZWZFZLRTAwVEZVRFRZY3kyOTZVWUY2Y0FhbW44Z3R0OGE4dnVCSkRxUlZ3XzNKb1hPUFHSAZMCQVVfeXFMTTNHTGhVWTk3QkI4dC1STXZVaXFmRzhwNEJTQlNuRzlTNHBaVm5SOGt2dmpoVXNHTXJxaDloa2VKYXU4UWU3OXhDNTQ0c09ta1BfZlRmOThsRHNQVS12MXhtMHdoMXh3ZGpHNml4UUJneU1Nc1J3SXBtaU5rc3BOTzN0XzFoX3UzSjlnMUhVNlFzTWRaLVI0WmxVZ2VFcWdvTnViVHNEZjUyak1FdXZKNEgzVFdYVHJvanFSQzQ5ZDBIaGdXRk5vRVhGUEVwVDVjdWNoZWlmeUNGQjhLcU96Nk1KLVRGZlE5YnRzVURHYl9BaThtb09iQ1dxejMtdWttU29VbEJCY0taZVpkLXBTRm82YWs?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -656,6 +609,41 @@
         },
         {
           "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "United Heat Transfer Limited",
+      "symbol": "UHTL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 77,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Preferential issue",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Increase in Authorised Capital",
           "type": "announcement",
           "verified": true
         }
