@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T18:50:50+00:00",
+  "generatedAt": "2026-09-20T22:28:32+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -121,7 +121,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 111.54,
+      "lastClose": 111.08,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -295,47 +295,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HFCL Limited",
-      "symbol": "HFCL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.2,
-      "confidence": 67,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 215.71,
-      "catalysts": [
-        {
-          "label": "HFCL, Polycab India among 7 companies that are Goldman Sachs\u2019 AI enablers. See full list - \u200bSilicon Surge - The Economic Times",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSkplT0QzOHBTYm1seHNiSTI0bDBpeDV5TDhZY3JjRC0wakwtVGtaYXNoaC1GZ1VDejZwTEdWbHRhcFNlei03bG83WUVoeWJPSWc4MzlzMVY0ZWlMX0JtR0loa1RaUEdwOFlvY2R0dE4zYzFYVTVTazZCaEpualNCdVRYSk5GVklua3BWUXFlY3BzNW5oRDJnYUtmZWgzYl9JUzBoRG05bElKb3FaV2lCT3JlZ28tWFVHTzNyTGdiNnYtX2R2ajJjUjRDZU9jM2g2Yk5ZR0hFenJ5WlRZTnBjSE12VEpQbjFGSG1aVWI0OGt6R29YWjhkd2VvalVzb0g3?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "HEG Limited",
       "symbol": "HEG",
       "exchange": "NSE",
@@ -371,28 +330,75 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "The India Cements Limited",
-      "symbol": "INDIACEM",
+      "company": "Prime Focus Limited",
+      "symbol": "PFOCUS",
       "exchange": "NSE",
       "confirmedNewsCount": 1,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
       "confidence": 55,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 344.8,
+      "lastClose": 320.45,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "New India Assurance, Prime Focus, Syrma SGS shares surge amid spike in volumes; check full list - Upstox",
+          "type": "company news",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWDdEdnpTM1lMOTZtN2tJWWNOdHA3cDZnZl9jeWFwM3JnNVRDVlV4SUFkOUM4T2NuZkdrb2hiRDVaaWJKRE81b0I5ZExSZjcxLVlvVWtEcTVDSUxQVGZkVll0Uno2c3ZzXzZBQk9RbkF1bTk3Rl83MWwwTUp6X0ZEYzl0ZVdRcURkV29iYmNIbjBidWhrLUJxelZaeW5HaFc4Wm5vUC1TVnlWb2ZmcFkzNlJkQmJIelBGMU9tR2plbE5XYU9IYk11T2JDX05ya1ZNT3gwZFZBN3lGUnpQUFJCenZkRURiQQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Cummins India Limited",
+      "symbol": "CUMMINSIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Neutral watch",
+      "predictionScore": -1.7,
+      "confidence": 55,
+      "riskLevel": "High",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 5020.0,
+      "catalysts": [
+        {
+          "label": "Cummins India stock edges higher after latest quarterly figures - AD HOC NEWS",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVFvQUhOV2lXalBxVVI1N0lLUzJCZGNaaEVkb1FEcFgxcTAwN1YzMjlHTEZ1WFJJTFJfWGFFVXZCUnpLWlVEWmsybUVWTHZKcXE3SFpsa2V5bG9ydWhGOTF6c2FaVGpleVdidDAweTFzTE1ZUlIzRXVKRHpIMXBmQkdOUkR4QlBpd1VUcGNKNzdoUzVQWTJaVm9od2p4cEhqSlgzWUhzOVFFZktNR3NlNUM4VTZLWDU5UlZoc2tQbw?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -486,7 +492,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 111.54,
+      "lastClose": 111.08,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -695,47 +701,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HFCL Limited",
-      "symbol": "HFCL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 215.71,
-      "catalysts": [
-        {
-          "label": "HFCL, Polycab India among 7 companies that are Goldman Sachs\u2019 AI enablers. See full list - \u200bSilicon Surge - The Economic Times",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSkplT0QzOHBTYm1seHNiSTI0bDBpeDV5TDhZY3JjRC0wakwtVGtaYXNoaC1GZ1VDejZwTEdWbHRhcFNlei03bG83WUVoeWJPSWc4MzlzMVY0ZWlMX0JtR0loa1RaUEdwOFlvY2R0dE4zYzFYVTVTazZCaEpualNCdVRYSk5GVklua3BWUXFlY3BzNW5oRDJnYUtmZWgzYl9JUzBoRG05bElKb3FaV2lCT3JlZ28tWFVHTzNyTGdiNnYtX2R2ajJjUjRDZU9jM2g2Yk5ZR0hFenJ5WlRZTnBjSE12VEpQbjFGSG1aVWI0OGt6R29YWjhkd2VvalVzb0g3?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Mason Infratech Limited",
       "symbol": "MASON",
       "exchange": "NSE",
@@ -771,28 +736,75 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "The India Cements Limited",
-      "symbol": "INDIACEM",
+      "company": "Prime Focus Limited",
+      "symbol": "PFOCUS",
       "exchange": "NSE",
       "confirmedNewsCount": 1,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
       "confidence": 66,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 344.8,
+      "lastClose": 320.45,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "New India Assurance, Prime Focus, Syrma SGS shares surge amid spike in volumes; check full list - Upstox",
+          "type": "company news",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWDdEdnpTM1lMOTZtN2tJWWNOdHA3cDZnZl9jeWFwM3JnNVRDVlV4SUFkOUM4T2NuZkdrb2hiRDVaaWJKRE81b0I5ZExSZjcxLVlvVWtEcTVDSUxQVGZkVll0Uno2c3ZzXzZBQk9RbkF1bTk3Rl83MWwwTUp6X0ZEYzl0ZVdRcURkV29iYmNIbjBidWhrLUJxelZaeW5HaFc4Wm5vUC1TVnlWb2ZmcFkzNlJkQmJIelBGMU9tR2plbE5XYU9IYk11T2JDX05ya1ZNT3gwZFZBN3lGUnpQUFJCenZkRURiQQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Cummins India Limited",
+      "symbol": "CUMMINSIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -2.4,
+      "confidence": 64,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 5020.0,
+      "catalysts": [
+        {
+          "label": "Cummins India stock edges higher after latest quarterly figures - AD HOC NEWS",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVFvQUhOV2lXalBxVVI1N0lLUzJCZGNaaEVkb1FEcFgxcTAwN1YzMjlHTEZ1WFJJTFJfWGFFVXZCUnpLWlVEWmsybUVWTHZKcXE3SFpsa2V5bG9ydWhGOTF6c2FaVGpleVdidDAweTFzTE1ZUlIzRXVKRHpIMXBmQkdOUkR4QlBpd1VUcGNKNzdoUzVQWTJaVm9od2p4cEhqSlgzWUhzOVFFZktNR3NlNUM4VTZLWDU5UlZoc2tQbw?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -838,8 +850,8 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -2.2,
-      "confidence": 60,
+      "predictionScore": -2.3,
+      "confidence": 61,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
