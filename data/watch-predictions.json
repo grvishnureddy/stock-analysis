@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T12:52:52+00:00",
+  "generatedAt": "2026-09-21T19:30:59+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -42,16 +42,16 @@
       "company": "Anupam Rasayan India Limited",
       "symbol": "ANURAS",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
       "predictionScore": -2.6,
-      "confidence": 78,
+      "confidence": 85,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1160.8,
+      "lastClose": 1207.7,
       "catalysts": [
         {
           "label": "Volumes soar at Anupam Rasayan India Ltd counter - Business Standard",
@@ -59,12 +59,12 @@
           "verified": true
         },
         {
-          "label": "Issue of Securities",
+          "label": "Allotment of Securities",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Issue of Securities",
           "type": "announcement",
           "verified": true
         }
@@ -83,17 +83,22 @@
       "company": "United Heat Transfer Limited",
       "symbol": "UHTL",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 3.0,
-      "confidence": 77,
+      "confidence": 84,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Shareholders meeting",
           "type": "announcement",
@@ -103,9 +108,39 @@
           "label": "Preferential issue",
           "type": "announcement",
           "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.0,
+      "confidence": 84,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1249.3,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
         },
         {
-          "label": "Increase in Authorised Capital",
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -127,7 +162,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 111.04,
+      "lastClose": 111.54,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -150,6 +185,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 75,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 140.0,
+      "catalysts": [
+        {
+          "label": "US Fed, Bank of Japan and others impact on Indian stock markets: Global rate hike cycle begins - Sensex, Nifty outlook - Livemint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZGY0SGk3Nk9xdkVsZzdEVnBxdHBneTR1dXJkbmpIMDZua1FFRXNDVE5WSmZHeUFfU0RPeFFYblR3RHpvcmJ1eURpU0ZVZWh0U3E4TzVIMFdMaDhBWEt0cExFaE5YSjZqMFIyX253dVI3aHpsb21KVmRuNTZGQ3N6Y2IxQkUxeTFGSEhOelJWTUNuNGdHN2VVTmoybjQxVmx5bjdtNGx4UjNfaVp3RjNlRUVZSUh0cUc0MGRRYXZjYzZUMGdubWdKRmZwb0Vad0g5ajFZMjJaVElENkxjVm5vOW1Fa0ZvbnQ3RVExbzZzcGpNVW96VktzdXpZekgwbGljUGttWF9DblhVQUlFdHNmZ9IBlgJBVV95cUxQN3lsNVV4dUdzS1RaMTBoTXJ6V240SC1FRFRUMTMxVHJuUjF4Z1QxRnEweU12TEtRdWd3b2twOVZQWGdiT0k3OFJQdjR5bE1hMnIzWWVyYzNyemR5NUt5Qm1sc041d0duRlA3dDZaZXE2TTZxN3kwb1pmVUJqdzROa0FjYmkwZ3dLM2ZnT2RKdzkyODRvTExpQWo1eGlhQnJHdUI0cHFqQmxXdUQ0VzB3NGI2aDFwd0pEYVR5UjktNF9naVpDRGhRN2QyM2lLdkRMNHN6SGpQUEVGaVJnc0xmb1MyMzNMenVkTEQwZ3RSdnNTcmNDVGU4SlRGWXRORXMtMFJsZTdzS2kwMk9KM2ppWjhuN0NxQQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "UltraTech Cement Limited",
       "symbol": "ULTRACEMCO",
       "exchange": "NSE",
@@ -162,7 +238,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 11100.0,
+      "lastClose": 11014.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -220,40 +296,39 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Castrol India Limited",
-      "symbol": "CASTROLIND",
+      "company": "HEG Limited",
+      "symbol": "HEG",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.3,
-      "confidence": 69,
+      "predictionScore": 3.0,
+      "confidence": 70,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 193.5,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Top stocks to buy for short term: Jigar Patel recommends Castrol, HDFC Life, Gabriel - Check target price, stop loss - livemint.com",
-          "type": "results",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQV3ctdDViNW56VVU2eGhLdlVFVTZjZ1l4aUNxbUJXZ0M2ZEFUcG5LQ21KRF8zdm9WTFlaU0FtMXRROG5DYzdHSlVRd1Npb25Ba0swWk95TkJpSWNaMW5nSTgyWVR5TV91YmhzbUsyWDhFcFZWQllVQWVRbXZvS1F4a2hKYV9CMWFYa2c4el8xb0k4b05QbWlvcDRvdm5LLTBjcW1aamNPSkRvMk14eFZjdVpvSFBuY3FXV0ZFYkRqRi0zTV9XTmtoMXRnNEEwcldGNUV3ZVJ2NWFmTFJrTjE5VkdwX3g0T1JpYS1taDBsY1lUTGZnRWx2bXpzTGI5NFBpcHgxOEEySW1xcHRv0gGSAkFVX3lxTE8wTWRXVGFpNTJnUmVxSzFEVlVPUUlJVm1WT3JGbFJ4ZDF1X3ZNQlVRTVcyZ19QVE0tSTFiRnRyNDlpc3pDU0M0MFlIUktLNWo1dzY5UkEycl9qaHR0bUo0ZWFhMjV2b2VsZ2VZdmZKTFBXcFNHWHczNGNIZFpQRmV4YWpuVFhWUGd1YWZaRE5zcWlEMWFDMFpuUS1ValRkNGozZFFRcVpxNmEyQUpuLVYwbjQzTTBHTVdnQ3JHcEV1RjBXdTZzaDExcTEzZ3RLS2ZwTjd5MFhzWFd4MnlGeHdCdUdLOWhmS21JMDFyNEpuTkxrZVJ0ZWlzMXphY0kxMFozRXptblBqYksxVTU5dDM3OUE?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Infosys Limited",
@@ -268,7 +343,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1038.5,
+      "lastClose": 1051.4,
       "catalysts": [
         {
           "label": "Allotment of Securities",
@@ -291,32 +366,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HEG Limited",
-      "symbol": "HEG",
+      "company": "MphasiS Limited",
+      "symbol": "MPHASIS",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 63,
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 68,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 2300.4,
       "catalysts": [
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Disclosure under SEBI Takeover Regulations",
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         }
@@ -329,24 +404,24 @@
       "company": "Nestle India Limited",
       "symbol": "NESTLEIND",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
       "predictionScore": -2.2,
-      "confidence": 60,
+      "confidence": 67,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
-      "lastClose": 1385.0,
+      "lastClose": 1372.4,
       "catalysts": [
         {
-          "label": "Top stocks in focus today: Mazagon Dock, RVNL, Nestle India shares to move Sensex, Nifty? Monday, 21 Sept | Triggers - livemint.com",
+          "label": "Top stocks in focus today: Mazagon Dock, RVNL, Nestle India shares to move Sensex, Nifty? Monday, 21 Sept | Triggers - Livemint",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "News Verification",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
@@ -365,79 +440,85 @@
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Skyways Air Services Limited",
-      "symbol": "SKYWAYS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 15,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release (Revised)",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Oriana Power Limited",
-      "symbol": "ORIANA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Acquisition",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Giving guarantees/indemnity/ becoming a surety for third party",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
+    {
+      "company": "Anupam Rasayan India Limited",
+      "symbol": "ANURAS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1207.7,
+      "catalysts": [
+        {
+          "label": "Volumes soar at Anupam Rasayan India Ltd counter - Business Standard",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Allotment of Securities",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Issue of Securities",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN2xNOUJUWldRTzJIclBqLU9pbFJhYWdIVER4dU1IaFVrY0xiOHFvLXd1c2JxaFpGOUpIR0xQelhHQXB2NXZJSjNnODV0RzFnb1pKcTlyUEEtVUtGODlmUnByT1VLdmEySDJxNGRWc19ub2E4cTV6RTNVR203RktxcWZNYUVrOTdzTzAtNlgxZVRleF9Qb3ZMcmN1RmZUemxtNHRtZS00dGZ4SzhGMk95Q2VSV0dXb3pjLXdBanY2TVkwMk1BV21tMHBn0gHPAUFVX3lxTE1kRVA1djFaNnk4eGpMOE1ZekV1TF9RVGo0TmNLeG1jZkdwcUUtS3RvM3pkX0ExTXZKSzg2dUZYemt4eUpIYTJheHB5N291UDEya0FZaUZUdWJELWxuVUdDdWFYNGZMTFBFNE40Mzl5bUF2UzE4bE1KMXFtQzdWcmQzamtMNEY4YlVBZ2ZyOWwzLVhBSXdKbGt0OFBtMF9jeV9jZHNRc3YyRWNKMVU3VmxqcEp0QU9fMmV4NXdkb1hTQzJ0aGhYVVU3X1QzMUxrcw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1249.3,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
     {
       "company": "Happy Square Outsourcing Services Limited",
       "symbol": "WHITEFORCE",
@@ -474,47 +555,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Anupam Rasayan India Limited",
-      "symbol": "ANURAS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.1,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1160.8,
-      "catalysts": [
-        {
-          "label": "Volumes soar at Anupam Rasayan India Ltd counter - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Issue of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN2xNOUJUWldRTzJIclBqLU9pbFJhYWdIVER4dU1IaFVrY0xiOHFvLXd1c2JxaFpGOUpIR0xQelhHQXB2NXZJSjNnODV0RzFnb1pKcTlyUEEtVUtGODlmUnByT1VLdmEySDJxNGRWc19ub2E4cTV6RTNVR203RktxcWZNYUVrOTdzTzAtNlgxZVRleF9Qb3ZMcmN1RmZUemxtNHRtZS00dGZ4SzhGMk95Q2VSV0dXb3pjLXdBanY2TVkwMk1BV21tMHBn0gHPAUFVX3lxTE1kRVA1djFaNnk4eGpMOE1ZekV1TF9RVGo0TmNLeG1jZkdwcUUtS3RvM3pkX0ExTXZKSzg2dUZYemt4eUpIYTJheHB5N291UDEya0FZaUZUdWJELWxuVUdDdWFYNGZMTFBFNE40Mzl5bUF2UzE4bE1KMXFtQzdWcmQzamtMNEY4YlVBZ2ZyOWwzLVhBSXdKbGt0OFBtMF9jeV9jZHNRc3YyRWNKMVU3VmxqcEp0QU9fMmV4NXdkb1hTQzJ0aGhYVVU3X1QzMUxrcw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "The State Trading Corporation of India Limited",
       "symbol": "STCINDIA",
       "exchange": "NSE",
@@ -527,7 +567,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 111.04,
+      "lastClose": 111.54,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -550,6 +590,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 84,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 140.0,
+      "catalysts": [
+        {
+          "label": "US Fed, Bank of Japan and others impact on Indian stock markets: Global rate hike cycle begins - Sensex, Nifty outlook - Livemint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZGY0SGk3Nk9xdkVsZzdEVnBxdHBneTR1dXJkbmpIMDZua1FFRXNDVE5WSmZHeUFfU0RPeFFYblR3RHpvcmJ1eURpU0ZVZWh0U3E4TzVIMFdMaDhBWEt0cExFaE5YSjZqMFIyX253dVI3aHpsb21KVmRuNTZGQ3N6Y2IxQkUxeTFGSEhOelJWTUNuNGdHN2VVTmoybjQxVmx5bjdtNGx4UjNfaVp3RjNlRUVZSUh0cUc0MGRRYXZjYzZUMGdubWdKRmZwb0Vad0g5ajFZMjJaVElENkxjVm5vOW1Fa0ZvbnQ3RVExbzZzcGpNVW96VktzdXpZekgwbGljUGttWF9DblhVQUlFdHNmZ9IBlgJBVV95cUxQN3lsNVV4dUdzS1RaMTBoTXJ6V240SC1FRFRUMTMxVHJuUjF4Z1QxRnEweU12TEtRdWd3b2twOVZQWGdiT0k3OFJQdjR5bE1hMnIzWWVyYzNyemR5NUt5Qm1sc041d0duRlA3dDZaZXE2TTZxN3kwb1pmVUJqdzROa0FjYmkwZ3dLM2ZnT2RKdzkyODRvTExpQWo1eGlhQnJHdUI0cHFqQmxXdUQ0VzB3NGI2aDFwd0pEYVR5UjktNF9naVpDRGhRN2QyM2lLdkRMNHN6SGpQUEVGaVJnc0xmb1MyMzNMenVkTEQwZ3RSdnNTcmNDVGU4SlRGWXRORXMtMFJsZTdzS2kwMk9KM2ppWjhuN0NxQQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "UltraTech Cement Limited",
       "symbol": "ULTRACEMCO",
       "exchange": "NSE",
@@ -562,7 +643,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 11100.0,
+      "lastClose": 11014.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -585,6 +666,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "United Heat Transfer Limited",
+      "symbol": "UHTL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 84,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Preferential issue",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Infosys Limited",
       "symbol": "INFY",
       "exchange": "NSE",
@@ -597,7 +713,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1038.5,
+      "lastClose": 1051.4,
       "catalysts": [
         {
           "label": "Allotment of Securities",
@@ -620,27 +736,67 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Castrol India Limited",
-      "symbol": "CASTROLIND",
+      "company": "MphasiS Limited",
+      "symbol": "MPHASIS",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.8,
-      "confidence": 79,
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 77,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 193.5,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 2300.4,
       "catalysts": [
         {
-          "label": "Top stocks to buy for short term: Jigar Patel recommends Castrol, HDFC Life, Gabriel - Check target price, stop loss - livemint.com",
-          "type": "results",
+          "label": "Trading Window",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 74,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1372.4,
+      "catalysts": [
+        {
+          "label": "Top stocks in focus today: Mazagon Dock, RVNL, Nestle India shares to move Sensex, Nifty? Monday, 21 Sept | Triggers - Livemint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "News Verification",
           "type": "announcement",
           "verified": true
         }
@@ -649,45 +805,10 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQV3ctdDViNW56VVU2eGhLdlVFVTZjZ1l4aUNxbUJXZ0M2ZEFUcG5LQ21KRF8zdm9WTFlaU0FtMXRROG5DYzdHSlVRd1Npb25Ba0swWk95TkJpSWNaMW5nSTgyWVR5TV91YmhzbUsyWDhFcFZWQllVQWVRbXZvS1F4a2hKYV9CMWFYa2c4el8xb0k4b05QbWlvcDRvdm5LLTBjcW1aamNPSkRvMk14eFZjdVpvSFBuY3FXV0ZFYkRqRi0zTV9XTmtoMXRnNEEwcldGNUV3ZVJ2NWFmTFJrTjE5VkdwX3g0T1JpYS1taDBsY1lUTGZnRWx2bXpzTGI5NFBpcHgxOEEySW1xcHRv0gGSAkFVX3lxTE8wTWRXVGFpNTJnUmVxSzFEVlVPUUlJVm1WT3JGbFJ4ZDF1X3ZNQlVRTVcyZ19QVE0tSTFiRnRyNDlpc3pDU0M0MFlIUktLNWo1dzY5UkEycl9qaHR0bUo0ZWFhMjV2b2VsZ2VZdmZKTFBXcFNHWHczNGNIZFpQRmV4YWpuVFhWUGd1YWZaRE5zcWlEMWFDMFpuUS1ValRkNGozZFFRcVpxNmEyQUpuLVYwbjQzTTBHTVdnQ3JHcEV1RjBXdTZzaDExcTEzZ3RLS2ZwTjd5MFhzWFd4MnlGeHdCdUdLOWhmS21JMDFyNEpuTkxrZVJ0ZWlzMXphY0kxMFozRXptblBqYksxVTU5dDM3OUE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQLWxvdXFhWGY2SFNpWHpidkhhYkxUREt4ZkM2U29KalBiQVRxN08zeF9TMmhLUFpCRjNrS2dBU2ZVSEU3dk1UNFNsWDk1SXZsUEZwMnVraHRkT0w1b1p2dV9vQ196OF9zU0VVV2Z3TnVWVzU0VG9oX0xBOGpXenNIMGNuLVdRTmxkYXFZMEpNNHJLRzBYSWRfOGlFQjhPVWNMMXRDQkRNSWZZZzdwZTd5eXo2VU1Nd2xWN19QcjVCOEtzcDdZUWdWdmo4dXhxMjRTZEZhLVdrY3FrMndoRmNsZlRmb04xcHRoc0ZycW44MXFKWm5GYm5fSVNFU3BHMFYzNWd3Sk1Gc2dCMjBLWHfSAZMCQVVfeXFMUGFpcllaX0N6aUh3VUJjdFExOUIyM04wRjZtcGFRRWJCOTJ0U0R5SjgwQUlQZFVtN2QzaEJtOENxZ2otd2txNTAzM1pHRElwSGY1UjZvdnZ3endvc0YtUlhucUFYOElTclpLcGhoaDJ0SUJPM1NKTXNyUnNESDRGU3BNZ0E2VWFteW9xb2d0Xzh4M2RoVlRPbExOaW50VlFUSmpDOHJQMnJnek1VWF9tRUVrT0lxWXZxeGZmeG9NRHRDaGJIVXNoVFcxUUdOUEIycnNJam9xdTdMNWlndHFZeXBxNEFhc0ZnY3ZFeTJPZ0ZyUHN6TWZYb3lid01wZ08wZmZ1SGY4Q1ZGUlF6R2tzUHJwc28?oc=5",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "United Heat Transfer Limited",
-      "symbol": "UHTL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Preferential issue",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Increase in Authorised Capital",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -726,63 +847,22 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Nestle India Limited",
-      "symbol": "NESTLEIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 67,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 1385.0,
-      "catalysts": [
-        {
-          "label": "Top stocks in focus today: Mazagon Dock, RVNL, Nestle India shares to move Sensex, Nifty? Monday, 21 Sept | Triggers - livemint.com",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQLWxvdXFhWGY2SFNpWHpidkhhYkxUREt4ZkM2U29KalBiQVRxN08zeF9TMmhLUFpCRjNrS2dBU2ZVSEU3dk1UNFNsWDk1SXZsUEZwMnVraHRkT0w1b1p2dV9vQ196OF9zU0VVV2Z3TnVWVzU0VG9oX0xBOGpXenNIMGNuLVdRTmxkYXFZMEpNNHJLRzBYSWRfOGlFQjhPVWNMMXRDQkRNSWZZZzdwZTd5eXo2VU1Nd2xWN19QcjVCOEtzcDdZUWdWdmo4dXhxMjRTZEZhLVdrY3FrMndoRmNsZlRmb04xcHRoc0ZycW44MXFKWm5GYm5fSVNFU3BHMFYzNWd3Sk1Gc2dCMjBLWHfSAZMCQVVfeXFMUGFpcllaX0N6aUh3VUJjdFExOUIyM04wRjZtcGFRRWJCOTJ0U0R5SjgwQUlQZFVtN2QzaEJtOENxZ2otd2txNTAzM1pHRElwSGY1UjZvdnZ3endvc0YtUlhucUFYOElTclpLcGhoaDJ0SUJPM1NKTXNyUnNESDRGU3BNZ0E2VWFteW9xb2d0Xzh4M2RoVlRPbExOaW50VlFUSmpDOHJQMnJnek1VWF9tRUVrT0lxWXZxeGZmeG9NRHRDaGJIVXNoVFcxUUdOUEIycnNJam9xdTdMNWlndHFZeXBxNEFhc0ZnY3ZFeTJPZ0ZyUHN6TWZYb3lid01wZ08wZmZ1SGY4Q1ZGUlF6R2tzUHJwc28?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "HEG Limited",
       "symbol": "HEG",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 3.0,
-      "confidence": 63,
+      "confidence": 70,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
@@ -792,74 +872,8 @@
           "verified": true
         },
         {
-          "label": "Disclosure under SEBI Takeover Regulations",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Engineers India Limited",
-      "symbol": "ENGINERSIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 285.25,
-      "catalysts": [
-        {
-          "label": "Engineers India Share Price Today Up 7% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOTWg4bXJERy03SVdaVndLZlBGcDItcmRQN3hMTUphMTkzN25MM3JuUERsQVVOa2V3eTFhMzdWTnVva3RmV0NvaTlRQUFrNjNnaHZpLVBsem9yZlZHZ1ZQaUFiWUZOb0d2Zm5zZVpzWjF1NmVzalgyRkVGR0Y4bFo4SUd3blFFVV9GazVjeER5a0lzcERxcUZraWxHRzBqOXFpV2F2cWVKSkdHU243UGY2VUFiX3dOdE5HZGtoZGtrWlRTWEFXaGQ1UmZJT0lJSVFDYjR0REtBeERoazdrTFI1MEtoaHdST3VlcmxmODg1MFhYWnFZcjVrb2Q3dFYyQ0JxNlp2Q0ZJRV9haEh6c1ROM1NsdGpCc2dlczFPUDVzbExzclVzSWxFeEp3?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "The India Cements Limited",
-      "symbol": "INDIACEM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 1,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 56,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 345.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
           "verified": true
         }
       ],
