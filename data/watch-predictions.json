@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T22:28:32+00:00",
+  "generatedAt": "2026-09-21T04:59:22+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -30,6 +30,41 @@
         },
         {
           "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.6,
+      "confidence": 85,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1268.7,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         }
@@ -74,39 +109,35 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HCL Technologies Limited",
-      "symbol": "HCLTECH",
+      "company": "Bal Pharma Limited",
+      "symbol": "BALPHARMA",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 1,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.0,
-      "confidence": 77,
+      "direction": "Positive watch",
+      "predictionScore": 6.3,
+      "confidence": 76,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1249.3,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 99.57,
       "catalysts": [
         {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
+          "label": "Sai Life Sciences' CRDMO Growth Is Expanding Beyond China-Plus-One",
+          "type": "results",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/sai-life-sciences-crdmo-growth-is-expanding-beyond-china-plus-one-12074218#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "The State Trading Corporation of India Limited",
@@ -121,7 +152,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 111.08,
+      "lastClose": 111.98,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -191,7 +222,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1051.4,
+      "lastClose": 1034.9,
       "catalysts": [
         {
           "label": "Allotment of Securities",
@@ -226,7 +257,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 11014.0,
+      "lastClose": 10990.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -249,32 +280,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Nestle India Limited",
-      "symbol": "NESTLEIND",
+      "company": "BEML Limited",
+      "symbol": "BEML",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 2,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.2,
-      "confidence": 67,
+      "direction": "Positive watch",
+      "predictionScore": 4.6,
+      "confidence": 63,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1372.4,
+      "lastClose": 2103.6,
       "catalysts": [
         {
-          "label": "Top stocks in focus tomorrow: Mazagon Dock, RVNL, Nestle India shares to move Sensex, Nifty? Monday, 21 Sept | Triggers - Livemint",
+          "label": "Upcoming dividends, stock splits this week: IRCTC, BEML, Engineers India, NLC India, Titagarh Rail Systems, Dixon Tech, among others in focus - Upstox",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Nestle India issues clarification: Why FMCG stock plunged? What's FSSAI baby formula row; why it matters to consumers? - Livemint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
+          "label": "Awarding of order(s)/contract(s)",
           "type": "announcement",
           "verified": true
         }
@@ -283,16 +309,11 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQLWxvdXFhWGY2SFNpWHpidkhhYkxUREt4ZkM2U29KalBiQVRxN08zeF9TMmhLUFpCRjNrS2dBU2ZVSEU3dk1UNFNsWDk1SXZsUEZwMnVraHRkT0w1b1p2dV9vQ196OF9zU0VVV2Z3TnVWVzU0VG9oX0xBOGpXenNIMGNuLVdRTmxkYXFZMEpNNHJLRzBYSWRfOGlFQjhPVWNMMXRDQkRNSWZZZzdwZTd5eXo2VU1Nd2xWN19QcjVCOEtzcDdZUWdWdmo4dXhxMjRTZEZhLVdrY3FrMndoRmNsZlRmb04xcHRoc0ZycW44MXFKWm5GYm5fSVNFU3BHMFYzNWd3Sk1Gc2dCMjBLWHfSAZMCQVVfeXFMUGFpcllaX0N6aUh3VUJjdFExOUIyM04wRjZtcGFRRWJCOTJ0U0R5SjgwQUlQZFVtN2QzaEJtOENxZ2otd2txNTAzM1pHRElwSGY1UjZvdnZ3endvc0YtUlhucUFYOElTclpLcGhoaDJ0SUJPM1NKTXNyUnNESDRGU3BNZ0E2VWFteW9xb2d0Xzh4M2RoVlRPbExOaW50VlFUSmpDOHJQMnJnek1VWF9tRUVrT0lxWXZxeGZmeG9NRHRDaGJIVXNoVFcxUUdOUEIycnNJam9xdTdMNWlndHFZeXBxNEFhc0ZnY3ZFeTJPZ0ZyUHN6TWZYb3lid01wZ08wZmZ1SGY4Q1ZGUlF6R2tzUHJwc28?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUjRMTXJELXFvcFEtNmlzbXd0UGlMTlV3enNFSTlMdjVDWjVsOHFaT2w0NmtXQkZRWnhMdFdvZDZVaDNteHR3UnJ2Yk1BazhkZlJwV0tlXzk1c3RldVFWblkycXhoSjdia1pXVDVVeHBnYTUyTU16SEt4aVZjeW9iQkEzNEJTYmhva0ZyclU2X1psQjZLR1Vuc1NGVno4cHM5QWJ1UFJfMTdOV3B0Yk5tN2c1bHYzS1V6d2xuUmVKRGpWTWJDY3FxenRfQ3BxZFdDTE8zLVMyVDQwZUc4cThkWnJ4QXltX0QwWFdkTkhrNmJ6YUYzSDEtLWtTbEhoVm9xNFBHX3JMN2lOc2Z6T3JMStIBlgJBVV95cUxNTlhaOFJNUlp3VDF5bGFQZ1dLVXNTaFV0WkMxT3Z2eTFpSzl4czFwNmNkdjRoWWF0cnJDOEhtR1IwZVRfWkZ6TERnaTdEVFZ6cVk4NXRCclk4ZVJOTGxkdUpTOG9rNS1qYzBzT3BHaVJfWVBmb2RzMm9wOFJkTlJEX3pQd1Yyb191S0ZWQV9ld3NldXpOUi1PLUJONkl5bTFvTVh1b2dqQS1COE96bFBLMGNzTGszcnpZeFQ2MkFYQ0FXOWpyNEwwM3Rla0VUbWtpRXBXN1FOU0VWRHpFUDFPbWR6ZUpwQ2xmMl96Zjh0YVVvUDNpb2xwVTlNNTdZS0djQW1mcUQ5Sl9pUXBmaEZvLVdqb1pvdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNVGlWcEJ5MXQweU1USWdWZkV3WU9PSDZra1NsWHkza3pCV2hTc2xWYTctc0h4ZjdsaU5HbTc2aTZlM2JDcGNQWEowTkRqenZ0NFhTV0JyRVdKcDVUdFJFSXRDQUlERW9EN21BWjRNM1pyN0U3THE0OE1BQ0w5LXJ6NEpodFJjX20tRkFVTk1xMDFwWV9vRjVoSGRETnBLaHhubF9fcmpsVzNVQ2hiamFzZTVXZHNsdEhvRm5PRHRNR1pCOTAyb3hkejBsMkpCVGYwbkZYNFVORFBSbTlzU08zaThyVVluMndlaUczWHVfZzQxRTQzUm1ldm1uYVRibVhNd1dfTjFVcWJNWXFndWNkVzFvc1RFMjdDWGtlcg?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "HEG Limited",
@@ -330,54 +351,107 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Prime Focus Limited",
-      "symbol": "PFOCUS",
+      "company": "Aurobindo Pharma Limited",
+      "symbol": "AUROPHARMA",
       "exchange": "NSE",
-      "confirmedNewsCount": 1,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 55,
+      "predictionScore": 3.2,
+      "confidence": 60,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 320.45,
+      "technicalConfidence": 67,
+      "lastClose": 1725.9,
       "catalysts": [
         {
-          "label": "New India Assurance, Prime Focus, Syrma SGS shares surge amid spike in volumes; check full list - Upstox",
+          "label": "Five Stocks To Buy Today: PhysicsWallah, Patanjali Foods, BHEL, And More | Sept 21",
           "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWDdEdnpTM1lMOTZtN2tJWWNOdHA3cDZnZl9jeWFwM3JnNVRDVlV4SUFkOUM4T2NuZkdrb2hiRDVaaWJKRE81b0I5ZExSZjcxLVlvVWtEcTVDSUxQVGZkVll0Uno2c3ZzXzZBQk9RbkF1bTk3Rl83MWwwTUp6X0ZEYzl0ZVdRcURkV29iYmNIbjBidWhrLUJxelZaeW5HaFc4Wm5vUC1TVnlWb2ZmcFkzNlJkQmJIelBGMU9tR2plbE5XYU9IYk11T2JDX05ya1ZNT3gwZFZBN3lGUnpQUFJCenZkRURiQQ?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/five-stocks-to-buy-september-21-physicswallah-patanjali-foods-aurobindo-pharma-bhel-ipca-labs-12074344#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Polycab India Limited",
+      "symbol": "POLYCAB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 60,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 8387.0,
+      "catalysts": [
+        {
+          "label": "Polycab's SKUs, 24-Hour Delivery Moat To Withstand Ultravolt's Foray: Morgan Stanley \u2014 Check Target Price",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/polycabs-10-000-skus-24-hour-delivery-moat-can-withstand-ultravolts-foray-morgan-stanley-check-target-price-12074291#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "Cummins India Limited",
-      "symbol": "CUMMINSIND",
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": -1.7,
-      "confidence": 55,
-      "riskLevel": "High",
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 5020.0,
+      "technicalConfidence": 100,
+      "lastClose": 1268.7,
       "catalysts": [
         {
-          "label": "Cummins India stock edges higher after latest quarterly figures - AD HOC NEWS",
-          "type": "company news",
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
           "verified": true
         },
         {
@@ -386,64 +460,15 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVFvQUhOV2lXalBxVVI1N0lLUzJCZGNaaEVkb1FEcFgxcTAwN1YzMjlHTEZ1WFJJTFJfWGFFVXZCUnpLWlVEWmsybUVWTHZKcXE3SFpsa2V5bG9ydWhGOTF6c2FaVGpleVdidDAweTFzTE1ZUlIzRXVKRHpIMXBmQkdOUkR4QlBpd1VUcGNKNzdoUzVQWTJaVm9od2p4cEhqSlgzWUhzOVFFZktNR3NlNUM4VTZLWDU5UlZoc2tQbw?oc=5",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
-    {
-      "company": "Skyways Air Services Limited",
-      "symbol": "SKYWAYS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 16,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends Flat | Nifty Above 23,300 | Skyways Air Services Up 6% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZTZ4TGlHMXY1VF80cUU2NEg0a1l6S0w4RkpoalNoZzFSWVJ4MlhJd3dnZ1dBNGRFaWJ1TTI1TjFhRWVKNTdTeVoyN2U2VzliSlhyOE1yTDJiYTNucVh6UjFmLTI5aDBIQ1NtRWh3TUlRMTd1clY0TThKRmVhNzJfbkx5emg2NXp0X1U3VTA3RDBOVmROazRnX25UbGwtZEFtNDNfYjFZRkxUTmFwMllqRWliUFZnNnZRX096NkFSNmx5OEJrWjJZ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
     {
       "company": "Happy Square Outsourcing Services Limited",
       "symbol": "WHITEFORCE",
@@ -492,7 +517,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 111.08,
+      "lastClose": 111.98,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -515,39 +540,35 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HCL Technologies Limited",
-      "symbol": "HCLTECH",
+      "company": "Bal Pharma Limited",
+      "symbol": "BALPHARMA",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 1,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
+      "direction": "Positive watch",
+      "predictionScore": 7.8,
       "confidence": 86,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1249.3,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 99.57,
       "catalysts": [
         {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
+          "label": "Sai Life Sciences' CRDMO Growth Is Expanding Beyond China-Plus-One",
+          "type": "results",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/sai-life-sciences-crdmo-growth-is-expanding-beyond-china-plus-one-12074218#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Infosys Limited",
@@ -562,7 +583,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1051.4,
+      "lastClose": 1034.9,
       "catalysts": [
         {
           "label": "Allotment of Securities",
@@ -597,7 +618,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 11014.0,
+      "lastClose": 10990.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -655,49 +676,38 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Nestle India Limited",
-      "symbol": "NESTLEIND",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 74,
+      "predictionScore": -2.4,
+      "confidence": 71,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 1372.4,
+      "technicalConfidence": 50,
+      "lastClose": 1243.5,
       "catalysts": [
         {
-          "label": "Top stocks in focus tomorrow: Mazagon Dock, RVNL, Nestle India shares to move Sensex, Nifty? Monday, 21 Sept | Triggers - Livemint",
-          "type": "company news",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Nestle India issues clarification: Why FMCG stock plunged? What's FSSAI baby formula row; why it matters to consumers? - Livemint",
-          "type": "company news",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "News Verification",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQLWxvdXFhWGY2SFNpWHpidkhhYkxUREt4ZkM2U29KalBiQVRxN08zeF9TMmhLUFpCRjNrS2dBU2ZVSEU3dk1UNFNsWDk1SXZsUEZwMnVraHRkT0w1b1p2dV9vQ196OF9zU0VVV2Z3TnVWVzU0VG9oX0xBOGpXenNIMGNuLVdRTmxkYXFZMEpNNHJLRzBYSWRfOGlFQjhPVWNMMXRDQkRNSWZZZzdwZTd5eXo2VU1Nd2xWN19QcjVCOEtzcDdZUWdWdmo4dXhxMjRTZEZhLVdrY3FrMndoRmNsZlRmb04xcHRoc0ZycW44MXFKWm5GYm5fSVNFU3BHMFYzNWd3Sk1Gc2dCMjBLWHfSAZMCQVVfeXFMUGFpcllaX0N6aUh3VUJjdFExOUIyM04wRjZtcGFRRWJCOTJ0U0R5SjgwQUlQZFVtN2QzaEJtOENxZ2otd2txNTAzM1pHRElwSGY1UjZvdnZ3endvc0YtUlhucUFYOElTclpLcGhoaDJ0SUJPM1NKTXNyUnNESDRGU3BNZ0E2VWFteW9xb2d0Xzh4M2RoVlRPbExOaW50VlFUSmpDOHJQMnJnek1VWF9tRUVrT0lxWXZxeGZmeG9NRHRDaGJIVXNoVFcxUUdOUEIycnNJam9xdTdMNWlndHFZeXBxNEFhc0ZnY3ZFeTJPZ0ZyUHN6TWZYb3lid01wZ08wZmZ1SGY4Q1ZGUlF6R2tzUHJwc28?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUjRMTXJELXFvcFEtNmlzbXd0UGlMTlV3enNFSTlMdjVDWjVsOHFaT2w0NmtXQkZRWnhMdFdvZDZVaDNteHR3UnJ2Yk1BazhkZlJwV0tlXzk1c3RldVFWblkycXhoSjdia1pXVDVVeHBnYTUyTU16SEt4aVZjeW9iQkEzNEJTYmhva0ZyclU2X1psQjZLR1Vuc1NGVno4cHM5QWJ1UFJfMTdOV3B0Yk5tN2c1bHYzS1V6d2xuUmVKRGpWTWJDY3FxenRfQ3BxZFdDTE8zLVMyVDQwZUc4cThkWnJ4QXltX0QwWFdkTkhrNmJ6YUYzSDEtLWtTbEhoVm9xNFBHX3JMN2lOc2Z6T3JMStIBlgJBVV95cUxNTlhaOFJNUlp3VDF5bGFQZ1dLVXNTaFV0WkMxT3Z2eTFpSzl4czFwNmNkdjRoWWF0cnJDOEhtR1IwZVRfWkZ6TERnaTdEVFZ6cVk4NXRCclk4ZVJOTGxkdUpTOG9rNS1qYzBzT3BHaVJfWVBmb2RzMm9wOFJkTlJEX3pQd1Yyb191S0ZWQV9ld3NldXpOUi1PLUJONkl5bTFvTVh1b2dqQS1COE96bFBLMGNzTGszcnpZeFQ2MkFYQ0FXOWpyNEwwM3Rla0VUbWtpRXBXN1FOU0VWRHpFUDFPbWR6ZUpwQ2xmMl96Zjh0YVVvUDNpb2xwVTlNNTdZS0djQW1mcUQ5Sl9pUXBmaEZvLVdqb1pvdw?oc=5",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -736,63 +746,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Prime Focus Limited",
-      "symbol": "PFOCUS",
+      "company": "BEML Limited",
+      "symbol": "BEML",
       "exchange": "NSE",
-      "confirmedNewsCount": 1,
+      "confirmedNewsCount": 2,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 66,
+      "predictionScore": 5.6,
+      "confidence": 70,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 320.45,
+      "technicalConfidence": 67,
+      "lastClose": 2103.6,
       "catalysts": [
         {
-          "label": "New India Assurance, Prime Focus, Syrma SGS shares surge amid spike in volumes; check full list - Upstox",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWDdEdnpTM1lMOTZtN2tJWWNOdHA3cDZnZl9jeWFwM3JnNVRDVlV4SUFkOUM4T2NuZkdrb2hiRDVaaWJKRE81b0I5ZExSZjcxLVlvVWtEcTVDSUxQVGZkVll0Uno2c3ZzXzZBQk9RbkF1bTk3Rl83MWwwTUp6X0ZEYzl0ZVdRcURkV29iYmNIbjBidWhrLUJxelZaeW5HaFc4Wm5vUC1TVnlWb2ZmcFkzNlJkQmJIelBGMU9tR2plbE5XYU9IYk11T2JDX05ya1ZNT3gwZFZBN3lGUnpQUFJCenZkRURiQQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Cummins India Limited",
-      "symbol": "CUMMINSIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.4,
-      "confidence": 64,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 5020.0,
-      "catalysts": [
-        {
-          "label": "Cummins India stock edges higher after latest quarterly figures - AD HOC NEWS",
+          "label": "Upcoming dividends, stock splits this week: IRCTC, BEML, Engineers India, NLC India, Titagarh Rail Systems, Dixon Tech, among others in focus - Upstox",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
+          "label": "Awarding of order(s)/contract(s)",
           "type": "announcement",
           "verified": true
         }
@@ -801,74 +775,80 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVFvQUhOV2lXalBxVVI1N0lLUzJCZGNaaEVkb1FEcFgxcTAwN1YzMjlHTEZ1WFJJTFJfWGFFVXZCUnpLWlVEWmsybUVWTHZKcXE3SFpsa2V5bG9ydWhGOTF6c2FaVGpleVdidDAweTFzTE1ZUlIzRXVKRHpIMXBmQkdOUkR4QlBpd1VUcGNKNzdoUzVQWTJaVm9od2p4cEhqSlgzWUhzOVFFZktNR3NlNUM4VTZLWDU5UlZoc2tQbw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNVGlWcEJ5MXQweU1USWdWZkV3WU9PSDZra1NsWHkza3pCV2hTc2xWYTctc0h4ZjdsaU5HbTc2aTZlM2JDcGNQWEowTkRqenZ0NFhTV0JyRVdKcDVUdFJFSXRDQUlERW9EN21BWjRNM1pyN0U3THE0OE1BQ0w5LXJ6NEpodFJjX20tRkFVTk1xMDFwWV9vRjVoSGRETnBLaHhubF9fcmpsVzNVQ2hiamFzZTVXZHNsdEhvRm5PRHRNR1pCOTAyb3hkejBsMkpCVGYwbkZYNFVORFBSbTlzU08zaThyVVluMndlaUczWHVfZzQxRTQzUm1ldm1uYVRibVhNd1dfTjFVcWJNWXFndWNkVzFvc1RFMjdDWGtlcg?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "HEG Limited",
-      "symbol": "HEG",
+      "company": "Aurobindo Pharma Limited",
+      "symbol": "AUROPHARMA",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 63,
+      "predictionScore": 4.2,
+      "confidence": 67,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1725.9,
       "catalysts": [
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Five Stocks To Buy Today: PhysicsWallah, Patanjali Foods, BHEL, And More | Sept 21",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Disclosure under SEBI Takeover Regulations",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/five-stocks-to-buy-september-21-physicswallah-patanjali-foods-aurobindo-pharma-bhel-ipca-labs-12074344#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "DLF Limited",
-      "symbol": "DLF",
+      "company": "Polycab India Limited",
+      "symbol": "POLYCAB",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -2.3,
-      "confidence": 61,
+      "predictionScore": -3.2,
+      "confidence": 67,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
-      "lastClose": 644.35,
+      "lastClose": 8387.0,
       "catalysts": [
         {
-          "label": "Top stocks to buy on Monday when market opens: DLF, PN Gadgil Jewellers, HPCL - Stop-loss, target by Ganesh Dongre - Livemint",
-          "type": "results",
+          "label": "Polycab's SKUs, 24-Hour Delivery Moat To Withstand Ultravolt's Foray: Morgan Stanley \u2014 Check Target Price",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -876,8 +856,8 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQR3h4UnMtY2dLREczRGNkcGJEX2pFUnVuR3pJbjRkZVlBVk1CZUxNQmJXN3NrbVg4THBmVE8xWXBNMGVQRjRocnVheXNPNzF2ZTRRczJ1ejhaUzlCRTZSNTZveTY4RmlGSjFNcklYYVpSZDViQ2xYWHNpOVZMSkRqOURNNkZnbnJZdFdFdWdPNkhTdFZ5eTc2c0pQeVpLd0taR3RpTFVhcGQ3aVhQV3c2cFRaNUd5NVlGLWRRd1hqSjE1Yjd3VzFOdVN5WmFWMVRDRU5mR1Z5N3YyUzFHWDNJQTVhYlJacVlPU011OUViczFkZjVSMVdIRjdZeGRpUVM3bXptaTRUS0htUdIBjwJBVV95cUxNZTBrM09SYVA0c0pkanBYNmRPbUZDVGlhWnNRRHNmNmtjMGxxTzlaWklHRXBMSThucFRoakltZVpzdUJqZ3JDemRGYTdEbzNGaEg4aDFSbl9CTlh0b3JTclFmTzZKVTQ0bDh1TlF1ZVFfS0kzQVNzSmpTQ2VUekFRQVpfcnZLQTRTZEtpMllzdF9OLVNBWEZweU03N3NRMlNYWFlRUFJkRU5LcF9XTTlWTUJXdTFyUUNxNklBT3M4T05vb3NMSmRiM296LUo0RlVpWjRWREdfSTFPXzc0aG1EZk5EVzEtYWZXczFRVGw3cTRRMk9pQkFBUG5pNlhhS3VDN2NTWG82bE9RU3V6ZGsw?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/polycabs-10-000-skus-24-hour-delivery-moat-can-withstand-ultravolts-foray-morgan-stanley-check-target-price-12074291#publisher=newsstand",
           "verified": true
         }
       ],
