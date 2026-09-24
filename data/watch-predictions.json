@@ -1,127 +1,30 @@
 {
-  "generatedAt": "2026-09-24T04:55:41+00:00",
+  "generatedAt": "2026-09-24T11:50:24+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "PB Fintech Limited",
-      "symbol": "POLICYBZR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -5.3,
-      "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1452.3,
-      "catalysts": [
-        {
-          "label": "IRDAI Takes An Axe To Commissions, Proposes Five-Year Expense Caps For Insurers: PB Fintech Hardest Hit",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Rumour Verification - Regulation 30(11)",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Stock Market Crash Live: Nifty Falls Near 23,200, Sensex Slumps Over 600 Points; PB Fintech Hits 10% Lower Circuit",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Turtlemint Tumbles 20%, PB Fintech, Max Financial Fall 10%: Why Insurance Stocks Are Down Today",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-bonds-iran-war-us-attack-oil-market-impact-fno-expiry-12089662#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/turtlemint-pb-fintech-max-financial-icici-lombard-star-health-insurance-stocks-today-irdai-proposals-12089998#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/irdai-slashes-commissions-of-insurance-aggregators-unveils-five-year-expense-caps-pb-fintech-hardest-hit-12089871#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1196.2,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
+      "company": "Meesho Limited",
+      "symbol": "MEESHO",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
+      "direction": "Positive watch",
+      "predictionScore": 4.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1335.5,
+      "lastClose": 232.84,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Meesho Block Deal: Goldman Sachs, Morgan Stanley Among Buyers As Rs 900-Crore Stake Change Hands",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
@@ -132,31 +35,142 @@
         }
       ],
       "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/meesho-block-deal-goldman-sachs-morgan-stanley-among-buyers-as-rs-900-crore-stake-change-hands-12088153#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1334.5,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Engineers India Limited",
-      "symbol": "ENGINERSIN",
+      "company": "Global Education Limited",
+      "symbol": "GLOBAL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Buyback",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
       "confidence": 83,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 301.35,
+      "lastClose": 2982.7,
       "catalysts": [
         {
-          "label": "Engineers India Share Price Today Up 6% - Equitymaster",
-          "type": "company news",
+          "label": "Updates",
+          "type": "announcement",
           "verified": true
         },
         {
           "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 81,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1785.9,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
@@ -167,42 +181,71 @@
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQeHRmZHJPQmRjSkRuX3pNRWdEZ19zcmNsMTYwMUJIUFlFdlotSWRTaEl3LV9WUGlxMXFleGpMVnhBdms4MUJ3clU2SnJWeTBBRVFrbUk2bTVUUy1POEFTakJsb0ZHcFl2c1lMdGFaMG16WUdycHdIMWhBOGhheVBCS0ZQSDJGLWxmYjhPMU9uSmIwWmkxUkl5ZEtiTzNuazVHUXpFOVhRM0VqSENXT3h1bWltSGNfX1ZxeVFUTWViQ2c1SUFlOHBlTjY3ZFNJVXh3MDFmX0o3UXZXcjZLdG0zVDg2RWREbkhRZFlVVUxOUW5oem9pV0l2NHAwU3dpbnh4Z0VjUGtYdHBfemFuT1VMR1dXck1YMEtiaUJNMVlQcDFlMnVDaDRFVHNLYWM?oc=5",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Vishal Mega Mart Limited",
-      "symbol": "VMM",
+      "company": "Karur Vysya Bank Limited",
+      "symbol": "KARURVYSYA",
       "exchange": "NSE",
       "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 77,
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 81,
       "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 0,
-      "lastClose": 106.55,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 325.0,
       "catalysts": [
         {
-          "label": "Vishal Mega Mart Shares May Rally 27%, Says Motilal Oswal Despite Stake Sale Overhang \u2014 Check New Target Price",
-          "type": "corporate action",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Vishal Mega Mart Has 54% Upside Potential, But That's Not The Only Trigger; Why Jefferies Says 'Buy'",
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 137.76,
+      "catalysts": [
+        {
+          "label": "State Bank of India stock falls 1.57 percent on NSE - AD HOC NEWS",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Change in Director(s)",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -210,13 +253,8 @@
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/vishal-mega-mart-shares-may-rally-27-percent-says-motilal-oswal-despite-stake-sale-overhang-check-new-target-price-12089995#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/vishal-mega-mart-54-percent-upside-potential-trigger-jefferies-buy-rating-target-price-sensex-today-12089823#publisher=newsstand",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2l6empBSnZXZGdGa1kyRWh3bG80TUEtMjFGXzdCaTBOb2ZzV3duYllhRG1UQkEtQzBKaGJzUmNoWTVrLUNuTmpsUDgwbXJYUXBkel80djU1YnBiQWp2QWd3Vkl4OVRpNU82ckR5bjBNQVNab1NiVEFiaktaSEptNmE2eDdYX3J2YkE4bUFXVWljWTFJNE9UTHFFSWhIUGk0UF80dUJHSFdpdlJQS0NV?oc=5",
           "verified": true
         }
       ],
@@ -235,7 +273,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 41.25,
+      "lastClose": 42.52,
       "catalysts": [
         {
           "label": "Sensex Today Ends 299 Points Higher | Nifty Above 23,400 | Ola Electric Mobility Up 11% - Equitymaster",
@@ -264,19 +302,19 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
+      "company": "Dr. Reddy's Laboratories Limited",
+      "symbol": "DRREDDY",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.2,
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
       "confidence": 74,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 322.45,
+      "lastClose": 1200.4,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -284,12 +322,47 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "L&T Technology Services Limited",
+      "symbol": "LTTS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.6,
+      "confidence": 71,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 3209.1,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         }
@@ -311,7 +384,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2078.5,
+      "lastClose": 2087.0,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -334,8 +407,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Canara Robeco Asset Management Company Limited",
-      "symbol": "CRAMC",
+      "company": "PB Fintech Limited",
+      "symbol": "POLICYBZR",
       "exchange": "NSE",
       "confirmedNewsCount": 3,
       "gossipCount": 0,
@@ -346,175 +419,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 230.55,
+      "lastClose": 1207.2,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ETERNAL LIMITED",
-      "symbol": "ETERNAL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 68,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 341.7,
-      "catalysts": [
-        {
-          "label": "Sensex Today Trades Higher | Nifty Above 23,450 | HDFC Bank & Eternal Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Top gainers and losers, September 22: Tata Consumer Products falls 2%, Coal India jumps 3%, Eternal up 2%; check list - Upstox",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmpoU3h0ZmxtR0FQTUpTRUJXcWFTcGgyc3F1SnRqa2ZMRkoyY3RxLVZRRUdtT1BrLU9iYk5CVlI0MFNlcXpFUHI1dHYwOUJHeEJSdUpkQlloemNPanVvaTNBcHlFTkJDT01aeTI3QU10UmR6SDBtY3k4cUQwU09vY1pVM09YQWpiREdNRmthOVJQaVNUWWhKeGdRcWUxTlctZ3I3SWxUN1VFQ0M1bTZfWDE0SldzSlhQMWNyZHlFNjdMUFJGTjZLdUlmYl9RU041RjBEUg?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYVU3d1Fob3plMzZFNEp6SHJiZzlFZFAyTmpaVGZCTjFWRy15X1N3b01GRjlzdkNKcnIxdVRMX1JRMDliQTUyMUFpVFFOWmNQbXFhMUQxZ1ZHeEN5X0k1YVJrS1lHNmhacnozUllGdlNSUXNULUtwLVJRVEpUU2xpTnZGV0V3QW5iSnd4d0Y3dGFOZmlnN2Jwcm40SzBMc19FQTJKSE0yX25mRUdzaWg5ektYdWZnTWQ2MEQ3MjQ3QkF2clMyUzIzdDFtUUxVSklpX2sxR1F5TGpEQWNieGRrb2Y4eDJfUGRBUkdrQ3htWmYzcFdjdy1GRnFtMmI?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "LG Electronics India Limited",
-      "symbol": "LGEINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 67,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1676.1,
-      "catalysts": [
-        {
-          "label": "LG Electronics India share price target: BOB Capital sees 20% upside | What\u2019s driving the call? - Livemint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOFpYb0kwdnFhZHdIcGdnV09ZY2d0VExuaUhYWDV4ZlJTYUlxRnFXYUtUZWZGdDlYNk1OWmU4LXJKVk11b05NcjNWY3BrY1VaWDA1bDk0R1hUYzNIVm4tMzdzb2RMTUhsUlRDSW1LdzJoVGRuVlpjQVNZRU1xTVI3RmNzcVotZjBQRk9RUDRSZm0zbkE5TDZmb1RabHk1VFRMSWRXZUo3elRlOTVzVGI3ZVV5TElwUnZwaG9mWnNoaEdvVnlKcjNZOHQzNzE3cHpNaDJ3eUxJTFJBRS16N2tkU0J1aktPQV9JNnpiZlpmY2U1UdIB9wFBVV95cUxOOGF1ZU81Z0YwWUlsSUw3OHBVcnNiODJYdzVBUThoS0dxRXhFZlVYRXZLRHFqVEZhVmIxVk03Y2NSYWlBcFozVjN6Y0w2X2RMWWNpc2JmeTRhSkFwVEFrRzJ4UlpuYWIwN29scGMzenREaV9lVTB1ck5IaFNLMUw2SFNIRXRzX0l6NkphdjZWVDN4T0hWdVE0cnUxWTZPcEV0N2YwNFBSWG1tQUQ0YWJ6RUlpSHdROTE5cVRKc28yU0txQ2RZN2w5djg4MWFjTjd3UVRlblIxNlVIQUFlSldpVnAxUXBibGxjbEc2ZHdNYWhWbG0xcnJr?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "BEML Limited",
-      "symbol": "BEML",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 62,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 2059.7,
-      "catalysts": [
-        {
-          "label": "HAL, Bharat Dynamics, BEML, BEL: Which defence stock to buy for maximum gains amid next expansion phase | Target price - Livemint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Awarding of order(s)/contract(s)",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQeVNlSDQzbE9hTzVlN25wNmdIMGhCNDdkdGhZSl9pS0xJa3czamFVMm1TT25QSHZ0dm15ZDU0elRQN1dvZHFwZUczNHpISWNxT0pSS1lldWtQeXhCV2NtZXJ5aDgzT3RVRXFleXlWck10TnVic3JhWGRKRVk2S0twaEpKYndBMnNmWThrQnh6SVc5UlM4TnBqbWZXLU44V0p5c0ZHTlEyRDN0TlF2WjFBMlhjZW5GNjA5Sno0Q1lCc2tabjh4d09rRWhjS0UtRkpEUG4zaXMxRWhHYV8ycU03V1ppZzlMeVRnZ3JvbnJQRk5MRjhfUkYwVTJNTXVhcmZlU1d5RDFielJEMmJpNHR30gGUAkFVX3lxTE1tMUxwbjNVdjh6Qm9TZ3ktYWlDOElwUk51Yk9EbGhJenhJLVRENWJQbXdHOEZ1QlBnMEtMLUpkcXlCbEVLQTllOW1ydC1oQ2ZOcTZDcU1DNWRqM054cG94X093UkI5bHo4aHgzRmRVSi1XRHZOYXBYWTZvTVpVME9zSFFzMWNmSnVWdmlFRjlGMktoWjkxYkZCb2VaazdCNkQxY3BTbTFLamRzZHMzYXNNVnJGMUhYeGhLQkE4cTJ3S1BZSUt5MDJMNGFEb3NSak55QlYxdVBlZmo2dnZYMVg5YnRJVGc2azd0dF9lNVpuaFFtTGNkM3hsb254N1lWWTdNdlBWQW9sVDNoVXVxRHNpYTJKeg?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    }
-  ],
-  "tomorrow": [
-    {
-      "company": "PB Fintech Limited",
-      "symbol": "POLICYBZR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -6.8,
-      "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1452.3,
-      "catalysts": [
-        {
-          "label": "IRDAI Takes An Axe To Commissions, Proposes Five-Year Expense Caps For Insurers: PB Fintech Hardest Hit",
+          "label": "PB Fintech\u2019s 34% Rout Marks D-Street\u2019s 5th Worst Single-Day Plunge: Which 4 Crashes Were Bigger?",
           "type": "company news",
           "verified": true
         },
@@ -529,94 +437,40 @@
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "Stock Market Crash Live: Nifty Falls Near 23,200, Sensex Slumps Over 600 Points; PB Fintech Hits 10% Lower Circuit",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Turtlemint Tumbles 20%, PB Fintech, Max Financial Fall 10%: Why Insurance Stocks Are Down Today",
-          "type": "company news",
-          "verified": true
-        }
-      ],
+      "risks": [],
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-bonds-iran-war-us-attack-oil-market-impact-fno-expiry-12089662#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/turtlemint-pb-fintech-max-financial-icici-lombard-star-health-insurance-stocks-today-irdai-proposals-12089998#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/irdai-slashes-commissions-of-insurance-aggregators-unveils-five-year-expense-caps-pb-fintech-hardest-hit-12089871#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/pb-fintech-s-34-rout-marks-d-street-s-5th-worst-single-day-plunge-which-4-crashes-were-bigger-12091852#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1196.2,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
+      "company": "Meesho Limited",
+      "symbol": "MEESHO",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
+      "direction": "Positive watch",
+      "predictionScore": 5.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1335.5,
+      "lastClose": 232.84,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Meesho Block Deal: Goldman Sachs, Morgan Stanley Among Buyers As Rs 900-Crore Stake Change Hands",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
@@ -627,31 +481,183 @@
         }
       ],
       "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/meesho-block-deal-goldman-sachs-morgan-stanley-among-buyers-as-rs-900-crore-stake-change-hands-12088153#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1334.5,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Engineers India Limited",
-      "symbol": "ENGINERSIN",
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 301.35,
+      "lastClose": 2982.7,
       "catalysts": [
         {
-          "label": "Engineers India Share Price Today Up 6% - Equitymaster",
-          "type": "company news",
+          "label": "Updates",
+          "type": "announcement",
           "verified": true
         },
         {
           "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1186.5,
+      "catalysts": [
+        {
+          "label": "Bank Q2 Results FY27: HDFC Bank, Axis Bank, ICICI Bank Announce Results Dates",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/bank-q2-results-fy27-hdfc-bank-axis-bank-icici-bank-announce-results-dates-12090167#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Global Education Limited",
+      "symbol": "GLOBAL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Buyback",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1785.9,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
@@ -662,10 +668,80 @@
         }
       ],
       "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Karur Vysya Bank Limited",
+      "symbol": "KARURVYSYA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 325.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 87,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 137.76,
+      "catalysts": [
+        {
+          "label": "State Bank of India stock falls 1.57 percent on NSE - AD HOC NEWS",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQeHRmZHJPQmRjSkRuX3pNRWdEZ19zcmNsMTYwMUJIUFlFdlotSWRTaEl3LV9WUGlxMXFleGpMVnhBdms4MUJ3clU2SnJWeTBBRVFrbUk2bTVUUy1POEFTakJsb0ZHcFl2c1lMdGFaMG16WUdycHdIMWhBOGhheVBCS0ZQSDJGLWxmYjhPMU9uSmIwWmkxUkl5ZEtiTzNuazVHUXpFOVhRM0VqSENXT3h1bWltSGNfX1ZxeVFUTWViQ2c1SUFlOHBlTjY3ZFNJVXh3MDFmX0o3UXZXcjZLdG0zVDg2RWREbkhRZFlVVUxOUW5oem9pV0l2NHAwU3dpbnh4Z0VjUGtYdHBfemFuT1VMR1dXck1YMEtiaUJNMVlQcDFlMnVDaDRFVHNLYWM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2l6empBSnZXZGdGa1kyRWh3bG80TUEtMjFGXzdCaTBOb2ZzV3duYllhRG1UQkEtQzBKaGJzUmNoWTVrLUNuTmpsUDgwbXJYUXBkel80djU1YnBiQWp2QWd3Vkl4OVRpNU82ckR5bjBNQVNab1NiVEFiaktaSEptNmE2eDdYX3J2YkE4bUFXVWljWTFJNE9UTHFFSWhIUGk0UF80dUJHSFdpdlJQS0NV?oc=5",
           "verified": true
         }
       ],
@@ -684,7 +760,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 41.25,
+      "lastClose": 42.52,
       "catalysts": [
         {
           "label": "Sensex Today Ends 299 Points Higher | Nifty Above 23,400 | Ola Electric Mobility Up 11% - Equitymaster",
@@ -713,6 +789,41 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "L&T Technology Services Limited",
+      "symbol": "LTTS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.1,
+      "confidence": 81,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 3209.1,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Tata Consultancy Services Limited",
       "symbol": "TCS",
       "exchange": "NSE",
@@ -725,7 +836,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2078.5,
+      "lastClose": 2087.0,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -748,185 +859,23 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
+      "company": "Dr. Reddy's Laboratories Limited",
+      "symbol": "DRREDDY",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 322.45,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Canara Robeco Asset Management Company Limited",
-      "symbol": "CRAMC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 230.55,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Vishal Mega Mart Limited",
-      "symbol": "VMM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 0,
-      "lastClose": 106.55,
-      "catalysts": [
-        {
-          "label": "Vishal Mega Mart Shares May Rally 27%, Says Motilal Oswal Despite Stake Sale Overhang \u2014 Check New Target Price",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Vishal Mega Mart Has 54% Upside Potential, But That's Not The Only Trigger; Why Jefferies Says 'Buy'",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/vishal-mega-mart-shares-may-rally-27-percent-says-motilal-oswal-despite-stake-sale-overhang-check-new-target-price-12089995#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/vishal-mega-mart-54-percent-upside-potential-trigger-jefferies-buy-rating-target-price-sensex-today-12089823#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ETERNAL LIMITED",
-      "symbol": "ETERNAL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 341.7,
-      "catalysts": [
-        {
-          "label": "Sensex Today Trades Higher | Nifty Above 23,450 | HDFC Bank & Eternal Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Top gainers and losers, September 22: Tata Consumer Products falls 2%, Coal India jumps 3%, Eternal up 2%; check list - Upstox",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmpoU3h0ZmxtR0FQTUpTRUJXcWFTcGgyc3F1SnRqa2ZMRkoyY3RxLVZRRUdtT1BrLU9iYk5CVlI0MFNlcXpFUHI1dHYwOUJHeEJSdUpkQlloemNPanVvaTNBcHlFTkJDT01aeTI3QU10UmR6SDBtY3k4cUQwU09vY1pVM09YQWpiREdNRmthOVJQaVNUWWhKeGdRcWUxTlctZ3I3SWxUN1VFQ0M1bTZfWDE0SldzSlhQMWNyZHlFNjdMUFJGTjZLdUlmYl9RU041RjBEUg?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYVU3d1Fob3plMzZFNEp6SHJiZzlFZFAyTmpaVGZCTjFWRy15X1N3b01GRjlzdkNKcnIxdVRMX1JRMDliQTUyMUFpVFFOWmNQbXFhMUQxZ1ZHeEN5X0k1YVJrS1lHNmhacnozUllGdlNSUXNULUtwLVJRVEpUU2xpTnZGV0V3QW5iSnd4d0Y3dGFOZmlnN2Jwcm40SzBMc19FQTJKSE0yX25mRUdzaWg5ektYdWZnTWQ2MEQ3MjQ3QkF2clMyUzIzdDFtUUxVSklpX2sxR1F5TGpEQWNieGRrb2Y4eDJfUGRBUkdrQ3htWmYzcFdjdy1GRnFtMmI?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "LG Electronics India Limited",
-      "symbol": "LGEINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 3.2,
-      "confidence": 74,
+      "confidence": 81,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1676.1,
+      "lastClose": 1200.4,
       "catalysts": [
         {
-          "label": "LG Electronics India share price target: BOB Capital sees 20% upside | What\u2019s driving the call? - Livemint",
-          "type": "company news",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
@@ -935,43 +884,7 @@
           "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOFpYb0kwdnFhZHdIcGdnV09ZY2d0VExuaUhYWDV4ZlJTYUlxRnFXYUtUZWZGdDlYNk1OWmU4LXJKVk11b05NcjNWY3BrY1VaWDA1bDk0R1hUYzNIVm4tMzdzb2RMTUhsUlRDSW1LdzJoVGRuVlpjQVNZRU1xTVI3RmNzcVotZjBQRk9RUDRSZm0zbkE5TDZmb1RabHk1VFRMSWRXZUo3elRlOTVzVGI3ZVV5TElwUnZwaG9mWnNoaEdvVnlKcjNZOHQzNzE3cHpNaDJ3eUxJTFJBRS16N2tkU0J1aktPQV9JNnpiZlpmY2U1UdIB9wFBVV95cUxOOGF1ZU81Z0YwWUlsSUw3OHBVcnNiODJYdzVBUThoS0dxRXhFZlVYRXZLRHFqVEZhVmIxVk03Y2NSYWlBcFozVjN6Y0w2X2RMWWNpc2JmeTRhSkFwVEFrRzJ4UlpuYWIwN29scGMzenREaV9lVTB1ck5IaFNLMUw2SFNIRXRzX0l6NkphdjZWVDN4T0hWdVE0cnUxWTZPcEV0N2YwNFBSWG1tQUQ0YWJ6RUlpSHdROTE5cVRKc28yU0txQ2RZN2w5djg4MWFjTjd3UVRlblIxNlVIQUFlSldpVnAxUXBibGxjbEc2ZHdNYWhWbG0xcnJr?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "MphasiS Limited",
-      "symbol": "MPHASIS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 2260.3,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
