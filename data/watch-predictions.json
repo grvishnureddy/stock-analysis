@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-09-24T11:50:24+00:00",
+  "generatedAt": "2026-09-24T17:14:46+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "Meesho Limited",
-      "symbol": "MEESHO",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.3,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 232.84,
+      "lastClose": 1186.5,
       "catalysts": [
         {
-          "label": "Meesho Block Deal: Goldman Sachs, Morgan Stanley Among Buyers As Rs 900-Crore Stake Change Hands",
-          "type": "company news",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
@@ -29,20 +29,14 @@
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/meesho-block-deal-goldman-sachs-morgan-stanley-among-buyers-as-rs-900-crore-stake-change-hands-12088153#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "ICICI Bank Limited",
@@ -71,6 +65,41 @@
         },
         {
           "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 2982.7,
+      "catalysts": [
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -115,50 +144,15 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Mahindra & Mahindra Limited",
-      "symbol": "M&M",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 2982.7,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Coforge Limited",
       "symbol": "COFORGE",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
       "predictionScore": -2.2,
-      "confidence": 81,
+      "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
@@ -170,7 +164,7 @@
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         },
@@ -211,6 +205,41 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tata Consultancy Services Limited",
+      "symbol": "TCS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.6,
+      "confidence": 78,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 2087.0,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -261,32 +290,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Ola Electric Mobility Limited",
-      "symbol": "OLAELEC",
+      "company": "Wheels India Limited",
+      "symbol": "WHEELS",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.1,
+      "predictionScore": 2.2,
       "confidence": 74,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 42.52,
+      "technicalConfidence": 67,
+      "lastClose": 2180.8,
       "catalysts": [
         {
-          "label": "Sensex Today Ends 299 Points Higher | Nifty Above 23,400 | Ola Electric Mobility Up 11% - Equitymaster",
+          "label": "Wheels India launches \u20b9250 crore QIP at indicative price of \u20b92,088 per share - CNBC TV18",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Fund Raising",
-          "type": "upcoming event",
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -295,11 +324,11 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPYWJsY29xYUF6S2dLb2VybGFHVG4xLV9ObnBsZzBtWGpjMkpwZFNHZDlBUk1JTExmUmtDQlYzVEdjTXZoOEVPLWRRZ255MkZaQTBVZHQ2dFNlaXNWbThfeW9NQkxfRVVVZk5xd21yMk56VVIxRElVTTFzQXBfYzZNamswM2tRanBQcFJORnRwOUg1aW5Jbm9LRkJxYWN3Vm03Wm1jeF85eXRSUGRVSHhjM3JXekxXSFc5YnpHSndrVldXOExGcVp5dUFndE9aRGtCMlljcGE3cXlrN2dTa2VvakNyWjVQakhzN1JrWkVlNS1wOHJzV1ljY1RmTUVRZnpHLWxrM0dGbzhQTi1XeV9OcENjTFNGb3pON3dQMHItUTlHQlYzTTVjUjhGWjRCbXAza2ExaUNZQ0pYVnY4YVBITw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMS1oMGhuY3FPamEwNThhR1RVUndtcklocTFFSV8yamVFTmdNU0tTckYzbUxWNGphNjVXSXh4bW9TUE9pZ2xLU0pzX3ZFZFA1T0xZXzlrZk9Gc2Ntcy1XOERkd2c3N3BULU5rTHZ0UUkydHFRMGwxLVdndWEzU1NHa0xva0gxcERLME9vdDNFNTRWQlNFRFlTWW9fWG9xemlac0dXUWl5MHFTdEQ3QkZRQWdlQ0dyOGpKSHA2aTlOUEpUYnJ6dEhjMTJPXzNRemNfLWZYOEM4WG1oV3PSAeABQVVfeXFMTVFQd29raTh2bzdZZFlSR1JRNWprQ044WXdjZm9KdW9pRmJtaVFKN3dBcVp2NWF4Z1FTOXVWLWlpNFRSeHUxMXB3bDZpdW1VS1IzVWgybjVJVHBMNEd5MkJsckJoQWlJaVAybmVaakt1enpuZmM0VmwzRTlvUGRISWRnNnNKd0E2NmRJS0R3RXluZlFYeEViQzI0bmhSRmZXbE9yZm1uN0FNUVB6dTAzSzR5ckgwYnFnQXprYW9BM1FhRkM2SEVSSV9VeTZPUkxkU2hZdWpmQ25kMGJ5MFRJS0o?oc=5",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Dr. Reddy's Laboratories Limited",
@@ -372,41 +401,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Tata Consultancy Services Limited",
-      "symbol": "TCS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.6,
-      "confidence": 71,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 2087.0,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "PB Fintech Limited",
       "symbol": "POLICYBZR",
       "exchange": "NSE",
@@ -422,7 +416,7 @@
       "lastClose": 1207.2,
       "catalysts": [
         {
-          "label": "PB Fintech\u2019s 34% Rout Marks D-Street\u2019s 5th Worst Single-Day Plunge: Which 4 Crashes Were Bigger?",
+          "label": "Why PB Fintech and Other Insurance Stocks Crashed Today: IRDAI\u2019s New Proposal Explained - India Infoline",
           "type": "company news",
           "verified": true
         },
@@ -440,8 +434,8 @@
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/pb-fintech-s-34-rout-marks-d-street-s-5th-worst-single-day-plunge-which-4-crashes-were-bigger-12091852#publisher=newsstand",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcU8yYlZaVU1vUDBnMnpUTE41QVVvdmpabk82NEF2OGU5Vm9RZ3g0SnhHOUNmb3lPZElwQnFOSnVCSHZ0b010Y2JkZVJ4TV85Yzd0RlVMYS1ucXJfaGx0clJKM3V6TzBqYWQzUldlTlR3NnB0cTR0MFhfSk1pVXpyTkpaaTd2eUp2cHUzZ3R1eDZyLTBkMzRvcUFmMFRLTERLM3JtLWFOblRhemlkcjdheTBNVFZDN0pqR3BCR25MMU1HOExGeWQwRnd3?oc=5",
           "verified": true
         }
       ],
@@ -450,23 +444,23 @@
   ],
   "tomorrow": [
     {
-      "company": "Meesho Limited",
-      "symbol": "MEESHO",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.8,
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 232.84,
+      "lastClose": 1186.5,
       "catalysts": [
         {
-          "label": "Meesho Block Deal: Goldman Sachs, Morgan Stanley Among Buyers As Rs 900-Crore Stake Change Hands",
-          "type": "company news",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
@@ -475,20 +469,14 @@
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/meesho-block-deal-goldman-sachs-morgan-stanley-among-buyers-as-rs-900-crore-stake-change-hands-12088153#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "ICICI Bank Limited",
@@ -529,7 +517,7 @@
       "company": "Mahindra & Mahindra Limited",
       "symbol": "M&M",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -541,7 +529,7 @@
       "lastClose": 2982.7,
       "catalysts": [
         {
-          "label": "Updates",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
@@ -551,7 +539,7 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -561,44 +549,38 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -2.8,
+      "predictionScore": -3.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1186.5,
+      "technicalConfidence": 67,
+      "lastClose": 1785.9,
       "catalysts": [
-        {
-          "label": "Bank Q2 Results FY27: HDFC Bank, Axis Bank, ICICI Bank Announce Results Dates",
-          "type": "results",
-          "verified": true
-        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/bank-q2-results-fy27-hdfc-bank-axis-bank-icici-bank-announce-results-dates-12090167#publisher=newsstand",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -637,32 +619,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Coforge Limited",
-      "symbol": "COFORGE",
+      "company": "Tata Consultancy Services Limited",
+      "symbol": "TCS",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -3.2,
+      "predictionScore": -4.1,
       "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 1785.9,
+      "technicalConfidence": 100,
+      "lastClose": 2087.0,
       "catalysts": [
         {
-          "label": "Financial Results",
+          "label": "Financial Results/Dividend",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -748,47 +730,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Ola Electric Mobility Limited",
-      "symbol": "OLAELEC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.6,
-      "confidence": 85,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 42.52,
-      "catalysts": [
-        {
-          "label": "Sensex Today Ends 299 Points Higher | Nifty Above 23,400 | Ola Electric Mobility Up 11% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPYWJsY29xYUF6S2dLb2VybGFHVG4xLV9ObnBsZzBtWGpjMkpwZFNHZDlBUk1JTExmUmtDQlYzVEdjTXZoOEVPLWRRZ255MkZaQTBVZHQ2dFNlaXNWbThfeW9NQkxfRVVVZk5xd21yMk56VVIxRElVTTFzQXBfYzZNamswM2tRanBQcFJORnRwOUg1aW5Jbm9LRkJxYWN3Vm03Wm1jeF85eXRSUGRVSHhjM3JXekxXSFc5YnpHSndrVldXOExGcVp5dUFndE9aRGtCMlljcGE3cXlrN2dTa2VvakNyWjVQakhzN1JrWkVlNS1wOHJzV1ljY1RmTUVRZnpHLWxrM0dGbzhQTi1XeV9OcENjTFNGb3pON3dQMHItUTlHQlYzTTVjUjhGWjRCbXAza2ExaUNZQ0pYVnY4YVBITw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "L&T Technology Services Limited",
       "symbol": "LTTS",
       "exchange": "NSE",
@@ -824,38 +765,44 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Tata Consultancy Services Limited",
-      "symbol": "TCS",
+      "company": "Wheels India Limited",
+      "symbol": "WHEELS",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.1,
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
       "confidence": 81,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 2087.0,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 2180.8,
       "catalysts": [
         {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
+          "label": "Wheels India launches \u20b9250 crore QIP at indicative price of \u20b92,088 per share - CNBC TV18",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Record Date",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMS1oMGhuY3FPamEwNThhR1RVUndtcklocTFFSV8yamVFTmdNU0tTckYzbUxWNGphNjVXSXh4bW9TUE9pZ2xLU0pzX3ZFZFA1T0xZXzlrZk9Gc2Ntcy1XOERkd2c3N3BULU5rTHZ0UUkydHFRMGwxLVdndWEzU1NHa0xva0gxcERLME9vdDNFNTRWQlNFRFlTWW9fWG9xemlac0dXUWl5MHFTdEQ3QkZRQWdlQ0dyOGpKSHA2aTlOUEpUYnJ6dEhjMTJPXzNRemNfLWZYOEM4WG1oV3PSAeABQVVfeXFMTVFQd29raTh2bzdZZFlSR1JRNWprQ044WXdjZm9KdW9pRmJtaVFKN3dBcVp2NWF4Z1FTOXVWLWlpNFRSeHUxMXB3bDZpdW1VS1IzVWgybjVJVHBMNEd5MkJsckJoQWlJaVAybmVaakt1enpuZmM0VmwzRTlvUGRISWRnNnNKd0E2NmRJS0R3RXluZlFYeEViQzI0bmhSRmZXbE9yZm1uN0FNUVB6dTAzSzR5ckgwYnFnQXprYW9BM1FhRkM2SEVSSV9VeTZPUkxkU2hZdWpmQ25kMGJ5MFRJS0o?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -891,6 +838,47 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "PB Fintech Limited",
+      "symbol": "POLICYBZR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 80,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1207.2,
+      "catalysts": [
+        {
+          "label": "Why PB Fintech and Other Insurance Stocks Crashed Today: IRDAI\u2019s New Proposal Explained - India Infoline",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Rumour Verification - Regulation 30(11)",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcU8yYlZaVU1vUDBnMnpUTE41QVVvdmpabk82NEF2OGU5Vm9RZ3g0SnhHOUNmb3lPZElwQnFOSnVCSHZ0b010Y2JkZVJ4TV85Yzd0RlVMYS1ucXJfaGx0clJKM3V6TzBqYWQzUldlTlR3NnB0cTR0MFhfSk1pVXpyTkpaaTd2eUp2cHUzZ3R1eDZyLTBkMzRvcUFmMFRLTERLM3JtLWFOblRhemlkcjdheTBNVFZDN0pqR3BCR25MMU1HOExGeWQwRnd3?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
