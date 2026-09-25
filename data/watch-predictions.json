@@ -1,43 +1,8 @@
 {
-  "generatedAt": "2026-09-25T13:51:16+00:00",
+  "generatedAt": "2026-09-25T18:39:43+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
-    {
-      "company": "Mahindra & Mahindra Limited",
-      "symbol": "M&M",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 3035.0,
-      "catalysts": [
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
     {
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
@@ -46,12 +11,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 89,
+      "predictionScore": -3.3,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1222.4,
+      "technicalConfidence": 100,
+      "lastClose": 1186.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -65,6 +30,117 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 296.65,
+      "catalysts": [
+        {
+          "label": "Engineers India Share Price Today Up 7% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONG9MNjN4Ni1EM2U1akZIaDc1dW5VaTZPVEN3OC1nWmkzV3RnRE93VG9BampVVXdxM0dtTXBlM0JHaXJNMnQwMHZmLWdrbDYxb0ZUTllkb0JnVXZvTloxM1pDMm9XcXBOcmxVbUVKbnhMcG9zWnpFZldtRmtvcmNPSUI4RERmTk5QeGNGd0VvMVdzeUhOOUFiZTVzc01tRFdvOE9DZlRMaFJCaDFydmJ5QjV2WUxKR2pDb1IyMHhqdW1md0oxUE5FRWowQzYzajdWaUxnQ080b1RqT1haa21yclg1YWx3QTNqY0lHOWI0ZXBZR0pMMlU5TDFjLTRSWGZaeWNtcmdHTXdHVDdqUFJmTTF0YkVvVlRpQzZiNEpMa1VwdFB5ZmlBYjBR?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1334.5,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 2982.7,
+      "catalysts": [
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -109,6 +185,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Karur Vysya Bank Limited",
+      "symbol": "KARURVYSYA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 325.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Whirlpool of India Limited",
       "symbol": "WHIRLPOOL",
       "exchange": "NSE",
@@ -121,15 +232,15 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 918.9,
+      "lastClose": 853.45,
       "catalysts": [
         {
-          "label": "Whirlpool of India share price zooms 33% in 3 days, up 12% today; what's driving this stock? Will the bull run continue? - Livemint",
+          "label": "Whirlpool of India share price zooms 33% in 3 days, up 12% today; what's driving this stock? Will the bull run continue? - livemint.com",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Whirlpool of India Ltd leads gainers in 'A' group - business-standard.com",
+          "label": "Whirlpool of India Ltd leads gainers in 'A' group - Business Standard",
           "type": "company news",
           "verified": true
         },
@@ -167,7 +278,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 88.86,
+      "lastClose": 89.14,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -190,8 +301,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -202,7 +313,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1326.8,
+      "lastClose": 1351.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -210,12 +321,12 @@
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -225,60 +336,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Engineers India Limited",
-      "symbol": "ENGINERSIN",
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 82,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 315.65,
-      "catalysts": [
-        {
-          "label": "Engineers India Share Price Today Up 7% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONG9MNjN4Ni1EM2U1akZIaDc1dW5VaTZPVEN3OC1nWmkzV3RnRE93VG9BampVVXdxM0dtTXBlM0JHaXJNMnQwMHZmLWdrbDYxb0ZUTllkb0JnVXZvTloxM1pDMm9XcXBOcmxVbUVKbnhMcG9zWnpFZldtRmtvcmNPSUI4RERmTk5QeGNGd0VvMVdzeUhOOUFiZTVzc01tRFdvOE9DZlRMaFJCaDFydmJ5QjV2WUxKR2pDb1IyMHhqdW1md0oxUE5FRWowQzYzajdWaUxnQ080b1RqT1haa21yclg1YWx3QTNqY0lHOWI0ZXBZR0pMMlU5TDFjLTRSWGZaeWNtcmdHTXdHVDdqUFJmTTF0YkVvVlRpQzZiNEpMa1VwdFB5ZmlBYjBR?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Prudential Life Insurance Company Limited",
-      "symbol": "ICICIPRULI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 82,
+      "predictionScore": -2.2,
+      "confidence": 81,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 463.0,
+      "technicalConfidence": 67,
+      "lastClose": 1785.9,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -286,12 +356,12 @@
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Name Change",
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         }
@@ -313,7 +383,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2082.0,
+      "lastClose": 2087.0,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -348,7 +418,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1166.0,
+      "lastClose": 1207.2,
       "catalysts": [
         {
           "label": "RIL, PB Fintech, HUL, TMPV, Maruti among 24 BSE 500 stocks at 52-week lows - IndiaIPO",
@@ -375,34 +445,36 @@
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "The State Trading Corporation of India Limited",
-      "symbol": "STCINDIA",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
-      "horizon": "today",
+      "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
+      "predictionScore": -4.8,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 109.35,
+      "lastClose": 1186.5,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -412,32 +484,73 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Procter & Gamble Hygiene and Health Care Limited",
-      "symbol": "PGHH",
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 7037.5,
+      "lastClose": 296.65,
       "catalysts": [
+        {
+          "label": "Engineers India Share Price Today Up 7% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Change in Company Secretary/Compliance Officer",
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONG9MNjN4Ni1EM2U1akZIaDc1dW5VaTZPVEN3OC1nWmkzV3RnRE93VG9BampVVXdxM0dtTXBlM0JHaXJNMnQwMHZmLWdrbDYxb0ZUTllkb0JnVXZvTloxM1pDMm9XcXBOcmxVbUVKbnhMcG9zWnpFZldtRmtvcmNPSUI4RERmTk5QeGNGd0VvMVdzeUhOOUFiZTVzc01tRFdvOE9DZlRMaFJCaDFydmJ5QjV2WUxKR2pDb1IyMHhqdW1md0oxUE5FRWowQzYzajdWaUxnQ080b1RqT1haa21yclg1YWx3QTNqY0lHOWI0ZXBZR0pMMlU5TDFjLTRSWGZaeWNtcmdHTXdHVDdqUFJmTTF0YkVvVlRpQzZiNEpMa1VwdFB5ZmlBYjBR?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1334.5,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Rumour Verification - Regulation 30(11)",
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         }
@@ -445,9 +558,7 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
+    },
     {
       "company": "Mahindra & Mahindra Limited",
       "symbol": "M&M",
@@ -461,7 +572,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 3035.0,
+      "lastClose": 2982.7,
       "catalysts": [
         {
           "label": "Trading Window",
@@ -496,15 +607,15 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 918.9,
+      "lastClose": 853.45,
       "catalysts": [
         {
-          "label": "Whirlpool of India share price zooms 33% in 3 days, up 12% today; what's driving this stock? Will the bull run continue? - Livemint",
+          "label": "Whirlpool of India share price zooms 33% in 3 days, up 12% today; what's driving this stock? Will the bull run continue? - livemint.com",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Whirlpool of India Ltd leads gainers in 'A' group - business-standard.com",
+          "label": "Whirlpool of India Ltd leads gainers in 'A' group - Business Standard",
           "type": "company news",
           "verified": true
         },
@@ -542,7 +653,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 88.86,
+      "lastClose": 89.14,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -565,8 +676,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -577,7 +688,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1326.8,
+      "lastClose": 1351.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -585,12 +696,12 @@
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -600,19 +711,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
+      "company": "Karur Vysya Bank Limited",
+      "symbol": "KARURVYSYA",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.0,
+      "predictionScore": -3.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1222.4,
+      "technicalConfidence": 67,
+      "lastClose": 325.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -620,88 +731,12 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Engineers India Limited",
-      "symbol": "ENGINERSIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 315.65,
-      "catalysts": [
-        {
-          "label": "Engineers India Share Price Today Up 7% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONG9MNjN4Ni1EM2U1akZIaDc1dW5VaTZPVEN3OC1nWmkzV3RnRE93VG9BampVVXdxM0dtTXBlM0JHaXJNMnQwMHZmLWdrbDYxb0ZUTllkb0JnVXZvTloxM1pDMm9XcXBOcmxVbUVKbnhMcG9zWnpFZldtRmtvcmNPSUI4RERmTk5QeGNGd0VvMVdzeUhOOUFiZTVzc01tRFdvOE9DZlRMaFJCaDFydmJ5QjV2WUxKR2pDb1IyMHhqdW1md0oxUE5FRWowQzYzajdWaUxnQ080b1RqT1haa21yclg1YWx3QTNqY0lHOWI0ZXBZR0pMMlU5TDFjLTRSWGZaeWNtcmdHTXdHVDdqUFJmTTF0YkVvVlRpQzZiNEpMa1VwdFB5ZmlBYjBR?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Prudential Life Insurance Company Limited",
-      "symbol": "ICICIPRULI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 463.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Name Change",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -758,7 +793,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2082.0,
+      "lastClose": 2087.0,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -781,6 +816,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1785.9,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "PB Fintech Limited",
       "symbol": "POLICYBZR",
       "exchange": "NSE",
@@ -793,7 +863,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1166.0,
+      "lastClose": 1207.2,
       "catalysts": [
         {
           "label": "RIL, PB Fintech, HUL, TMPV, Maruti among 24 BSE 500 stocks at 52-week lows - IndiaIPO",
@@ -819,76 +889,6 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "The State Trading Corporation of India Limited",
-      "symbol": "STCINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 109.35,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Procter & Gamble Hygiene and Health Care Limited",
-      "symbol": "PGHH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 7037.5,
-      "catalysts": [
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Company Secretary/Compliance Officer",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Rumour Verification - Regulation 30(11)",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
