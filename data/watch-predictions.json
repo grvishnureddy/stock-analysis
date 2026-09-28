@@ -1,47 +1,216 @@
 {
-  "generatedAt": "2026-09-28T05:28:08+00:00",
+  "generatedAt": "2026-09-28T14:00:53+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "PB Fintech Limited",
-      "symbol": "POLICYBZR",
+      "company": "Mahindra & Mahindra Financial Services Limited",
+      "symbol": "M&MFIN",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
       "predictionScore": -3.3,
-      "confidence": 83,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1172.0,
+      "lastClose": 331.75,
       "catalysts": [
         {
-          "label": "PB Fintech Share Price Jumps Over 4% After 38% Slump; Bernstein Sees 98% Upside",
-          "type": "company news",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Price movement",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Price movement",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 2995.0,
+      "catalysts": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/pb-fintech-share-price-jumps-over-4-percent-after-38-percent-slump-bernstein-sees-98-percent-upside-12107333#publisher=newsstand",
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 89,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1209.9,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Dilip Buildcon Limited",
+      "symbol": "DBL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Global Education Limited",
+      "symbol": "GLOBAL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra Logistics Limited",
+      "symbol": "MAHLOG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 421.8,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -57,7 +226,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1305.7,
+      "lastClose": 1302.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -71,41 +240,6 @@
         },
         {
           "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mahindra & Mahindra Limited",
-      "symbol": "M&M",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 3000.6,
-      "catalysts": [
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -150,67 +284,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Dilip Buildcon Limited",
-      "symbol": "DBL",
+      "company": "Karur Vysya Bank Limited",
+      "symbol": "KARURVYSYA",
       "exchange": "NSE",
       "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 80,
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 81,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 320.75,
       "catalysts": [
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Global Education Limited",
-      "symbol": "GLOBAL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Buyback",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         }
@@ -232,7 +331,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2061.0,
+      "lastClose": 2070.7,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -267,7 +366,7 @@
       "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 50,
-      "lastClose": 3294.1,
+      "lastClose": 3274.7,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -313,10 +412,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 314.9,
+      "lastClose": 313.9,
       "catalysts": [
         {
-          "label": "Engineers India Share Price Today Up 7% - Equitymaster",
+          "label": "Zydus Life, Engineers India to Raymond: Top 10 stocks that hit 52-week high amid stock market crash; check full list - Upstox",
           "type": "company news",
           "verified": true
         },
@@ -335,26 +434,28 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONG9MNjN4Ni1EM2U1akZIaDc1dW5VaTZPVEN3OC1nWmkzV3RnRE93VG9BampVVXdxM0dtTXBlM0JHaXJNMnQwMHZmLWdrbDYxb0ZUTllkb0JnVXZvTloxM1pDMm9XcXBOcmxVbUVKbnhMcG9zWnpFZldtRmtvcmNPSUI4RERmTk5QeGNGd0VvMVdzeUhOOUFiZTVzc01tRFdvOE9DZlRMaFJCaDFydmJ5QjV2WUxKR2pDb1IyMHhqdW1md0oxUE5FRWowQzYzajdWaUxnQ080b1RqT1haa21yclg1YWx3QTNqY0lHOWI0ZXBZR0pMMlU5TDFjLTRSWGZaeWNtcmdHTXdHVDdqUFJmTTF0YkVvVlRpQzZiNEpMa1VwdFB5ZmlBYjBR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUlk0YTVxdS11SXNZbHFCeVprZHRqVDdfaDUwN2NSWWxLUTVjMXEwOUQ2d1daR292cC0zUU5jQkdPTHhkZHF4VWV4V2NKM05uSUpvUVFyWFBNY0wwa1VXVEpsUVdwUHN0dDRqM3RsbFFjTThaZDhOT1FmU21QSzhTTUpQdS1nLTJ0eGlFQi1tRTBBNkxtZDRZZzdaU1pCN08xa1dla3FBNFBVSjBuZW9idTB4R29BT3VGRU1NMzczMFZDcXZ3bHZvUE5xbjQ3YnJTblZ2RTZkQ2VDQlJTb0dLTWQ0R2tLNnN4S2p4U0wtaVpJcC1sbkgtblRhUEVPa0JoS3c?oc=5",
           "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "SBFC Finance Limited",
-      "symbol": "SBFC",
+      "company": "Mahindra & Mahindra Financial Services Limited",
+      "symbol": "M&MFIN",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
-      "horizon": "today",
+      "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
+      "predictionScore": -4.8,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 87.3,
+      "lastClose": 331.75,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -367,7 +468,7 @@
           "verified": true
         },
         {
-          "label": "Credit Rating",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -377,82 +478,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.2,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 324.8,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Fractal Analytics Limited",
-      "symbol": "FRACTAL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 72,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 741.9,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
-    {
-      "company": "PB Fintech Limited",
-      "symbol": "POLICYBZR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -461,32 +490,61 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1172.0,
+      "lastClose": 2995.0,
       "catalysts": [
         {
-          "label": "PB Fintech Share Price Jumps Over 4% After 38% Slump; Bernstein Sees 98% Upside",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Price movement",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Price movement",
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra Logistics Limited",
+      "symbol": "MAHLOG",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 421.8,
+      "catalysts": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/pb-fintech-share-price-jumps-over-4-percent-after-38-percent-slump-bernstein-sees-98-percent-upside-12107333#publisher=newsstand",
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -502,7 +560,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1305.7,
+      "lastClose": 1302.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -516,41 +574,6 @@
         },
         {
           "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mahindra & Mahindra Limited",
-      "symbol": "M&M",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 3000.6,
-      "catalysts": [
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -567,21 +590,21 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -3.1,
+      "predictionScore": -4.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1210.6,
+      "lastClose": 1209.9,
       "catalysts": [
-        {
-          "label": "Cochin Shipyard, Voltas, BEL, Tata Steel, Axis Bank, Vedanta Aluminium: Top stocks to buy | Target, SL by Ganesh Dongre - Livemint",
-          "type": "company news",
-          "verified": true
-        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
           "verified": true
         },
         {
@@ -591,13 +614,77 @@
         }
       ],
       "risks": [],
-      "sources": [
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Dilip Buildcon Limited",
+      "symbol": "DBL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUWVNMzNGS3VPelFWNUh5RGRTUzJHR0ozV1h3V0tXeHhKNGlROTZWLU1iRlMtd2FSNnIxUlBuUXFFdEJjNkp5bTMyQ3pkejN0LVA5VS1kT1VzdWNDeEZUTkQzUGdOMm5odU5Fck5XdHBaa0NFOExadVZhT0NkdDc1aHd5bzdQMWJ3aE51MHBxSUs2REJqU2tON1hhd2g4YllCR3E5ZzJ2QWVPclZ4dW50bWpCaG5IVWlaaWlDMkNkNXRTcDlvcE10bXZtQWQ0RzZkRlpYd2tvbnRsNE1MV1Z1NmRjVjFHbHNGQnNRLUVxUGw3ZC1jc1dVdDFfNEZhemQ1N1V1RENOOFpkWEd50gGSAkFVX3lxTE1FN2g5ZC1NdjBGb0RQNVU2aE5tbDd5YnRRamtpQ21wNHhYNEhGNWJvRk5RSGs4Wkh0SWJ4b3pEU05jZV9oN3BOaURBejJMQWlneTZIRXRaTFRsMF9QZUhkLVZBaDRSa3lKa24tR0NFd3hXamUyYUU1Q0lRMlNzRnRHLVFVRWZCS3BsS2lIQVNPdlV1dzItZmpzRnJFc2dqc2VxN194WTlRQ0g5aVUzQjdFeEZZVzZsejR1Nmd6ZmZQclowbElyUVpLWHNCai1HY3NJZ2F1eHcwUHI4TTFlc3FtUmMtMFZTQXBNMVBxdGVkblNQY2dfekFaaFNIcEhTRVpvc1ZucUYwYjZqT0RPQkR4N0E?oc=5",
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
           "verified": true
         }
       ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Global Education Limited",
+      "symbol": "GLOBAL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -613,7 +700,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2061.0,
+      "lastClose": 2070.7,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -627,6 +714,41 @@
         },
         {
           "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Karur Vysya Bank Limited",
+      "symbol": "KARURVYSYA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 320.75,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         }
@@ -648,10 +770,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 314.9,
+      "lastClose": 313.9,
       "catalysts": [
         {
-          "label": "Engineers India Share Price Today Up 7% - Equitymaster",
+          "label": "Zydus Life, Engineers India to Raymond: Top 10 stocks that hit 52-week high amid stock market crash; check full list - Upstox",
           "type": "company news",
           "verified": true
         },
@@ -670,7 +792,48 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONG9MNjN4Ni1EM2U1akZIaDc1dW5VaTZPVEN3OC1nWmkzV3RnRE93VG9BampVVXdxM0dtTXBlM0JHaXJNMnQwMHZmLWdrbDYxb0ZUTllkb0JnVXZvTloxM1pDMm9XcXBOcmxVbUVKbnhMcG9zWnpFZldtRmtvcmNPSUI4RERmTk5QeGNGd0VvMVdzeUhOOUFiZTVzc01tRFdvOE9DZlRMaFJCaDFydmJ5QjV2WUxKR2pDb1IyMHhqdW1md0oxUE5FRWowQzYzajdWaUxnQ080b1RqT1haa21yclg1YWx3QTNqY0lHOWI0ZXBZR0pMMlU5TDFjLTRSWGZaeWNtcmdHTXdHVDdqUFJmTTF0YkVvVlRpQzZiNEpMa1VwdFB5ZmlBYjBR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUlk0YTVxdS11SXNZbHFCeVprZHRqVDdfaDUwN2NSWWxLUTVjMXEwOUQ2d1daR292cC0zUU5jQkdPTHhkZHF4VWV4V2NKM05uSUpvUVFyWFBNY0wwa1VXVEpsUVdwUHN0dDRqM3RsbFFjTThaZDhOT1FmU21QSzhTTUpQdS1nLTJ0eGlFQi1tRTBBNkxtZDRZZzdaU1pCN08xa1dla3FBNFBVSjBuZW9idTB4R29BT3VGRU1NMzczMFZDcXZ3bHZvUE5xbjQ3YnJTblZ2RTZkQ2VDQlJTb0dLTWQ0R2tLNnN4S2p4U0wtaVpJcC1sbkgtblRhUEVPa0JoS3c?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 87,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 129.99,
+      "catalysts": [
+        {
+          "label": "Bank of India Share Price Today Down 4% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQTXlwMVhkc0VoYWJ3cGJpbjVIOVMtWGtvYW02U3JaQ2txRy03YzRCd1FKam1XX2VwU2F2cTYzdHR4NTAxMWdfOHR2ZlBvQkRMYzRSaTRHV0pHZGVHckVsdUt6VG9mUHIzX2R1Vmg3VjdGcWc0RGl6RzZOcjBNY21kbDNnR0FUSTYxSHp2ZzNRSGRVVWZhbzNkYVY2VUI0TXliejBQX2JMU20yZWs0Y19BdmNHQjgzRnMzd1M0UUZ0dURjOFpXSGlETTJSeUVnQzNxOXBCWlNTMkw0SWpDRlI5M24yeGd2TWVoM2JOLTVNYXliczlVV2VHc3EwWEoySUdMWWVRbUlMaS16UlB3eTNmVU5hR2NmdUxQS29CUlRFRl84UVk?oc=5",
           "verified": true
         }
       ],
@@ -689,7 +852,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 87.3,
+      "lastClose": 86.82,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -703,192 +866,6 @@
         },
         {
           "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "CEAT Limited",
-      "symbol": "CEATLTD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.9,
-      "confidence": 82,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 3294.1,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Loss of Share Certificates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Loss of Share Certificates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Kalpataru Projects International Limited",
-      "symbol": "KPIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.8,
-      "confidence": 82,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "L&T Technology Services Limited",
-      "symbol": "LTTS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.1,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 3172.9,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Fractal Analytics Limited",
-      "symbol": "FRACTAL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 741.9,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 324.8,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
