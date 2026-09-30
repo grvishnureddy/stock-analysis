@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:39:37+00:00",
+  "generatedAt": "2026-09-30T19:24:10+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -16,7 +16,7 @@
       "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 3264.4,
+      "lastClose": 3240.0,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -48,6 +48,41 @@
       ],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1722.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Kalpataru Projects International Limited",
@@ -97,7 +132,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1226.0,
+      "lastClose": 1212.1,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -120,19 +155,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Nuvoco Vistas Corporation Limited",
-      "symbol": "NUVOCO",
+      "company": "SBFC Finance Limited",
+      "symbol": "SBFC",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
       "confidence": 83,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 337.8,
+      "lastClose": 84.46,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -140,7 +175,7 @@
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         },
@@ -167,7 +202,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 324.85,
+      "lastClose": 328.05,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -190,6 +225,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Solarworld Energy Solutions Limited",
+      "symbol": "SOLARWORLD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.8,
+      "confidence": 82,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Action(s) initiated or orders passed",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Computer Age Management Services Limited",
       "symbol": "CAMS",
       "exchange": "NSE",
@@ -202,7 +272,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 671.0,
+      "lastClose": 666.0,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -225,8 +295,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "SBFC Finance Limited",
-      "symbol": "SBFC",
+      "company": "IndusInd Bank Limited",
+      "symbol": "INDUSINDBK",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
@@ -237,7 +307,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 85.48,
+      "lastClose": 878.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -245,12 +315,12 @@
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Credit Rating",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -272,7 +342,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1321.7,
+      "lastClose": 1292.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -307,7 +377,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 109.14,
+      "lastClose": 106.98,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -330,125 +400,38 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Dr. Lal Path Labs Ltd.",
-      "symbol": "LALPATHLAB",
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
       "confidence": 76,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1987.0,
+      "lastClose": 2947.8,
       "catalysts": [
         {
-          "label": "General Updates",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bank of Baroda",
-      "symbol": "BANKBARODA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 75,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 230.55,
-      "catalysts": [
-        {
-          "label": "Kotak, BoB, PB Fintech: Macquarie Upgrades Nine Stocks, Downgrades One \u2014 Check Full List, Target Prices",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/kotak-bank-of-baroda-paytm-pb-fintech-macquarie-upgrades-nine-stocks-downgrades-one-check-full-list-target-prices-12119471#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bajaj Finance Limited",
-      "symbol": "BAJFINANCE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.6,
-      "confidence": 71,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 959.4,
-      "catalysts": [
-        {
-          "label": "Sensex Today Trades 203 Points Higher | Nifty Below 22,700 | Bajaj Finance & Kotak Mahindra Top Losers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Sensex Today Tanks 695 Points | Nifty Below 22,600 | Bajaj Finance & Kotak Mahindra Top Losers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Fund Raising",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOemZWSHdyVGRvYWZUVGp1enA3SHhra2J1dGFMNVp1UG03TlBDOUhBTy1fVXpqS3VSUFM5T3NLY0tQbEMxZl9CMVRCVTVrNGdIZzZmUXNMcldMSFZVOGlrSlN6anFZR2ZQNTlzd3FDZWpfSmwyZGZKZkZReVplRGFUZDFwUVVOZWNwMzF1T2N3NVdVYlBqQ3hObGtyeWV4SzRhd2p6YW9tZThLTzdhbUhMMmdmWl9VakxpZHZfOGY5TUtObVB5MFNJRGc5TklTQ2pienZyMFBfbkZDdzV2Vk1FWHF4ekFRM1pYM1Zhak5xT2FXeDlLX05XR090Y1NBQlMyMnkyNWRmRENaZ0lvQ1FvVWpKc1VBcGlTVkNqTTJGcmJxUC15QmRKbXdFZmdQTE5YRVoxS0J6ejYzLWkzVkdvMTBPVmlqYXpUQk9lc0pvVkpDOGtzVGJfU1kxa3RRVzF5WThnQ2ZBZWc1NUEtb0E?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNjN4TURGTmhtN2ctbmhRZ0NIMUVodFU1RzZNQlB0UkxGemdVQjZiYWh4WDJGakxkN290TjNzY0JEV3RsZkEtLXlxTW0xNFRzbksyQjRtSW9nSFlCSHF5Z1JMMHJjblJLbFJhX1VjRVE2WTZ2YV9wbnhNM1ZCMG5hekNoQU5uVEpscFdaczk1c1BPcWt1VXRzbWs4WFAtYUZIQVFMbWZNcmxWNE9zN3dkanZUdDhOb3dFckZGWXZfc21sMVc1Q0pOeDRQejVMR2Ztck1hTFFwSW9qM21kYWxqM3BoXzRGZw?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
@@ -466,7 +449,7 @@
       "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 3264.4,
+      "lastClose": 3240.0,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -500,19 +483,19 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Nuvoco Vistas Corporation Limited",
-      "symbol": "NUVOCO",
+      "company": "SBFC Finance Limited",
+      "symbol": "SBFC",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 337.8,
+      "lastClose": 84.46,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -520,7 +503,7 @@
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         },
@@ -547,7 +530,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 324.85,
+      "lastClose": 328.05,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -582,7 +565,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1226.0,
+      "lastClose": 1212.1,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -612,12 +595,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -2.4,
+      "predictionScore": -3.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 1749.1,
+      "technicalConfidence": 67,
+      "lastClose": 1722.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -687,7 +670,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 671.0,
+      "lastClose": 666.0,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -710,8 +693,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "SBFC Finance Limited",
-      "symbol": "SBFC",
+      "company": "IndusInd Bank Limited",
+      "symbol": "INDUSINDBK",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
@@ -722,7 +705,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 85.48,
+      "lastClose": 878.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -730,12 +713,12 @@
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Credit Rating",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -757,7 +740,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1321.7,
+      "lastClose": 1292.2,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -792,7 +775,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 109.14,
+      "lastClose": 106.98,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -815,6 +798,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 87,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 2947.8,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Dr. Lal Path Labs Ltd.",
       "symbol": "LALPATHLAB",
       "exchange": "NSE",
@@ -827,7 +845,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1987.0,
+      "lastClose": 1950.4,
       "catalysts": [
         {
           "label": "General Updates",
@@ -847,47 +865,6 @@
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bank of Baroda",
-      "symbol": "BANKBARODA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 84,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 230.55,
-      "catalysts": [
-        {
-          "label": "Kotak, BoB, PB Fintech: Macquarie Upgrades Nine Stocks, Downgrades One \u2014 Check Full List, Target Prices",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/kotak-bank-of-baroda-paytm-pb-fintech-macquarie-upgrades-nine-stocks-downgrades-one-check-full-list-target-prices-12119471#publisher=newsstand",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
