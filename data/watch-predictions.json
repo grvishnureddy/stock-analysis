@@ -1,94 +1,52 @@
 {
-  "generatedAt": "2026-09-30T05:36:55+00:00",
+  "generatedAt": "2026-09-30T12:39:37+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "Ksb Limited",
-      "symbol": "KSB",
+      "company": "CEAT Limited",
+      "symbol": "CEATLTD",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 8.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 861.95,
-      "catalysts": [
-        {
-          "label": "KSB Share Price Surges Over 8% After Company Receives Export Order",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/ksb-share-price-surges-over-8-after-receiving-export-order-12117795#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Coforge Limited",
-      "symbol": "COFORGE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -2.6,
+      "predictionScore": -4.2,
       "confidence": 90,
       "riskLevel": "Medium",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 1793.0,
+      "technicalConfidence": 83,
+      "lastClose": 3264.4,
       "catalysts": [
         {
-          "label": "Financial Results",
+          "label": "Financial Results/Other business matters",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Issue of Duplicate Share Certificate",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [
         {
-          "label": "IT Stocks Rally: Coforge, Mphasis, Persistent Systems Share Price Rallies In Green Ahead Of Accenture Q4",
-          "type": "company news",
+          "label": "Loss of Share Certificates",
+          "type": "announcement",
           "verified": true
-        }
-      ],
-      "sources": [
+        },
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/coforge-mphasis-persistent-systems-share-price-rally-it-stocks-in-green-ahead-of-accenture-q4-12117892#publisher=newsstand",
+          "label": "Loss of Share Certificates",
+          "type": "announcement",
           "verified": true
         }
       ],
+      "sources": [],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -127,50 +85,74 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "CEAT Limited",
-      "symbol": "CEATLTD",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.7,
-      "confidence": 85,
-      "riskLevel": "Medium",
+      "predictionScore": -2.8,
+      "confidence": 89,
+      "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 3297.5,
+      "technicalConfidence": 83,
+      "lastClose": 1226.0,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Shareholders meeting",
           "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Nuvoco Vistas Corporation Limited",
+      "symbol": "NUVOCO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 337.8,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
           "label": "General Updates",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Loss of Share Certificates",
-          "type": "announcement",
-          "verified": true
         },
         {
-          "label": "Loss of Share Certificates",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         }
       ],
+      "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Mahindra & Mahindra Financial Services Limited",
@@ -185,7 +167,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 325.8,
+      "lastClose": 324.85,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -208,92 +190,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 82,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1219.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bajaj Finance Limited",
-      "symbol": "BAJFINANCE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.6,
-      "confidence": 78,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 965.1,
-      "catalysts": [
-        {
-          "label": "Sensex Today Trades 203 Points Higher | Nifty Below 22,700 | Bajaj Finance & Kotak Mahindra Top Losers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Sensex Today Tanks 695 Points | Nifty Below 22,600 | Bajaj Finance & Kotak Mahindra Top Losers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Sensex Today Tanks 903 Points | Nifty Below 22,900 | Bajaj Finance & Kotak Mahindra Top Losers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOemZWSHdyVGRvYWZUVGp1enA3SHhra2J1dGFMNVp1UG03TlBDOUhBTy1fVXpqS3VSUFM5T3NLY0tQbEMxZl9CMVRCVTVrNGdIZzZmUXNMcldMSFZVOGlrSlN6anFZR2ZQNTlzd3FDZWpfSmwyZGZKZkZReVplRGFUZDFwUVVOZWNwMzF1T2N3NVdVYlBqQ3hObGtyeWV4SzRhd2p6YW9tZThLTzdhbUhMMmdmWl9VakxpZHZfOGY5TUtObVB5MFNJRGc5TklTQ2pienZyMFBfbkZDdzV2Vk1FWHF4ekFRM1pYM1Zhak5xT2FXeDlLX05XR090Y1NBQlMyMnkyNWRmRENaZ0lvQ1FvVWpKc1VBcGlTVkNqTTJGcmJxUC15QmRKbXdFZmdQTE5YRVoxS0J6ejYzLWkzVkdvMTBPVmlqYXpUQk9lc0pvVkpDOGtzVGJfU1kxa3RRVzF5WThnQ2ZBZWc1NUEtb0E?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNjN4TURGTmhtN2ctbmhRZ0NIMUVodFU1RzZNQlB0UkxGemdVQjZiYWh4WDJGakxkN290TjNzY0JEV3RsZkEtLXlxTW0xNFRzbksyQjRtSW9nSFlCSHF5Z1JMMHJjblJLbFJhX1VjRVE2WTZ2YV9wbnhNM1ZCMG5hekNoQU5uVEpscFdaczk1c1BPcWt1VXRzbWs4WFAtYUZIQVFMbWZNcmxWNE9zN3dkanZUdDhOb3dFckZGWXZfc21sMVc1Q0pOeDRQejVMR2Ztck1hTFFwSW9qM21kYWxqM3BoXzRGZw?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObFRUUjZrRFpjTE1NcXBPb2NicXQtS3RtU0wtNHVjVHV4VHRlWWtMc1RtMzYwbXN2dnl3SVRBcjJxWFphN0hXMm0yZFNFNVduQ2dDdnVweVhTR24xNW5qemFXaTl2dkxsMkFYTlNCbGM1Si1IcmZIN3ZBTmF2ajBCcERjU1RPNXlIRHdlanZ1T0VxWWlWZkZ2eEYyZFBJWUJiSUp6b2gtcEtUQjJMaHNuWHNrRkNYek0tZlRITmkteDFreTNVb2VvcmhWZnJNa3FzTnZiUy1aXzVMMzg0cGNZR3pvMUFRQQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Computer Age Management Services Limited",
       "symbol": "CAMS",
       "exchange": "NSE",
@@ -306,7 +202,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 668.0,
+      "lastClose": 671.0,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -341,7 +237,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 85.14,
+      "lastClose": 85.48,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -376,7 +272,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1323.6,
+      "lastClose": 1321.7,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -390,6 +286,41 @@
         },
         {
           "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "The State Trading Corporation of India Limited",
+      "symbol": "STCINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 109.14,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -411,7 +342,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1938.0,
+      "lastClose": 1987.0,
       "catalysts": [
         {
           "label": "General Updates",
@@ -434,22 +365,111 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
+      "company": "Bank of Baroda",
+      "symbol": "BANKBARODA",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -2.2,
-      "confidence": 74,
+      "predictionScore": -2.8,
+      "confidence": 75,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 317.2,
+      "technicalConfidence": 83,
+      "lastClose": 230.55,
       "catalysts": [
         {
-          "label": "Financial Results",
+          "label": "Kotak, BoB, PB Fintech: Macquarie Upgrades Nine Stocks, Downgrades One \u2014 Check Full List, Target Prices",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/kotak-bank-of-baroda-paytm-pb-fintech-macquarie-upgrades-nine-stocks-downgrades-one-check-full-list-target-prices-12119471#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.6,
+      "confidence": 71,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 959.4,
+      "catalysts": [
+        {
+          "label": "Sensex Today Trades 203 Points Higher | Nifty Below 22,700 | Bajaj Finance & Kotak Mahindra Top Losers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Sensex Today Tanks 695 Points | Nifty Below 22,600 | Bajaj Finance & Kotak Mahindra Top Losers - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Fund Raising",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOemZWSHdyVGRvYWZUVGp1enA3SHhra2J1dGFMNVp1UG03TlBDOUhBTy1fVXpqS3VSUFM5T3NLY0tQbEMxZl9CMVRCVTVrNGdIZzZmUXNMcldMSFZVOGlrSlN6anFZR2ZQNTlzd3FDZWpfSmwyZGZKZkZReVplRGFUZDFwUVVOZWNwMzF1T2N3NVdVYlBqQ3hObGtyeWV4SzRhd2p6YW9tZThLTzdhbUhMMmdmWl9VakxpZHZfOGY5TUtObVB5MFNJRGc5TklTQ2pienZyMFBfbkZDdzV2Vk1FWHF4ekFRM1pYM1Zhak5xT2FXeDlLX05XR090Y1NBQlMyMnkyNWRmRENaZ0lvQ1FvVWpKc1VBcGlTVkNqTTJGcmJxUC15QmRKbXdFZmdQTE5YRVoxS0J6ejYzLWkzVkdvMTBPVmlqYXpUQk9lc0pvVkpDOGtzVGJfU1kxa3RRVzF5WThnQ2ZBZWc1NUEtb0E?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNjN4TURGTmhtN2ctbmhRZ0NIMUVodFU1RzZNQlB0UkxGemdVQjZiYWh4WDJGakxkN290TjNzY0JEV3RsZkEtLXlxTW0xNFRzbksyQjRtSW9nSFlCSHF5Z1JMMHJjblJLbFJhX1VjRVE2WTZ2YV9wbnhNM1ZCMG5hekNoQU5uVEpscFdaczk1c1BPcWt1VXRzbWs4WFAtYUZIQVFMbWZNcmxWNE9zN3dkanZUdDhOb3dFckZGWXZfc21sMVc1Q0pOeDRQejVMR2Ztck1hTFFwSW9qM21kYWxqM3BoXzRGZw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    }
+  ],
+  "tomorrow": [
+    {
+      "company": "CEAT Limited",
+      "symbol": "CEATLTD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -5.5,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 3264.4,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
           "type": "upcoming event",
           "verified": true
         },
@@ -459,7 +479,53 @@
           "verified": true
         },
         {
-          "label": "Credit Rating",
+          "label": "Issue of Duplicate Share Certificate",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Loss of Share Certificates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Loss of Share Certificates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Nuvoco Vistas Corporation Limited",
+      "symbol": "NUVOCO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 337.8,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         }
@@ -467,49 +533,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
-    {
-      "company": "Ksb Limited",
-      "symbol": "KSB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 10.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 861.95,
-      "catalysts": [
-        {
-          "label": "KSB Share Price Surges Over 8% After Company Receives Export Order",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/ksb-share-price-surges-over-8-after-receiving-export-order-12117795#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Mahindra & Mahindra Financial Services Limited",
@@ -524,7 +547,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 325.8,
+      "lastClose": 324.85,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -547,56 +570,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "CEAT Limited",
-      "symbol": "CEATLTD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.7,
-      "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 3297.5,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Loss of Share Certificates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Loss of Share Certificates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -605,7 +582,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1219.5,
+      "lastClose": 1226.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -613,12 +590,12 @@
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         }
@@ -635,12 +612,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -3.4,
+      "predictionScore": -2.4,
       "confidence": 90,
-      "riskLevel": "Medium",
+      "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 50,
-      "lastClose": 1793.0,
+      "lastClose": 1749.1,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -658,21 +635,9 @@
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "IT Stocks Rally: Coforge, Mphasis, Persistent Systems Share Price Rallies In Green Ahead Of Accenture Q4",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/coforge-mphasis-persistent-systems-share-price-rally-it-stocks-in-green-ahead-of-accenture-q4-12117892#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Kalpataru Projects International Limited",
@@ -710,57 +675,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bajaj Finance Limited",
-      "symbol": "BAJFINANCE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.1,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 965.1,
-      "catalysts": [
-        {
-          "label": "Sensex Today Trades 203 Points Higher | Nifty Below 22,700 | Bajaj Finance & Kotak Mahindra Top Losers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Sensex Today Tanks 695 Points | Nifty Below 22,600 | Bajaj Finance & Kotak Mahindra Top Losers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Sensex Today Tanks 903 Points | Nifty Below 22,900 | Bajaj Finance & Kotak Mahindra Top Losers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOemZWSHdyVGRvYWZUVGp1enA3SHhra2J1dGFMNVp1UG03TlBDOUhBTy1fVXpqS3VSUFM5T3NLY0tQbEMxZl9CMVRCVTVrNGdIZzZmUXNMcldMSFZVOGlrSlN6anFZR2ZQNTlzd3FDZWpfSmwyZGZKZkZReVplRGFUZDFwUVVOZWNwMzF1T2N3NVdVYlBqQ3hObGtyeWV4SzRhd2p6YW9tZThLTzdhbUhMMmdmWl9VakxpZHZfOGY5TUtObVB5MFNJRGc5TklTQ2pienZyMFBfbkZDdzV2Vk1FWHF4ekFRM1pYM1Zhak5xT2FXeDlLX05XR090Y1NBQlMyMnkyNWRmRENaZ0lvQ1FvVWpKc1VBcGlTVkNqTTJGcmJxUC15QmRKbXdFZmdQTE5YRVoxS0J6ejYzLWkzVkdvMTBPVmlqYXpUQk9lc0pvVkpDOGtzVGJfU1kxa3RRVzF5WThnQ2ZBZWc1NUEtb0E?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNjN4TURGTmhtN2ctbmhRZ0NIMUVodFU1RzZNQlB0UkxGemdVQjZiYWh4WDJGakxkN290TjNzY0JEV3RsZkEtLXlxTW0xNFRzbksyQjRtSW9nSFlCSHF5Z1JMMHJjblJLbFJhX1VjRVE2WTZ2YV9wbnhNM1ZCMG5hekNoQU5uVEpscFdaczk1c1BPcWt1VXRzbWs4WFAtYUZIQVFMbWZNcmxWNE9zN3dkanZUdDhOb3dFckZGWXZfc21sMVc1Q0pOeDRQejVMR2Ztck1hTFFwSW9qM21kYWxqM3BoXzRGZw?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObFRUUjZrRFpjTE1NcXBPb2NicXQtS3RtU0wtNHVjVHV4VHRlWWtMc1RtMzYwbXN2dnl3SVRBcjJxWFphN0hXMm0yZFNFNVduQ2dDdnVweVhTR24xNW5qemFXaTl2dkxsMkFYTlNCbGM1Si1IcmZIN3ZBTmF2ajBCcERjU1RPNXlIRHdlanZ1T0VxWWlWZkZ2eEYyZFBJWUJiSUp6b2gtcEtUQjJMaHNuWHNrRkNYek0tZlRITmkteDFreTNVb2VvcmhWZnJNa3FzTnZiUy1aXzVMMzg0cGNZR3pvMUFRQQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Computer Age Management Services Limited",
       "symbol": "CAMS",
       "exchange": "NSE",
@@ -773,7 +687,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 668.0,
+      "lastClose": 671.0,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -808,7 +722,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 85.14,
+      "lastClose": 85.48,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -843,7 +757,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1323.6,
+      "lastClose": 1321.7,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -866,6 +780,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "The State Trading Corporation of India Limited",
+      "symbol": "STCINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 87,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 109.14,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Dr. Lal Path Labs Ltd.",
       "symbol": "LALPATHLAB",
       "exchange": "NSE",
@@ -878,7 +827,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1938.0,
+      "lastClose": 1987.0,
       "catalysts": [
         {
           "label": "General Updates",
@@ -901,27 +850,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "L&T Technology Services Limited",
-      "symbol": "LTTS",
+      "company": "Bank of Baroda",
+      "symbol": "BANKBARODA",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.1,
-      "confidence": 81,
+      "predictionScore": -4.0,
+      "confidence": 84,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 3126.1,
+      "technicalConfidence": 83,
+      "lastClose": 230.55,
       "catalysts": [
         {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
+          "label": "Kotak, BoB, PB Fintech: Macquarie Upgrades Nine Stocks, Downgrades One \u2014 Check Full List, Target Prices",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
@@ -932,7 +881,13 @@
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/kotak-bank-of-baroda-paytm-pb-fintech-macquarie-upgrades-nine-stocks-downgrades-one-check-full-list-target-prices-12119471#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
