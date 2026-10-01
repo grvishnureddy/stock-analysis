@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-30T23:53:54+00:00",
+  "generatedAt": "2026-10-01T06:00:27+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "CEAT Limited",
-      "symbol": "CEATLTD",
+      "company": "PAKKA LIMITED",
+      "symbol": "PAKKA",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -4.2,
+      "predictionScore": -3.3,
       "confidence": 90,
-      "riskLevel": "Medium",
+      "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 3240.0,
+      "technicalConfidence": 100,
+      "lastClose": 72.52,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -24,30 +24,19 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Issue of Duplicate Share Certificate",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "Loss of Share Certificates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Loss of Share Certificates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
+      "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Kalpataru Projects International Limited",
@@ -85,111 +74,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1226.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "SBFC Finance Limited",
-      "symbol": "SBFC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 84.46,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Nuvoco Vistas Corporation Limited",
-      "symbol": "NUVOCO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 337.8,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Mahindra & Mahindra Financial Services Limited",
       "symbol": "M&MFIN",
       "exchange": "NSE",
@@ -202,7 +86,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 324.85,
+      "lastClose": 321.85,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -225,15 +109,202 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 2869.3,
+      "catalysts": [
+        {
+          "label": "M&M Share Price Falls 4%, Hits 52-Week Low As Tractor Sales Miss Estimates",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Monthly Business Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/m-m-share-price-today-falls-4-stock-hits-52-week-low-as-tractor-sales-miss-estimates-september-auto-sales-bse-sensex-12123298#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "CEAT Limited",
+      "symbol": "CEATLTD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.5,
+      "confidence": 80,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 3228.8,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Issue of Duplicate Share Certificate",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Loss of Share Certificates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Kfin Technologies Limited",
+      "symbol": "KFINTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 836.3,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Retirement",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1322.8,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Dr. Lal Path Labs Ltd.",
+      "symbol": "LALPATHLAB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 2006.9,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Solarworld Energy Solutions Limited",
       "symbol": "SOLARWORLD",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 3.8,
-      "confidence": 82,
+      "confidence": 75,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
@@ -260,347 +331,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Computer Age Management Services Limited",
-      "symbol": "CAMS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.6,
-      "confidence": 78,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 671.0,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "IndusInd Bank Limited",
-      "symbol": "INDUSINDBK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 878.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1321.7,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "The State Trading Corporation of India Limited",
-      "symbol": "STCINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 106.98,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mahindra & Mahindra Limited",
-      "symbol": "M&M",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 2950.0,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
-    {
-      "company": "CEAT Limited",
-      "symbol": "CEATLTD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -5.5,
-      "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 3240.0,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Issue of Duplicate Share Certificate",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Loss of Share Certificates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Loss of Share Certificates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "SBFC Finance Limited",
-      "symbol": "SBFC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 84.46,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Nuvoco Vistas Corporation Limited",
-      "symbol": "NUVOCO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 337.8,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mahindra & Mahindra Financial Services Limited",
-      "symbol": "M&MFIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 324.85,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
-      "horizon": "tomorrow",
+      "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -4.0,
-      "confidence": 90,
+      "predictionScore": -2.8,
+      "confidence": 75,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1226.0,
+      "lastClose": 1231.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -623,10 +366,193 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Highway Infrastructure Limited",
+      "symbol": "HILINFRA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "SBFC Finance Limited",
+      "symbol": "SBFC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 69,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 84.44,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    }
+  ],
+  "tomorrow": [
+    {
+      "company": "PAKKA LIMITED",
+      "symbol": "PAKKA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 72.52,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra & Mahindra Financial Services Limited",
+      "symbol": "M&MFIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 321.85,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Allotment of Securities",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 2869.3,
+      "catalysts": [
+        {
+          "label": "M&M Share Price Falls 4%, Hits 52-Week Low As Tractor Sales Miss Estimates",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Monthly Business Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/m-m-share-price-today-falls-4-stock-hits-52-week-low-as-tractor-sales-miss-estimates-september-auto-sales-bse-sensex-12123298#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Coforge Limited",
       "symbol": "COFORGE",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -635,27 +561,79 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 50,
-      "lastClose": 1749.1,
+      "lastClose": 1812.9,
       "catalysts": [
+        {
+          "label": "IT Stocks Jump: TCS, Infosys, Coforge, Persistent Systems And Others Surge Up To 3% \u2014 Here's Why",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Persistent, Hexaware Get A Seat At The 'IT Challengers' Table: Why Is Morgan Stanley Looking Beyond TCS, Infosys?",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/it-stocks-jump-tcs-infosys-coforge-persistent-systems-and-others-surge-up-to-3-percent-nse-nifty-it-index-bse-sensex-today-12123202#publisher=newsstand",
+          "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/morgan-stanley-initiates-coverage-on-persistent-systems-hexaware-picks-india-it-challengers-over-tier-1-giants-12123184#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "CEAT Limited",
+      "symbol": "CEATLTD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 89,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 3228.8,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Issue of Duplicate Share Certificate",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [],
+      "risks": [
+        {
+          "label": "Loss of Share Certificates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Kalpataru Projects International Limited",
@@ -693,43 +671,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Computer Age Management Services Limited",
-      "symbol": "CAMS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.1,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 671.0,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "IndusInd Bank Limited",
-      "symbol": "INDUSINDBK",
+      "company": "Kfin Technologies Limited",
+      "symbol": "KFINTECH",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
@@ -740,7 +683,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 878.0,
+      "lastClose": 836.3,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -753,7 +696,7 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Retirement",
           "type": "announcement",
           "verified": true
         }
@@ -775,7 +718,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1321.7,
+      "lastClose": 1322.8,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -798,27 +741,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "The State Trading Corporation of India Limited",
-      "symbol": "STCINDIA",
+      "company": "Dr. Lal Path Labs Ltd.",
+      "symbol": "LALPATHLAB",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
       "confidence": 87,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 106.98,
+      "lastClose": 2006.9,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
+          "label": "General Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Change in Auditors",
+          "label": "Trading Window",
           "type": "announcement",
           "verified": true
         },
@@ -833,32 +776,102 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Mahindra & Mahindra Limited",
-      "symbol": "M&M",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 84,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1231.0,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "SBFC Finance Limited",
+      "symbol": "SBFC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
       "predictionScore": -4.8,
-      "confidence": 87,
+      "confidence": 80,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2950.0,
+      "lastClose": 84.44,
       "catalysts": [
         {
-          "label": "Updates",
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "IndusInd Bank Limited",
+      "symbol": "INDUSINDBK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 80,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 895.8,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
           "type": "announcement",
           "verified": true
         }
