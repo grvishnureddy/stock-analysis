@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T12:40:31+00:00",
+  "generatedAt": "2026-10-02T19:22:16+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -135,6 +135,41 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra & Mahindra Financial Services Limited",
+      "symbol": "M&MFIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 319.75,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Allotment of Securities",
           "type": "announcement",
           "verified": true
         }
@@ -284,41 +319,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Mahindra & Mahindra Financial Services Limited",
-      "symbol": "M&MFIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 319.75,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "L&T Finance Limited",
       "symbol": "LTF",
       "exchange": "NSE",
@@ -389,45 +389,39 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "CEAT Limited",
-      "symbol": "CEATLTD",
+      "company": "ICICI Prudential Life Insurance Company Limited",
+      "symbol": "ICICIPRULI",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.0,
-      "confidence": 72,
-      "riskLevel": "Medium",
+      "predictionScore": -2.8,
+      "confidence": 75,
+      "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 3286.6,
+      "technicalConfidence": 83,
+      "lastClose": 448.05,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Issue of Duplicate Share Certificate",
+          "label": "Change in Director(s)",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "Loss of Share Certificates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
+      "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -493,6 +487,41 @@
         },
         {
           "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra & Mahindra Financial Services Limited",
+      "symbol": "M&MFIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 319.75,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Allotment of Securities",
           "type": "announcement",
           "verified": true
         }
@@ -642,41 +671,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Mahindra & Mahindra Financial Services Limited",
-      "symbol": "M&MFIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 319.75,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "L&T Finance Limited",
       "symbol": "LTF",
       "exchange": "NSE",
@@ -738,6 +732,41 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ICICI Prudential Life Insurance Company Limited",
+      "symbol": "ICICIPRULI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.0,
+      "confidence": 84,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 448.05,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Resignation of Director/KMP/SMP",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Director(s)",
           "type": "announcement",
           "verified": true
         }
@@ -820,41 +849,6 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "SBFC Finance Limited",
-      "symbol": "SBFC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 84.19,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
