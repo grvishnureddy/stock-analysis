@@ -1,22 +1,57 @@
 {
-  "generatedAt": "2026-10-02T05:42:33+00:00",
+  "generatedAt": "2026-10-02T12:40:31+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "Nuvoco Vistas Corporation Limited",
-      "symbol": "NUVOCO",
+      "company": "PAKKA LIMITED",
+      "symbol": "PAKKA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 72.26,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 337.8,
+      "lastClose": 1310.6,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -24,7 +59,7 @@
           "verified": true
         },
         {
-          "label": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
@@ -74,41 +109,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "PAKKA LIMITED",
-      "symbol": "PAKKA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 72.89,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Tata Consultancy Services Limited",
       "symbol": "TCS",
       "exchange": "NSE",
@@ -135,41 +135,6 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1310.6,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -214,45 +179,74 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "CEAT Limited",
-      "symbol": "CEATLTD",
+      "company": "Nuvoco Vistas Corporation Limited",
+      "symbol": "NUVOCO",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.5,
-      "confidence": 80,
-      "riskLevel": "Medium",
+      "predictionScore": -2.8,
+      "confidence": 82,
+      "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 3264.4,
+      "lastClose": 322.1,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Issue of Duplicate Share Certificate",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "Loss of Share Certificates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
+      "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "United Heat Transfer Limited",
+      "symbol": "UHTL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 79,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Mahindra Logistics Limited",
@@ -302,7 +296,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 324.85,
+      "lastClose": 319.75,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -395,69 +389,75 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "SBFC Finance Limited",
-      "symbol": "SBFC",
+      "company": "CEAT Limited",
+      "symbol": "CEATLTD",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 69,
-      "riskLevel": "Standard",
+      "predictionScore": -3.0,
+      "confidence": 72,
+      "riskLevel": "Medium",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 85.48,
+      "technicalConfidence": 67,
+      "lastClose": 3286.6,
       "catalysts": [
         {
-          "label": "Financial Results",
+          "label": "Financial Results/Other business matters",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Credit Rating",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Issue of Duplicate Share Certificate",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [],
+      "risks": [
+        {
+          "label": "Loss of Share Certificates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     }
   ],
   "tomorrow": [
     {
-      "company": "Nuvoco Vistas Corporation Limited",
-      "symbol": "NUVOCO",
+      "company": "PAKKA LIMITED",
+      "symbol": "PAKKA",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 337.8,
+      "lastClose": 72.26,
       "catalysts": [
         {
-          "label": "Financial Results",
+          "label": "Financial Results/Other business matters",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Shareholders meeting",
           "type": "announcement",
           "verified": true
         }
@@ -470,7 +470,7 @@
       "company": "ICICI Bank Limited",
       "symbol": "ICICIBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -492,7 +492,7 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -572,10 +572,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "PAKKA LIMITED",
-      "symbol": "PAKKA",
+      "company": "Nuvoco Vistas Corporation Limited",
+      "symbol": "NUVOCO",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -584,20 +584,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 72.89,
+      "lastClose": 322.1,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -605,47 +605,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "CEAT Limited",
-      "symbol": "CEATLTD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 89,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 3264.4,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Issue of Duplicate Share Certificate",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Loss of Share Certificates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Mahindra Logistics Limited",
@@ -695,7 +654,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 324.85,
+      "lastClose": 319.75,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -830,12 +789,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -3.0,
-      "confidence": 81,
+      "predictionScore": -3.1,
+      "confidence": 82,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 840.0,
+      "lastClose": 832.0,
       "catalysts": [
         {
           "label": "SRIT India IPO allotment: How to check status online on KFin Technologies, NSE, BSE; listing date, time revealed - Upstox",
@@ -861,6 +820,41 @@
           "verified": true
         }
       ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "SBFC Finance Limited",
+      "symbol": "SBFC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 80,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 84.19,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
