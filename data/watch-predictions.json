@@ -1,8 +1,43 @@
 {
-  "generatedAt": "2026-10-04T23:13:36+00:00",
+  "generatedAt": "2026-10-05T05:46:15+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "The South Indian Bank Limited",
+      "symbol": "SOUTHBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 48.24,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
     {
       "company": "PAKKA LIMITED",
       "symbol": "PAKKA",
@@ -16,7 +51,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 72.26,
+      "lastClose": 69.96,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -39,8 +74,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Poonawalla Fincorp Limited",
-      "symbol": "POONAWALLA",
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
@@ -51,61 +86,37 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 433.4,
+      "lastClose": 707.0,
       "catalysts": [
+        {
+          "label": "Anup Bagchi's Appointment Removes Key Overhang For HDFC Bank Stock, Supports Re-Rating, Say Brokerages",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "HDFC Bank gets new MD-CEO; stock is Jefferies India's top pick \u2014 22% upside despite 27% dip in YTD | Target price, ratio - Livemint",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "The South Indian Bank Limited",
-      "symbol": "SOUTHBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 47.44,
-      "catalysts": [
+      "sources": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/anup-bagchis-appointment-removes-key-overhang-for-hdfc-bank-stock-supports-re-rating-say-brokerages-12138933#publisher=newsstand",
           "verified": true
         },
         {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQzcxMlZYT09qNzhoam9Va20xQzNIMUQyYl9IRDZlS2ZyemFpaFQ5THJZak9QckUwVXBjUWU2T0pxV2o5aDZNeXFfWUZuTnNHdTRTMWprR2h2TVZnT05ZbkRVUFF4dWdHZVh3OVpYQWNmS1RfSTFBUG45d2ppeEl3Y1RtWlNTWVU2SG0xcXN4RF9Kc3EwQ0JFU3ZXMnVobkhfMWRXRnBUNWNZQUdwTnYyeWlUU0tiVzB0dTFSRHVLYThzQl9jYUdpN0JneHNxYTNuTkR5OU5zVjN1Nm9JWnN5MWE5cU9KbGMtcjdhcVRvRW96OEo2a21zS1ZjWHRTSDU5RU9ycUVlTmZwVkR1RWfSAZMCQVVfeXFMUEk4ZjB5b1l0bmU3WlpRWUt1Mzhpak96R1paaTRZVm5DZDE2MjdTZ3J5d1JwZ0RCVHF1NEQzVEZnNXdjYWF6Wm5uSXJnT1BRQUZlTE5ycEl2WFBLRllQN2g5MHJnWXhfQ2xnUzU2VTJCUmluY2tUMHJkcTM4Z094ZlZRU25rcHdFM0dkVFVkQ2V6bVZPcm42dVdaYmpwYVZoR21yNDc3S1JQdHNlVlFtd3k4Y0VJMFliZmxJcFBtd0hKNGtvQkFCZXl2ZVZKaU8wbmNTcFRacjdRTEZVR3N5c3JtbW8xLXE0TkhKcmpLOHI5SDdtZ2pLWURZT0pCVXY0MHhpMk5GcTZfQm9IYkFpcFE4U00?oc=5",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -121,7 +132,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1310.6,
+      "lastClose": 1314.1,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -156,7 +167,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 264.35,
+      "lastClose": 263.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -191,7 +202,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 322.1,
+      "lastClose": 324.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -214,41 +225,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Tata Consultancy Services Limited",
-      "symbol": "TCS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.6,
-      "confidence": 78,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 2075.0,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Mahindra Logistics Limited",
       "symbol": "MAHLOG",
       "exchange": "NSE",
@@ -261,7 +237,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 416.4,
+      "lastClose": 411.7,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -296,7 +272,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 319.75,
+      "lastClose": 327.8,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -319,41 +295,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Gujarat State Fertilizers & Chemicals Limited",
-      "symbol": "GSFC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 146.9,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Mahindra & Mahindra Limited",
       "symbol": "M&M",
       "exchange": "NSE",
@@ -366,7 +307,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2860.0,
+      "lastClose": 2853.5,
       "catalysts": [
         {
           "label": "Monthly Business Updates",
@@ -422,9 +363,114 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ICICI Prudential Life Insurance Company Limited",
+      "symbol": "ICICIPRULI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 75,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 450.3,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Resignation of Director/KMP/SMP",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Director(s)",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Marine Electricals (India) Limited",
+      "symbol": "MARINE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 74,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
+    {
+      "company": "The South Indian Bank Limited",
+      "symbol": "SOUTHBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 48.24,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
     {
       "company": "PAKKA LIMITED",
       "symbol": "PAKKA",
@@ -438,7 +484,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 72.26,
+      "lastClose": 69.96,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -473,7 +519,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1310.6,
+      "lastClose": 1314.1,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -508,7 +554,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 264.35,
+      "lastClose": 263.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -531,8 +577,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Poonawalla Fincorp Limited",
-      "symbol": "POONAWALLA",
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
@@ -543,26 +589,37 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 433.4,
+      "lastClose": 707.0,
       "catalysts": [
+        {
+          "label": "Anup Bagchi's Appointment Removes Key Overhang For HDFC Bank Stock, Supports Re-Rating, Say Brokerages",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "HDFC Bank gets new MD-CEO; stock is Jefferies India's top pick \u2014 22% upside despite 27% dip in YTD | Target price, ratio - Livemint",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/anup-bagchis-appointment-removes-key-overhang-for-hdfc-bank-stock-supports-re-rating-say-brokerages-12138933#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQzcxMlZYT09qNzhoam9Va20xQzNIMUQyYl9IRDZlS2ZyemFpaFQ5THJZak9QckUwVXBjUWU2T0pxV2o5aDZNeXFfWUZuTnNHdTRTMWprR2h2TVZnT05ZbkRVUFF4dWdHZVh3OVpYQWNmS1RfSTFBUG45d2ppeEl3Y1RtWlNTWVU2SG0xcXN4RF9Kc3EwQ0JFU3ZXMnVobkhfMWRXRnBUNWNZQUdwTnYyeWlUU0tiVzB0dTFSRHVLYThzQl9jYUdpN0JneHNxYTNuTkR5OU5zVjN1Nm9JWnN5MWE5cU9KbGMtcjdhcVRvRW96OEo2a21zS1ZjWHRTSDU5RU9ycUVlTmZwVkR1RWfSAZMCQVVfeXFMUEk4ZjB5b1l0bmU3WlpRWUt1Mzhpak96R1paaTRZVm5DZDE2MjdTZ3J5d1JwZ0RCVHF1NEQzVEZnNXdjYWF6Wm5uSXJnT1BRQUZlTE5ycEl2WFBLRllQN2g5MHJnWXhfQ2xnUzU2VTJCUmluY2tUMHJkcTM4Z094ZlZRU25rcHdFM0dkVFVkQ2V6bVZPcm42dVdaYmpwYVZoR21yNDc3S1JQdHNlVlFtd3k4Y0VJMFliZmxJcFBtd0hKNGtvQkFCZXl2ZVZKaU8wbmNTcFRacjdRTEZVR3N5c3JtbW8xLXE0TkhKcmpLOHI5SDdtZ2pLWURZT0pCVXY0MHhpMk5GcTZfQm9IYkFpcFE4U00?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -578,7 +635,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 322.1,
+      "lastClose": 324.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -601,19 +658,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "The South Indian Bank Limited",
-      "symbol": "SOUTHBANK",
+      "company": "Poonawalla Fincorp Limited",
+      "symbol": "POONAWALLA",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
+      "direction": "Negative watch",
+      "predictionScore": -2.4,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 47.44,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 50,
+      "lastClose": 444.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -621,42 +678,7 @@
           "verified": true
         },
         {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Tata Consultancy Services Limited",
-      "symbol": "TCS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.1,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 2075.0,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
@@ -683,7 +705,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 416.4,
+      "lastClose": 411.7,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -718,7 +740,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 319.75,
+      "lastClose": 327.8,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -741,41 +763,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Gujarat State Fertilizers & Chemicals Limited",
-      "symbol": "GSFC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 146.9,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Mahindra & Mahindra Limited",
       "symbol": "M&M",
       "exchange": "NSE",
@@ -788,7 +775,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2860.0,
+      "lastClose": 2853.5,
       "catalysts": [
         {
           "label": "Monthly Business Updates",
@@ -823,7 +810,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 448.05,
+      "lastClose": 450.3,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -844,6 +831,47 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "CEAT Limited",
+      "symbol": "CEATLTD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 82,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 3263.9,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Issue of Duplicate Share Certificate",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Loss of Share Certificates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
     }
   ]
 }
