@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T15:32:09+00:00",
+  "generatedAt": "2026-10-12T23:02:24+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -39,38 +39,111 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Angel One Limited",
-      "symbol": "ANGELONE",
+      "company": "Polycab India Limited",
+      "symbol": "POLYCAB",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.1,
+      "direction": "Negative watch",
+      "predictionScore": -5.4,
       "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 302.25,
+      "riskLevel": "Medium",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 17,
+      "lastClose": 8255.0,
       "catalysts": [
+        {
+          "label": "NSE to remove Polycab India from F&O Segment from December 30 - IndiaIPO",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "NSE to remove Polycab India from F&O Segment from December 30 - CNBC TV18",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
-        },
+        }
+      ],
+      "risks": [
         {
-          "label": "Dividend",
-          "type": "upcoming event",
+          "label": "Polycab India\u2019s F&O exit: NSE sets December 30 deadline; NCLAT stays insolvency order - The Economic Times",
+          "type": "risk",
           "verified": true
         },
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "label": "Polycab To Exit F&O As NSE Sets Dec. 30 Deadline; NCLAT Puts Insolvency Order On Hold",
+          "type": "risk",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUXFndWpCcE5KUHNxZVdhRUt3aUNVTkhEeFhPLXVTbVU1aUlac19vQllJRDFoWlF5amJabkM3dzNvSnlQYl9JQ1hkOFQ5SnVKVnFXeHRrdnR6OGZZbW9QTU1HSU1fUHJuTnVYYWp6TGVJWnVXeTVVbzlvczAweEdDQUxfb1Joc2FTT1hoVW01bmtsdHFCaHNjWmh6dERTQVZfaUpjZVQtVFQzTmFuVVp3RWUtN3c4YV85MnRraG1yZXIwTDRKM2hjM2NPOTZGYU1PWTBMOWF6LUxOWUtIeXRCYmoxakY2b1psWGFv0gHwAUFVX3lxTFBCUDItNVlWU25VcHB6YTNtaXFXcXpiNjYtVFNlak5nOVprQTUzT2VDSHkzaGY1dGMyRzJNRi1ZWHRBZnNPZUhsMkNncFBFRzlpbURQZjI2SXh5aE5hZEpzMWcwQVY2T0JSNXNZZmQ5Y2tLT2xrNnB2TE1kN19GYnNMTUJ6YWFLOHhZNGpOeEtvZGdFcWpFUHpjdTFnMzB5UmdiTmpBeGlfYWE2WVBIVVRPQnZobzhSQUduQmk2NWRCYTc4Wm9wSWNpVzA1NHVPcmJ1OTRWTFBSTG9Yam9yeVgtODdmUGtyMVZaeEZzWEs2OQ?oc=5",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/polycab-to-exit-f-o-as-nse-sets-dec-30-deadline-nclat-puts-insolvency-order-on-hold-12175948#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVFFR0xrTzhzdEUyWjU0M1RRcTdsSnVCdlJQVEZPcWROTmVCT0dMUjlnV2h4Z19xbkFra2IyYkh6ZmxCT04yQzZURHdhM0xlOTFzUWVDVTlMcXBXeW93VHRLZllpU094MENyNmxqWmFvcnl3S2lna3V2dy1QcmJJeWttWTlVaV9LVXFSSkIwTldKNG51aFRudEhPTTc?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXNORzg0T0tDR3pMOUROUjMwVkFhN0t1bVM3YXZxUnBRcEh3ZVdwRGk4SlRzRGNDS1dIekFPaC1pV1Nhby1iZ2JPUHdRRC1PTUowN2Y4T0RGMURxLXBLMEJHU2NTbzJwZVFFQnlZTWpNQVBBR2lmLW1Rd3YtNE9VMVF2NlFOLXI1T19iaWkwRVVMSWlua1BxV2ZrWTZUaDdyV25rRTVVd3kzbnE5djY0T0tCRTBJNjNPNU5ta3YtNk83QdIBxwFBVV95cUxNeFU2MUJXaFJJQjltTlZWaDZQQmhjZlp6dWd4U2NVZ1pDemV4U0szb25WWDlDeUthdXdHWWF6b00ydHpRTmhPQm1faE91anR5aWZwaVhIbDQzZm5sQTlkb0RueHZidklybFJUbHVRUTBRQWRfTFhrT0pfSGwxS04tMm52R1dnUk5uQWdvVVRxMnV5d3MyYzVUWG9lcDdkd3NLdkg1MlJ3ckZMc056SlpKR253U1VQVkdTOVZpMEhnU3EzVnpmSlZV?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "RBL Bank Limited",
+      "symbol": "RBLBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 12,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 418.0,
+      "catalysts": [
+        {
+          "label": "RBL Bank Q2 Results: Net Profit Nearly Triples To Rs 482 Crore, Asset Quality Improves",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/rbl-bank-q2-results-net-profit-nearly-triples-to-rs-482-crore-asset-quality-improves-12173863#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -86,7 +159,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 5787.0,
+      "lastClose": 5770.0,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -109,19 +182,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
+      "company": "Fedbank Financial Services Limited",
+      "symbol": "FEDFINA",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 342.3,
+      "lastClose": 146.39,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -129,12 +202,12 @@
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -191,7 +264,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 103.13,
+      "lastClose": 102.24,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -214,32 +287,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "RBL Bank Limited",
-      "symbol": "RBLBANK",
+      "company": "Swan Defence and Heavy Industries Limited",
+      "symbol": "SWANDEF",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
+      "predictionScore": 3.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 417.7,
+      "technicalConfidence": 100,
+      "lastClose": 2816.8,
       "catalysts": [
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Change in Management",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -261,7 +334,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1662.7,
+      "lastClose": 1656.7,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -284,89 +357,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Crompton Greaves Consumer Electricals Limited",
-      "symbol": "CROMPTON",
+      "company": "CEAT Limited",
+      "symbol": "CEATLTD",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
+      "predictionScore": -4.1,
+      "confidence": 81,
+      "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 202.5,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "L&T Finance Limited",
-      "symbol": "LTF",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 262.7,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Metro Brands Limited",
-      "symbol": "METROBRAND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 847.9,
+      "lastClose": 3262.3,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -374,7 +377,7 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
@@ -384,33 +387,74 @@
           "verified": true
         }
       ],
+      "risks": [
+        {
+          "label": "Loss of Share Certificates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "LTM Limited",
+      "symbol": "LTM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.0,
+      "confidence": 77,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 4070.0,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Swan Defence and Heavy Industries Limited",
-      "symbol": "SWANDEF",
+      "company": "Bajaj Housing Finance Limited",
+      "symbol": "BAJAJHFL",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
       "confidence": 76,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2931.1,
+      "lastClose": 81.51,
       "catalysts": [
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
@@ -461,45 +505,118 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Angel One Limited",
-      "symbol": "ANGELONE",
+      "company": "RBL Bank Limited",
+      "symbol": "RBLBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.6,
+      "predictionScore": 5.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 302.25,
+      "technicalConfidence": 67,
+      "lastClose": 418.0,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "RBL Bank Q2 Results: Net Profit Nearly Triples To Rs 482 Crore, Asset Quality Improves",
+          "type": "results",
           "verified": true
         },
         {
-          "label": "Dividend",
-          "type": "upcoming event",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/rbl-bank-q2-results-net-profit-nearly-triples-to-rs-482-crore-asset-quality-improves-12173863#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Polycab India Limited",
+      "symbol": "POLYCAB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -5.7,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 17,
+      "lastClose": 8255.0,
+      "catalysts": [
+        {
+          "label": "NSE to remove Polycab India from F&O Segment from December 30 - IndiaIPO",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "NSE to remove Polycab India from F&O Segment from December 30 - CNBC TV18",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Polycab India\u2019s F&O exit: NSE sets December 30 deadline; NCLAT stays insolvency order - The Economic Times",
+          "type": "risk",
+          "verified": true
+        },
+        {
+          "label": "Polycab To Exit F&O As NSE Sets Dec. 30 Deadline; NCLAT Puts Insolvency Order On Hold",
+          "type": "risk",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUXFndWpCcE5KUHNxZVdhRUt3aUNVTkhEeFhPLXVTbVU1aUlac19vQllJRDFoWlF5amJabkM3dzNvSnlQYl9JQ1hkOFQ5SnVKVnFXeHRrdnR6OGZZbW9QTU1HSU1fUHJuTnVYYWp6TGVJWnVXeTVVbzlvczAweEdDQUxfb1Joc2FTT1hoVW01bmtsdHFCaHNjWmh6dERTQVZfaUpjZVQtVFQzTmFuVVp3RWUtN3c4YV85MnRraG1yZXIwTDRKM2hjM2NPOTZGYU1PWTBMOWF6LUxOWUtIeXRCYmoxakY2b1psWGFv0gHwAUFVX3lxTFBCUDItNVlWU25VcHB6YTNtaXFXcXpiNjYtVFNlak5nOVprQTUzT2VDSHkzaGY1dGMyRzJNRi1ZWHRBZnNPZUhsMkNncFBFRzlpbURQZjI2SXh5aE5hZEpzMWcwQVY2T0JSNXNZZmQ5Y2tLT2xrNnB2TE1kN19GYnNMTUJ6YWFLOHhZNGpOeEtvZGdFcWpFUHpjdTFnMzB5UmdiTmpBeGlfYWE2WVBIVVRPQnZobzhSQUduQmk2NWRCYTc4Wm9wSWNpVzA1NHVPcmJ1OTRWTFBSTG9Yam9yeVgtODdmUGtyMVZaeEZzWEs2OQ?oc=5",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/polycab-to-exit-f-o-as-nse-sets-dec-30-deadline-nclat-puts-insolvency-order-on-hold-12175948#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVFFR0xrTzhzdEUyWjU0M1RRcTdsSnVCdlJQVEZPcWROTmVCT0dMUjlnV2h4Z19xbkFra2IyYkh6ZmxCT04yQzZURHdhM0xlOTFzUWVDVTlMcXBXeW93VHRLZllpU094MENyNmxqWmFvcnl3S2lna3V2dy1QcmJJeWttWTlVaV9LVXFSSkIwTldKNG51aFRudEhPTTc?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXNORzg0T0tDR3pMOUROUjMwVkFhN0t1bVM3YXZxUnBRcEh3ZVdwRGk4SlRzRGNDS1dIekFPaC1pV1Nhby1iZ2JPUHdRRC1PTUowN2Y4T0RGMURxLXBLMEJHU2NTbzJwZVFFQnlZTWpNQVBBR2lmLW1Rd3YtNE9VMVF2NlFOLXI1T19iaWkwRVVMSWlua1BxV2ZrWTZUaDdyV25rRTVVd3kzbnE5djY0T0tCRTBJNjNPNU5ta3YtNk83QdIBxwFBVV95cUxNeFU2MUJXaFJJQjltTlZWaDZQQmhjZlp6dWd4U2NVZ1pDemV4U0szb25WWDlDeUthdXdHWWF6b00ydHpRTmhPQm1faE91anR5aWZwaVhIbDQzZm5sQTlkb0RueHZidklybFJUbHVRUTBRQWRfTFhrT0pfSGwxS04tMm52R1dnUk5uQWdvVVRxMnV5d3MyYzVUWG9lcDdkd3NLdkg1MlJ3ckZMc056SlpKR253U1VQVkdTOVZpMEhnU3EzVnpmSlZV?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Swan Defence and Heavy Industries Limited",
       "symbol": "SWANDEF",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -508,20 +625,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2931.1,
+      "lastClose": 2816.8,
       "catalysts": [
         {
-          "label": "Outcome of Board Meeting",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Press Release",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -543,7 +660,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 5787.0,
+      "lastClose": 5770.0,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -566,19 +683,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
+      "company": "Fedbank Financial Services Limited",
+      "symbol": "FEDFINA",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 342.3,
+      "lastClose": 146.39,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -586,12 +703,12 @@
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -613,7 +730,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1662.7,
+      "lastClose": 1656.7,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -683,7 +800,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 103.13,
+      "lastClose": 102.24,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -706,62 +823,22 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "RBL Bank Limited",
-      "symbol": "RBLBANK",
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 417.7,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Prudential Asset Management Company Limited",
-      "symbol": "ICICIAMC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -2.8,
+      "predictionScore": -2.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 2969.4,
+      "technicalConfidence": 83,
+      "lastClose": 1216.7,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
@@ -769,6 +846,11 @@
           "label": "Record Date",
           "type": "announcement",
           "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
         }
       ],
       "risks": [],
@@ -776,8 +858,49 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Crompton Greaves Consumer Electricals Limited",
-      "symbol": "CROMPTON",
+      "company": "CEAT Limited",
+      "symbol": "CEATLTD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -5.1,
+      "confidence": 88,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 3262.3,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Loss of Share Certificates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Bajaj Housing Finance Limited",
+      "symbol": "BAJAJHFL",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
@@ -788,55 +911,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 202.5,
+      "lastClose": 81.51,
       "catalysts": [
         {
           "label": "Financial Results",
           "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
           "verified": true
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "L&T Finance Limited",
-      "symbol": "LTF",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 262.7,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
         },
         {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         }
