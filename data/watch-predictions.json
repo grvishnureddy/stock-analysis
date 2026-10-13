@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T16:03:13+00:00",
+  "generatedAt": "2026-10-13T21:18:44+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -51,7 +51,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 310.0,
+      "lastClose": 302.25,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -86,7 +86,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 5988.0,
+      "lastClose": 5787.0,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -121,7 +121,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 543.7,
+      "lastClose": 550.6,
       "catalysts": [
         {
           "label": "Allotment of Securities",
@@ -135,41 +135,6 @@
         },
         {
           "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Transformers And Rectifiers (India) Limited",
-      "symbol": "TARIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 304.0,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Corrigendum",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -214,19 +179,54 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "ICICI Prudential Life Insurance Company Limited",
-      "symbol": "ICICIPRULI",
+      "company": "The State Trading Corporation of India Limited",
+      "symbol": "STCINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -2.2,
+      "predictionScore": -3.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 103.13,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Reasons for Delayed/Non-submission of Financial Results",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Transformers And Rectifiers (India) Limited",
+      "symbol": "TARIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 447.0,
+      "lastClose": 294.8,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -234,12 +234,12 @@
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Corrigendum",
           "type": "announcement",
           "verified": true
         }
@@ -296,7 +296,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 348.6,
+      "lastClose": 342.3,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -319,67 +319,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Sejal Glass Limited",
-      "symbol": "SEJALLTD",
+      "company": "Tata Communications Limited",
+      "symbol": "TATACOMM",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
       "confidence": 83,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 730.0,
-      "catalysts": [
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "The State Trading Corporation of India Limited",
-      "symbol": "STCINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 82,
-      "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 107.13,
+      "technicalConfidence": 100,
+      "lastClose": 1662.7,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Reasons for Delayed/Non-submission of Financial Results",
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -389,8 +354,43 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "L&T Finance Limited",
-      "symbol": "LTF",
+      "company": "Tech Mahindra Limited",
+      "symbol": "TECHM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.6,
+      "confidence": 78,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1471.0,
+      "catalysts": [
+        {
+          "label": "Financial Results/Dividend/Bonus/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Allotment of Securities",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Sale or disposal",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Crompton Greaves Consumer Electricals Limited",
+      "symbol": "CROMPTON",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
@@ -401,7 +401,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 267.6,
+      "lastClose": 202.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -409,12 +409,12 @@
           "verified": true
         },
         {
-          "label": "Allotment of Securities",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Shareholders meeting",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -473,7 +473,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 310.0,
+      "lastClose": 302.25,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -508,7 +508,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 5988.0,
+      "lastClose": 5787.0,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -543,7 +543,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 543.7,
+      "lastClose": 550.6,
       "catalysts": [
         {
           "label": "Allotment of Securities",
@@ -566,41 +566,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Transformers And Rectifiers (India) Limited",
-      "symbol": "TARIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 304.0,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Corrigendum",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Karur Vysya Bank Limited",
       "symbol": "KARURVYSYA",
       "exchange": "NSE",
@@ -613,7 +578,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 348.6,
+      "lastClose": 342.3,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -622,41 +587,6 @@
         },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Sejal Glass Limited",
-      "symbol": "SEJALLTD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 730.0,
-      "catalysts": [
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         },
@@ -706,32 +636,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "ICICI Prudential Life Insurance Company Limited",
-      "symbol": "ICICIPRULI",
+      "company": "The State Trading Corporation of India Limited",
+      "symbol": "STCINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -2.7,
+      "predictionScore": -4.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 67,
-      "lastClose": 447.0,
+      "technicalConfidence": 100,
+      "lastClose": 103.13,
       "catalysts": [
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Reasons for Delayed/Non-submission of Financial Results",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -741,19 +671,54 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Tata Elxsi Limited",
-      "symbol": "TATAELXSI",
+      "company": "Tata Communications Limited",
+      "symbol": "TATACOMM",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1662.7,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Transformers And Rectifiers (India) Limited",
+      "symbol": "TARIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 2.1,
+      "predictionScore": 3.7,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 33,
-      "lastClose": 3426.7,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 294.8,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -761,12 +726,12 @@
           "verified": true
         },
         {
-          "label": "Change in Auditors",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Corrigendum",
           "type": "announcement",
           "verified": true
         }
@@ -788,7 +753,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 706.95,
+      "lastClose": 682.25,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -811,32 +776,67 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "The State Trading Corporation of India Limited",
-      "symbol": "STCINDIA",
+      "company": "Crompton Greaves Consumer Electricals Limited",
+      "symbol": "CROMPTON",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -3.5,
+      "predictionScore": -4.8,
       "confidence": 87,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 107.13,
+      "technicalConfidence": 100,
+      "lastClose": 202.5,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Reasons for Delayed/Non-submission of Financial Results",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Aurum PropTech Limited",
+      "symbol": "AURUM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 87,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 228.12,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Allotment of Securities",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
