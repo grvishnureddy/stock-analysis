@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T06:50:36+00:00",
+  "generatedAt": "2026-10-13T16:03:13+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,11 +7,11 @@
       "company": "Dynamic Services & Security Limited",
       "symbol": "DYNAMIC",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 9.0,
+      "predictionScore": 10.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -19,12 +19,12 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "label": "Awarding of order(s)/contract(s)",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Awarding of order(s)/contract(s)",
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         },
@@ -51,7 +51,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 303.15,
+      "lastClose": 310.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -77,7 +77,7 @@
       "company": "Persistent Systems Limited",
       "symbol": "PERSISTENT",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -86,7 +86,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 5995.0,
+      "lastClose": 5988.0,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -94,12 +94,82 @@
           "verified": true
         },
         {
-          "label": "Credit Rating- New",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Resignation of Director/KMP/SMP",
+          "label": "Credit Rating- New",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Anand Rathi Share and Stock Brokers Limited",
+      "symbol": "ARSSBL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 543.7,
+      "catalysts": [
+        {
+          "label": "Allotment of Securities",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Transformers And Rectifiers (India) Limited",
+      "symbol": "TARIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 304.0,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Corrigendum",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -144,6 +214,146 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "ICICI Prudential Life Insurance Company Limited",
+      "symbol": "ICICIPRULI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 447.0,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Innomet Advanced Materials Limited",
+      "symbol": "INNOMET",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 6.0,
+      "confidence": 84,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Karur Vysya Bank Limited",
+      "symbol": "KARURVYSYA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 348.6,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Sejal Glass Limited",
+      "symbol": "SEJALLTD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 730.0,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "The State Trading Corporation of India Limited",
       "symbol": "STCINDIA",
       "exchange": "NSE",
@@ -151,12 +361,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
+      "predictionScore": -2.8,
+      "confidence": 82,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 103.54,
+      "technicalConfidence": 83,
+      "lastClose": 107.13,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -179,103 +389,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Polycab India Limited",
-      "symbol": "POLYCAB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.6,
-      "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 8181.0,
-      "catalysts": [
-        {
-          "label": "NSE To Exclude Polycab India From F&O Segment From 30 Dec Under IBC Framework - BW Businessworld",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Polycab India F&O ban from Dec 30: Stock falls 5%; Key dates, trading rules, and what happens next - Livemint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "NSE to remove Polycab India from F&O Segment from December 30 - IndiaIPO",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Polycab India shares decline 5% as NSE removes stock from F&O segment; details here - Upstox",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUlhadllqNnh1QmxPT0FFQmEwWVV5TmU1Q1Q3LXpBejdGWEdBSEZPMzM5WGpBcjlLZkM0REZSX1M2T1hBcDhrU3VIUS1mcDJ5bzBfV1EzbHhuSDFHSEFieWllajVRUEVtOTBrVXRyTGNrZXFCdVNpdFZ1MFR0M0dYT2g4QTctRVdjTlVlQ0lvT2tNNVd6QTVpNHMtdl9xdC16eGV5OFlMX2syTEhnX1c4ZUxwYW1qWTIzTmdUd3lXLTRaVWoza1cwcktKV2xXNHBwVFJrb3lud3EwSGM?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR09ickFMaFFrWV9FSEVPNnpJZjVfZk5vdVhXZXRxazYwb20yTWxBOXczSHdud1B3cmI2SWh1NTdqVWRkT3REN0F0clFRb29DWGdSZ1FpU0xxZUVhNlJBaDNYRkp1c1ZtWmVWLTlWdXpsSW5rNG4yTU5RejhDdFlTRmNVY3pvZTloSU9ySTFyYjU4eVFWYXVQX3IzWEJMaUNnTmtSb1FybUc1S0FWU1EwY0habjgzdS1QYUp6MVVR?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSVdaU1ZlUWJjSVhUemdHSU8yVVQ4MjBzSnN1Tmp2bzJZVGJUaVliclVKa2paN0txS0lXcXN4ZjNQZEFjQW9QbEozVHJSS0ZrVlhnNjZ4UnBQaHhZbWt2ZVJXOURtSDB4OXhyOU5DMlU2ZTU1ME5vWnZhbktuNVYwYlNqTTY3d1Bfd1JTUFB0OGdIRlM0RmotWkozbEtOMGR6VmU2aG9UOEFRYXRLYzBNalc4RklMNjVoN25SX0F2Z3FXdjU4cDJFT0hodDlneW5lRE1LT19zWmM5QjA2TWJibkY5WF9ibWRGdFRubkxMOGk1dVNobGfSAfsBQVVfeXFMTjlSS2VROUZYQkRfM0ttM3J2cXhlRHJFRjBHMVVXU3d3WjdscHVXcVhNNEVJRVNnQWlJODZQSmFfa1FRM2MzcEU2NTRCcVBzdE04WTdXMmpkRE0yZGNlT0NuVVRvdjV3Q1dXemplWUFGRnhFMG5hbHU2UFdpSFphbkstdkxRWTVZVmg0d1RvbkoxbV9hX0J5OWRiRk9Gb2xBWjNoSTdiUTZwN181RnJ6NW9xMjN0R3Z5WnZEQ3ZNWnExZEdZSUtuano3VV9rZVhkU3J4ZWUzZUx5blppSnI4MmM3SXl1WmZWN1JMYWE4eUYxam9UTmwzaFJBeGc?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVFFR0xrTzhzdEUyWjU0M1RRcTdsSnVCdlJQVEZPcWROTmVCT0dMUjlnV2h4Z19xbkFra2IyYkh6ZmxCT04yQzZURHdhM0xlOTFzUWVDVTlMcXBXeW93VHRLZllpU094MENyNmxqWmFvcnl3S2lna3V2dy1QcmJJeWttWTlVaV9LVXFSSkIwTldKNG51aFRudEhPTTc?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Crompton Greaves Consumer Electricals Limited",
-      "symbol": "CROMPTON",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 209.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "L&T Finance Limited",
       "symbol": "LTF",
       "exchange": "NSE",
@@ -288,7 +401,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 264.05,
+      "lastClose": 267.6,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -309,146 +422,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 75,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 351.75,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Tata Communications Limited",
-      "symbol": "TATACOMM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 75,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 1675.4,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mangalore Refinery and Petrochemicals Limited",
-      "symbol": "MRPL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 72,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 172.3,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Innovision Limited",
-      "symbol": "INNOVISION",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 70,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Resignation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -456,11 +429,11 @@
       "company": "Dynamic Services & Security Limited",
       "symbol": "DYNAMIC",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 9.0,
+      "predictionScore": 10.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -468,12 +441,12 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "label": "Awarding of order(s)/contract(s)",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Awarding of order(s)/contract(s)",
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         },
@@ -500,7 +473,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 303.15,
+      "lastClose": 310.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -526,7 +499,7 @@
       "company": "Persistent Systems Limited",
       "symbol": "PERSISTENT",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -535,7 +508,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 5995.0,
+      "lastClose": 5988.0,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -543,12 +516,152 @@
           "verified": true
         },
         {
-          "label": "Credit Rating- New",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Resignation of Director/KMP/SMP",
+          "label": "Credit Rating- New",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Anand Rathi Share and Stock Brokers Limited",
+      "symbol": "ARSSBL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 543.7,
+      "catalysts": [
+        {
+          "label": "Allotment of Securities",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Transformers And Rectifiers (India) Limited",
+      "symbol": "TARIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 304.0,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Corrigendum",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Karur Vysya Bank Limited",
+      "symbol": "KARURVYSYA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 348.6,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Sejal Glass Limited",
+      "symbol": "SEJALLTD",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 730.0,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -593,27 +706,62 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "The State Trading Corporation of India Limited",
-      "symbol": "STCINDIA",
+      "company": "ICICI Prudential Life Insurance Company Limited",
+      "symbol": "ICICIPRULI",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.3,
+      "predictionScore": -2.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 103.54,
+      "technicalConfidence": 67,
+      "lastClose": 447.0,
       "catalysts": [
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Reasons for Delayed/Non-submission of Financial Results",
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tata Elxsi Limited",
+      "symbol": "TATAELXSI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 3426.7,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
           "type": "announcement",
           "verified": true
         },
@@ -628,151 +776,54 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Polycab India Limited",
-      "symbol": "POLYCAB",
+      "company": "Tips Music Limited",
+      "symbol": "TIPSMUSIC",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.9,
-      "confidence": 90,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 50,
-      "lastClose": 8181.0,
-      "catalysts": [
-        {
-          "label": "NSE To Exclude Polycab India From F&O Segment From 30 Dec Under IBC Framework - BW Businessworld",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Polycab India F&O ban from Dec 30: Stock falls 5%; Key dates, trading rules, and what happens next - Livemint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "NSE to remove Polycab India from F&O Segment from December 30 - IndiaIPO",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "risks": [
-        {
-          "label": "Polycab India shares decline 5% as NSE removes stock from F&O segment; details here - Upstox",
-          "type": "company news",
-          "verified": true
-        }
-      ],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUlhadllqNnh1QmxPT0FFQmEwWVV5TmU1Q1Q3LXpBejdGWEdBSEZPMzM5WGpBcjlLZkM0REZSX1M2T1hBcDhrU3VIUS1mcDJ5bzBfV1EzbHhuSDFHSEFieWllajVRUEVtOTBrVXRyTGNrZXFCdVNpdFZ1MFR0M0dYT2g4QTctRVdjTlVlQ0lvT2tNNVd6QTVpNHMtdl9xdC16eGV5OFlMX2syTEhnX1c4ZUxwYW1qWTIzTmdUd3lXLTRaVWoza1cwcktKV2xXNHBwVFJrb3lud3EwSGM?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR09ickFMaFFrWV9FSEVPNnpJZjVfZk5vdVhXZXRxazYwb20yTWxBOXczSHdud1B3cmI2SWh1NTdqVWRkT3REN0F0clFRb29DWGdSZ1FpU0xxZUVhNlJBaDNYRkp1c1ZtWmVWLTlWdXpsSW5rNG4yTU5RejhDdFlTRmNVY3pvZTloSU9ySTFyYjU4eVFWYXVQX3IzWEJMaUNnTmtSb1FybUc1S0FWU1EwY0habjgzdS1QYUp6MVVR?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSVdaU1ZlUWJjSVhUemdHSU8yVVQ4MjBzSnN1Tmp2bzJZVGJUaVliclVKa2paN0txS0lXcXN4ZjNQZEFjQW9QbEozVHJSS0ZrVlhnNjZ4UnBQaHhZbWt2ZVJXOURtSDB4OXhyOU5DMlU2ZTU1ME5vWnZhbktuNVYwYlNqTTY3d1Bfd1JTUFB0OGdIRlM0RmotWkozbEtOMGR6VmU2aG9UOEFRYXRLYzBNalc4RklMNjVoN25SX0F2Z3FXdjU4cDJFT0hodDlneW5lRE1LT19zWmM5QjA2TWJibkY5WF9ibWRGdFRubkxMOGk1dVNobGfSAfsBQVVfeXFMTjlSS2VROUZYQkRfM0ttM3J2cXhlRHJFRjBHMVVXU3d3WjdscHVXcVhNNEVJRVNnQWlJODZQSmFfa1FRM2MzcEU2NTRCcVBzdE04WTdXMmpkRE0yZGNlT0NuVVRvdjV3Q1dXemplWUFGRnhFMG5hbHU2UFdpSFphbkstdkxRWTVZVmg0d1RvbkoxbV9hX0J5OWRiRk9Gb2xBWjNoSTdiUTZwN181RnJ6NW9xMjN0R3Z5WnZEQ3ZNWnExZEdZSUtuano3VV9rZVhkU3J4ZWUzZUx5blppSnI4MmM3SXl1WmZWN1JMYWE4eUYxam9UTmwzaFJBeGc?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVFFR0xrTzhzdEUyWjU0M1RRcTdsSnVCdlJQVEZPcWROTmVCT0dMUjlnV2h4Z19xbkFra2IyYkh6ZmxCT04yQzZURHdhM0xlOTFzUWVDVTlMcXBXeW93VHRLZllpU094MENyNmxqWmFvcnl3S2lna3V2dy1QcmJJeWttWTlVaV9LVXFSSkIwTldKNG51aFRudEhPTTc?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Crompton Greaves Consumer Electricals Limited",
-      "symbol": "CROMPTON",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 87,
+      "direction": "Positive watch",
+      "predictionScore": 6.1,
+      "confidence": 88,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 209.0,
+      "lastClose": 706.95,
       "catalysts": [
         {
-          "label": "Financial Results",
+          "label": "Financial Results/Dividend",
           "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
           "verified": true
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Karur Vysya Bank Limited",
-      "symbol": "KARURVYSYA",
+      "company": "The State Trading Corporation of India Limited",
+      "symbol": "STCINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
+      "direction": "Negative watch",
+      "predictionScore": -3.5,
       "confidence": 87,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 351.75,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Transformers And Rectifiers (India) Limited",
-      "symbol": "TARIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 300.6,
+      "lastClose": 107.13,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -780,117 +831,12 @@
           "verified": true
         },
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "label": "Reasons for Delayed/Non-submission of Financial Results",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Mangalore Refinery and Petrochemicals Limited",
-      "symbol": "MRPL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 172.3,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "L&T Finance Limited",
-      "symbol": "LTF",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 264.05,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Central Bank of India",
-      "symbol": "CENTRALBK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 30.17,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
