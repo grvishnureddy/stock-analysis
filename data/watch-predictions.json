@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T07:41:40+00:00",
+  "generatedAt": "2026-10-14T18:40:31+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -39,32 +39,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Canara Bank",
-      "symbol": "CANBK",
+      "company": "Tata Technologies Limited",
+      "symbol": "TATATECH",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.5,
+      "predictionScore": 6.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 124.06,
+      "technicalConfidence": 33,
+      "lastClose": 743.7,
       "catalysts": [
         {
-          "label": "Canara Bank Shares Rally 5% After Q2 Results; Net Profit Rises 8.4% YoY",
-          "type": "results",
+          "label": "Tata Technologies Q2 Results: Net Profit Falls 5% To Rs 171 Crore As Margins Contract",
+          "type": "contract",
           "verified": true
         },
         {
-          "label": "Canara Bank Q2 Results: Net Profit Rises Over 8%, NII Climbs 20%; Asset Quality Stable",
-          "type": "results",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -73,22 +73,87 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/canara-bank-shares-price-today-rise-after-q2-resultsl-net-profit-rises-8-4-percent-yoy-12182984#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/canara-bank-q2-results-net-profit-rises-over-8-percent-nii-climbs-20-percent-12182969#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/markets/tata-technologies-q2-results-net-profit-falls-5-to-rs-171-crore-as-margins-contract-12184396#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Innomet Advanced Materials Limited",
+      "symbol": "INNOMET",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 6.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mangalore Refinery and Petrochemicals Limited",
+      "symbol": "MRPL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 175.89,
+      "catalysts": [
+        {
+          "label": "Dividend",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "SecUR Credentials Limited",
       "symbol": "SECURCRED",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -100,6 +165,11 @@
       "lastClose": 1.56,
       "catalysts": [
         {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Financial Results/Other business matters",
           "type": "upcoming event",
           "verified": true
@@ -108,9 +178,74 @@
           "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ICICI Lombard General Insurance Company Limited",
+      "symbol": "ICICIGI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 1691.8,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
         },
         {
-          "label": "Delisting",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Highway Infrastructure Limited",
+      "symbol": "HILINFRA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Amendment to AOA/MOA",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Acquisition",
           "type": "announcement",
           "verified": true
         }
@@ -123,7 +258,7 @@
       "company": "Persistent Systems Limited",
       "symbol": "PERSISTENT",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -132,7 +267,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 5915.0,
+      "lastClose": 5988.0,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -140,12 +275,47 @@
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Credit Rating- New",
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Leela Palaces Hotels & Resorts Limited",
+      "symbol": "THELEELA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 601.25,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
           "type": "announcement",
           "verified": true
         }
@@ -158,29 +328,29 @@
       "company": "Billionbrains Garage Ventures Limited",
       "symbol": "GROWW",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 2.2,
-      "confidence": 88,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 194.04,
+      "lastClose": 193.81,
       "catalysts": [
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
+          "label": "Monitoring Agency Report",
           "type": "announcement",
           "verified": true
         }
@@ -190,43 +360,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Innomet Advanced Materials Limited",
-      "symbol": "INNOMET",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 84,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Punjab National Bank",
-      "symbol": "PNB",
+      "company": "Bharat Heavy Electricals Limited",
+      "symbol": "BHEL",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -237,55 +372,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 118.31,
+      "lastClose": 442.35,
       "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "5Paisa Capital Limited",
-      "symbol": "5PAISA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 350.55,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -298,16 +398,16 @@
       "company": "Tata Communications Limited",
       "symbol": "TATACOMM",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
       "predictionScore": -2.8,
-      "confidence": 75,
+      "confidence": 82,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 1676.9,
+      "lastClose": 1672.4,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -315,12 +415,12 @@
           "verified": true
         },
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         }
@@ -328,111 +428,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Angel One Limited",
-      "symbol": "ANGELONE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 303.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Tips Music Limited",
-      "symbol": "TIPSMUSIC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 703.2,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Mangalore Refinery and Petrochemicals Limited",
-      "symbol": "MRPL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 184.39,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
     }
   ],
   "tomorrow": [
@@ -472,8 +467,119 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Punjab National Bank",
-      "symbol": "PNB",
+      "company": "Tata Technologies Limited",
+      "symbol": "TATATECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 7.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 743.7,
+      "catalysts": [
+        {
+          "label": "Tata Technologies Q2 Results: Net Profit Falls 5% To Rs 171 Crore As Margins Contract",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/tata-technologies-q2-results-net-profit-falls-5-to-rs-171-crore-as-margins-contract-12184396#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Mangalore Refinery and Petrochemicals Limited",
+      "symbol": "MRPL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 175.89,
+      "catalysts": [
+        {
+          "label": "Dividend",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Innomet Advanced Materials Limited",
+      "symbol": "INNOMET",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bharat Heavy Electricals Limited",
+      "symbol": "BHEL",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -484,20 +590,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 118.31,
+      "lastClose": 442.35,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -519,7 +625,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 350.55,
+      "lastClose": 348.7,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -545,7 +651,7 @@
       "company": "Persistent Systems Limited",
       "symbol": "PERSISTENT",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -554,88 +660,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 5915.0,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating- New",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Canara Bank",
-      "symbol": "CANBK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Neutral",
-      "technicalConfidence": 17,
-      "lastClose": 124.06,
-      "catalysts": [
-        {
-          "label": "Canara Bank Shares Rally 5% After Q2 Results; Net Profit Rises 8.4% YoY",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Canara Bank Q2 Results: Net Profit Rises Over 8%, NII Climbs 20%; Asset Quality Stable",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/canara-bank-shares-price-today-rise-after-q2-resultsl-net-profit-rises-8-4-percent-yoy-12182984#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/canara-bank-q2-results-net-profit-rises-over-8-percent-nii-climbs-20-percent-12182969#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "SecUR Credentials Limited",
-      "symbol": "SECURCRED",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1.56,
+      "lastClose": 5988.0,
       "catalysts": [
         {
           "label": "Financial Results/Other business matters",
@@ -648,7 +673,112 @@
           "verified": true
         },
         {
-          "label": "Delisting",
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Leela Palaces Hotels & Resorts Limited",
+      "symbol": "THELEELA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 601.25,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ICICI Lombard General Insurance Company Limited",
+      "symbol": "ICICIGI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.4,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 1691.8,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "SecUR Credentials Limited",
+      "symbol": "SECURCRED",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1.56,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         }
@@ -661,7 +791,7 @@
       "company": "Billionbrains Garage Ventures Limited",
       "symbol": "GROWW",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -670,20 +800,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 194.04,
+      "lastClose": 193.81,
       "catalysts": [
+        {
+          "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
+          "label": "Monitoring Agency Report",
           "type": "announcement",
           "verified": true
         }
@@ -693,172 +823,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Angel One Limited",
-      "symbol": "ANGELONE",
+      "company": "Highway Infrastructure Limited",
+      "symbol": "HILINFRA",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.1,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 303.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Tips Music Limited",
-      "symbol": "TIPSMUSIC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.1,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 703.2,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Mangalore Refinery and Petrochemicals Limited",
-      "symbol": "MRPL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.1,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 184.39,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Fedbank Financial Services Limited",
-      "symbol": "FEDFINA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 85,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 156.19,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Innomet Advanced Materials Limited",
-      "symbol": "INNOMET",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 84,
+      "predictionScore": 3.0,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Amendment to AOA/MOA",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Acquisition",
           "type": "announcement",
           "verified": true
         }
