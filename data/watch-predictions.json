@@ -1,54 +1,8 @@
 {
-  "generatedAt": "2026-10-16T13:17:57+00:00",
+  "generatedAt": "2026-10-16T18:06:24+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
-    {
-      "company": "LTM Limited",
-      "symbol": "LTM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 10.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 4390.0,
-      "catalysts": [
-        {
-          "label": "LTM Q2 Results: Profit Drops Nearly 5% To Rs 1,398 Crore, Revenue Up 2% Sequentially",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "LTM Dividend: IT Services Major To Pay Interim Dividend Of Rs 25/Share - Check Record Date",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/ltm-q2-results-profit-drops-nearly-5-to-rs-1-398-crore-revenue-up-2-sequentially-12195260#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/corporate/ltm-dividend-it-services-major-to-pay-interim-dividend-of-rs-25-share-check-record-date-12195222#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
     {
       "company": "Dynamic Services & Security Limited",
       "symbol": "DYNAMIC",
@@ -85,6 +39,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "E2E Networks Limited",
+      "symbol": "E2E",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 7.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 694.85,
+      "catalysts": [
+        {
+          "label": "From 50% Slump To 250% Rally: What's Behind This Small-Cap Multibagger AI Stock's Upwing?",
+          "type": "contract",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/stocks/from-50-slump-to-250-rally-whats-behind-this-small-cap-multibagger-ai-stocks-upwing-12196664#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Happy Square Outsourcing Services Limited",
       "symbol": "WHITEFORCE",
       "exchange": "NSE",
@@ -118,129 +113,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "DLF Limited",
-      "symbol": "DLF",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 675.0,
-      "catalysts": [
-        {
-          "label": "DLF Q2 Results: Net Profit Rises 10% To Rs 1,301 Crore, Revenue Down 23% YoY",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/dlf-q2-results-net-profit-rises-10-to-rs-1-301-crore-revenue-down-23-12195090#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 1290.0,
-      "catalysts": [
-        {
-          "label": "HDFC Bank Vs ICICI Bank Vs Axis Bank: Here's What To Expect Ahead Of Q2 Earnings",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-vs-icici-bank-vs-axis-bank-heres-what-to-expect-ahead-of-q2-earnings-12195085#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Punjab National Bank",
-      "symbol": "PNB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.4,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 116.3,
-      "catalysts": [
-        {
-          "label": "PNB Q2 Results: Net Profit Rises 13% To Rs 5,532 Crore, NII Up 11%; Asset Quality Improves",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/punjab-national-bank-pnb-q2-results-net-profit-rises-13-to-rs-5-582-crore-nii-up-11-asset-quality-improves-12194878#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "The Indian Hotels Company Limited",
@@ -313,22 +185,27 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "E2E Networks Limited",
-      "symbol": "E2E",
+      "company": "LTM Limited",
+      "symbol": "LTM",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "predictionScore": 3.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 694.85,
+      "technicalConfidence": 67,
+      "lastClose": 4390.0,
       "catalysts": [
         {
-          "label": "Monitoring Agency Report",
+          "label": "Dividend",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         },
@@ -336,22 +213,17 @@
           "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Aurum PropTech Limited",
       "symbol": "AURUM",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -363,17 +235,17 @@
       "lastClose": 232.37,
       "catalysts": [
         {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
@@ -386,7 +258,7 @@
       "company": "SG Finserve Limited",
       "symbol": "SGFIN",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -398,17 +270,17 @@
       "lastClose": 676.7,
       "catalysts": [
         {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         }
@@ -418,27 +290,62 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Tech Mahindra Limited",
-      "symbol": "TECHM",
+      "company": "Punjab National Bank",
+      "symbol": "PNB",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.5,
+      "predictionScore": 2.4,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 116.3,
       "catalysts": [
         {
-          "label": "Tech Mahindra jumps 8%, IT firm adds Rs 11,000 crore to market cap after blockbuster Q2 earnings - The Times of India",
-          "type": "results",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "The Federal Bank  Limited",
+      "symbol": "FEDERALBNK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 338.0,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
@@ -449,44 +356,108 @@
         }
       ],
       "risks": [],
-      "sources": [
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "DLF Limited",
+      "symbol": "DLF",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.8,
+      "confidence": 89,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 675.0,
+      "catalysts": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQR2l1SV9CVHZ5MDFmME85UE00aFgxdWxfWkVVaTVzQkltWF9oUW9ncjFnQ3UyLV9tUnNzRnVIRXhjZU1sS3MyOC0wYzZZZTZhVGFZMTIySmtzTXFMMUNYSTgxemRNQjBMbG1VMmc4aTlUelVtcHF3YzA2cm9FX0RNOVF6dzIzdUF2RG1xT1otaUZRelBabmFSLXJrMmpTSFNYMUNITjBiVFdhOFJyS3JudnQ4WVY0LWF2dFJ3TzNsYkMyZmFJRW9WRDFzaGtlSGs3VUthbjlWa0pfQ1JXNjlEZDZyeWRqMVhNODBiXzdfMnBkVHEzS09NWEtNb2RMdDRTWDN3TnhmTEd2VnPSAZACQVVfeXFMTWxnV0JaRnJZN0gyZDJrU0pneVNXbmk2dXl1ZVNIVlhNVm5lMW9KR0NiaE1XUHVtZEpVWEJfSzJSdjVGWlFUSzlZUEpSaG5qZVU3NU1DQ3pLQlJueDZLeVpYbk9LUGk4X3ZCcV90RUlkeHB1M0hNYU82aWxUc3FrWWNUNmRrOVlxMzNPZDJWdEN5NGpvenpwOEhIeHRMSENNTEpsZjNXUlNMWnpGNmVKTXlLQmxYb2dab2FybkRfQ2pJaTFqYU9vbng2dFVBdFBmcS1WYjBLeWZfSzdZbk5ERFRDZndGYlczRkpFczNOMGc2RXZCZG1MUDJ1d1FVY1I4THEyVUZSNXlyXzVpXzJxaF8?oc=5",
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
           "verified": true
         }
       ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Piramal Finance Limited",
+      "symbol": "PIRAMALFIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1950.3,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Suspension of Trading",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
     {
-      "company": "LTM Limited",
-      "symbol": "LTM",
+      "company": "E2E Networks Limited",
+      "symbol": "E2E",
       "exchange": "NSE",
       "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 12.2,
+      "predictionScore": 9.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 4390.0,
+      "technicalConfidence": 100,
+      "lastClose": 694.85,
       "catalysts": [
         {
-          "label": "LTM Q2 Results: Profit Drops Nearly 5% To Rs 1,398 Crore, Revenue Up 2% Sequentially",
+          "label": "From 50% Slump To 250% Rally: What's Behind This Small-Cap Multibagger AI Stock's Upwing?",
           "type": "contract",
           "verified": true
         },
         {
-          "label": "LTM Dividend: IT Services Major To Pay Interim Dividend Of Rs 25/Share - Check Record Date",
-          "type": "corporate action",
+          "label": "Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Dividend",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -495,12 +466,7 @@
       "sources": [
         {
           "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/ltm-q2-results-profit-drops-nearly-5-to-rs-1-398-crore-revenue-up-2-sequentially-12195260#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/corporate/ltm-dividend-it-services-major-to-pay-interim-dividend-of-rs-25-share-check-record-date-12195222#publisher=newsstand",
+          "url": "https://www.ndtvprofit.com/stocks/from-50-slump-to-250-rally-whats-behind-this-small-cap-multibagger-ai-stocks-upwing-12196664#publisher=newsstand",
           "verified": true
         }
       ],
@@ -542,88 +508,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "DLF Limited",
-      "symbol": "DLF",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 675.0,
-      "catalysts": [
-        {
-          "label": "DLF Q2 Results: Net Profit Rises 10% To Rs 1,301 Crore, Revenue Down 23% YoY",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/dlf-q2-results-net-profit-rises-10-to-rs-1-301-crore-revenue-down-23-12195090#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 1290.0,
-      "catalysts": [
-        {
-          "label": "HDFC Bank Vs ICICI Bank Vs Axis Bank: Here's What To Expect Ahead Of Q2 Earnings",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-vs-icici-bank-vs-axis-bank-heres-what-to-expect-ahead-of-q2-earnings-12195085#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Happy Square Outsourcing Services Limited",
       "symbol": "WHITEFORCE",
       "exchange": "NSE",
@@ -657,47 +541,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Punjab National Bank",
-      "symbol": "PNB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.6,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 116.3,
-      "catalysts": [
-        {
-          "label": "PNB Q2 Results: Net Profit Rises 13% To Rs 5,532 Crore, NII Up 11%; Asset Quality Improves",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/punjab-national-bank-pnb-q2-results-net-profit-rises-13-to-rs-5-582-crore-nii-up-11-asset-quality-improves-12194878#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "The Indian Hotels Company Limited",
@@ -770,45 +613,10 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "E2E Networks Limited",
-      "symbol": "E2E",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 694.85,
-      "catalysts": [
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Aurum PropTech Limited",
       "symbol": "AURUM",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -820,17 +628,17 @@
       "lastClose": 232.37,
       "catalysts": [
         {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
@@ -843,7 +651,7 @@
       "company": "SG Finserve Limited",
       "symbol": "SGFIN",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -855,17 +663,17 @@
       "lastClose": 676.7,
       "catalysts": [
         {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Management",
           "type": "announcement",
           "verified": true
         }
@@ -901,6 +709,146 @@
         },
         {
           "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Jindal Saw Limited",
+      "symbol": "JINDALSAW",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 301.55,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "LTM Limited",
+      "symbol": "LTM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 4390.0,
+      "catalysts": [
+        {
+          "label": "Dividend",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Piramal Finance Limited",
+      "symbol": "PIRAMALFIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1950.3,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Suspension of Trading",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "DLF Limited",
+      "symbol": "DLF",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 675.0,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
