@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:26:59+00:00",
+  "generatedAt": "2026-10-16T07:14:26+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -39,6 +39,53 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Yes Bank Limited",
+      "symbol": "YESBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -4.5,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 17.66,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "News Verification",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Yes Bank Faces Capital Risk After AT-1 Verdict; Citi Cuts Target, Morgan Stanley Retains 'Underweight'",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/yes-bank-at1-bond-verdict-citi-target-cut-morgan-stanley-retains-underweights-stock-hit-lower-circuit-sensex-today-bse-nse-bank-stocks-12192793#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Mangalam Global Enterprise Limited",
       "symbol": "MGEL",
       "exchange": "NSE",
@@ -51,7 +98,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 16.05,
+      "lastClose": 17.03,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -74,47 +121,6 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Angel One Limited",
-      "symbol": "ANGELONE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.4,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Q2 Results Highlights: L&T Finance Profit Rises 33%, Tech Mahindra Announces Dividend, Wipro ADRs Recover On Q3 Revenue Outlook",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q2-results-live-updates-october-15-wipro-tech-mahindra-nestle-india-polycab-hdfc-amc-among-48-companies-to-announce-earnings-today-12187575#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "The Indian Hotels Company Limited",
       "symbol": "INDHOTEL",
       "exchange": "NSE",
@@ -127,7 +133,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 741.45,
+      "lastClose": 753.25,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -141,41 +147,6 @@
         },
         {
           "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Gallantt Ispat Limited",
-      "symbol": "GALLANTT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 628.15,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         }
@@ -197,7 +168,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1389.4,
+      "lastClose": 1397.3,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -211,6 +182,76 @@
         },
         {
           "label": "ESOP/ESOS/ESPS",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Aurum PropTech Limited",
+      "symbol": "AURUM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 246.5,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "E2E Networks Limited",
+      "symbol": "E2E",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 698.0,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         }
@@ -267,7 +308,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 243.82,
+      "lastClose": 254.35,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -290,78 +331,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Yes Bank Limited",
-      "symbol": "YESBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 18.12,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "E2E Networks Limited",
-      "symbol": "E2E",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 710.9,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bajaj Healthcare Limited",
-      "symbol": "BAJAJHCARE",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -372,7 +343,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 338.8,
+      "lastClose": 1289.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -380,12 +351,12 @@
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         }
@@ -421,6 +392,41 @@
         },
         {
           "label": "Integrated Filing- Governance",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Onward Technologies Limited",
+      "symbol": "ONWARDTEC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 74,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 427.4,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -479,7 +485,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 16.05,
+      "lastClose": 17.03,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -502,6 +508,53 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Yes Bank Limited",
+      "symbol": "YESBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -5.5,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 17.66,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "News Verification",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Yes Bank Faces Capital Risk After AT-1 Verdict; Citi Cuts Target, Morgan Stanley Retains 'Underweight'",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/yes-bank-at1-bond-verdict-citi-target-cut-morgan-stanley-retains-underweights-stock-hit-lower-circuit-sensex-today-bse-nse-bank-stocks-12192793#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "ICICI Bank Limited",
       "symbol": "ICICIBANK",
       "exchange": "NSE",
@@ -514,7 +567,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1389.4,
+      "lastClose": 1397.3,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -537,10 +590,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "E2E Networks Limited",
-      "symbol": "E2E",
+      "company": "Aurum PropTech Limited",
+      "symbol": "AURUM",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -549,8 +602,48 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 710.9,
+      "lastClose": 246.5,
       "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "E2E Networks Limited",
+      "symbol": "E2E",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 698.0,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
@@ -558,11 +651,6 @@
         },
         {
           "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
@@ -584,7 +672,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 741.45,
+      "lastClose": 753.25,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -607,41 +695,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Gallantt Ispat Limited",
-      "symbol": "GALLANTT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 628.15,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "HFCL Limited",
       "symbol": "HFCL",
       "exchange": "NSE",
@@ -654,7 +707,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 243.82,
+      "lastClose": 254.35,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -677,8 +730,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bajaj Healthcare Limited",
-      "symbol": "BAJAJHCARE",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -689,7 +742,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 338.8,
+      "lastClose": 1289.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -697,12 +750,12 @@
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         }
@@ -712,115 +765,74 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Angel One Limited",
-      "symbol": "ANGELONE",
+      "company": "Onward Technologies Limited",
+      "symbol": "ONWARDTEC",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.4,
-      "confidence": 87,
+      "predictionScore": 3.7,
+      "confidence": 85,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 427.4,
       "catalysts": [
-        {
-          "label": "Q2 Results Highlights: L&T Finance Profit Rises 33%, Tech Mahindra Announces Dividend, Wipro ADRs Recover On Q3 Revenue Outlook",
-          "type": "results",
-          "verified": true
-        },
         {
           "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q2-results-live-updates-october-15-wipro-tech-mahindra-nestle-india-polycab-hdfc-amc-among-48-companies-to-announce-earnings-today-12187575#publisher=newsstand",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Aurum PropTech Limited",
-      "symbol": "AURUM",
+      "company": "Ujjivan Small Finance Bank Limited",
+      "symbol": "UJJIVANSFB",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
+      "predictionScore": 4.5,
       "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 239.1,
+      "technicalConfidence": 67,
+      "lastClose": 64.79,
       "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Yes Bank Limited",
-      "symbol": "YESBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 18.12,
-      "catalysts": [
-        {
-          "label": "Financial Results",
+          "label": "Fund Raising",
           "type": "upcoming event",
           "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "News Verification",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "L&T Technology Services Limited",
@@ -835,7 +847,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
-      "lastClose": 3686.8,
+      "lastClose": 3705.0,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
