@@ -1,13 +1,95 @@
 {
-  "generatedAt": "2026-10-17T07:00:16+00:00",
+  "generatedAt": "2026-10-17T12:14:18+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
+      "company": "Angel One Limited",
+      "symbol": "ANGELONE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 5.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Corporate Actions This Week: ICICI Prudential AMC, Tech Mahindra, LTM, IRFC And Angel One",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-icici-prudential-amc-tech-mahindra-ltm-irfc-and-angel-one-12198932#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1397.0,
+      "catalysts": [
+        {
+          "label": "ICICI Bank Q2 Results: Net Profit Rises 20% To Rs 14,843 Crore; NIM Dips To 4.18%",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/icici-bank-q2-results-net-profit-rises-20-to-rs-14-843-crore-nim-dips-to-4-18-12198888#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -19,18 +101,18 @@
       "lastClose": 1290.0,
       "catalysts": [
         {
-          "label": "Q2FY27 Results Live Updates: HDFC Bank, ICICI Bank, Axis Bank, IDBI Bank, Yes Bank, India Cements To Announce Earnings",
+          "label": "Q2FY27 Results Live Updates: ICICI Bank To Reverse Agri Portfolio Provisions Upon RBI Nod, HDFC Bank Profit Below Estimates",
           "type": "results",
           "verified": true
         },
         {
-          "label": "Q2 Results Today: Axis Bank, HDFC Bank, ICICI Bank Among 18 Firms To Report Earnings On Oct. 17",
-          "type": "results",
+          "label": "Appointment",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Investor Presentation",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -39,11 +121,6 @@
         {
           "label": "NDTV Business",
           "url": "https://www.ndtvprofit.com/markets/q2fy27-results-live-updates-hdfc-bank-icici-bank-axis-bank-idbi-bank-yes-bank-india-cements-to-announce-earnings-12197871#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q2-results-today-axis-bank-hdfc-bank-icici-bank-among-9-firms-to-report-earnings-on-oct-17-12196475#publisher=newsstand",
           "verified": true
         }
       ],
@@ -62,7 +139,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 16.87,
+      "lastClose": 17.01,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -83,6 +160,41 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Le Travenues Technology Limited",
+      "symbol": "IXIGO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 144.46,
+      "catalysts": [
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "The Jammu & Kashmir Bank Limited",
@@ -112,6 +224,98 @@
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.6,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 728.85,
+      "catalysts": [
+        {
+          "label": "HDFC Bank Q2 Results: Net Profit Below Estimates, Provisions Rise Marginally",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "The Last Original Standing: Kaizad Bharucha\u2019s Three-Decade Run Inside India\u2019s Largest Private Bank",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "HDFC Bank MD Kaizad Bharucha Requests Cessation Of Services, Seeks To Step Down On Dec. 31",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-q2-results-net-profit-below-estimates-provisions-rise-marginally-12198605#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/the-last-original-standing-kaizad-bharucha-s-three-decade-run-inside-india-s-largest-private-bank-12199278#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/hdfc-bank-md-kaizad-bharucha-requests-cessation-of-services-from-dec-31-2026-12199067#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Yes Bank Limited",
+      "symbol": "YESBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.6,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 17.5,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -181,76 +385,6 @@
         },
         {
           "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1397.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Jindal Stainless Limited",
-      "symbol": "JSL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 82,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 724.65,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Acquisition",
           "type": "announcement",
           "verified": true
         }
@@ -295,20 +429,25 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Yes Bank Limited",
-      "symbol": "YESBANK",
+      "company": "Bajaj Healthcare Limited",
+      "symbol": "BAJAJHCARE",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.6,
-      "confidence": 78,
+      "direction": "Positive watch",
+      "predictionScore": 2.8,
+      "confidence": 75,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 17.5,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 341.1,
       "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
@@ -316,116 +455,6 @@
         },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Cyient Limited",
-      "symbol": "CYIENT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1194.5,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "SAGILITY LIMITED",
-      "symbol": "SAGILITY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 45.3,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Abhishek Integrations Limited",
-      "symbol": "AILIMITED",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 70,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -437,10 +466,51 @@
   ],
   "tomorrow": [
     {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 7.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1397.0,
+      "catalysts": [
+        {
+          "label": "ICICI Bank Q2 Results: Net Profit Rises 20% To Rs 14,843 Crore; NIM Dips To 4.18%",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/icici-bank-q2-results-net-profit-rises-20-to-rs-14-843-crore-nim-dips-to-4-18-12198888#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -452,18 +522,18 @@
       "lastClose": 1290.0,
       "catalysts": [
         {
-          "label": "Q2FY27 Results Live Updates: HDFC Bank, ICICI Bank, Axis Bank, IDBI Bank, Yes Bank, India Cements To Announce Earnings",
+          "label": "Q2FY27 Results Live Updates: ICICI Bank To Reverse Agri Portfolio Provisions Upon RBI Nod, HDFC Bank Profit Below Estimates",
           "type": "results",
           "verified": true
         },
         {
-          "label": "Q2 Results Today: Axis Bank, HDFC Bank, ICICI Bank Among 18 Firms To Report Earnings On Oct. 17",
-          "type": "results",
+          "label": "Appointment",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Investor Presentation",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -472,11 +542,6 @@
         {
           "label": "NDTV Business",
           "url": "https://www.ndtvprofit.com/markets/q2fy27-results-live-updates-hdfc-bank-icici-bank-axis-bank-idbi-bank-yes-bank-india-cements-to-announce-earnings-12197871#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q2-results-today-axis-bank-hdfc-bank-icici-bank-among-9-firms-to-report-earnings-on-oct-17-12196475#publisher=newsstand",
           "verified": true
         }
       ],
@@ -495,7 +560,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 16.87,
+      "lastClose": 17.01,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -553,6 +618,47 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Angel One Limited",
+      "symbol": "ANGELONE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Corporate Actions This Week: ICICI Prudential AMC, Tech Mahindra, LTM, IRFC And Angel One",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-icici-prudential-amc-tech-mahindra-ltm-irfc-and-angel-one-12198932#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "HFCL Limited",
       "symbol": "HFCL",
       "exchange": "NSE",
@@ -579,41 +685,6 @@
         },
         {
           "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1397.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
           "type": "announcement",
           "verified": true
         }
@@ -658,6 +729,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Le Travenues Technology Limited",
+      "symbol": "IXIGO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 144.46,
+      "catalysts": [
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Piramal Finance Limited",
       "symbol": "PIRAMALFIN",
       "exchange": "NSE",
@@ -693,23 +799,80 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Jindal Stainless Limited",
-      "symbol": "JSL",
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.9,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 728.85,
+      "catalysts": [
+        {
+          "label": "HDFC Bank Q2 Results: Net Profit Below Estimates, Provisions Rise Marginally",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "The Last Original Standing: Kaizad Bharucha\u2019s Three-Decade Run Inside India\u2019s Largest Private Bank",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "HDFC Bank MD Kaizad Bharucha Requests Cessation Of Services, Seeks To Step Down On Dec. 31",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-q2-results-net-profit-below-estimates-provisions-rise-marginally-12198605#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/the-last-original-standing-kaizad-bharucha-s-three-decade-run-inside-india-s-largest-private-bank-12199278#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/hdfc-bank-md-kaizad-bharucha-requests-cessation-of-services-from-dec-31-2026-12199067#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Yes Bank Limited",
+      "symbol": "YESBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.0,
+      "predictionScore": -3.6,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 724.65,
+      "technicalConfidence": 100,
+      "lastClose": 17.5,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
@@ -718,8 +881,8 @@
           "verified": true
         },
         {
-          "label": "Acquisition",
-          "type": "announcement",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -728,90 +891,25 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Cyient Limited",
-      "symbol": "CYIENT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.6,
-      "confidence": 85,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1194.5,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "SAGILITY LIMITED",
-      "symbol": "SAGILITY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.6,
-      "confidence": 85,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 45.3,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Yes Bank Limited",
-      "symbol": "YESBANK",
+      "company": "Bajaj Healthcare Limited",
+      "symbol": "BAJAJHCARE",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.6,
-      "confidence": 85,
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 87,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 17.5,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 341.1,
       "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
@@ -819,46 +917,6 @@
         },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Tatva Chintan Pharma Chem Limited",
-      "symbol": "TATVA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1944.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
