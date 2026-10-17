@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:43:08+00:00",
+  "generatedAt": "2026-10-17T18:32:39+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,7 +7,7 @@
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -204,17 +204,22 @@
       "company": "Bajaj Healthcare Limited",
       "symbol": "BAJAJHCARE",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 2.8,
-      "confidence": 89,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 83,
       "lastClose": 341.1,
       "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Statement of deviation(s) or variation(s) under Reg. 32",
           "type": "announcement",
@@ -222,11 +227,6 @@
         },
         {
           "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -451,11 +451,11 @@
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 8.4,
+      "predictionScore": 8.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -683,7 +683,7 @@
       "company": "Bajaj Healthcare Limited",
       "symbol": "BAJAJHCARE",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -695,17 +695,17 @@
       "lastClose": 341.1,
       "catalysts": [
         {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Statement of deviation(s) or variation(s) under Reg. 32",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -785,6 +785,57 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.9,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 728.85,
+      "catalysts": [
+        {
+          "label": "HDFC Bank New MD Anup Bagchi Calls For More Work On Balance Sheet, Integration Work Largely Done",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "HDFC Bank Bets On 25 Bps Hike Tailwind In Q3 As Structural Savings Shift Squeezes CASA",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "HDFC Bank May Explore Ways To Reduce Pressure From Corporate Deposits",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/hdfc-bank-new-md-anup-bagchi-calls-for-more-work-on-balance-sheet-integration-work-largely-done-12200338#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-bets-on-25-bps-hike-tailwind-in-q3-as-structural-savings-shift-squeezes-casa-12199843#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/hdfc-bank-may-explore-ways-to-reduce-pressure-from-corporate-deposits-12199794#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Yes Bank Limited",
       "symbol": "YESBANK",
       "exchange": "NSE",
@@ -852,41 +903,6 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "SAGILITY LIMITED",
-      "symbol": "SAGILITY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.6,
-      "confidence": 85,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 45.3,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         }
