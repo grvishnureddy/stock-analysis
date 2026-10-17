@@ -1,8 +1,54 @@
 {
-  "generatedAt": "2026-10-17T00:32:18+00:00",
+  "generatedAt": "2026-10-17T07:00:16+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
+    {
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 1290.0,
+      "catalysts": [
+        {
+          "label": "Q2FY27 Results Live Updates: HDFC Bank, ICICI Bank, Axis Bank, IDBI Bank, Yes Bank, India Cements To Announce Earnings",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Q2 Results Today: Axis Bank, HDFC Bank, ICICI Bank Among 18 Firms To Report Earnings On Oct. 17",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q2fy27-results-live-updates-hdfc-bank-icici-bank-axis-bank-idbi-bank-yes-bank-india-cements-to-announce-earnings-12197871#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q2-results-today-axis-bank-hdfc-bank-icici-bank-among-9-firms-to-report-earnings-on-oct-17-12196475#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
     {
       "company": "Mangalam Global Enterprise Limited",
       "symbol": "MGEL",
@@ -39,27 +85,27 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "E2E Networks Limited",
-      "symbol": "E2E",
+      "company": "The Jammu & Kashmir Bank Limited",
+      "symbol": "J&KBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.9,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 134.33,
       "catalysts": [
         {
-          "label": "From 50% Slump To 250% Rally: What's Behind This Small-Cap Multibagger AI Stock's Upwing?",
-          "type": "contract",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Agreements",
           "type": "announcement",
           "verified": true
         },
@@ -70,18 +116,47 @@
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/from-50-slump-to-250-rally-whats-behind-this-small-cap-multibagger-ai-stocks-upwing-12196664#publisher=newsstand",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Gallantt Ispat Limited",
-      "symbol": "GALLANTT",
+      "company": "Piramal Finance Limited",
+      "symbol": "PIRAMALFIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1950.3,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Suspension of Trading",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "HFCL Limited",
+      "symbol": "HFCL",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -92,7 +167,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 628.15,
+      "lastClose": 256.01,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -100,12 +175,12 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -127,7 +202,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1389.4,
+      "lastClose": 1397.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -197,7 +272,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 741.45,
+      "lastClose": 772.1,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -220,60 +295,19 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
+      "company": "Yes Bank Limited",
+      "symbol": "YESBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 81,
+      "direction": "Negative watch",
+      "predictionScore": -2.6,
+      "confidence": 78,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1288.0,
-      "catalysts": [
-        {
-          "label": "Q2 results, Oct 17: HDFC Bank, ICICI Bank, India Cements, Axis Bank, ixigo, Yes Bank, others to post earnings, check list - Upstox",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYmNMS1libGZoc0ZmdVBqSXVQb3lheDc4Q2xtRGQzOVhYdjZaOTl4SC03eFFpR19EcTlLS0pidW1FX3JxNnFUY05KUU54VFBKNktIY0dmQTk3dzBmdHNyMnNNbTF0QlMxSTJTT1lPTTNpeE9MNUwxX2tweWxqcEtJUGtlbWZYdGN0VVJLVGRDUDNUYjB2eWhWMFJ2MTV2TkVZb2JRQ0tWeDZ5RlByNkd5SjFFLTZYeXo1ckpUeTdiVnhIRDEwMVNPSlVvVHJPMGlVdTF5VUY2Ql9KRlg3UFFvNGozTE9PT2EwRG5sTmlOSEl0WURrUF85X2Nna2w2R2x5Z3o4?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "HFCL Limited",
-      "symbol": "HFCL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 243.82,
+      "lastClose": 17.5,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -281,12 +315,12 @@
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Action(s) taken or orders passed",
           "type": "announcement",
           "verified": true
         }
@@ -308,7 +342,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1189.8,
+      "lastClose": 1194.5,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -343,7 +377,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 45.6,
+      "lastClose": 45.3,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -399,44 +433,55 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
+    }
+  ],
+  "tomorrow": [
     {
-      "company": "Aye Finance Limited",
-      "symbol": "AYE",
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.2,
-      "confidence": 70,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.5,
+      "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 80,
-      "lastClose": 159.89,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 1290.0,
       "catalysts": [
+        {
+          "label": "Q2FY27 Results Live Updates: HDFC Bank, ICICI Bank, Axis Bank, IDBI Bank, Yes Bank, India Cements To Announce Earnings",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Q2 Results Today: Axis Bank, HDFC Bank, ICICI Bank Among 18 Firms To Report Earnings On Oct. 17",
+          "type": "results",
+          "verified": true
+        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
-        },
-        {
-          "label": "Allotment of Securities",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "ESOP/ESOS/ESPS",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q2fy27-results-live-updates-hdfc-bank-icici-bank-axis-bank-idbi-bank-yes-bank-india-cements-to-announce-earnings-12197871#publisher=newsstand",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/q2-results-today-axis-bank-hdfc-bank-icici-bank-among-9-firms-to-report-earnings-on-oct-17-12196475#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
     {
       "company": "Mangalam Global Enterprise Limited",
       "symbol": "MGEL",
@@ -485,7 +530,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 741.45,
+      "lastClose": 772.1,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -508,8 +553,8 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Gallantt Ispat Limited",
-      "symbol": "GALLANTT",
+      "company": "HFCL Limited",
+      "symbol": "HFCL",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
@@ -520,7 +565,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 628.15,
+      "lastClose": 256.01,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -528,12 +573,12 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -555,7 +600,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1389.4,
+      "lastClose": 1397.0,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -578,19 +623,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HFCL Limited",
-      "symbol": "HFCL",
+      "company": "The Jammu & Kashmir Bank Limited",
+      "symbol": "J&KBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
+      "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 243.82,
+      "lastClose": 134.33,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -598,7 +643,7 @@
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Agreements",
           "type": "announcement",
           "verified": true
         },
@@ -613,45 +658,39 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Axis Bank Limited",
-      "symbol": "AXISBANK",
+      "company": "Piramal Finance Limited",
+      "symbol": "PIRAMALFIN",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.7,
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1288.0,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1950.3,
       "catalysts": [
-        {
-          "label": "Q2 results, Oct 17: HDFC Bank, ICICI Bank, India Cements, Axis Bank, ixigo, Yes Bank, others to post earnings, check list - Upstox",
-          "type": "results",
-          "verified": true
-        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Appointment",
+          "label": "Suspension of Trading",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYmNMS1libGZoc0ZmdVBqSXVQb3lheDc4Q2xtRGQzOVhYdjZaOTl4SC03eFFpR19EcTlLS0pidW1FX3JxNnFUY05KUU54VFBKNktIY0dmQTk3dzBmdHNyMnNNbTF0QlMxSTJTT1lPTTNpeE9MNUwxX2tweWxqcEtJUGtlbWZYdGN0VVJLVGRDUDNUYjB2eWhWMFJ2MTV2TkVZb2JRQ0tWeDZ5RlByNkd5SjFFLTZYeXo1ckpUeTdiVnhIRDEwMVNPSlVvVHJPMGlVdTF5VUY2Ql9KRlg3UFFvNGozTE9PT2EwRG5sTmlOSEl0WURrUF85X2Nna2w2R2x5Z3o4?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Jindal Stainless Limited",
@@ -689,47 +728,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "E2E Networks Limited",
-      "symbol": "E2E",
-      "exchange": "NSE",
-      "confirmedNewsCount": 13,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.9,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "From 50% Slump To 250% Rally: What's Behind This Small-Cap Multibagger AI Stock's Upwing?",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/from-50-slump-to-250-rally-whats-behind-this-small-cap-multibagger-ai-stocks-upwing-12196664#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Cyient Limited",
       "symbol": "CYIENT",
       "exchange": "NSE",
@@ -742,7 +740,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1189.8,
+      "lastClose": 1194.5,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -777,7 +775,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 45.6,
+      "lastClose": 45.3,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -803,22 +801,17 @@
       "company": "Yes Bank Limited",
       "symbol": "YESBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -2.6,
+      "predictionScore": -3.6,
       "confidence": 85,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 18.12,
+      "lastClose": 17.5,
       "catalysts": [
-        {
-          "label": "Yes Bank Q2 Preview: AT-1 Bonds Impact To Asset Quality \u2014 Five Key Things To Watch",
-          "type": "results",
-          "verified": true
-        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
@@ -828,16 +821,15 @@
           "label": "General Updates",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
+        },
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/yes-bank-q2-preview-at-1-bonds-impact-to-asset-quality-five-key-things-to-watch-12196577#publisher=newsstand",
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
           "verified": true
         }
       ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -853,7 +845,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1940.7,
+      "lastClose": 1944.0,
       "catalysts": [
         {
           "label": "Financial Results",
