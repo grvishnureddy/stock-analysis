@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T18:32:39+00:00",
+  "generatedAt": "2026-10-17T22:22:56+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,11 +7,11 @@
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.6,
+      "predictionScore": 5.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -19,18 +19,18 @@
       "lastClose": 1290.0,
       "catalysts": [
         {
-          "label": "Q2FY27 Results Live Updates: Yes Bank Profit Surges, ICICI Margin Dips; HDFC Bank PAT Below Estimates",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Axis Bank Battles 11 Bps NIM Drag From FCNR-B, Eyes Margin Uptick On Asset Mix",
+          "label": "Q2FY27 Results Highlights: Yes Bank Profit Surges, ICICI Margin Dips; HDFC Bank PAT Below Estimates",
           "type": "results",
           "verified": true
         },
         {
           "label": "Q2 results, Oct 17: HDFC Bank, ICICI Bank, India Cements, Axis Bank, ixigo, Yes Bank, others to post earnings, check list - Upstox",
           "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -42,54 +42,8 @@
           "verified": true
         },
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/axis-bank-battles-11-bps-nim-drag-from-fcnr-b-eyes-margin-uptick-on-asset-mix-12199744#publisher=newsstand",
-          "verified": true
-        },
-        {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYmNMS1libGZoc0ZmdVBqSXVQb3lheDc4Q2xtRGQzOVhYdjZaOTl4SC03eFFpR19EcTlLS0pidW1FX3JxNnFUY05KUU54VFBKNktIY0dmQTk3dzBmdHNyMnNNbTF0QlMxSTJTT1lPTTNpeE9MNUwxX2tweWxqcEtJUGtlbWZYdGN0VVJLVGRDUDNUYjB2eWhWMFJ2MTV2TkVZb2JRQ0tWeDZ5RlByNkd5SjFFLTZYeXo1ckpUeTdiVnhIRDEwMVNPSlVvVHJPMGlVdTF5VUY2Ql9KRlg3UFFvNGozTE9PT2EwRG5sTmlOSEl0WURrUF85X2Nna2w2R2x5Z3o4?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1397.0,
-      "catalysts": [
-        {
-          "label": "ICICI Bank Eyes Agri-Provision Reversal In Next Two Quarters Pending RBI Nod, FCNR Cushions CASA Dip",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/icici-bank-eyes-agri-provision-reversal-in-next-two-quarters-pending-rbi-nod-fcnr-cushions-casa-dip-12199608#publisher=newsstand",
           "verified": true
         }
       ],
@@ -129,6 +83,41 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1397.0,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Le Travenues Technology Limited",
@@ -451,11 +440,11 @@
       "company": "Axis Bank Limited",
       "symbol": "AXISBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 12,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 8.3,
+      "predictionScore": 7.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -463,18 +452,18 @@
       "lastClose": 1290.0,
       "catalysts": [
         {
-          "label": "Q2FY27 Results Live Updates: Yes Bank Profit Surges, ICICI Margin Dips; HDFC Bank PAT Below Estimates",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Axis Bank Battles 11 Bps NIM Drag From FCNR-B, Eyes Margin Uptick On Asset Mix",
+          "label": "Q2FY27 Results Highlights: Yes Bank Profit Surges, ICICI Margin Dips; HDFC Bank PAT Below Estimates",
           "type": "results",
           "verified": true
         },
         {
           "label": "Q2 results, Oct 17: HDFC Bank, ICICI Bank, India Cements, Axis Bank, ixigo, Yes Bank, others to post earnings, check list - Upstox",
           "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -486,54 +475,8 @@
           "verified": true
         },
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/axis-bank-battles-11-bps-nim-drag-from-fcnr-b-eyes-margin-uptick-on-asset-mix-12199744#publisher=newsstand",
-          "verified": true
-        },
-        {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYmNMS1libGZoc0ZmdVBqSXVQb3lheDc4Q2xtRGQzOVhYdjZaOTl4SC03eFFpR19EcTlLS0pidW1FX3JxNnFUY05KUU54VFBKNktIY0dmQTk3dzBmdHNyMnNNbTF0QlMxSTJTT1lPTTNpeE9MNUwxX2tweWxqcEtJUGtlbWZYdGN0VVJLVGRDUDNUYjB2eWhWMFJ2MTV2TkVZb2JRQ0tWeDZ5RlByNkd5SjFFLTZYeXo1ckpUeTdiVnhIRDEwMVNPSlVvVHJPMGlVdTF5VUY2Ql9KRlg3UFFvNGozTE9PT2EwRG5sTmlOSEl0WURrUF85X2Nna2w2R2x5Z3o4?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "ICICI Bank Limited",
-      "symbol": "ICICIBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1397.0,
-      "catalysts": [
-        {
-          "label": "ICICI Bank Eyes Agri-Provision Reversal In Next Two Quarters Pending RBI Nod, FCNR Cushions CASA Dip",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/icici-bank-eyes-agri-provision-reversal-in-next-two-quarters-pending-rbi-nod-fcnr-cushions-casa-dip-12199608#publisher=newsstand",
           "verified": true
         }
       ],
@@ -608,6 +551,41 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1397.0,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "HFCL Limited",
