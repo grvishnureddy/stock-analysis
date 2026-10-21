@@ -1,36 +1,71 @@
 {
-  "generatedAt": "2026-10-21T07:43:04+00:00",
+  "generatedAt": "2026-10-21T13:51:36+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "Bajaj Finance Limited",
-      "symbol": "BAJFINANCE",
+      "company": "The Indian Hotels Company Limited",
+      "symbol": "INDHOTEL",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.9,
+      "predictionScore": 4.1,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 753.0,
       "catalysts": [
         {
-          "label": "PRE-MARKET INDIAN STOCK NEWS: Bajaj Finance and Hindustan Zinc post strong Q2 profit growth; Jio Platforms' record IPO opens; markets reopen after Dussehra holiday - Newsquawk",
-          "type": "results",
+          "label": "Investor Presentation",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Bajaj Finance Stock Falls Nearly 3% After Q2 Asset Quality Disappoints",
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Vishal Mega Mart Limited",
+      "symbol": "VMM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 90.0,
+      "catalysts": [
+        {
+          "label": "Sensex Today Ends 143 Points Lower | Nifty Below 22,850 | Vishal Mega Mart Down 6% - Equitymaster",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "From Bajaj Finance, Union Bank of India To Sobha: Check HDFC Securities' Latest Q2 Ratings, Target Prices",
-          "type": "company news",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -38,17 +73,7 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOblNfSzBZS3YtRGNRekxHeUgwRXVackxaWWZkRE1LNTU1eVJCX0dKZEZfUUs5TWNJcS10NFV1V2ZCdHFIUGU2OTFKbUpHZ3VFMkR4UmptLTYtUUhIWjNkdE9RWXo4VzJ4RGYxS2p0endIRkIyakd2UGZwOHRjTTJmVG9leTdHcEtwOEU1WTl4V3ItZ0M1Vm05QUtDY29tbG41TVhEajg2NmxzQ3E3SWpsemRiNGtmMGprMHlPRFFpQmFHaXRBOU5kNDlwYklFdjJTUF9VY1kzMjhCS0FHMmZSc0JqSTg0XzctZlhONVNvVC1TbmN1WE9FOFlDdmlBQmo5RTY0T1N2YkJTOFFrWVp4azV2aG1fZHdXdlFucHFsVWw?oc=5",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/bajaj-finance-share-price-stock-falls-after-q2-asset-quality-disappoints-12213430#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/from-bajaj-finance-union-bank-of-india-piramal-finance-ultratech-oberoi-realty-l-t-tech-to-sobha-check-hdfc-securities-latest-q2-ratings-target-prices-12213364#publisher=newsstand",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT0RUN1dpNExDYW03bUZzdDVRMEVmeEhyU1g5UUZ1NlI2bklSbVFjUGZmODBEM1d0WlZGaXpXLTE1LWI5TFl4ZVJHR2kwTl96aHFIOEJydDBsbHJnaHczdGJPVGhwZXdnTFBpSm5tbndVRi1sc0dwUmcyTW5rWm9DOUZ4b3lOYTRGTUNmdFc0UC1Ja3RwRnpZa19qbkpQd2pEMlhDNEtUQ2xkUjRWSHBGMkRCb1dfdGYwSUxQSDBFWlg4LWhCWEktQWF6dzdmcS1MaVlqUUtB?oc=5",
           "verified": true
         }
       ],
@@ -58,7 +83,7 @@
       "company": "Aye Finance Limited",
       "symbol": "AYE",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -67,8 +92,13 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 142.25,
+      "lastClose": 139.85,
       "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Statement of deviation(s) or variation(s) under Reg. 32",
           "type": "announcement",
@@ -76,6 +106,36 @@
         },
         {
           "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "KEI Industries Limited",
+      "symbol": "KEI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 89,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 4230.4,
+      "catalysts": [
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
@@ -125,6 +185,41 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Nureca Limited",
+      "symbol": "NURECA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 88,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 328.9,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Jana Small Finance Bank Limited",
       "symbol": "JSFB",
       "exchange": "NSE",
@@ -137,7 +232,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 407.3,
+      "lastClose": 418.35,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -172,7 +267,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 32.18,
+      "lastClose": 32.06,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -195,27 +290,62 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bansal Wire Industries Limited",
-      "symbol": "BANSALWIRE",
+      "company": "SONAM LIMITED",
+      "symbol": "SONAMLTD",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 83,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 58.2,
+      "lastClose": 74.13,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "General Updates",
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.9,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "PRE-MARKET INDIAN STOCK NEWS: Bajaj Finance and Hindustan Zinc post strong Q2 profit growth; Jio Platforms' record IPO opens; markets reopen after Dussehra holiday - Newsquawk",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Allotment of Securities",
           "type": "announcement",
           "verified": true
         },
@@ -226,24 +356,113 @@
         }
       ],
       "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOblNfSzBZS3YtRGNRekxHeUgwRXVackxaWWZkRE1LNTU1eVJCX0dKZEZfUUs5TWNJcS10NFV1V2ZCdHFIUGU2OTFKbUpHZ3VFMkR4UmptLTYtUUhIWjNkdE9RWXo4VzJ4RGYxS2p0endIRkIyakd2UGZwOHRjTTJmVG9leTdHcEtwOEU1WTl4V3ItZ0M1Vm05QUtDY29tbG41TVhEajg2NmxzQ3E3SWpsemRiNGtmMGprMHlPRFFpQmFHaXRBOU5kNDlwYklFdjJTUF9VY1kzMjhCS0FHMmZSc0JqSTg0XzctZlhONVNvVC1TbmN1WE9FOFlDdmlBQmo5RTY0T1N2YkJTOFFrWVp4azV2aG1fZHdXdlFucHFsVWw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Aditya Birla Sun Life AMC Limited",
+      "symbol": "ABSLAMC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 82,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 950.4,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Vishal Mega Mart Limited",
-      "symbol": "VMM",
+      "company": "PC Jeweller Limited",
+      "symbol": "PCJEWELLER",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 76,
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 81,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 89.38,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 18.51,
       "catalysts": [
+        {
+          "label": "PC Jeweller Shares Rally 5%; Stock Gains 40% in Two Weeks as Q2 FY27 Revenue Rises 28% - India Infoline",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczkxZkhjVzdOaW5VSXNCN0hOVFpBbEtyMk44WVVoZnlWbElNYk5RSFdPaVNhRWNDUmpvNGZSWFlyVUpoTi1mOXZZdVN2cFAyZ3dZRU05VkhmMEczdmJpNlBkUnJDOXdpbEI3OWJqeEFQSDN6U3k0dU8wbjlfRDcwcXZhS2EtNmVZajNta0tOcUlJQnVRUnRiaHpYUUM1ZU5aUzNtRXM1ZDdqZVVTZ05tVGsxdTBQVGxwVjhPZ1VSaGhPRzZOZFE?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    }
+  ],
+  "tomorrow": [
+    {
+      "company": "The Indian Hotels Company Limited",
+      "symbol": "INDHOTEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.1,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 753.0,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Press Release",
           "type": "announcement",
@@ -253,194 +472,12 @@
           "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Cyient Limited",
-      "symbol": "CYIENT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1165.0,
-      "catalysts": [
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Resignation of Director/KMP/SMP",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
     },
-    {
-      "company": "The Indian Hotels Company Limited",
-      "symbol": "INDHOTEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.1,
-      "confidence": 74,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 747.05,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "JINDAL STEEL LIMITED",
-      "symbol": "JINDALSTEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 69,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1019.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Beta Drugs Limited",
-      "symbol": "BETA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 69,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1641.4,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Jindal Stainless Limited",
-      "symbol": "JSL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 68,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 721.8,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Acquisition",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    }
-  ],
-  "tomorrow": [
     {
       "company": "Cubex Tubings Limited",
       "symbol": "CUBEXTUB",
@@ -477,33 +514,68 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Bajaj Finance Limited",
-      "symbol": "BAJFINANCE",
+      "company": "SONAM LIMITED",
+      "symbol": "SONAMLTD",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.9,
+      "predictionScore": 5.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 74.13,
       "catalysts": [
         {
-          "label": "PRE-MARKET INDIAN STOCK NEWS: Bajaj Finance and Hindustan Zinc post strong Q2 profit growth; Jio Platforms' record IPO opens; markets reopen after Dussehra holiday - Newsquawk",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "PC Jeweller Limited",
+      "symbol": "PCJEWELLER",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 18.51,
+      "catalysts": [
+        {
+          "label": "PC Jeweller Shares Rally 5%; Stock Gains 40% in Two Weeks as Q2 FY27 Revenue Rises 28% - India Infoline",
           "type": "results",
           "verified": true
         },
         {
-          "label": "Bajaj Finance Stock Falls Nearly 3% After Q2 Asset Quality Disappoints",
-          "type": "company news",
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "From Bajaj Finance, Union Bank of India To Sobha: Check HDFC Securities' Latest Q2 Ratings, Target Prices",
-          "type": "company news",
+          "label": "Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -511,17 +583,48 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOblNfSzBZS3YtRGNRekxHeUgwRXVackxaWWZkRE1LNTU1eVJCX0dKZEZfUUs5TWNJcS10NFV1V2ZCdHFIUGU2OTFKbUpHZ3VFMkR4UmptLTYtUUhIWjNkdE9RWXo4VzJ4RGYxS2p0endIRkIyakd2UGZwOHRjTTJmVG9leTdHcEtwOEU1WTl4V3ItZ0M1Vm05QUtDY29tbG41TVhEajg2NmxzQ3E3SWpsemRiNGtmMGprMHlPRFFpQmFHaXRBOU5kNDlwYklFdjJTUF9VY1kzMjhCS0FHMmZSc0JqSTg0XzctZlhONVNvVC1TbmN1WE9FOFlDdmlBQmo5RTY0T1N2YkJTOFFrWVp4azV2aG1fZHdXdlFucHFsVWw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczkxZkhjVzdOaW5VSXNCN0hOVFpBbEtyMk44WVVoZnlWbElNYk5RSFdPaVNhRWNDUmpvNGZSWFlyVUpoTi1mOXZZdVN2cFAyZ3dZRU05VkhmMEczdmJpNlBkUnJDOXdpbEI3OWJqeEFQSDN6U3k0dU8wbjlfRDcwcXZhS2EtNmVZajNta0tOcUlJQnVRUnRiaHpYUUM1ZU5aUzNtRXM1ZDdqZVVTZ05tVGsxdTBQVGxwVjhPZ1VSaGhPRzZOZFE?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Vishal Mega Mart Limited",
+      "symbol": "VMM",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 90.0,
+      "catalysts": [
+        {
+          "label": "Sensex Today Ends 143 Points Lower | Nifty Below 22,850 | Vishal Mega Mart Down 6% - Equitymaster",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/bajaj-finance-share-price-stock-falls-after-q2-asset-quality-disappoints-12213430#publisher=newsstand",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/from-bajaj-finance-union-bank-of-india-piramal-finance-ultratech-oberoi-realty-l-t-tech-to-sobha-check-hdfc-securities-latest-q2-ratings-target-prices-12213364#publisher=newsstand",
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT0RUN1dpNExDYW03bUZzdDVRMEVmeEhyU1g5UUZ1NlI2bklSbVFjUGZmODBEM1d0WlZGaXpXLTE1LWI5TFl4ZVJHR2kwTl96aHFIOEJydDBsbHJnaHczdGJPVGhwZXdnTFBpSm5tbndVRi1sc0dwUmcyTW5rWm9DOUZ4b3lOYTRGTUNmdFc0UC1Ja3RwRnpZa19qbkpQd2pEMlhDNEtUQ2xkUjRWSHBGMkRCb1dfdGYwSUxQSDBFWlg4LWhCWEktQWF6dzdmcS1MaVlqUUtB?oc=5",
           "verified": true
         }
       ],
@@ -540,7 +643,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 407.3,
+      "lastClose": 418.35,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -575,7 +678,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 32.18,
+      "lastClose": 32.06,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -600,6 +703,41 @@
     {
       "company": "Aye Finance Limited",
       "symbol": "AYE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 139.85,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "KEI Industries Limited",
+      "symbol": "KEI",
       "exchange": "NSE",
       "confirmedNewsCount": 7,
       "gossipCount": 0,
@@ -609,11 +747,46 @@
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 142.25,
+      "technicalConfidence": 83,
+      "lastClose": 4230.4,
       "catalysts": [
         {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Nureca Limited",
+      "symbol": "NURECA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -2.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 328.9,
+      "catalysts": [
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
@@ -623,7 +796,7 @@
           "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -645,7 +818,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1165.0,
+      "lastClose": 1169.7,
       "catalysts": [
         {
           "label": "Financial Results/Dividend",
@@ -668,92 +841,27 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "The Indian Hotels Company Limited",
-      "symbol": "INDHOTEL",
+      "company": "Aditya Birla Sun Life AMC Limited",
+      "symbol": "ABSLAMC",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.1,
-      "confidence": 88,
+      "direction": "Negative watch",
+      "predictionScore": -3.5,
+      "confidence": 87,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 747.05,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 950.4,
       "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Bansal Wire Industries Limited",
-      "symbol": "BANSALWIRE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 58.2,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
         },
         {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Vishal Mega Mart Limited",
-      "symbol": "VMM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 89.38,
-      "catalysts": [
-        {
-          "label": "Press Release",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
@@ -761,132 +869,11 @@
           "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "JINDAL STEEL LIMITED",
-      "symbol": "JINDALSTEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1019.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Beta Drugs Limited",
-      "symbol": "BETA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1641.4,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 1162.5,
-      "catalysts": [
-        {
-          "label": "Sensex Today Rallies 794 Points | Nifty Above 23,100 | Infosys & TCS Top Gainers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Sensex opens 400 points higher, Nifty above 23,000; Infosys up 2% - India Today",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Dividend",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdUE5bVhWSWoxbzJzSTE0ZzAzYUVNMTBpbjM3M09nUk5iZVNTMHFvaWZNams1LW5PSnhvck8yM0VRNmlMR2o3eXg3TEFpZHJJVmNYVHlQaXZQUk9ST18tcV9UNVdRZnFhdTByNmJ3QkU5YXNST1hnSzFNTm5WWGxjY3BvRElWNWdhS05wZmNHODlyVkVsWFRXU1BxUGhsSmhFZUh3RkZ4Uzd2WjYwZUJBei16Y3gyZ3dlUmtLXzBrcXlHaEFBX2Z5MlZ6MjF6SHNCUkFB?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPd3ZveERnLUZvSF93M3JqNXFNUmRMRVJ1eTZESTBxYkQ3QXZlNm1VV0FfRXI1N1NfbEhjZWMtT2RJMDMxaC1LNmdEQmFWT1RGdC1VdjF1amZXT0c3ZFZwZEFkYUF5UlM2cVNVbmdRZ09rUnhETnFSOWM5XzJMZWU1Q3ZoQ05kWDZKbzVGQ2FlMTFibDg2VzJORDNKcFYyZENHUHZHbW5WZE5zZmZQbzJGd21URDlVYjZ4Ujk2ODlHNjhENmZNZ3daM2pCVDRnekszQkotQ2RHSUFPNVUyR0wzSXFScEc0VzhBaDZNZDdaczPSAfYBQVVfeXFMTklzeGFkN1RscXY3b0lqYkhOenFwRXEwSFUyVFpaeVFTX2Fhalc2T1JsOUIySFNDbHlxQTVBeU90OG5WandWTWlVd1p3Y2NYQkV6Rm5JaWNSMDhkeFpvNkNqQnJiOXgtZ3FaT2JORnRBNm96dGwxYmdFaWNtS1pXYWFfRkdEWEZ5OVdNb1ZwbWQ5RGlSbkQ4U1BEQWM5SzlsMDVuMUpCX2Q2cmFRZEJVX0FxVjhJYXBkZmVpYy1hVXVGRXhMOUNxVG12RkE0MGdkZFBwQUhrY3dKVlZpUmxCaDNrUUtwSE92M1JqRUN4Vko1bHRZcmFR?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
     }
   ]
 }
