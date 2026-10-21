@@ -1,43 +1,8 @@
 {
-  "generatedAt": "2026-10-20T21:40:20+00:00",
+  "generatedAt": "2026-10-21T00:39:44+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
-    {
-      "company": "ICICI Prudential Life Insurance Company Limited",
-      "symbol": "ICICIPRULI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Name and Symbol Change",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
     {
       "company": "Jana Small Finance Bank Limited",
       "symbol": "JSFB",
@@ -65,41 +30,6 @@
         },
         {
           "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Railtel Corporation Of India Limited",
-      "symbol": "RAILTEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
           "type": "announcement",
           "verified": true
         }
@@ -284,41 +214,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Shree Ram Twistex Limited",
-      "symbol": "SRTL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 72,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 38.53,
-      "catalysts": [
-        {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Coforge Limited",
       "symbol": "COFORGE",
       "exchange": "NSE",
@@ -422,6 +317,111 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tata Teleservices (Maharashtra) Limited",
+      "symbol": "TTML",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.2,
+      "confidence": 67,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 32.87,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Resignation of Director/KMP/SMP",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Resignation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra Lifespace Developers Limited",
+      "symbol": "MAHLIFE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 62,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 344.0,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Q2 FY27 results scheduled 2026-10-22",
+          "type": "result",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Nuvoco Vistas Corporation Limited",
+      "symbol": "NUVOCO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 62,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 341.45,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Q2 FY27 results scheduled 2026-10-22",
+          "type": "result",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -433,7 +433,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.8,
+      "predictionScore": -4.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
@@ -452,41 +452,6 @@
         },
         {
           "label": "News Verification",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "ICICI Prudential Life Insurance Company Limited",
-      "symbol": "ICICIPRULI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Name and Symbol Change",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) taken or orders passed",
           "type": "announcement",
           "verified": true
         }
@@ -566,33 +531,33 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Shree Ram Twistex Limited",
-      "symbol": "SRTL",
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 84,
+      "predictionScore": 5.3,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 38.53,
+      "lastClose": 1925.0,
       "catalysts": [
-        {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -636,6 +601,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Cubex Tubings Limited",
+      "symbol": "CUBEXTUB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 232.52,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Bansal Wire Industries Limited",
       "symbol": "BANSALWIRE",
       "exchange": "NSE",
@@ -669,111 +669,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Coforge Limited",
-      "symbol": "COFORGE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1925.0,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "JINDAL STEEL LIMITED",
-      "symbol": "JINDALSTEL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1041.8,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Cubex Tubings Limited",
-      "symbol": "CUBEXTUB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.0,
-      "confidence": 79,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 232.52,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Aye Finance Limited",
@@ -811,33 +706,133 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Railtel Corporation Of India Limited",
-      "symbol": "RAILTEL",
+      "company": "Nuvoco Vistas Corporation Limited",
+      "symbol": "NUVOCO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 341.45,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Q2 FY27 results scheduled 2026-10-22",
+          "type": "result",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "JINDAL STEEL LIMITED",
+      "symbol": "JINDALSTEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1041.8,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Tata Teleservices (Maharashtra) Limited",
+      "symbol": "TTML",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 77,
+      "direction": "Negative watch",
+      "predictionScore": -2.7,
+      "confidence": 71,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 32.87,
       "catalysts": [
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Resignation",
           "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Fairchem Organics Limited",
+      "symbol": "FAIRCHEMOR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 1,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 69,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 750.65,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
+          "label": "Q2 FY27 results scheduled 2026-10-22",
+          "type": "result",
           "verified": true
         }
       ],
