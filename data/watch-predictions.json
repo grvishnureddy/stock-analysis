@@ -1,49 +1,8 @@
 {
-  "generatedAt": "2026-10-22T17:14:38+00:00",
+  "generatedAt": "2026-10-22T21:39:31+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
-    {
-      "company": "Cyient Limited",
-      "symbol": "CYIENT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 6.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1143.7,
-      "catalysts": [
-        {
-          "label": "Cyient Declares Interim Dividend Of Rs 12 Per Share; Check Record Date",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/cyient-declares-interim-dividend-of-rs-12-per-share-check-record-date-12220461#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
     {
       "company": "Indian Railway Finance Corporation Limited",
       "symbol": "IRFC",
@@ -52,7 +11,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.1,
+      "predictionScore": 5.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -86,6 +45,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Cyient Limited",
+      "symbol": "CYIENT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1169.7,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "SAGILITY LIMITED",
       "symbol": "SAGILITY",
       "exchange": "NSE",
@@ -98,7 +92,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 45.39,
+      "lastClose": 44.41,
       "catalysts": [
         {
           "label": "Record Date",
@@ -121,10 +115,10 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "CREDITACCESS GRAMEEN LIMITED",
-      "symbol": "CREDITACC",
+      "company": "Mahindra Lifespace Developers Limited",
+      "symbol": "MAHLIFE",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -133,7 +127,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1088.5,
+      "lastClose": 340.75,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -141,12 +135,12 @@
           "verified": true
         },
         {
-          "label": "Change in Auditors",
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -168,7 +162,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 57.25,
+      "lastClose": 61.15,
       "catalysts": [
         {
           "label": "Investor Presentation",
@@ -203,7 +197,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 211.4,
+      "lastClose": 223.65,
       "catalysts": [
         {
           "label": "Monitoring Agency Report",
@@ -226,6 +220,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Beta Drugs Limited",
+      "symbol": "BETA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1664.7,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Sapphire Foods India Limited",
       "symbol": "SAPPHIRE",
       "exchange": "NSE",
@@ -238,7 +267,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 195.85,
+      "lastClose": 192.97,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -261,74 +290,39 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Jindal Stainless Limited",
-      "symbol": "JSL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 709.65,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Chennai Petroleum Corporation Limited",
-      "symbol": "CHENNPETRO",
+      "company": "CREDITACCESS GRAMEEN LIMITED",
+      "symbol": "CREDITACC",
       "exchange": "NSE",
       "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 86,
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 89,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1453.7,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 1142.4,
       "catalysts": [
         {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Change in Auditors",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Jana Small Finance Bank Limited",
@@ -343,7 +337,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 403.1,
+      "lastClose": 418.35,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -366,20 +360,25 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Tinna Rubber and Infrastructure Limited",
-      "symbol": "TINNARUBR",
+      "company": "Nuvoco Vistas Corporation Limited",
+      "symbol": "NUVOCO",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
       "confidence": 83,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 745.4,
+      "lastClose": 331.8,
       "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Press Release",
           "type": "announcement",
@@ -388,11 +387,6 @@
         {
           "label": "Outcome of Board Meeting",
           "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -441,22 +435,17 @@
       "company": "Cyient Limited",
       "symbol": "CYIENT",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 8.2,
+      "predictionScore": 6.8,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1143.7,
+      "technicalConfidence": 100,
+      "lastClose": 1169.7,
       "catalysts": [
-        {
-          "label": "Cyient Declares Interim Dividend Of Rs 12 Per Share; Check Record Date",
-          "type": "results",
-          "verified": true
-        },
         {
           "label": "General Updates",
           "type": "announcement",
@@ -466,17 +455,51 @@
           "label": "Press Release",
           "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
+        },
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/cyient-declares-interim-dividend-of-rs-12-per-share-check-record-date-12220461#publisher=newsstand",
+          "label": "General Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
+      "risks": [],
+      "sources": [],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Nuvoco Vistas Corporation Limited",
+      "symbol": "NUVOCO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 331.8,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Fairchem Organics Limited",
@@ -491,7 +514,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 763.15,
+      "lastClose": 749.5,
       "catalysts": [
         {
           "label": "Investor Presentation",
@@ -526,7 +549,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 45.39,
+      "lastClose": 44.41,
       "catalysts": [
         {
           "label": "Record Date",
@@ -556,7 +579,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.1,
+      "predictionScore": 5.0,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -590,45 +613,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Chennai Petroleum Corporation Limited",
-      "symbol": "CHENNPETRO",
+      "company": "Mahindra Lifespace Developers Limited",
+      "symbol": "MAHLIFE",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1453.7,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "CREDITACCESS GRAMEEN LIMITED",
-      "symbol": "CREDITACC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -637,7 +625,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1088.5,
+      "lastClose": 340.75,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -645,12 +633,12 @@
           "verified": true
         },
         {
-          "label": "Change in Auditors",
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -672,7 +660,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 57.25,
+      "lastClose": 61.15,
       "catalysts": [
         {
           "label": "Investor Presentation",
@@ -707,7 +695,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 211.4,
+      "lastClose": 223.65,
       "catalysts": [
         {
           "label": "Monitoring Agency Report",
@@ -730,6 +718,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Beta Drugs Limited",
+      "symbol": "BETA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1664.7,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Sapphire Foods India Limited",
       "symbol": "SAPPHIRE",
       "exchange": "NSE",
@@ -742,7 +765,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 195.85,
+      "lastClose": 192.97,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -777,7 +800,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 403.1,
+      "lastClose": 418.35,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -800,45 +823,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Tinna Rubber and Infrastructure Limited",
-      "symbol": "TINNARUBR",
+      "company": "CREDITACCESS GRAMEEN LIMITED",
+      "symbol": "CREDITACC",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 745.4,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Jindal Stainless Limited",
-      "symbol": "JSL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -847,7 +835,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 709.65,
+      "lastClose": 1142.4,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -855,7 +843,7 @@
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Change in Auditors",
           "type": "announcement",
           "verified": true
         },
