@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T07:36:08+00:00",
+  "updatedAt": "2026-10-23T13:30:46+00:00",
   "instruments": [
     {
       "name": "Nifty 50",
@@ -7,11 +7,11 @@
       "type": "index",
       "market": "NSE",
       "nseIndex": "NIFTY 50",
-      "price": 22409.0,
+      "price": 22600.0,
       "asOf": "2026-10-23",
-      "change1d": -1.23,
-      "change1w": -2.56,
-      "change1m": -3.94,
+      "change1d": -0.39,
+      "change1w": -1.73,
+      "change1m": -3.12,
       "rangeLow": 22231.8,
       "rangeHigh": 23446.8,
       "chart": [
@@ -273,7 +273,7 @@
         },
         {
           "date": "2026-10-23",
-          "close": 22409.0
+          "close": 22600.0
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ENSEI"
@@ -283,11 +283,11 @@
       "symbol": "^BSESN",
       "type": "index",
       "market": "BSE",
-      "price": 72523.99,
+      "price": 73123.83,
       "asOf": "2026-10-23",
-      "change1d": -0.99,
-      "change1w": -2.41,
-      "change1m": -2.69,
+      "change1d": -0.17,
+      "change1w": -1.6,
+      "change1m": -1.89,
       "rangeLow": 71593.24,
       "rangeHigh": 74828.25,
       "chart": [
@@ -549,7 +549,7 @@
         },
         {
           "date": "2026-10-23",
-          "close": 72523.99
+          "close": 73123.83
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5EBSESN"
@@ -560,12 +560,12 @@
       "type": "index",
       "market": "NSE",
       "nseIndex": "NIFTY BANK",
-      "price": 54048.25,
+      "price": 54287.35,
       "asOf": "2026-10-23",
-      "change1d": -1.6,
-      "change1w": -3.16,
-      "change1m": -3.86,
-      "rangeLow": 54048.25,
+      "change1d": -1.16,
+      "change1w": -2.73,
+      "change1m": -3.43,
+      "rangeLow": 54259.95,
       "rangeHigh": 56548.9,
       "chart": [
         {
@@ -826,7 +826,7 @@
         },
         {
           "date": "2026-10-23",
-          "close": 54048.25
+          "close": 54287.35
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ENSEBANK"
@@ -837,11 +837,11 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY IT",
-      "price": 32048.0,
+      "price": 31995.5,
       "asOf": "2026-10-23",
-      "change1d": -0.1,
-      "change1w": 4.32,
-      "change1m": 12.13,
+      "change1d": -0.27,
+      "change1w": 4.15,
+      "change1m": 11.94,
       "rangeLow": 27670.0,
       "rangeHigh": 32422.5,
       "chart": [
@@ -1103,7 +1103,7 @@
         },
         {
           "date": "2026-10-23",
-          "close": 32048.0
+          "close": 31995.5
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXIT"
@@ -1114,14 +1114,190 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY AUTO",
-      "price": 24540.2,
+      "price": 24862.3,
       "asOf": "2026-10-23",
-      "change1d": -1.88,
-      "change1w": -4.05,
-      "change1m": -9.64,
+      "change1d": -0.6,
+      "change1w": -2.79,
+      "change1m": -8.21,
       "rangeLow": 24512.7,
       "rangeHigh": 27157.55,
       "chart": [
+        {
+          "date": "2026-07-22",
+          "close": 27329.65
+        },
+        {
+          "date": "2026-07-23",
+          "close": 27520.8
+        },
+        {
+          "date": "2026-07-24",
+          "close": 27217.95
+        },
+        {
+          "date": "2026-07-27",
+          "close": 27653.4
+        },
+        {
+          "date": "2026-07-28",
+          "close": 27843.9
+        },
+        {
+          "date": "2026-07-29",
+          "close": 27825.95
+        },
+        {
+          "date": "2026-07-30",
+          "close": 28279.1
+        },
+        {
+          "date": "2026-07-31",
+          "close": 28744.15
+        },
+        {
+          "date": "2026-08-03",
+          "close": 29168.95
+        },
+        {
+          "date": "2026-08-04",
+          "close": 29041.3
+        },
+        {
+          "date": "2026-08-05",
+          "close": 29411.55
+        },
+        {
+          "date": "2026-08-06",
+          "close": 29113.4
+        },
+        {
+          "date": "2026-08-07",
+          "close": 29647.9
+        },
+        {
+          "date": "2026-08-10",
+          "close": 29620.05
+        },
+        {
+          "date": "2026-08-11",
+          "close": 29458.55
+        },
+        {
+          "date": "2026-08-12",
+          "close": 29363.05
+        },
+        {
+          "date": "2026-08-13",
+          "close": 29392.15
+        },
+        {
+          "date": "2026-08-14",
+          "close": 29207.9
+        },
+        {
+          "date": "2026-08-17",
+          "close": 29178.1
+        },
+        {
+          "date": "2026-08-18",
+          "close": 29264.55
+        },
+        {
+          "date": "2026-08-19",
+          "close": 29185.4
+        },
+        {
+          "date": "2026-08-20",
+          "close": 29301.75
+        },
+        {
+          "date": "2026-08-21",
+          "close": 29124.6
+        },
+        {
+          "date": "2026-08-24",
+          "close": 29101.3
+        },
+        {
+          "date": "2026-08-25",
+          "close": 29216.9
+        },
+        {
+          "date": "2026-08-26",
+          "close": 29000.15
+        },
+        {
+          "date": "2026-08-27",
+          "close": 28883.5
+        },
+        {
+          "date": "2026-08-28",
+          "close": 28851.8
+        },
+        {
+          "date": "2026-08-31",
+          "close": 28841.5
+        },
+        {
+          "date": "2026-09-01",
+          "close": 28491.05
+        },
+        {
+          "date": "2026-09-02",
+          "close": 27981.95
+        },
+        {
+          "date": "2026-09-03",
+          "close": 27837.4
+        },
+        {
+          "date": "2026-09-04",
+          "close": 27710.9
+        },
+        {
+          "date": "2026-09-07",
+          "close": 27698.75
+        },
+        {
+          "date": "2026-09-08",
+          "close": 27775.35
+        },
+        {
+          "date": "2026-09-09",
+          "close": 27653.35
+        },
+        {
+          "date": "2026-09-10",
+          "close": 27540.95
+        },
+        {
+          "date": "2026-09-11",
+          "close": 27304.5
+        },
+        {
+          "date": "2026-09-15",
+          "close": 26756.6
+        },
+        {
+          "date": "2026-09-16",
+          "close": 26893.65
+        },
+        {
+          "date": "2026-09-17",
+          "close": 27159.15
+        },
+        {
+          "date": "2026-09-18",
+          "close": 27129.0
+        },
+        {
+          "date": "2026-09-21",
+          "close": 27151.1
+        },
+        {
+          "date": "2026-09-22",
+          "close": 27086.3
+        },
         {
           "date": "2026-09-23",
           "close": 27157.55
@@ -1204,7 +1380,7 @@
         },
         {
           "date": "2026-10-23",
-          "close": 24540.2
+          "close": 24862.3
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXAUTO"
@@ -1215,14 +1391,190 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY METAL",
-      "price": 11391.9,
+      "price": 11478.2,
       "asOf": "2026-10-23",
-      "change1d": -3.44,
-      "change1w": -5.21,
-      "change1m": -14.36,
-      "rangeLow": 11391.9,
+      "change1d": -2.71,
+      "change1w": -4.5,
+      "change1m": -11.64,
+      "rangeLow": 11478.2,
       "rangeHigh": 13302.35,
       "chart": [
+        {
+          "date": "2026-07-22",
+          "close": 12562.85
+        },
+        {
+          "date": "2026-07-23",
+          "close": 12469.7
+        },
+        {
+          "date": "2026-07-24",
+          "close": 12401.55
+        },
+        {
+          "date": "2026-07-27",
+          "close": 12476.45
+        },
+        {
+          "date": "2026-07-28",
+          "close": 12400.25
+        },
+        {
+          "date": "2026-07-29",
+          "close": 12686.8
+        },
+        {
+          "date": "2026-07-30",
+          "close": 12701.8
+        },
+        {
+          "date": "2026-07-31",
+          "close": 12719.0
+        },
+        {
+          "date": "2026-08-03",
+          "close": 12914.55
+        },
+        {
+          "date": "2026-08-04",
+          "close": 13032.3
+        },
+        {
+          "date": "2026-08-05",
+          "close": 13256.35
+        },
+        {
+          "date": "2026-08-06",
+          "close": 13124.6
+        },
+        {
+          "date": "2026-08-07",
+          "close": 13189.85
+        },
+        {
+          "date": "2026-08-10",
+          "close": 13226.7
+        },
+        {
+          "date": "2026-08-11",
+          "close": 13100.8
+        },
+        {
+          "date": "2026-08-12",
+          "close": 13171.45
+        },
+        {
+          "date": "2026-08-13",
+          "close": 13033.75
+        },
+        {
+          "date": "2026-08-14",
+          "close": 12941.7
+        },
+        {
+          "date": "2026-08-17",
+          "close": 13104.6
+        },
+        {
+          "date": "2026-08-18",
+          "close": 13025.3
+        },
+        {
+          "date": "2026-08-19",
+          "close": 13023.25
+        },
+        {
+          "date": "2026-08-20",
+          "close": 13060.25
+        },
+        {
+          "date": "2026-08-21",
+          "close": 13172.6
+        },
+        {
+          "date": "2026-08-24",
+          "close": 13381.45
+        },
+        {
+          "date": "2026-08-25",
+          "close": 13372.3
+        },
+        {
+          "date": "2026-08-26",
+          "close": 13541.7
+        },
+        {
+          "date": "2026-08-27",
+          "close": 13425.2
+        },
+        {
+          "date": "2026-08-28",
+          "close": 13525.35
+        },
+        {
+          "date": "2026-08-31",
+          "close": 13193.9
+        },
+        {
+          "date": "2026-09-01",
+          "close": 13189.85
+        },
+        {
+          "date": "2026-09-02",
+          "close": 13157.35
+        },
+        {
+          "date": "2026-09-03",
+          "close": 13176.05
+        },
+        {
+          "date": "2026-09-04",
+          "close": 13317.45
+        },
+        {
+          "date": "2026-09-07",
+          "close": 13152.9
+        },
+        {
+          "date": "2026-09-08",
+          "close": 13155.95
+        },
+        {
+          "date": "2026-09-09",
+          "close": 13391.4
+        },
+        {
+          "date": "2026-09-10",
+          "close": 13304.95
+        },
+        {
+          "date": "2026-09-11",
+          "close": 12999.05
+        },
+        {
+          "date": "2026-09-15",
+          "close": 12669.15
+        },
+        {
+          "date": "2026-09-16",
+          "close": 12739.1
+        },
+        {
+          "date": "2026-09-17",
+          "close": 12858.45
+        },
+        {
+          "date": "2026-09-18",
+          "close": 13052.6
+        },
+        {
+          "date": "2026-09-21",
+          "close": 12972.7
+        },
+        {
+          "date": "2026-09-22",
+          "close": 12990.35
+        },
         {
           "date": "2026-09-23",
           "close": 13302.35
@@ -1305,7 +1657,7 @@
         },
         {
           "date": "2026-10-23",
-          "close": 11391.9
+          "close": 11478.2
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXMETAL"
@@ -1316,12 +1668,12 @@
       "type": "sector",
       "market": "NSE",
       "nseIndex": "NIFTY PHARMA",
-      "price": 25092.05,
+      "price": 25329.45,
       "asOf": "2026-10-23",
-      "change1d": -1.97,
-      "change1w": -2.81,
-      "change1m": -6.75,
-      "rangeLow": 25092.05,
+      "change1d": -1.04,
+      "change1w": -1.89,
+      "change1m": -5.87,
+      "rangeLow": 25329.45,
       "rangeHigh": 27152.1,
       "chart": [
         {
@@ -1582,7 +1934,7 @@
         },
         {
           "date": "2026-10-23",
-          "close": 25092.05
+          "close": 25329.45
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXPHARMA"
@@ -1592,13 +1944,13 @@
       "symbol": "^INDIAVIX",
       "type": "volatility",
       "market": "NSE",
-      "price": 16.75,
+      "price": 16.86,
       "asOf": "2026-10-23",
-      "change1d": 6.28,
-      "change1w": 19.39,
-      "change1m": 52.27,
+      "change1d": 6.98,
+      "change1w": 20.17,
+      "change1m": 53.27,
       "rangeLow": 10.35,
-      "rangeHigh": 16.75,
+      "rangeHigh": 16.86,
       "chart": [
         {
           "date": "2026-07-22",
@@ -1858,7 +2210,7 @@
         },
         {
           "date": "2026-10-23",
-          "close": 16.75
+          "close": 16.86
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/%5EINDIAVIX"
@@ -1869,12 +2221,12 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 4030.4,
+      "price": 4046.6,
       "asOf": "2026-10-23",
-      "change1d": -0.74,
-      "change1w": -3.6,
-      "change1m": -6.23,
-      "rangeLow": 4030.4,
+      "change1d": -0.34,
+      "change1w": -3.22,
+      "change1m": -5.85,
+      "rangeLow": 4046.6,
       "rangeHigh": 4321.2,
       "chart": [
         {
@@ -2135,7 +2487,7 @@
         },
         {
           "date": "2026-10-23",
-          "close": 4030.4
+          "close": 4046.6
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF"
@@ -2146,12 +2498,12 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / troy oz",
-      "price": 53.92,
+      "price": 53.97,
       "asOf": "2026-10-23",
-      "change1d": -1.53,
-      "change1w": -5.39,
-      "change1m": -15.03,
-      "rangeLow": 53.92,
+      "change1d": -1.44,
+      "change1w": -5.3,
+      "change1m": -14.95,
+      "rangeLow": 53.97,
       "rangeHigh": 64.25,
       "chart": [
         {
@@ -2412,7 +2764,7 @@
         },
         {
           "date": "2026-10-23",
-          "close": 53.92
+          "close": 53.97
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/SI%3DF"
@@ -2423,11 +2775,11 @@
       "type": "metal",
       "market": "Global",
       "unit": "USD / lb",
-      "price": 6.43,
+      "price": 6.47,
       "asOf": "2026-10-23",
-      "change1d": 1.1,
-      "change1w": -1.53,
-      "change1m": -4.32,
+      "change1d": 1.73,
+      "change1w": -0.92,
+      "change1m": -3.72,
       "rangeLow": 6.36,
       "rangeHigh": 6.72,
       "chart": [
@@ -2689,7 +3041,7 @@
         },
         {
           "date": "2026-10-23",
-          "close": 6.43
+          "close": 6.47
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/HG%3DF"
@@ -2700,11 +3052,11 @@
       "type": "energy",
       "market": "Global",
       "unit": "USD / barrel",
-      "price": 100.76,
+      "price": 101.65,
       "asOf": "2026-10-23",
-      "change1d": 1.3,
-      "change1w": -0.64,
-      "change1m": 6.5,
+      "change1d": 2.19,
+      "change1w": 0.24,
+      "change1m": 7.44,
       "rangeLow": 88.28,
       "rangeHigh": 103.66,
       "chart": [
@@ -2966,7 +3318,7 @@
         },
         {
           "date": "2026-10-23",
-          "close": 100.76
+          "close": 101.65
         }
       ],
       "sourceUrl": "https://finance.yahoo.com/quote/CL%3DF"
@@ -3108,7 +3460,7 @@
         "symbol": "DRREDDY",
         "company": "Dr. Reddy's Laboratories Ltd.",
         "industry": "Healthcare",
-        "lastPrice": 1223.0,
+        "lastPrice": 1229.5,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3218,7 +3570,7 @@
         "symbol": "INFY",
         "company": "Infosys Ltd.",
         "industry": "Information Technology",
-        "lastPrice": 1160.2,
+        "lastPrice": 1153.8,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3238,7 +3590,7 @@
         "symbol": "JSWSTEEL",
         "company": "JSW Steel Ltd.",
         "industry": "Metals & Mining",
-        "lastPrice": 1192.3,
+        "lastPrice": 1185.5,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3258,7 +3610,7 @@
         "symbol": "KOTAKBANK",
         "company": "Kotak Mahindra Bank Ltd.",
         "industry": "Financial Services",
-        "lastPrice": 429.8,
+        "lastPrice": 430.5,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3368,7 +3720,7 @@
         "symbol": "SHRIRAMFIN",
         "company": "Shriram Finance Ltd.",
         "industry": "Financial Services",
-        "lastPrice": 874.25,
+        "lastPrice": 865.0,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3480,7 +3832,7 @@
         "symbol": "AUBANK",
         "company": "AU Small Finance Bank Ltd.",
         "industry": "Financial Services",
-        "lastPrice": 923.5,
+        "lastPrice": 932.9,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3550,7 +3902,7 @@
         "symbol": "IDFCFIRSTB",
         "company": "IDFC First Bank Ltd.",
         "industry": "Financial Services",
-        "lastPrice": 72.1,
+        "lastPrice": 72.3,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3560,7 +3912,7 @@
         "symbol": "INDUSINDBK",
         "company": "IndusInd Bank Ltd.",
         "industry": "Financial Services",
-        "lastPrice": 834.55,
+        "lastPrice": 835.0,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3570,7 +3922,7 @@
         "symbol": "KOTAKBANK",
         "company": "Kotak Mahindra Bank Ltd.",
         "industry": "Financial Services",
-        "lastPrice": 429.8,
+        "lastPrice": 430.5,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3622,7 +3974,7 @@
         "symbol": "COFORGE",
         "company": "Coforge Ltd.",
         "industry": "Information Technology",
-        "lastPrice": 1899.3,
+        "lastPrice": 1900.5,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3642,7 +3994,7 @@
         "symbol": "INFY",
         "company": "Infosys Ltd.",
         "industry": "Information Technology",
-        "lastPrice": 1160.2,
+        "lastPrice": 1153.8,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3672,7 +4024,7 @@
         "symbol": "OFSS",
         "company": "Oracle Financial Services Software Ltd.",
         "industry": "Information Technology",
-        "lastPrice": 9635.0,
+        "lastPrice": 9677.0,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3876,7 +4228,7 @@
         "symbol": "APLAPOLLO",
         "company": "APL Apollo Tubes Ltd.",
         "industry": "Capital Goods",
-        "lastPrice": 2005.2,
+        "lastPrice": 2033.7,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3926,7 +4278,7 @@
         "symbol": "JSWSTEEL",
         "company": "JSW Steel Ltd.",
         "industry": "Metals & Mining",
-        "lastPrice": 1192.3,
+        "lastPrice": 1185.5,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -3946,7 +4298,7 @@
         "symbol": "JINDALSTEL",
         "company": "Jindal Steel Ltd.",
         "industry": "Metals & Mining",
-        "lastPrice": 1008.6,
+        "lastPrice": 1015.9,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -4098,7 +4450,7 @@
         "symbol": "DRREDDY",
         "company": "Dr. Reddy's Laboratories Ltd.",
         "industry": "Healthcare",
-        "lastPrice": 1223.0,
+        "lastPrice": 1229.5,
         "change": null,
         "pChange": null,
         "volume": null,
@@ -4198,7 +4550,7 @@
         "symbol": "TORNTPHARM",
         "company": "Torrent Pharmaceuticals Ltd.",
         "industry": "Healthcare",
-        "lastPrice": 4493.8,
+        "lastPrice": 4524.4,
         "change": null,
         "pChange": null,
         "volume": null,
