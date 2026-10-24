@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:00:34+00:00",
+  "generatedAt": "2026-10-24T18:49:34+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -194,47 +194,6 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd3ZzQ19VcXFXOGN6Mk5qSXVRNlJxOFktRXQwWl9vVWdhenlXQlZBU0JDUGM1UllHejRTZ3lZT1NIeENZUmNMbkt2RWRKRlB1aDFZWTlFQXBaZzVUVWREU2VPbXpCTlNHbWR4cEV4bVRmYVNmbnhYbE1Eb3IySk5aRGxzYlRBRERGY0E?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "KEC International Limited",
-      "symbol": "KEC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 8.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "KEC International Secures Record Rs 2,872 Crore PGCIL Orders For 765 kV Transmission Lines",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/kec-international-secures-record-rs-2-872-crore-pgcil-orders-for-765-kv-transmission-lines-12229704#publisher=newsstand",
           "verified": true
         }
       ],
@@ -443,6 +402,41 @@
         {
           "label": "Shareholders meeting",
           "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "SBFC Finance Limited",
+      "symbol": "SBFC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.8,
+      "confidence": 68,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 79.82,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -754,47 +748,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "KEC International Limited",
-      "symbol": "KEC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 8.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "KEC International Secures Record Rs 2,872 Crore PGCIL Orders For 765 kV Transmission Lines",
-          "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/kec-international-secures-record-rs-2-872-crore-pgcil-orders-for-765-kv-transmission-lines-12229704#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Sumitomo Chemical India Limited",
       "symbol": "SUMICHEM",
       "exchange": "NSE",
@@ -886,6 +839,36 @@
         },
         {
           "label": "Credit Rating- Revision",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Concord Biotech Limited",
+      "symbol": "CONCORDBIO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 73,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1229.3,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
