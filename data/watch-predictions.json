@@ -1,41 +1,47 @@
 {
-  "generatedAt": "2026-10-24T22:31:39+00:00",
+  "generatedAt": "2026-10-25T04:46:32+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "IDFC First Bank Limited",
-      "symbol": "IDFCFIRSTB",
+      "company": "Cyient Limited",
+      "symbol": "CYIENT",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
+      "direction": "Positive watch",
+      "predictionScore": 4.4,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 72.3,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Dividend Stocks This Week: Chennai Petroleum, L&T Tech, Cyient, Nippon Life AMC, Among 15 Companies In Focus",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/dividend-stocks-this-week-chennai-petroleum-l-t-tech-cyient-nippon-life-amc-among-15-companies-in-focus-12231385#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -77,12 +83,12 @@
       "company": "Capri Global Capital Limited",
       "symbol": "CGCL",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
       "predictionScore": -2.2,
-      "confidence": 90,
+      "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 67,
@@ -109,41 +115,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Kotak Mahindra Bank Limited",
-      "symbol": "KOTAKBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 430.5,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Tonbo Imaging India Limited",
       "symbol": "TONBO",
       "exchange": "NSE",
@@ -151,7 +122,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "predictionScore": 3.2,
       "confidence": 79,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -270,32 +241,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "AU Small Finance Bank Limited",
-      "symbol": "AUBANK",
+      "company": "Kirloskar Brothers Limited",
+      "symbol": "KIRLOSBROS",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 75,
+      "predictionScore": -3.3,
+      "confidence": 69,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 932.9,
+      "technicalConfidence": 100,
+      "lastClose": 1597.6,
       "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -340,41 +311,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Seshasayee Paper and Boards Limited",
-      "symbol": "SESHAPAPER",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 69,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 198.46,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Avantel Limited",
       "symbol": "AVANTEL",
       "exchange": "NSE",
@@ -410,33 +346,103 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "SBFC Finance Limited",
-      "symbol": "SBFC",
+      "company": "Knack Packaging Limited",
+      "symbol": "KNACK",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.8,
+      "confidence": 65,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 204.88,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Max Financial Services Limited",
+      "symbol": "MFSL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
-      "predictionScore": -2.8,
-      "confidence": 68,
+      "predictionScore": -3.3,
+      "confidence": 62,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 79.82,
+      "technicalConfidence": 100,
+      "lastClose": 1211.3,
       "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Q2 FY27 results scheduled 2026-10-27",
+          "type": "result",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Kirloskar Pneumatic Company Limited",
+      "symbol": "KIRLPNU",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 62,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 584.7,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Q2 FY27 results scheduled 2026-10-27",
+          "type": "result",
           "verified": true
         }
       ],
@@ -447,84 +453,55 @@
   ],
   "tomorrow": [
     {
-      "company": "IDFC First Bank Limited",
-      "symbol": "IDFCFIRSTB",
+      "company": "Cyient Limited",
+      "symbol": "CYIENT",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 72.3,
-      "catalysts": [
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Kotak Mahindra Bank Limited",
-      "symbol": "KOTAKBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.7,
+      "predictionScore": 4.4,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 430.5,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
+        {
+          "label": "Dividend Stocks This Week: Chennai Petroleum, L&T Tech, Cyient, Nippon Life AMC, Among 15 Companies In Focus",
+          "type": "corporate action",
+          "verified": true
+        },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Director(s)",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/dividend-stocks-this-week-chennai-petroleum-l-t-tech-cyient-nippon-life-amc-among-15-companies-in-focus-12231385#publisher=newsstand",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Capri Global Capital Limited",
       "symbol": "CGCL",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -3.2,
+      "predictionScore": -2.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
@@ -594,8 +571,8 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 87,
+      "predictionScore": -4.3,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
@@ -657,41 +634,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "AU Small Finance Bank Limited",
-      "symbol": "AUBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.5,
-      "confidence": 80,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 932.9,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Tonbo Imaging India Limited",
       "symbol": "TONBO",
       "exchange": "NSE",
@@ -699,7 +641,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
+      "predictionScore": 3.2,
       "confidence": 79,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -748,6 +690,76 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Knack Packaging Limited",
+      "symbol": "KNACK",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 78,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 204.88,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Kirloskar Brothers Limited",
+      "symbol": "KIRLOSBROS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 1597.6,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Sumitomo Chemical India Limited",
       "symbol": "SUMICHEM",
       "exchange": "NSE",
@@ -783,33 +795,68 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Seshasayee Paper and Boards Limited",
-      "symbol": "SESHAPAPER",
+      "company": "Avantel Limited",
+      "symbol": "AVANTEL",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 76,
+      "predictionScore": -3.5,
+      "confidence": 73,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 198.46,
+      "technicalConfidence": 83,
+      "lastClose": 136.58,
       "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Amendment to AOA/MOA",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Shareholders meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "PNGS Reva Diamond Jewellery Limited",
+      "symbol": "PNGSREVA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 632.5,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
         {
           "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Q2 FY27 results scheduled 2026-10-26",
+          "type": "result",
           "verified": true
         }
       ],
@@ -818,49 +865,19 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "IFB Industries Limited",
-      "symbol": "IFBIND",
+      "company": "Max Financial Services Limited",
+      "symbol": "MFSL",
       "exchange": "NSE",
       "confirmedNewsCount": 2,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 73,
+      "predictionScore": -4.3,
+      "confidence": 69,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1051.9,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating- Revision",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Concord Biotech Limited",
-      "symbol": "CONCORDBIO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 1229.3,
+      "lastClose": 1211.3,
       "catalysts": [
         {
           "label": "Financial Results",
@@ -870,6 +887,11 @@
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Q2 FY27 results scheduled 2026-10-27",
+          "type": "result",
           "verified": true
         }
       ],
