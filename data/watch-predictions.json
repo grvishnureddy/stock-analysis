@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T19:26:54+00:00",
+  "generatedAt": "2026-10-30T23:51:22+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -46,7 +46,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.2,
+      "predictionScore": 6.1,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -95,23 +95,23 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
+      "company": "Navin Fluorine International Limited",
+      "symbol": "NAVINFLUOR",
       "exchange": "NSE",
-      "confirmedNewsCount": 13,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.4,
+      "predictionScore": 4.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 8680.0,
       "catalysts": [
         {
-          "label": "Q2 October dividend champions: Infosys, Colgate, HUL, CPCL, Coal India | Big payouts - amount, record date - Livemint",
-          "type": "corporate action",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
@@ -120,19 +120,48 @@
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "LIC Housing Finance Limited",
+      "symbol": "LICHSGFIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 493.7,
+      "catalysts": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVHNDWkJNUmI5ZWRwUFVyaXBUc3pOMlBWdm9ZVEJmWEFwTlJzTDd3Qkd1V3EyMkRBajBOV19ENGxEbXgyV2p1V1JUczNyb3J1UGpQcDlEWHBNdHQxanFaVUVJamlsTThzY2pWcVhCcGtNdWZmYXR3YXZGcDRNR3RkQnhOLUhZOUNla2tmMnlUZEh5T1VhZk9pUTJfSmNPeDdmZm5Ea2x0SHNEcnh3VUgwN2VKTnl3dzk5VGZCUXB6WFdRam1KLXlJbXd3d2FWUXVuaHE3WUh5NXJTTE5PemJDc0NaaTNVVlBDZTQwRXJpakotUFhLWHpIdVhpTW5oTEpRT01jVXdmY2tncjUtaVQ00gGUAkFVX3lxTE4zS0owQTR5VjhacWs4YzdVbjVOa3MyZ1ZoVlBONC1RZHQtUW1SMlVZcDBTLXJ6VGR4bGNOWlZkaFBJMkRFV1RxTkhEek1uOGd0RG1QaVJQOTNJaTZuZzhJeUZHRUR4ZmdOM1JTSXJGcTF2MEdpREk2UDdOdUoxUjRjNWl6VnRXQTVTcDk3UFg3TzBzelBtNXNpNzd3RF9abVp6NmJjTHdoUzZVMFlldzlFb2xCajBQTXFCSk5Del96c3JTWGJROEJNZUNmRm9Gbk9YSUU4czZUWV9ibHMyVm8yeENkVTJKYmJWZU1zTVRmOXp3WEtENEZMSDEyeDdjNkJ1ZUkwNWNuT2NCN3pFVHlBQzlGOA?oc=5",
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
           "verified": true
         }
       ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -183,7 +212,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 11488.0,
+      "lastClose": 11000.0,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -276,41 +305,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Navin Fluorine International Limited",
-      "symbol": "NAVINFLUOR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 8260.5,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Arisinfra Solutions Limited",
       "symbol": "ARIS",
       "exchange": "NSE",
@@ -346,8 +340,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "GAIL (India) Limited",
-      "symbol": "GAIL",
+      "company": "Intellect Design Arena Limited",
+      "symbol": "INTELLECT",
       "exchange": "NSE",
       "confirmedNewsCount": 11,
       "gossipCount": 0,
@@ -358,7 +352,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 165.17,
+      "lastClose": 504.55,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -366,12 +360,12 @@
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Investor Presentation",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -488,6 +482,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Navin Fluorine International Limited",
+      "symbol": "NAVINFLUOR",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 6.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 8680.0,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Jio Platforms Limited",
       "symbol": "JPL",
       "exchange": "NSE",
@@ -495,7 +524,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.7,
+      "predictionScore": 6.6,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -579,27 +608,127 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Navin Fluorine International Limited",
-      "symbol": "NAVINFLUOR",
+      "company": "The Phoenix Mills Limited",
+      "symbol": "PHOENIXLTD",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.4,
+      "predictionScore": 5.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 50,
-      "lastClose": 8260.5,
+      "technicalConfidence": 100,
+      "lastClose": 1957.2,
       "catalysts": [
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "CORONA Remedies Limited",
+      "symbol": "CORONA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 2149.6,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Ratnaveer Precision Engineering Limited",
+      "symbol": "RATNAVEER",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 360.25,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "LIC Housing Finance Limited",
+      "symbol": "LICHSGFIN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 493.7,
+      "catalysts": [
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
@@ -607,11 +736,16 @@
           "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Go Fashion (India) Limited",
@@ -661,7 +795,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 11488.0,
+      "lastClose": 11000.0,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -745,146 +879,6 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Kamdhenu Ventures Limited",
-      "symbol": "KAMOPAINTS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 3.77,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Director(s)",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Bank of Baroda",
-      "symbol": "BANKBARODA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 241.31,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "GAIL (India) Limited",
-      "symbol": "GAIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 11,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 165.17,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Globus Spirits Limited",
-      "symbol": "GLOBUSSPR",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.5,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 734.6,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
