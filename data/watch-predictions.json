@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:47:40+00:00",
+  "generatedAt": "2026-10-31T12:37:47+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -39,14 +39,96 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Jio Platforms Limited",
-      "symbol": "JPL",
+      "company": "NTPC Limited",
+      "symbol": "NTPC",
       "exchange": "NSE",
-      "confirmedNewsCount": 16,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.0,
+      "predictionScore": 4.5,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 0,
+      "lastClose": 316.25,
+      "catalysts": [
+        {
+          "label": "NTPC Q2 Results: Profit Jumps 41% To Rs 7,351 Crore, Declares Dividend",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/ntpc-q2-results-profit-jumps-41-to-rs-7-351-crore-revenue-up-21-12263199#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Capillary Technologies India Limited",
+      "symbol": "CAPILLARY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -4.2,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 502.55,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Final  forensic  audit  report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Final  forensic  audit  report",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Fraud/Default/Arrest",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Jio Platforms Limited",
+      "symbol": "JPL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 15,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -54,7 +136,7 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Jio Platforms\u2019 IPO surges 21% in India\u2019s largest-ever stock market debut - Nacionale",
+          "label": "Indian Stock Market at a Crossroads: Will the Jio Platforms IPO Trigger a New Investment Wave? - jknewstoday.com",
           "type": "corporate action",
           "verified": true
         },
@@ -64,8 +146,8 @@
           "verified": true
         },
         {
-          "label": "Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions - BBC",
-          "type": "corporate action",
+          "label": "Jio Platforms Makes Stock Market Debut, Becomes India\u2019s 2nd Largest Listed Company (2026) - Artificial Intelligence News & Cryptocurrency News: Latest Trends | Analytics Insight",
+          "type": "company news",
           "verified": true
         }
       ],
@@ -73,7 +155,7 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRzB6Tm1HNHRUenZzM1FMLTJtWXh4alBOYVR1YTJHdUFOVmpoMWYySGZnelFFTVcyc2RzdV9DOXFDcnp0LXBNSmc1cTRNR3lieTIyNExhY01MR0FJN21xUTFYbTlRNkhOZFZDYjlHeUdnQjFLUFZmRV9qWVg2S3VIVWhGVXJ1WjFuSV9FREx5R1gxV2FOdGR1OWVUeE1CTGdPUTVsd05GZGt2dnhwRldLMElHX2x3dw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnd1OGIwRC1weER4UVF2elQySzNmLXJPZWZadG11d1J4d2Z3dUU2NURHazU1dUVTOEpmU3pMa0RsUzg5ZnZTSE5BWHZOaGdOX2hiejA0ZV9IMzNidEZ4YmZPUGw3Q1NUMFJLUy1PN3YxX0dKbU9tRjJnTGM5bmZSY1VhazhOVWdxbGNXMzh0X2xXOFhrYVdnU01vMlZHSmoxS2JmVFBvYnhmeGlxVWFjVExFSWQxbHVV?oc=5",
           "verified": true
         },
         {
@@ -83,15 +165,85 @@
         },
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSlY2YVBSMnZYQWZGOXpKQklJUUNkYnZPOXpaODVadFJyellvcmpWVC1jZV9qeFF5NE1LWUZDT3oyaThrXzUwU2daMDduN2RIbDVmMFdBcXpBekU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS01TeEZJYlo5dUtTUjRLTEtyUXphc0c0Y2x2NkNDQy1VdmhkaXlvb0EzVEExbFMyOEd1UEswY1d6ajh3cHVMUkt5eERqeTlhN240VDNrUXZzTlNYQVcxbEdWOFFCc2lwN1NWRW1RUkVVQzZZOFFfTHh6TzlPb3BiVkpMSmdkbGMxMkFhRVJmYV9UUndBMTY0THc1R09sdU9GYU9DTGFvOERaQVRZNWRadDZQcThmWHRLYzN1Z2NiVlRKQ1pVNUw2RHA4N0F5eVJaT0ZXZG81YlLSAdgBQVVfeXFMTUtNU3hGSWJaOXVLU1I0S0xLclF6YXNHNGNsdjZDQ0MtVXZoZGl5b29BM1RBMWxTMjhHdVBLMGNXemo4d3B1TFJLeXhEank5YTduNFQza1F2c05TWEFXMWxHVjhRQnNpcDdTVkVtUVJFVUM2WThRX0x4ek85T29wYlZKTEpnZGxjMTJBYUVSZmFfVFJ3QTE2NEx3NUdPbHVPRmFPQ0xhbzhEWkFUWTVkWnQ2UHE4Zlh0S2MzdWdjYlZUSkNaVTVMNkRwODdBeXlSWk9GV2RvNWJS?oc=5",
           "verified": true
         },
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS01TeEZJYlo5dUtTUjRLTEtyUXphc0c0Y2x2NkNDQy1VdmhkaXlvb0EzVEExbFMyOEd1UEswY1d6ajh3cHVMUkt5eERqeTlhN240VDNrUXZzTlNYQVcxbEdWOFFCc2lwN1NWRW1RUkVVQzZZOFFfTHh6TzlPb3BiVkpMSmdkbGMxMkFhRVJmYV9UUndBMTY0THc1R09sdU9GYU9DTGFvOERaQVRZNWRadDZQcThmWHRLYzN1Z2NiVlRKQ1pVNUw2RHA4N0F5eVJaT0ZXZG81YlLSAdgBQVVfeXFMTUtNU3hGSWJaOXVLU1I0S0xLclF6YXNHNGNsdjZDQ0MtVXZoZGl5b29BM1RBMWxTMjhHdVBLMGNXemo4d3B1TFJLeXhEank5YTduNFQza1F2c05TWEFXMWxHVjhRQnNpcDdTVkVtUVJFVUM2WThRX0x4ek85T29wYlZKTEpnZGxjMTJBYUVSZmFfVFJ3QTE2NEx3NUdPbHVPRmFPQ0xhbzhEWkFUWTVkWnQ2UHE4Zlh0S2MzdWdjYlZUSkNaVTVMNkRwODdBeXlSWk9GV2RvNWJS?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOG5tSHo0aDdwSFBUZzh4QzhpUnJOaVh5WlN2dExJamEzeE9nQUFHLTVGVTlHcTQ0UWt1OEt0R2lTaVRBallmYWV6enBYN3RRWXpOSkdBOW8zcmVmeWkyRjctOU85dFhYdmtfVjNqUzVtSkY0bjNjd3J6YUlXZXNMTl9TT0FtNmdtM0hQY0F1dlM0N2JxMi1MR3QxN1Z0RHJVTTBVS2Q2dERCbUc1ZWFsTXE3V2J6bGNrcEFsU2czWlU5ckxaOXp6NmtwTERfQkV3bmRGVUc3RFFGRE1LRi1SQ1BaTWVDNGU3VzJGbkdPLVBrSTZDVy1BMzNkcGNteUlCVk1KQ1RJMm1nXzVwbGctUQ?oc=5",
           "verified": true
         }
       ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mangal Electrical Industries Limited",
+      "symbol": "MEIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 246.9,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Suraj Estate Developers Limited",
+      "symbol": "SURAJEST",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 172.48,
+      "catalysts": [
+        {
+          "label": "Integrated Filing- Financial",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -130,6 +282,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Manba Finance Limited",
+      "symbol": "MANBA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Sundram Fasteners Limited",
       "symbol": "SUNDRMFAST",
       "exchange": "NSE",
@@ -151,41 +338,6 @@
         },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Manba Finance Limited",
-      "symbol": "MANBA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 86,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
@@ -235,73 +387,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
+      "company": "Clean Science and Technology Limited",
+      "symbol": "CLEAN",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.5,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Q2 October dividend champions: Infosys, Colgate, HUL, CPCL, Coal India | Big payouts - amount, record date - Livemint",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVHNDWkJNUmI5ZWRwUFVyaXBUc3pOMlBWdm9ZVEJmWEFwTlJzTDd3Qkd1V3EyMkRBajBOV19ENGxEbXgyV2p1V1JUczNyb3J1UGpQcDlEWHBNdHQxanFaVUVJamlsTThzY2pWcVhCcGtNdWZmYXR3YXZGcDRNR3RkQnhOLUhZOUNla2tmMnlUZEh5T1VhZk9pUTJfSmNPeDdmZm5Ea2x0SHNEcnh3VUgwN2VKTnl3dzk5VGZCUXB6WFdRam1KLXlJbXd3d2FWUXVuaHE3WUh5NXJTTE5PemJDc0NaaTNVVlBDZTQwRXJpakotUFhLWHpIdVhpTW5oTEpRT01jVXdmY2tncjUtaVQ00gGUAkFVX3lxTE4zS0owQTR5VjhacWs4YzdVbjVOa3MyZ1ZoVlBONC1RZHQtUW1SMlVZcDBTLXJ6VGR4bGNOWlZkaFBJMkRFV1RxTkhEek1uOGd0RG1QaVJQOTNJaTZuZzhJeUZHRUR4ZmdOM1JTSXJGcTF2MEdpREk2UDdOdUoxUjRjNWl6VnRXQTVTcDk3UFg3TzBzelBtNXNpNzd3RF9abVp6NmJjTHdoUzZVMFlldzlFb2xCajBQTXFCSk5Del96c3JTWGJROEJNZUNmRm9Gbk9YSUU4czZUWV9ibHMyVm8yeENkVTJKYmJWZU1zTVRmOXp3WEtENEZMSDEyeDdjNkJ1ZUkwNWNuT2NCN3pFVHlBQzlGOA?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "EPack Prefab Technologies Limited",
-      "symbol": "EPACKPEB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
       "predictionScore": -3.3,
-      "confidence": 76,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 208.42,
+      "lastClose": 715.6,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Commencement of commercial production/operations",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Capacity addition",
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -311,138 +422,33 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Suraj Estate Developers Limited",
-      "symbol": "SURAJEST",
+      "company": "Neueon Corporation Limited",
+      "symbol": "NEUEON",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
       "predictionScore": -3.3,
-      "confidence": 76,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 177.56,
+      "lastClose": 10.88,
       "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Financial Results",
           "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Epigral Limited",
-      "symbol": "EPIGRAL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.6,
-      "confidence": 71,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 907.3,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Fusion Finance Limited",
-      "symbol": "FUSION",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 69,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 135.18,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Arvind Fashions Limited",
-      "symbol": "ARVINDFASN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 69,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 358.9,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
           "verified": true
         }
       ],
@@ -488,14 +494,306 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Jio Platforms Limited",
-      "symbol": "JPL",
+      "company": "Nitin Spinners Limited",
+      "symbol": "NITINSPIN",
       "exchange": "NSE",
-      "confirmedNewsCount": 16,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.0,
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 651.2,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "NTPC Limited",
+      "symbol": "NTPC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 0,
+      "lastClose": 316.25,
+      "catalysts": [
+        {
+          "label": "NTPC Q2 Results: Profit Jumps 41% To Rs 7,351 Crore, Declares Dividend",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/ntpc-q2-results-profit-jumps-41-to-rs-7-351-crore-revenue-up-21-12263199#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Capillary Technologies India Limited",
+      "symbol": "CAPILLARY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -5.0,
+      "confidence": 90,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 83,
+      "lastClose": 502.55,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Final  forensic  audit  report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Final  forensic  audit  report",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Fraud/Default/Arrest",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Mangal Electrical Industries Limited",
+      "symbol": "MEIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 246.9,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Suraj Estate Developers Limited",
+      "symbol": "SURAJEST",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 172.48,
+      "catalysts": [
+        {
+          "label": "Integrated Filing- Financial",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Clean Science and Technology Limited",
+      "symbol": "CLEAN",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 715.6,
+      "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Neueon Corporation Limited",
+      "symbol": "NEUEON",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 10.88,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Shyam Metalics and Energy Limited",
+      "symbol": "SHYAMMETL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 1162.9,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Integrated Filing- Financial",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Jio Platforms Limited",
+      "symbol": "JPL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 15,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -503,7 +801,7 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Jio Platforms\u2019 IPO surges 21% in India\u2019s largest-ever stock market debut - Nacionale",
+          "label": "Indian Stock Market at a Crossroads: Will the Jio Platforms IPO Trigger a New Investment Wave? - jknewstoday.com",
           "type": "corporate action",
           "verified": true
         },
@@ -513,8 +811,8 @@
           "verified": true
         },
         {
-          "label": "Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions - BBC",
-          "type": "corporate action",
+          "label": "Jio Platforms Makes Stock Market Debut, Becomes India\u2019s 2nd Largest Listed Company (2026) - Artificial Intelligence News & Cryptocurrency News: Latest Trends | Analytics Insight",
+          "type": "company news",
           "verified": true
         }
       ],
@@ -522,7 +820,7 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRzB6Tm1HNHRUenZzM1FMLTJtWXh4alBOYVR1YTJHdUFOVmpoMWYySGZnelFFTVcyc2RzdV9DOXFDcnp0LXBNSmc1cTRNR3lieTIyNExhY01MR0FJN21xUTFYbTlRNkhOZFZDYjlHeUdnQjFLUFZmRV9qWVg2S3VIVWhGVXJ1WjFuSV9FREx5R1gxV2FOdGR1OWVUeE1CTGdPUTVsd05GZGt2dnhwRldLMElHX2x3dw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnd1OGIwRC1weER4UVF2elQySzNmLXJPZWZadG11d1J4d2Z3dUU2NURHazU1dUVTOEpmU3pMa0RsUzg5ZnZTSE5BWHZOaGdOX2hiejA0ZV9IMzNidEZ4YmZPUGw3Q1NUMFJLUy1PN3YxX0dKbU9tRjJnTGM5bmZSY1VhazhOVWdxbGNXMzh0X2xXOFhrYVdnU01vMlZHSmoxS2JmVFBvYnhmeGlxVWFjVExFSWQxbHVV?oc=5",
           "verified": true
         },
         {
@@ -532,12 +830,12 @@
         },
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSlY2YVBSMnZYQWZGOXpKQklJUUNkYnZPOXpaODVadFJyellvcmpWVC1jZV9qeFF5NE1LWUZDT3oyaThrXzUwU2daMDduN2RIbDVmMFdBcXpBekU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS01TeEZJYlo5dUtTUjRLTEtyUXphc0c0Y2x2NkNDQy1VdmhkaXlvb0EzVEExbFMyOEd1UEswY1d6ajh3cHVMUkt5eERqeTlhN240VDNrUXZzTlNYQVcxbEdWOFFCc2lwN1NWRW1RUkVVQzZZOFFfTHh6TzlPb3BiVkpMSmdkbGMxMkFhRVJmYV9UUndBMTY0THc1R09sdU9GYU9DTGFvOERaQVRZNWRadDZQcThmWHRLYzN1Z2NiVlRKQ1pVNUw2RHA4N0F5eVJaT0ZXZG81YlLSAdgBQVVfeXFMTUtNU3hGSWJaOXVLU1I0S0xLclF6YXNHNGNsdjZDQ0MtVXZoZGl5b29BM1RBMWxTMjhHdVBLMGNXemo4d3B1TFJLeXhEank5YTduNFQza1F2c05TWEFXMWxHVjhRQnNpcDdTVkVtUVJFVUM2WThRX0x4ek85T29wYlZKTEpnZGxjMTJBYUVSZmFfVFJ3QTE2NEx3NUdPbHVPRmFPQ0xhbzhEWkFUWTVkWnQ2UHE4Zlh0S2MzdWdjYlZUSkNaVTVMNkRwODdBeXlSWk9GV2RvNWJS?oc=5",
           "verified": true
         },
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS01TeEZJYlo5dUtTUjRLTEtyUXphc0c0Y2x2NkNDQy1VdmhkaXlvb0EzVEExbFMyOEd1UEswY1d6ajh3cHVMUkt5eERqeTlhN240VDNrUXZzTlNYQVcxbEdWOFFCc2lwN1NWRW1RUkVVQzZZOFFfTHh6TzlPb3BiVkpMSmdkbGMxMkFhRVJmYV9UUndBMTY0THc1R09sdU9GYU9DTGFvOERaQVRZNWRadDZQcThmWHRLYzN1Z2NiVlRKQ1pVNUw2RHA4N0F5eVJaT0ZXZG81YlLSAdgBQVVfeXFMTUtNU3hGSWJaOXVLU1I0S0xLclF6YXNHNGNsdjZDQ0MtVXZoZGl5b29BM1RBMWxTMjhHdVBLMGNXemo4d3B1TFJLeXhEank5YTduNFQza1F2c05TWEFXMWxHVjhRQnNpcDdTVkVtUVJFVUM2WThRX0x4ek85T29wYlZKTEpnZGxjMTJBYUVSZmFfVFJ3QTE2NEx3NUdPbHVPRmFPQ0xhbzhEWkFUWTVkWnQ2UHE4Zlh0S2MzdWdjYlZUSkNaVTVMNkRwODdBeXlSWk9GV2RvNWJS?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOG5tSHo0aDdwSFBUZzh4QzhpUnJOaVh5WlN2dExJamEzeE9nQUFHLTVGVTlHcTQ0UWt1OEt0R2lTaVRBallmYWV6enBYN3RRWXpOSkdBOW8zcmVmeWkyRjctOU85dFhYdmtfVjNqUzVtSkY0bjNjd3J6YUlXZXNMTl9TT0FtNmdtM0hQY0F1dlM0N2JxMi1MR3QxN1Z0RHJVTTBVS2Q2dERCbUc1ZWFsTXE3V2J6bGNrcEFsU2czWlU5ckxaOXp6NmtwTERfQkV3bmRGVUc3RFFGRE1LRi1SQ1BaTWVDNGU3VzJGbkdPLVBrSTZDVy1BMzNkcGNteUlCVk1KQ1RJMm1nXzVwbGctUQ?oc=5",
           "verified": true
         }
       ],
@@ -579,55 +877,25 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Sundram Fasteners Limited",
-      "symbol": "SUNDRMFAST",
+      "company": "Manba Finance Limited",
+      "symbol": "MANBA",
       "exchange": "NSE",
-      "confirmedNewsCount": 10,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 2.2,
-      "confidence": 86,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
       "technicalConfidence": null,
       "lastClose": null,
       "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Manba Finance Limited",
-      "symbol": "MANBA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 86,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
@@ -636,262 +904,6 @@
         {
           "label": "Investor Presentation",
           "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Arisinfra Solutions Limited",
-      "symbol": "ARIS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 84,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Giving guarantees/indemnity/ becoming a surety for third party",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ganesha Ecosphere Limited",
-      "symbol": "GANECOS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1029.4,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "EPack Prefab Technologies Limited",
-      "symbol": "EPACKPEB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 208.42,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Commencement of commercial production/operations",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Capacity addition",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Suraj Estate Developers Limited",
-      "symbol": "SURAJEST",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 177.56,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.5,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Q2 October dividend champions: Infosys, Colgate, HUL, CPCL, Coal India | Big payouts - amount, record date - Livemint",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVHNDWkJNUmI5ZWRwUFVyaXBUc3pOMlBWdm9ZVEJmWEFwTlJzTDd3Qkd1V3EyMkRBajBOV19ENGxEbXgyV2p1V1JUczNyb3J1UGpQcDlEWHBNdHQxanFaVUVJamlsTThzY2pWcVhCcGtNdWZmYXR3YXZGcDRNR3RkQnhOLUhZOUNla2tmMnlUZEh5T1VhZk9pUTJfSmNPeDdmZm5Ea2x0SHNEcnh3VUgwN2VKTnl3dzk5VGZCUXB6WFdRam1KLXlJbXd3d2FWUXVuaHE3WUh5NXJTTE5PemJDc0NaaTNVVlBDZTQwRXJpakotUFhLWHpIdVhpTW5oTEpRT01jVXdmY2tncjUtaVQ00gGUAkFVX3lxTE4zS0owQTR5VjhacWs4YzdVbjVOa3MyZ1ZoVlBONC1RZHQtUW1SMlVZcDBTLXJ6VGR4bGNOWlZkaFBJMkRFV1RxTkhEek1uOGd0RG1QaVJQOTNJaTZuZzhJeUZHRUR4ZmdOM1JTSXJGcTF2MEdpREk2UDdOdUoxUjRjNWl6VnRXQTVTcDk3UFg3TzBzelBtNXNpNzd3RF9abVp6NmJjTHdoUzZVMFlldzlFb2xCajBQTXFCSk5Del96c3JTWGJROEJNZUNmRm9Gbk9YSUU4czZUWV9ibHMyVm8yeENkVTJKYmJWZU1zTVRmOXp3WEtENEZMSDEyeDdjNkJ1ZUkwNWNuT2NCN3pFVHlBQzlGOA?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Epigral Limited",
-      "symbol": "EPIGRAL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.6,
-      "confidence": 78,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 907.3,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Credit Rating",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) initiated or orders passed",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Nitin Spinners Limited",
-      "symbol": "NITINSPIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 648.05,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Q2 FY27 results scheduled 2026-10-31",
-          "type": "result",
           "verified": true
         }
       ],
