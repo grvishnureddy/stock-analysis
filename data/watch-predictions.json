@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T16:01:50+00:00",
+  "generatedAt": "2026-11-02T23:34:37+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,30 +7,30 @@
       "company": "ITC Limited",
       "symbol": "ITC",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 11.0,
+      "predictionScore": 8.4,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 266.4,
+      "technicalConfidence": 50,
+      "lastClose": 265.6,
       "catalysts": [
         {
-          "label": "Q2 Results Live: ITC Profit Falls 20%, Margins Contract; Concor Announces Dividend",
+          "label": "Q2 Results Updates: NALCO Profit Dips 8%, Announces Dividend; ITC Profit Falls 20%, Margins Contract",
           "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "ITC Q2 Results: Profit Plunges 20% As Margin Shrinks, Revenue Up Slightly",
-          "type": "results",
           "verified": true
         },
         {
           "label": "Q2 Results, Nov 2: ITC, Marico, NALCO, UPL, NLC India, Tata Investment Corp, ESDS Software Solution, others to post earnings - Upstox",
           "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Amalgamation/Merger",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -42,11 +42,6 @@
           "verified": true
         },
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/itc-q2-results-profits-hit-rs-4-137-crore-to-edge-past-estimates-revenue-up-sightly-12271935#publisher=newsstand",
-          "verified": true
-        },
-        {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWGtlT3B3TlRnYlVHSm9kQmhMYjRMczlCS25zemdsaGtKSzF2dGtva2ZlXzVfSjV6LUhSX3Ria0o3akhKV2swWWlSclh5dUdxNUwyRzZmb2dmb2lTSmhxTFUwOTA5dGc4WE03S25NUXZ3RWFuR1pTbXBhd09CalUtQkdjdk1HZGJ3MGtWRVd0eU9KQnJic2pTT1FHWmNRczFnR0NueXZxWXF2UXl2cENad3FUam9QdnBtRGdnZU41S3pBVm1xd29XN2hTMXc2MjJoQ0dtcVFpV0QtODgxNW5TaU84QmlMOXQzd05xSWlqcEJKSUpNN3lpei1LWGc0S2RnbGh1ZEJuYw?oc=5",
           "verified": true
@@ -55,39 +50,96 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Petronet LNG Limited",
-      "symbol": "PETRONET",
+      "company": "Asian Paints Limited",
+      "symbol": "ASIANPAINT",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 11,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 7.9,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Dividend, bonus issue: Last chance to buy today \u2014 Godrej Consumer, Coal India, Asian Paints and others - Livemint",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Dividend, stock split, bonus issues this week: Infosys, NTPC, Asian Paints, Coal India, Colgate, others in focus - Upstox",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Asian Paints (India) advances Monday, underperforms market - MarketWatch",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNHh3NmdqaFdZRmZrOGlPRHVUUjFTaHV5aWNWV0RsaGp1Q3pSWTVwTGJSUjJ0UjNtWlZkbUcwNWdnN1JOUHVtbEllVV8tZWRCNFRkZXI1YXJPam9ncDdySV9vYTcwLWhaaGVwZ3pvWWlhQ2E5NGhVbWRqNkJWTmo3T3JtYlVKWlc3T2ZhSVBNMHF6ZXVnOXR5OVFEMzdaa01OQUFOeWxid2RkcjIxU2o1dWZwTUtYZUtjUmVTWmx4a3pNbll4cnd6a2lxc0U5YXZOUXF6Z0YzTGpSN2czdzNvM3h6NWgzby1hTlRhRENydnBnMnlZSUpFODdB0gH_AUFVX3lxTE91QTNqeUdORkE4UDQxc2M3NG1kY09qTDduMGdZUDl0cEh5b1pmQUlPU1JBZDQ3MDVhOThNSC1RZmsyb1lIWUhmN3Z2SHN2N0k0bG12RS0xNmRXb2dqWkVlTEIySHZIQ3FFZC1yeGJpN3ZkY2hCQ2VOd0plTm8tMEJueGt1dFdFVDZMQUgyZWxtV0V0NEpPMWNaV1dvTHNxX0drSlM3cGRrdFpvQmNQdlpFNXpLamh3UHRpZWkxdGV0eFJzZ2xORmFiR0tCU2RLOFpReElHR1J5VkoyamRQcGFQNUc4cU5MMzRtTjRaaFh5aGNWMVRxcEJoN3BROWVraw?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZm1wM1pBaGVBTXREd0ZqX2Fud1dKTXZWX19lWjRHTXpubllvSU1Gbl9mSVptYVZOaFc5UXZwZVlUa2FsOWR4dFBfVmVQc3VCODJDVEVMZm4tUzlzbFJvbERQM0hDc3huNTR5R3hlUEZRYXU3ZjFObHRnOWhRNHhLM192OGNsZUgxajZoeF9xVGw1cXd3RkE3MXVGRTNlbDc1WXdjV21VWjZ2d29HY1UwWndsc3MwUlVETWJFdFdYY2NYanB0blBGSzlyM2pFQzd2a01zbDVZSmRfREFWMkdDeDIta2trdzN6Y2JMbVRNaw?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTGkzRWtFX1V4eHl1VGtDYXNRLWNvejNGaW5lOUdITXQtMlh0YjQxS2txamtYZ1FDT2paOUktWnZBbkRRSk5tMmpJTUJjRkR6QXRQa2dNa3c3X1hvdUhZNTZyOGs0N1FVV0x5UUZUSFpXN1FSTmN2VHFVSF9JNjVVY0lER0dMOFE3UGx5cXhGSmxXWTZYWmhfUWl5VER3VERLRjhhb1Z5M1h1X3BUZnpVeA?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Sanofi India Limited",
+      "symbol": "SANOFI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 4.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 300.95,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Record Date",
+          "label": "Here's Why We're Wary Of Buying Sanofi India's (NSE:SANOFI) For Its Upcoming Dividend - Simply Wall St",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdlZGb1hMRGNrb2RxY3BSQ2RjZUVHanROVDk4M1Z5YUxqckllOVA4OTFoRDBhZ2ZDYTNGazFDSWV6dWJ1b0MwazRlc0dfZHpnUW1PanB6b0FxQ0hUdzRFeVF2bmcwOVBiYUVrbklvM3VpTWVITHgxMk1TUXYtdXpHZzllMVljUFhkRmRBaGtkUkI1RkRFT1c1ZGthWWd1eEx0S052WTlfeEs5YU11Z3ZVR3JsOXJuUkxOTlBmQktJdktJU1F5X3JKbnBzM0M3LVZid0tDYkdSd2U1aG10VkVSTXViMWpVRk3SAewBQVVfeXFMTURWOHZfNHdkN2ppeHo3WkVqVC1GN2xMd21jZTl6TG9IYWVpbUxIRnpGZjFRR3F5T21sUS1rTVItLTRWekdUQ1hlcmI4VndQcGtWMjh5RVh4M0YxWkR4dDZBMk5ibkgzdm9SQTY1Wk9OS0lmRXpkeWV4bk5wMUt1Z3NuVFpaV3FWd0NJcWRFeWRCVVR5MFNheEJOcUxCcVllY1VmV0VwYlJHTHR0ajYtQnhVdHFXTVd1aVRxR1ZPaUhFaVA0TlY0WUgySm1lSlAzb29IRWs4S3VhaVFGb2M2YXlRV2R4eDkwZkhucFY?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Engineers India Limited",
@@ -97,7 +149,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.6,
+      "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -141,47 +193,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Info Edge (India) Limited",
-      "symbol": "NAUKRI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 23,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Should Income Investors Look At Info Edge (India) Limited (NSE:NAUKRI) Before Its Ex-Dividend? - Simply Wall St",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdUVCMlR2d2RiZzE0OGZCWUFYLXNQS2J2ckpUOWZqQUhzR1ZqZk5IUlV3VERyQkRnbGYwLVRWX3h2Zi1BeVNjR0ktb2gzTFM0VlVnMTdRTWM2ZmZEMlVoUHFMTFZpQU0wTWE0c1ZVd2NETkJYRVUwUUphTGpzMFpDRC02QVVldnNFLURJam9vdE16WDhZUlR4ajdCdFY4Q1BFUFdVQk4tdnlMamdUemxKbUwwUXBVbVRFTjJrNEx2R3pLYlB0aENxOHhXblhQSmdBQ202S21R0gHbAUFVX3lxTE5QOTBqNUU3aUlNdXhNd0wteFpWd0NqZHZoa3UwTGZ5a1FHb21NTElxbFpuZTlhOXAwZ3RydFB1QXM5YlZjZTBFbjBDWlBaY1RoNWxHMDFqdUFFMTRQdWNNbXVPYWVvbWptNTk4STVQdHI2c2lXLXNSWmJ6b3FHblN0NENJYmJPNEZJVHkxOUVKQTdwRGNpbUR2QjBsd00yNzhwZmN4MEhzMWJQUU1IeGJMT25CVFp3OWozM0JvT3FKd1Ewd2U3UUluVnpyMnFHcnV4N29yVWh2bEFhRQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Capillary Technologies India Limited",
       "symbol": "CAPILLARY",
       "exchange": "NSE",
@@ -194,7 +205,7 @@
       "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 502.3,
+      "lastClose": 502.55,
       "catalysts": [
         {
           "label": "Change in Auditors",
@@ -223,8 +234,43 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Escorts Kubota Limited",
-      "symbol": "ESCORTS",
+      "company": "Ganesh Consumer Products Limited",
+      "symbol": "GANESHCP",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 166.82,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Record Date",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Fusion Finance Limited",
+      "symbol": "FUSION",
       "exchange": "NSE",
       "confirmedNewsCount": 9,
       "gossipCount": 0,
@@ -235,20 +281,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2423.2,
+      "lastClose": 129.24,
       "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Statement of deviation(s) or variation(s) under Reg. 32",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Monitoring Agency Report",
           "type": "announcement",
           "verified": true
         }
@@ -258,8 +304,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Fusion Finance Limited",
-      "symbol": "FUSION",
+      "company": "Arvind Fashions Limited",
+      "symbol": "ARVINDFASN",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
@@ -270,20 +316,55 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 132.74,
+      "lastClose": 349.7,
       "catalysts": [
         {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Monitoring Agency Report",
+          "label": "Acquisition",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "EPack Prefab Technologies Limited",
+      "symbol": "EPACKPEB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 208.42,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -305,7 +386,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1845.0,
+      "lastClose": 1823.5,
       "catalysts": [
         {
           "label": "Resignation of Director/KMP/SMP",
@@ -340,7 +421,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 292.5,
+      "lastClose": 272.85,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -375,7 +456,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 217.42,
+      "lastClose": 206.2,
       "catalysts": [
         {
           "label": "Updates",
@@ -396,76 +477,6 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Choice International Limited",
-      "symbol": "CHOICEIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 751.15,
-      "catalysts": [
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Bonus",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ideaforge Technology Limited",
-      "symbol": "IDEAFORGE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 639.25,
-      "catalysts": [
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -473,30 +484,30 @@
       "company": "ITC Limited",
       "symbol": "ITC",
       "exchange": "NSE",
-      "confirmedNewsCount": 8,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 12.5,
+      "predictionScore": 9.7,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 266.4,
+      "technicalConfidence": 50,
+      "lastClose": 265.6,
       "catalysts": [
         {
-          "label": "Q2 Results Live: ITC Profit Falls 20%, Margins Contract; Concor Announces Dividend",
+          "label": "Q2 Results Updates: NALCO Profit Dips 8%, Announces Dividend; ITC Profit Falls 20%, Margins Contract",
           "type": "contract",
-          "verified": true
-        },
-        {
-          "label": "ITC Q2 Results: Profit Plunges 20% As Margin Shrinks, Revenue Up Slightly",
-          "type": "results",
           "verified": true
         },
         {
           "label": "Q2 Results, Nov 2: ITC, Marico, NALCO, UPL, NLC India, Tata Investment Corp, ESDS Software Solution, others to post earnings - Upstox",
           "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Amalgamation/Merger",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -508,11 +519,6 @@
           "verified": true
         },
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/itc-q2-results-profits-hit-rs-4-137-crore-to-edge-past-estimates-revenue-up-sightly-12271935#publisher=newsstand",
-          "verified": true
-        },
-        {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWGtlT3B3TlRnYlVHSm9kQmhMYjRMczlCS25zemdsaGtKSzF2dGtva2ZlXzVfSjV6LUhSX3Ria0o3akhKV2swWWlSclh5dUdxNUwyRzZmb2dmb2lTSmhxTFUwOTA5dGc4WE03S25NUXZ3RWFuR1pTbXBhd09CalUtQkdjdk1HZGJ3MGtWRVd0eU9KQnJic2pTT1FHWmNRczFnR0NueXZxWXF2UXl2cENad3FUam9QdnBtRGdnZU41S3pBVm1xd29XN2hTMXc2MjJoQ0dtcVFpV0QtODgxNW5TaU84QmlMOXQzd05xSWlqcEJKSUpNN3lpei1LWGc0S2RnbGh1ZEJuYw?oc=5",
           "verified": true
@@ -521,80 +527,61 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Petronet LNG Limited",
-      "symbol": "PETRONET",
+      "company": "Asian Paints Limited",
+      "symbol": "ASIANPAINT",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.8,
+      "predictionScore": 7.9,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 300.95,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Record Date",
-          "type": "announcement",
+          "label": "Dividend, bonus issue: Last chance to buy today \u2014 Godrej Consumer, Coal India, Asian Paints and others - Livemint",
+          "type": "corporate action",
           "verified": true
         },
         {
-          "label": "Dividend",
-          "type": "announcement",
+          "label": "Dividend, stock split, bonus issues this week: Infosys, NTPC, Asian Paints, Coal India, Colgate, others in focus - Upstox",
+          "type": "corporate action",
           "verified": true
         },
         {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
+          "label": "Asian Paints (India) advances Monday, underperforms market - MarketWatch",
+          "type": "company news",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Choice International Limited",
-      "symbol": "CHOICEIN",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 751.15,
-      "catalysts": [
+      "sources": [
         {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNHh3NmdqaFdZRmZrOGlPRHVUUjFTaHV5aWNWV0RsaGp1Q3pSWTVwTGJSUjJ0UjNtWlZkbUcwNWdnN1JOUHVtbEllVV8tZWRCNFRkZXI1YXJPam9ncDdySV9vYTcwLWhaaGVwZ3pvWWlhQ2E5NGhVbWRqNkJWTmo3T3JtYlVKWlc3T2ZhSVBNMHF6ZXVnOXR5OVFEMzdaa01OQUFOeWxid2RkcjIxU2o1dWZwTUtYZUtjUmVTWmx4a3pNbll4cnd6a2lxc0U5YXZOUXF6Z0YzTGpSN2czdzNvM3h6NWgzby1hTlRhRENydnBnMnlZSUpFODdB0gH_AUFVX3lxTE91QTNqeUdORkE4UDQxc2M3NG1kY09qTDduMGdZUDl0cEh5b1pmQUlPU1JBZDQ3MDVhOThNSC1RZmsyb1lIWUhmN3Z2SHN2N0k0bG12RS0xNmRXb2dqWkVlTEIySHZIQ3FFZC1yeGJpN3ZkY2hCQ2VOd0plTm8tMEJueGt1dFdFVDZMQUgyZWxtV0V0NEpPMWNaV1dvTHNxX0drSlM3cGRrdFpvQmNQdlpFNXpLamh3UHRpZWkxdGV0eFJzZ2xORmFiR0tCU2RLOFpReElHR1J5VkoyamRQcGFQNUc4cU5MMzRtTjRaaFh5aGNWMVRxcEJoN3BROWVraw?oc=5",
           "verified": true
         },
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZm1wM1pBaGVBTXREd0ZqX2Fud1dKTXZWX19lWjRHTXpubllvSU1Gbl9mSVptYVZOaFc5UXZwZVlUa2FsOWR4dFBfVmVQc3VCODJDVEVMZm4tUzlzbFJvbERQM0hDc3huNTR5R3hlUEZRYXU3ZjFObHRnOWhRNHhLM192OGNsZUgxajZoeF9xVGw1cXd3RkE3MXVGRTNlbDc1WXdjV21VWjZ2d29HY1UwWndsc3MwUlVETWJFdFdYY2NYanB0blBGSzlyM2pFQzd2a01zbDVZSmRfREFWMkdDeDIta2trdzN6Y2JMbVRNaw?oc=5",
           "verified": true
         },
         {
-          "label": "Bonus",
-          "type": "upcoming event",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTGkzRWtFX1V4eHl1VGtDYXNRLWNvejNGaW5lOUdITXQtMlh0YjQxS2txamtYZ1FDT2paOUktWnZBbkRRSk5tMmpJTUJjRkR6QXRQa2dNa3c3X1hvdUhZNTZyOGs0N1FVV0x5UUZUSFpXN1FSTmN2VHFVSF9JNjVVY0lER0dMOFE3UGx5cXhGSmxXWTZYWmhfUWl5VER3VERLRjhhb1Z5M1h1X3BUZnpVeA?oc=5",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Nelcast Limited",
-      "symbol": "NELCAST",
+      "company": "Avonmore Capital & Management Services Limited",
+      "symbol": "AVONMORE",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -603,7 +590,48 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 143.65,
+      "lastClose": 13.04,
+      "catalysts": [
+        {
+          "label": "Avonmore Capital NSE:AVONMORE Q2 FY27 Results - Kalkine India",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlZvbzdZcld1U0RYYlBEWDM5a1U4TlZyMmVOeU0wMHREQjR4YVRzbTBlRjRZRnd6ckVwWnhPbnlDTFNYNm5oaV9MLWpPYmtkdU9oOE10RUdDblNieDl5cTlBcmQ2bkNOSkpLTzVpcDdvMm1LUnhFRVBBMEozMlB4OFY3OF8zbVltQjdGcnJZaFV4OEo2dXhmYk9aQncyeWlUcm5lb1RpU3YwM2JEZlo3c2ptNA?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Ganesh Consumer Products Limited",
+      "symbol": "GANESHCP",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 166.82,
       "catalysts": [
         {
           "label": "Investor Presentation",
@@ -616,49 +644,14 @@
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Record Date",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Cineline India Limited",
-      "symbol": "CINELINE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 94.4,
-      "catalysts": [
-        {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Capillary Technologies India Limited",
@@ -673,7 +666,7 @@
       "riskLevel": "Medium",
       "technicalSignal": "Bearish",
       "technicalConfidence": 83,
-      "lastClose": 502.3,
+      "lastClose": 502.55,
       "catalysts": [
         {
           "label": "Change in Auditors",
@@ -702,6 +695,47 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
+      "company": "Sanofi India Limited",
+      "symbol": "SANOFI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Here's Why We're Wary Of Buying Sanofi India's (NSE:SANOFI) For Its Upcoming Dividend - Simply Wall St",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdlZGb1hMRGNrb2RxY3BSQ2RjZUVHanROVDk4M1Z5YUxqckllOVA4OTFoRDBhZ2ZDYTNGazFDSWV6dWJ1b0MwazRlc0dfZHpnUW1PanB6b0FxQ0hUdzRFeVF2bmcwOVBiYUVrbklvM3VpTWVITHgxMk1TUXYtdXpHZzllMVljUFhkRmRBaGtkUkI1RkRFT1c1ZGthWWd1eEx0S052WTlfeEs5YU11Z3ZVR3JsOXJuUkxOTlBmQktJdktJU1F5X3JKbnBzM0M3LVZid0tDYkdSd2U1aG10VkVSTXViMWpVRk3SAewBQVVfeXFMTURWOHZfNHdkN2ppeHo3WkVqVC1GN2xMd21jZTl6TG9IYWVpbUxIRnpGZjFRR3F5T21sUS1rTVItLTRWekdUQ1hlcmI4VndQcGtWMjh5RVh4M0YxWkR4dDZBMk5ibkgzdm9SQTY1Wk9OS0lmRXpkeWV4bk5wMUt1Z3NuVFpaV3FWd0NJcWRFeWRCVVR5MFNheEJOcUxCcVllY1VmV0VwYlJHTHR0ajYtQnhVdHFXTVd1aVRxR1ZPaUhFaVA0TlY0WUgySm1lSlAzb29IRWs4S3VhaVFGb2M2YXlRV2R4eDkwZkhucFY?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Engineers India Limited",
       "symbol": "ENGINERSIN",
       "exchange": "NSE",
@@ -709,7 +743,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.6,
+      "predictionScore": 4.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -753,49 +787,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Info Edge (India) Limited",
-      "symbol": "NAUKRI",
-      "exchange": "NSE",
-      "confirmedNewsCount": 23,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Should Income Investors Look At Info Edge (India) Limited (NSE:NAUKRI) Before Its Ex-Dividend? - Simply Wall St",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdUVCMlR2d2RiZzE0OGZCWUFYLXNQS2J2ckpUOWZqQUhzR1ZqZk5IUlV3VERyQkRnbGYwLVRWX3h2Zi1BeVNjR0ktb2gzTFM0VlVnMTdRTWM2ZmZEMlVoUHFMTFZpQU0wTWE0c1ZVd2NETkJYRVUwUUphTGpzMFpDRC02QVVldnNFLURJam9vdE16WDhZUlR4ajdCdFY4Q1BFUFdVQk4tdnlMamdUemxKbUwwUXBVbVRFTjJrNEx2R3pLYlB0aENxOHhXblhQSmdBQ202S21R0gHbAUFVX3lxTE5QOTBqNUU3aUlNdXhNd0wteFpWd0NqZHZoa3UwTGZ5a1FHb21NTElxbFpuZTlhOXAwZ3RydFB1QXM5YlZjZTBFbjBDWlBaY1RoNWxHMDFqdUFFMTRQdWNNbXVPYWVvbWptNTk4STVQdHI2c2lXLXNSWmJ6b3FHblN0NENJYmJPNEZJVHkxOUVKQTdwRGNpbUR2QjBsd00yNzhwZmN4MEhzMWJQUU1IeGJMT25CVFp3OWozM0JvT3FKd1Ewd2U3UUluVnpyMnFHcnV4N29yVWh2bEFhRQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Escorts Kubota Limited",
-      "symbol": "ESCORTS",
+      "company": "Fusion Finance Limited",
+      "symbol": "FUSION",
       "exchange": "NSE",
       "confirmedNewsCount": 9,
       "gossipCount": 0,
@@ -806,20 +799,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 2423.2,
+      "lastClose": 129.24,
       "catalysts": [
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Statement of deviation(s) or variation(s) under Reg. 32",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Monitoring Agency Report",
           "type": "announcement",
           "verified": true
         }
@@ -829,8 +822,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Fusion Finance Limited",
-      "symbol": "FUSION",
+      "company": "Arvind Fashions Limited",
+      "symbol": "ARVINDFASN",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
@@ -841,20 +834,55 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 132.74,
+      "lastClose": 349.7,
       "catalysts": [
         {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Monitoring Agency Report",
+          "label": "Acquisition",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "EPack Prefab Technologies Limited",
+      "symbol": "EPACKPEB",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 208.42,
+      "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -876,7 +904,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 1845.0,
+      "lastClose": 1823.5,
       "catalysts": [
         {
           "label": "Resignation of Director/KMP/SMP",
@@ -911,7 +939,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 292.5,
+      "lastClose": 272.85,
       "catalysts": [
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
