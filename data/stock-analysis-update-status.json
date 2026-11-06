@@ -1,5 +1,11 @@
 {
-  "updatedAt": "2026-11-05T23:40:19+00:00",
-  "recordCount": 98,
-  "errors": []
+  "updatedAt": "2026-11-06T06:52:36+00:00",
+  "recordCount": 93,
+  "errors": [
+    "AJRINFRA: Could not fetch https://query1.finance.yahoo.com/v8/finance/chart/AJRINFRA.NS?range=1y&interval=1d&events=history: HTTP Error 404: Not Found",
+    "BLUEBLENDS: Could not fetch https://query1.finance.yahoo.com/v8/finance/chart/BLUEBLENDS.NS?range=1y&interval=1d&events=history: HTTP Error 404: Not Found",
+    "CITIUSINVT: Could not fetch https://query1.finance.yahoo.com/v8/finance/chart/CITIUSINVT.NS?range=1y&interval=1d&events=history: HTTP Error 404: Not Found",
+    "GAMMONIND: Could not fetch https://query1.finance.yahoo.com/v8/finance/chart/GAMMONIND.NS?range=1y&interval=1d&events=history: HTTP Error 404: Not Found",
+    "NHIT: Could not fetch https://query1.finance.yahoo.com/v8/finance/chart/NHIT.NS?range=1y&interval=1d&events=history: HTTP Error 404: Not Found"
+  ]
 }
