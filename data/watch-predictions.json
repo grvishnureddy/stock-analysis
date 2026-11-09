@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T22:10:16+00:00",
+  "generatedAt": "2026-11-09T01:46:13+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,7 +11,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.6,
+      "predictionScore": 5.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -52,7 +52,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
+      "predictionScore": 5.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -94,11 +94,11 @@
       "company": "NBCC (India) Limited",
       "symbol": "NBCC",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.3,
+      "predictionScore": 4.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -111,12 +111,12 @@
           "verified": true
         },
         {
-          "label": "Tamil Nadu Greenlights Setting Up PSU For Executing Big-Ticket Govt Construction Projects",
-          "type": "company news",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -126,11 +126,6 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOblMtZmtZU1ctOGJlZTNUMmhmM0pSTm5RUXNXYmxGeTVuWVUwbkdPd0tmejNpWTFyRkVNeFRTUlhDbkNwMnZVaDExYmxrUWlWbW5KWmtYT2dLbXduQnJreGJLZThtZmNVdFk1bDkyZFA5TzZXRTJDdkVXVTcyYXRicjljN1RIYkdnLW9BRG5fZlF4MWN5RXl0M3FOZURkcV9yM1VybVJpN2FmTTJpOEFiYUE4R041LTJQSVhLVXpnZXVIbDJhOTlaSVVQWGpDY2hQN0haUdIB2gFBVV95cUxPdzFMT1FCR1VPUDhtdGpBZWhRejRidW5saWR1QlFMajY4MUs2enNUQjdqamRkdy13cnlmV0FBYzRvTEJQU2ZRb3g2LW9aSFk2QU40ZHJZbDlUdnJvVnNEaXc3MndRUV92VE1VVncybXpDUm1RT19JaHBudGdYaU1McEJ5QmNneE51WXRSN2hRd21zR0ZCWTVfcmVMc1NJbF9iWVlBRzlMM19zSy1IMWZHd2phMUJ5MFdrdEJlTUxpaDYzTjBYbENyYTVnUV9IMnNwQXFTR01kdGduZw?oc=5",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/india/tamil-nadu-greenlights-setting-up-psu-for-executing-big-ticket-govt-construction-projects-12300273#publisher=newsstand",
           "verified": true
         }
       ],
@@ -435,54 +430,38 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Hinduja Global Solutions Limited",
-      "symbol": "HGS",
+      "company": "Network People Services Technologies Limited",
+      "symbol": "NPST",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 2,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.9,
-      "confidence": 69,
+      "predictionScore": 3.3,
+      "confidence": 62,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1777.9,
       "catalysts": [
         {
-          "label": "HGS (India) Shares List At \u20b9160 On NSE SME, 33.33% Above IPO Price - HDFC Sky",
-          "type": "corporate action",
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "HGS (India) IPO Listing Today: Check Share Price and Listing Gains - Univest",
-          "type": "corporate action",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "HGSINDIALT Share Price Today - HGS (INDIA) LIMITED Stock Price Live NSE/BSE - Univest",
-          "type": "company news",
+          "label": "Q2 FY27 results scheduled 2026-11-11",
+          "type": "result",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWtVXzJ5cU9weVlyM2tUalFXeXpQRkhIWmJneW1nRTRVQWFOWVpxNV9kM2laRF9JUU9WMGF1VFZpZkI2ck9nUi1UWjlCSnJnc0t6YmtoTjVnaGQzdXhCNU81U0xqcWFfT3ZEOGN0Sk9uOUJEWG1RdkNDT3pqT2ViSW1yMEJmeEFNTTVIWHQ5QmVqdGtmU1NCTTJhc210dw?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zSUxKVUV1YnQ1TlpVT0IxWVRXNHd0YXlMeEQ4NHF5NFVRNGpTaWtpdW0wYW4tQXBPUFVDazI4alJmclBrQUgxYXlsclR6bERQYzJlcEhiYlFEeEtE?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qdF85M3dSS2xyYXF6T1pTUUlyVHVhQWJVT2FOa0V6b1U3aGRfQ3hEUlhfUE9FMVY4VGFoa1YwaU4wcmpQOG1aWHV5aTRMMTY4Z24ycmdpQnJpMWJzM2dua0YxYXlpamdMZFJObUV3OXZDRjJwNjVxMmEyREY3SDQ?oc=5",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
@@ -495,7 +474,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.6,
+      "predictionScore": 5.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -536,7 +515,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
+      "predictionScore": 5.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -578,11 +557,11 @@
       "company": "NBCC (India) Limited",
       "symbol": "NBCC",
       "exchange": "NSE",
-      "confirmedNewsCount": 11,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.3,
+      "predictionScore": 4.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -595,12 +574,12 @@
           "verified": true
         },
         {
-          "label": "Tamil Nadu Greenlights Setting Up PSU For Executing Big-Ticket Govt Construction Projects",
-          "type": "company news",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -610,11 +589,6 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOblMtZmtZU1ctOGJlZTNUMmhmM0pSTm5RUXNXYmxGeTVuWVUwbkdPd0tmejNpWTFyRkVNeFRTUlhDbkNwMnZVaDExYmxrUWlWbW5KWmtYT2dLbXduQnJreGJLZThtZmNVdFk1bDkyZFA5TzZXRTJDdkVXVTcyYXRicjljN1RIYkdnLW9BRG5fZlF4MWN5RXl0M3FOZURkcV9yM1VybVJpN2FmTTJpOEFiYUE4R041LTJQSVhLVXpnZXVIbDJhOTlaSVVQWGpDY2hQN0haUdIB2gFBVV95cUxPdzFMT1FCR1VPUDhtdGpBZWhRejRidW5saWR1QlFMajY4MUs2enNUQjdqamRkdy13cnlmV0FBYzRvTEJQU2ZRb3g2LW9aSFk2QU40ZHJZbDlUdnJvVnNEaXc3MndRUV92VE1VVncybXpDUm1RT19JaHBudGdYaU1McEJ5QmNneE51WXRSN2hRd21zR0ZCWTVfcmVMc1NJbF9iWVlBRzlMM19zSy1IMWZHd2phMUJ5MFdrdEJlTUxpaDYzTjBYbENyYTVnUV9IMnNwQXFTR01kdGduZw?oc=5",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/india/tamil-nadu-greenlights-setting-up-psu-for-executing-big-ticket-govt-construction-projects-12300273#publisher=newsstand",
           "verified": true
         }
       ],
@@ -780,8 +754,8 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 80,
+      "predictionScore": 5.3,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
@@ -884,6 +858,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Network People Services Technologies Limited",
+      "symbol": "NPST",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1777.9,
+      "catalysts": [
+        {
+          "label": "Financial Results/Other business matters",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Q2 FY27 results scheduled 2026-11-11",
+          "type": "result",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Matrimony.Com Limited",
       "symbol": "MATRIMONY",
       "exchange": "NSE",
@@ -911,36 +920,6 @@
         {
           "label": "Q2 FY27 results scheduled 2026-11-10",
           "type": "result",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Network People Services Technologies Limited",
-      "symbol": "NPST",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1777.9,
-      "catalysts": [
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
           "verified": true
         }
       ],
