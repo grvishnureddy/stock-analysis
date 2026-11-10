@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T12:42:36+00:00",
+  "generatedAt": "2026-11-10T20:51:57+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -7,13 +7,13 @@
       "company": "MRF Limited",
       "symbol": "MRF",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 4.9,
+      "predictionScore": 5.8,
       "confidence": 90,
-      "riskLevel": "Medium",
+      "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
       "lastClose": 125105.0,
@@ -34,22 +34,11 @@
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "MRF Steps Up Price Hikes, Cost Cuts To Weather Raw Material Shock Amid Logistics Squeeze",
-          "type": "company news",
-          "verified": true
-        }
-      ],
+      "risks": [],
       "sources": [
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZ3dVakF6MjdKQ3BUVUpXLTdmRFpEbXc3cW1KaDBleThyamh2YTBkOEpmOWYxVHBBSFhuTll6TFBnWWVxNS1hWHlONWxNYWJIRVVCclR1N1JmTmNBNmV3ZWJSdTZKeW1lTzZ6NUR0VDZLN0w0Q3dPTm5la0l2NGE1Snh2X2ZUTG9WYVBnazlQc3NUb29aUWczZGhHNUw2WkI3Vkp2SkNIbktDSGpmenNkd2I4aFVCazk1dVRNUlJkUzhnSDJRZnFYUE00eHlYaGVjYWU0YXlnTThIaXc3MHh4NmFjNUNybTE2U2NTUlZsNnNiUjV0RlBwc3ZQd3F1aHd6Mm5WR1RjNXMwazF4S2fSAZMCQVVfeXFMTTZzSFNwUlZfWXFmSEJWVC1FNlNRLUNOR29uTFY2bmN5cUx0bEhQd3FEaFNwVklkY0FRZUN2bUpGOVdmRXlJTnZFYmdWMkdFa3hGdE1PX2g2Y2tjekJFMDdxM1VKLVczS1dqZDJxLUNtNE9LMDdveXNBQVdwR0UtVHEwRnZmV1dNOXFJZUhNUUVtUmFZMV9CNi1IY2pvcm95cHdnbUFFMjZlZkVaYWZoV1NjX0lzVTg1eVhKQjdMLXBJQ3dDa0drWm04OW9ZWnBTYnRkVFhVYnZHOUFldGpJWmtBUU15YUFydFgyUjliQWJvQ0x2Y3ctaGZjOC1QR05jaUhKamt5WUc4NkIwcGprM3F6cFk?oc=5",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/mrf-steps-up-price-hikes-cost-cuts-to-weather-raw-material-shock-amid-logistics-squeeze-12307802#publisher=newsstand",
           "verified": true
         }
       ],
@@ -63,7 +52,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.5,
+      "predictionScore": 3.4,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -94,6 +83,76 @@
           "verified": true
         }
       ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Hirect Limited",
+      "symbol": "HIRECT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 913.35,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Matrimony.Com Limited",
+      "symbol": "MATRIMONY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 582.4,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -135,7 +194,7 @@
       "company": "Dabur India Limited",
       "symbol": "DABUR",
       "exchange": "NSE",
-      "confirmedNewsCount": 26,
+      "confirmedNewsCount": 28,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -147,17 +206,17 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) taken or orders passed",
           "type": "announcement",
           "verified": true
         }
@@ -202,47 +261,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "NBCC (India) Limited",
-      "symbol": "NBCC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "NBCC (India) Limited (NSE:NBCC) Looks Interesting, And It's About To Pay A Dividend - Simply Wall St",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOblMtZmtZU1ctOGJlZTNUMmhmM0pSTm5RUXNXYmxGeTVuWVUwbkdPd0tmejNpWTFyRkVNeFRTUlhDbkNwMnZVaDExYmxrUWlWbW5KWmtYT2dLbXduQnJreGJLZThtZmNVdFk1bDkyZFA5TzZXRTJDdkVXVTcyYXRicjljN1RIYkdnLW9BRG5fZlF4MWN5RXl0M3FOZURkcV9yM1VybVJpN2FmTTJpOEFiYUE4R041LTJQSVhLVXpnZXVIbDJhOTlaSVVQWGpDY2hQN0haUdIB2gFBVV95cUxPdzFMT1FCR1VPUDhtdGpBZWhRejRidW5saWR1QlFMajY4MUs2enNUQjdqamRkdy13cnlmV0FBYzRvTEJQU2ZRb3g2LW9aSFk2QU40ZHJZbDlUdnJvVnNEaXc3MndRUV92VE1VVncybXpDUm1RT19JaHBudGdYaU1McEJ5QmNneE51WXRSN2hRd21zR0ZCWTVfcmVMc1NJbF9iWVlBRzlMM19zSy1IMWZHd2phMUJ5MFdrdEJlTUxpaDYzTjBYbENyYTVnUV9IMnNwQXFTR01kdGduZw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Ashoka Buildcon Limited",
       "symbol": "ASHOKA",
       "exchange": "NSE",
@@ -278,73 +296,44 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Matrimony.Com Limited",
-      "symbol": "MATRIMONY",
+      "company": "NBCC (India) Limited",
+      "symbol": "NBCC",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
+      "predictionScore": 3.7,
+      "confidence": 89,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 582.4,
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "General Updates",
+          "label": "NBCC (India) Limited (NSE:NBCC) Looks Interesting, And It's About To Pay A Dividend - Simply Wall St",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Hirect Limited",
-      "symbol": "HIRECT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 913.35,
-      "catalysts": [
+      "sources": [
         {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOblMtZmtZU1ctOGJlZTNUMmhmM0pSTm5RUXNXYmxGeTVuWVUwbkdPd0tmejNpWTFyRkVNeFRTUlhDbkNwMnZVaDExYmxrUWlWbW5KWmtYT2dLbXduQnJreGJLZThtZmNVdFk1bDkyZFA5TzZXRTJDdkVXVTcyYXRicjljN1RIYkdnLW9BRG5fZlF4MWN5RXl0M3FOZURkcV9yM1VybVJpN2FmTTJpOEFiYUE4R041LTJQSVhLVXpnZXVIbDJhOTlaSVVQWGpDY2hQN0haUdIB2gFBVV95cUxPdzFMT1FCR1VPUDhtdGpBZWhRejRidW5saWR1QlFMajY4MUs2enNUQjdqamRkdy13cnlmV0FBYzRvTEJQU2ZRb3g2LW9aSFk2QU40ZHJZbDlUdnJvVnNEaXc3MndRUV92VE1VVncybXpDUm1RT19JaHBudGdYaU1McEJ5QmNneE51WXRSN2hRd21zR0ZCWTVfcmVMc1NJbF9iWVlBRzlMM19zSy1IMWZHd2phMUJ5MFdrdEJlTUxpaDYzTjBYbENyYTVnUV9IMnNwQXFTR01kdGduZw?oc=5",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -369,6 +358,41 @@
         },
         {
           "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Kalyan Jewellers India Limited",
+      "symbol": "KALYANKJIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 76,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 611.0,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
@@ -416,41 +440,6 @@
       "risks": [],
       "sources": [],
       "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "NLC India Limited",
-      "symbol": "NLCINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 72,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -458,13 +447,13 @@
       "company": "MRF Limited",
       "symbol": "MRF",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.4,
+      "predictionScore": 7.3,
       "confidence": 90,
-      "riskLevel": "Medium",
+      "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
       "lastClose": 125105.0,
@@ -485,22 +474,11 @@
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "MRF Steps Up Price Hikes, Cost Cuts To Weather Raw Material Shock Amid Logistics Squeeze",
-          "type": "company news",
-          "verified": true
-        }
-      ],
+      "risks": [],
       "sources": [
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZ3dVakF6MjdKQ3BUVUpXLTdmRFpEbXc3cW1KaDBleThyamh2YTBkOEpmOWYxVHBBSFhuTll6TFBnWWVxNS1hWHlONWxNYWJIRVVCclR1N1JmTmNBNmV3ZWJSdTZKeW1lTzZ6NUR0VDZLN0w0Q3dPTm5la0l2NGE1Snh2X2ZUTG9WYVBnazlQc3NUb29aUWczZGhHNUw2WkI3Vkp2SkNIbktDSGpmenNkd2I4aFVCazk1dVRNUlJkUzhnSDJRZnFYUE00eHlYaGVjYWU0YXlnTThIaXc3MHh4NmFjNUNybTE2U2NTUlZsNnNiUjV0RlBwc3ZQd3F1aHd6Mm5WR1RjNXMwazF4S2fSAZMCQVVfeXFMTTZzSFNwUlZfWXFmSEJWVC1FNlNRLUNOR29uTFY2bmN5cUx0bEhQd3FEaFNwVklkY0FRZUN2bUpGOVdmRXlJTnZFYmdWMkdFa3hGdE1PX2g2Y2tjekJFMDdxM1VKLVczS1dqZDJxLUNtNE9LMDdveXNBQVdwR0UtVHEwRnZmV1dNOXFJZUhNUUVtUmFZMV9CNi1IY2pvcm95cHdnbUFFMjZlZkVaYWZoV1NjX0lzVTg1eVhKQjdMLXBJQ3dDa0drWm04OW9ZWnBTYnRkVFhVYnZHOUFldGpJWmtBUU15YUFydFgyUjliQWJvQ0x2Y3ctaGZjOC1QR05jaUhKamt5WUc4NkIwcGprM3F6cFk?oc=5",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/mrf-steps-up-price-hikes-cost-cuts-to-weather-raw-material-shock-amid-logistics-squeeze-12307802#publisher=newsstand",
           "verified": true
         }
       ],
@@ -510,7 +488,7 @@
       "company": "Matrimony.Com Limited",
       "symbol": "MATRIMONY",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -522,7 +500,42 @@
       "lastClose": 582.4,
       "catalysts": [
         {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Kalyan Jewellers India Limited",
+      "symbol": "KALYANKJIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 611.0,
+      "catalysts": [
+        {
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
@@ -533,6 +546,41 @@
         },
         {
           "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Hirect Limited",
+      "symbol": "HIRECT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 913.35,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
           "type": "announcement",
           "verified": true
         }
@@ -577,41 +625,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Hirect Limited",
-      "symbol": "HIRECT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 913.35,
-      "catalysts": [
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "JNK India Limited",
       "symbol": "JNKINDIA",
       "exchange": "NSE",
@@ -619,7 +632,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.5,
+      "predictionScore": 3.4,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Unavailable",
@@ -656,7 +669,7 @@
       "company": "Dabur India Limited",
       "symbol": "DABUR",
       "exchange": "NSE",
-      "confirmedNewsCount": 26,
+      "confirmedNewsCount": 28,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -668,17 +681,17 @@
       "lastClose": null,
       "catalysts": [
         {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) taken or orders passed",
           "type": "announcement",
           "verified": true
         }
@@ -723,47 +736,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "NBCC (India) Limited",
-      "symbol": "NBCC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.8,
-      "confidence": 89,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "NBCC (India) Limited (NSE:NBCC) Looks Interesting, And It's About To Pay A Dividend - Simply Wall St",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOblMtZmtZU1ctOGJlZTNUMmhmM0pSTm5RUXNXYmxGeTVuWVUwbkdPd0tmejNpWTFyRkVNeFRTUlhDbkNwMnZVaDExYmxrUWlWbW5KWmtYT2dLbXduQnJreGJLZThtZmNVdFk1bDkyZFA5TzZXRTJDdkVXVTcyYXRicjljN1RIYkdnLW9BRG5fZlF4MWN5RXl0M3FOZURkcV9yM1VybVJpN2FmTTJpOEFiYUE4R041LTJQSVhLVXpnZXVIbDJhOTlaSVVQWGpDY2hQN0haUdIB2gFBVV95cUxPdzFMT1FCR1VPUDhtdGpBZWhRejRidW5saWR1QlFMajY4MUs2enNUQjdqamRkdy13cnlmV0FBYzRvTEJQU2ZRb3g2LW9aSFk2QU40ZHJZbDlUdnJvVnNEaXc3MndRUV92VE1VVncybXpDUm1RT19JaHBudGdYaU1McEJ5QmNneE51WXRSN2hRd21zR0ZCWTVfcmVMc1NJbF9iWVlBRzlMM19zSy1IMWZHd2phMUJ5MFdrdEJlTUxpaDYzTjBYbENyYTVnUV9IMnNwQXFTR01kdGduZw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Ashoka Buildcon Limited",
       "symbol": "ASHOKA",
       "exchange": "NSE",
@@ -799,6 +771,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "NBCC (India) Limited",
+      "symbol": "NBCC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.7,
+      "confidence": 89,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "NBCC (India) Limited (NSE:NBCC) Looks Interesting, And It's About To Pay A Dividend - Simply Wall St",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOblMtZmtZU1ctOGJlZTNUMmhmM0pSTm5RUXNXYmxGeTVuWVUwbkdPd0tmejNpWTFyRkVNeFRTUlhDbkNwMnZVaDExYmxrUWlWbW5KWmtYT2dLbXduQnJreGJLZThtZmNVdFk1bDkyZFA5TzZXRTJDdkVXVTcyYXRicjljN1RIYkdnLW9BRG5fZlF4MWN5RXl0M3FOZURkcV9yM1VybVJpN2FmTTJpOEFiYUE4R041LTJQSVhLVXpnZXVIbDJhOTlaSVVQWGpDY2hQN0haUdIB2gFBVV95cUxPdzFMT1FCR1VPUDhtdGpBZWhRejRidW5saWR1QlFMajY4MUs2enNUQjdqamRkdy13cnlmV0FBYzRvTEJQU2ZRb3g2LW9aSFk2QU40ZHJZbDlUdnJvVnNEaXc3MndRUV92VE1VVncybXpDUm1RT19JaHBudGdYaU1McEJ5QmNneE51WXRSN2hRd21zR0ZCWTVfcmVMc1NJbF9iWVlBRzlMM19zSy1IMWZHd2phMUJ5MFdrdEJlTUxpaDYzTjBYbENyYTVnUV9IMnNwQXFTR01kdGduZw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Glottis Limited",
       "symbol": "GLOTTIS",
       "exchange": "NSE",
@@ -826,41 +839,6 @@
         {
           "label": "General Updates",
           "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Kalyan Jewellers India Limited",
-      "symbol": "KALYANKJIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 611.0,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
           "verified": true
         }
       ],
