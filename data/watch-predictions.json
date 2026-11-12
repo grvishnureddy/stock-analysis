@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T09:54:10+00:00",
+  "generatedAt": "2026-11-12T18:22:17+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -45,8 +45,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Alkem Laboratories Limited",
-      "symbol": "ALKEM",
+      "company": "Dilip Buildcon Limited",
+      "symbol": "DBL",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
@@ -57,44 +57,33 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 5300.0,
+      "lastClose": 406.7,
       "catalysts": [
         {
-          "label": "Q2 Results Live: Bharat Dynamics, Hal Margins Miss Estimates; IRCTC, Oil India In Focus",
-          "type": "results",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Alkem Laboratories Q2 Results: Net Profit Falls 12% To Rs 675 Crore; Ropes In Gopal Kothari As CFO",
-          "type": "results",
+          "label": "Investor Presentation",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Trading Window",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q2-results-today-live-updates-hal-irctc-oil-india-ola-electric-vodafone-idea-among-companies-announcing-earnings-12315361#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/alkem-laboratories-q2-results-net-profit-falls-12-percent-to-rs-675-crore-ropes-in-gopal-kothari-as-cfo-12316436#publisher=newsstand",
-          "verified": true
-        }
-      ],
+      "sources": [],
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "BALAXI PHARMACEUTICALS LIMITED",
-      "symbol": "BALAXI",
+      "company": "Loyal Textile Mills Limited",
+      "symbol": "LOYALTEX",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -103,8 +92,48 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 23.67,
+      "lastClose": 227.23,
       "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "BALAXI PHARMACEUTICALS LIMITED",
+      "symbol": "BALAXI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 23.84,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Updates",
           "type": "announcement",
@@ -112,11 +141,6 @@
         },
         {
           "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -129,99 +153,29 @@
       "company": "Banka BioLoo Limited",
       "symbol": "BANKA",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 3.3,
-      "confidence": 83,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
       "lastClose": 78.95,
       "catalysts": [
         {
+          "label": "Integrated Filing- Financial",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
           "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Dilip Buildcon Limited",
-      "symbol": "DBL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 5.2,
-      "confidence": 81,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 406.1,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Time Technoplast Limited",
-      "symbol": "TIMETECHNO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         }
@@ -234,29 +188,29 @@
       "company": "Gulshan Polyols Limited",
       "symbol": "GULPOLY",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 3.3,
-      "confidence": 76,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 173.8,
+      "lastClose": 173.67,
       "catalysts": [
         {
-          "label": "Updates",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         }
@@ -266,27 +220,113 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Hitachi Energy India Limited",
+      "symbol": "POWERINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.9,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Hitachi Energy India Q2 FY27 slides: revenue surges 64% on grid demand By Investing.com - Investing.com India",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Hitachi Energy India's Q2 profit rises 21%, revenue jumps 64% as margins shrink - CNBC TV18",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Stocks to Watch for November 13: IRCTC, Oil India, M&M, Ola Electric, Hitachi Energy and more - CNBC TV18",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdVRqaUswZ3RXbFZPanlGeWsxN1l3d0dEajJwaV9MdHdaRXBtV05mM2JpaWpWRWpqaFJMcTg2blRNTzhTQW5ZLV83empOdkV0OE9FY0cxcDRUTVAxMUZJM0JjZFJySjhLd3FsendmNFRCT0dCbWpIdjNCSVJ2ZVhuVHR0elFHR21RR0dpSmtnNkJ2bmpERnNNaWhWZWZVaFpmcXRHdmRpVGg3bFBYUTUxcy1vVFg2VFA1WDU2M0Z2UkMtZTZ0Yk9oWA?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU1k0ZVRZUm03TUNDYmEwazFLZWhGcWI1Zno2NW9nV1hsa2JYSzVNMExCYTZPSVhEZVh3d0lGbHFXNWdLQXN4alhkOEVId0dNYzFob0x2eTk0ZFNOSHItTVlYWXZsZ2cta01wUU1tNHA1ZGo1cHpkVlFFSjYtNXp6a1U3OWJMUXNmcktmZ0l1UU9fcVlCYjc0R2dxMU5DakpfUWZ3YlBQcTlua21nOTNXaTU3eGczQkl1R2hkcDg0WnkySTFqZmJLYUNqSkE3QdIB0wFBVV95cUxNMHRTRk5BOGVLY1JSbS1ZMTJYTFd0c21iZUNIYnhaUDVKenBZeExkYUhFa240UE9ZYkJKUkdDNFExZFphXzJ4Z3FYWmotdl9CeTVqbU96eTJqbVhsYno2TXVxZmwzdFZTWm14TUNianl4RVJ4aGtrR01kTTU1V3Q4RmVVaUIzSktwOE1vMU5HQ1ZLdVpodlZSTWgxcjYxQzdOVERXam9CYUtwa0c4Tnc1QjRDT1lXbHdfcnZOVXI4Q1F0M0ZsZE8zbERWaTRYaU9wVlc0?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWEh5cElTLVFfZ1RfZDk2bnFCMGJYR3VST1MxUmYzRkR4NUJXQm9ha3pqbFBoa0VIaWlNVDczb0F2dUNLNTU0QjdXTE1kZnBMTjBMd2tpdms2a3loc2RJc0N3ZXptalIycGNPUks4WmZQdERKV3pTNHQzejRmZ3dRanFhNGNTeExiTTZNQTM2Y2ZnT2d4T09xVHl5b3JkYkU1SFZQbGRQWFI0N0tsdWxNYkFON3N4YkVTSDVaeGNZdnd6RlZwbTdSLTZQbXhfZHYxeVFCVDVR0gHbAUFVX3lxTE9HYWtaWllnbmJxcnZ6MExQUGlOSjE3VzNGcE83Y3lsUWFtM0llcnhBajdEbERpamdpS2dMeExXRVNUX2hLVElOYUhveGxRN2xHLVhMZGY2ek9XNTRudzQwejRQNmI3cXBUQXY5ZThhOG01Z00yZ2NNb0dvNjlfUTZLeHNUaEppNDFsMVZKeDNmYmRiRGFrSWhlc0pJdVl0Z0dNWXJYSHN5RWQwQ0lYS3hLTHc2Q2l4ZWNpTXBPbFktUHZadEVPLVhYVW14RlUwaXRRTU1JeElQdnJJZw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Astra Microwave Products Limited",
       "symbol": "ASTRAMICRO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.8,
+      "confidence": 89,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 1785.8,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Landmark Cars Limited",
+      "symbol": "LANDMARK",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.8,
-      "confidence": 75,
+      "predictionScore": 3.3,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 1784.3,
+      "technicalConfidence": 100,
+      "lastClose": 498.6,
       "catalysts": [
         {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Monitoring Agency Report",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
@@ -301,58 +341,23 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Cantabil Retail India Limited",
-      "symbol": "CANTABIL",
+      "company": "EIH Limited",
+      "symbol": "EIHOTEL",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 3.3,
-      "confidence": 69,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 267.45,
+      "lastClose": 316.2,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Capacity addition",
           "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Loyal Textile Mills Limited",
-      "symbol": "LOYALTEX",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 62,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 227.56,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
           "verified": true
         },
         {
@@ -361,8 +366,8 @@
           "verified": true
         },
         {
-          "label": "Q2 FY27 results scheduled 2026-11-12",
-          "type": "result",
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -371,33 +376,33 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "EIH Limited",
-      "symbol": "EIHOTEL",
+      "company": "Alkem Laboratories Limited",
+      "symbol": "ALKEM",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 62,
+      "predictionScore": 2.2,
+      "confidence": 81,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 316.6,
+      "technicalConfidence": 67,
+      "lastClose": 5302.0,
       "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Q2 FY27 results scheduled 2026-11-12",
-          "type": "result",
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -406,39 +411,39 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Landmark Cars Limited",
-      "symbol": "LANDMARK",
+      "company": "Jullundur Motor Agency (Delhi) Limited",
+      "symbol": "JMA",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 62,
+      "predictionScore": 3.7,
+      "confidence": 78,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 499.35,
+      "technicalConfidence": 67,
+      "lastClose": 95.57,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Record Date",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Q2 FY27 results scheduled 2026-11-12",
-          "type": "result",
+          "label": "Buyback",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     }
   ],
   "tomorrow": [
@@ -484,8 +489,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Alkem Laboratories Limited",
-      "symbol": "ALKEM",
+      "company": "Dilip Buildcon Limited",
+      "symbol": "DBL",
       "exchange": "NSE",
       "confirmedNewsCount": 8,
       "gossipCount": 0,
@@ -496,66 +501,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 5300.0,
+      "lastClose": 406.7,
       "catalysts": [
         {
-          "label": "Q2 Results Live: Bharat Dynamics, Hal Margins Miss Estimates; IRCTC, Oil India In Focus",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Alkem Laboratories Q2 Results: Net Profit Falls 12% To Rs 675 Crore; Ropes In Gopal Kothari As CFO",
-          "type": "results",
-          "verified": true
-        },
-        {
-          "label": "Trading Window",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/q2-results-today-live-updates-hal-irctc-oil-india-ola-electric-vodafone-idea-among-companies-announcing-earnings-12315361#publisher=newsstand",
-          "verified": true
-        },
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/alkem-laboratories-q2-results-net-profit-falls-12-percent-to-rs-675-crore-ropes-in-gopal-kothari-as-cfo-12316436#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Dilip Buildcon Limited",
-      "symbol": "DBL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 406.1,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
+          "label": "Investor Presentation",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         }
@@ -565,10 +524,10 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "BALAXI PHARMACEUTICALS LIMITED",
-      "symbol": "BALAXI",
+      "company": "Loyal Textile Mills Limited",
+      "symbol": "LOYALTEX",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -577,8 +536,48 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 23.67,
+      "lastClose": 227.23,
       "catalysts": [
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "BALAXI PHARMACEUTICALS LIMITED",
+      "symbol": "BALAXI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 23.84,
+      "catalysts": [
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Updates",
           "type": "announcement",
@@ -586,11 +585,6 @@
         },
         {
           "label": "Change in Management",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
         }
@@ -603,7 +597,7 @@
       "company": "Banka BioLoo Limited",
       "symbol": "BANKA",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -613,6 +607,41 @@
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
       "lastClose": 78.95,
+      "catalysts": [
+        {
+          "label": "Integrated Filing- Financial",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Gulshan Polyols Limited",
+      "symbol": "GULPOLY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 5.3,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 173.67,
       "catalysts": [
         {
           "label": "Investor Presentation",
@@ -625,8 +654,8 @@
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Updates",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -635,10 +664,10 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Gulshan Polyols Limited",
-      "symbol": "GULPOLY",
+      "company": "Landmark Cars Limited",
+      "symbol": "LANDMARK",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -647,7 +676,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 173.8,
+      "lastClose": 498.6,
       "catalysts": [
         {
           "label": "Updates",
@@ -655,42 +684,7 @@
           "verified": true
         },
         {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Astra Microwave Products Limited",
-      "symbol": "ASTRAMICRO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 87,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 83,
-      "lastClose": 1784.3,
-      "catalysts": [
-        {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Monitoring Agency Report",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
@@ -705,93 +699,23 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Cantabil Retail India Limited",
-      "symbol": "CANTABIL",
+      "company": "EIH Limited",
+      "symbol": "EIHOTEL",
       "exchange": "NSE",
-      "confirmedNewsCount": 3,
+      "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
       "predictionScore": 5.3,
-      "confidence": 83,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 267.45,
+      "lastClose": 316.2,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Capacity addition",
           "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Time Technoplast Limited",
-      "symbol": "TIMETECHNO",
-      "exchange": "NSE",
-      "confirmedNewsCount": 8,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Loyal Textile Mills Limited",
-      "symbol": "LOYALTEX",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 76,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 227.56,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
           "verified": true
         },
         {
@@ -800,8 +724,8 @@
           "verified": true
         },
         {
-          "label": "Q2 FY27 results scheduled 2026-11-12",
-          "type": "result",
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -810,33 +734,33 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "EIH Limited",
-      "symbol": "EIHOTEL",
+      "company": "Astra Microwave Products Limited",
+      "symbol": "ASTRAMICRO",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 76,
+      "predictionScore": 4.5,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 316.6,
+      "technicalConfidence": 83,
+      "lastClose": 1785.8,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Q2 FY27 results scheduled 2026-11-12",
-          "type": "result",
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -845,33 +769,119 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Landmark Cars Limited",
-      "symbol": "LANDMARK",
+      "company": "Alkem Laboratories Limited",
+      "symbol": "ALKEM",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 76,
+      "predictionScore": 3.7,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 499.35,
+      "technicalConfidence": 67,
+      "lastClose": 5302.0,
       "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
         {
           "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Q2 FY27 results scheduled 2026-11-12",
-          "type": "result",
+          "label": "Trading Window",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Hitachi Energy India Limited",
+      "symbol": "POWERINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 13,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.4,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Hitachi Energy India Q2 FY27 slides: revenue surges 64% on grid demand By Investing.com - Investing.com India",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Hitachi Energy India's Q2 profit rises 21%, revenue jumps 64% as margins shrink - CNBC TV18",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Stocks to Watch for November 13: IRCTC, Oil India, M&M, Ola Electric, Hitachi Energy and more - CNBC TV18",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdVRqaUswZ3RXbFZPanlGeWsxN1l3d0dEajJwaV9MdHdaRXBtV05mM2JpaWpWRWpqaFJMcTg2blRNTzhTQW5ZLV83empOdkV0OE9FY0cxcDRUTVAxMUZJM0JjZFJySjhLd3FsendmNFRCT0dCbWpIdjNCSVJ2ZVhuVHR0elFHR21RR0dpSmtnNkJ2bmpERnNNaWhWZWZVaFpmcXRHdmRpVGg3bFBYUTUxcy1vVFg2VFA1WDU2M0Z2UkMtZTZ0Yk9oWA?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU1k0ZVRZUm03TUNDYmEwazFLZWhGcWI1Zno2NW9nV1hsa2JYSzVNMExCYTZPSVhEZVh3d0lGbHFXNWdLQXN4alhkOEVId0dNYzFob0x2eTk0ZFNOSHItTVlYWXZsZ2cta01wUU1tNHA1ZGo1cHpkVlFFSjYtNXp6a1U3OWJMUXNmcktmZ0l1UU9fcVlCYjc0R2dxMU5DakpfUWZ3YlBQcTlua21nOTNXaTU3eGczQkl1R2hkcDg0WnkySTFqZmJLYUNqSkE3QdIB0wFBVV95cUxNMHRTRk5BOGVLY1JSbS1ZMTJYTFd0c21iZUNIYnhaUDVKenBZeExkYUhFa240UE9ZYkJKUkdDNFExZFphXzJ4Z3FYWmotdl9CeTVqbU96eTJqbVhsYno2TXVxZmwzdFZTWm14TUNianl4RVJ4aGtrR01kTTU1V3Q4RmVVaUIzSktwOE1vMU5HQ1ZLdVpodlZSTWgxcjYxQzdOVERXam9CYUtwa0c4Tnc1QjRDT1lXbHdfcnZOVXI4Q1F0M0ZsZE8zbERWaTRYaU9wVlc0?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWEh5cElTLVFfZ1RfZDk2bnFCMGJYR3VST1MxUmYzRkR4NUJXQm9ha3pqbFBoa0VIaWlNVDczb0F2dUNLNTU0QjdXTE1kZnBMTjBMd2tpdms2a3loc2RJc0N3ZXptalIycGNPUks4WmZQdERKV3pTNHQzejRmZ3dRanFhNGNTeExiTTZNQTM2Y2ZnT2d4T09xVHl5b3JkYkU1SFZQbGRQWFI0N0tsdWxNYkFON3N4YkVTSDVaeGNZdnd6RlZwbTdSLTZQbXhfZHYxeVFCVDVR0gHbAUFVX3lxTE9HYWtaWllnbmJxcnZ6MExQUGlOSjE3VzNGcE83Y3lsUWFtM0llcnhBajdEbERpamdpS2dMeExXRVNUX2hLVElOYUhveGxRN2xHLVhMZGY2ek9XNTRudzQwejRQNmI3cXBUQXY5ZThhOG01Z00yZ2NNb0dvNjlfUTZLeHNUaEppNDFsMVZKeDNmYmRiRGFrSWhlc0pJdVl0Z0dNWXJYSHN5RWQwQ0lYS3hLTHc2Q2l4ZWNpTXBPbFktUHZadEVPLVhYVW14RlUwaXRRTU1JeElQdnJJZw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Gaudium IVF and Women Health Limited",
+      "symbol": "GAUDIUMIVF",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.9,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 60,
+      "lastClose": 107.6,
+      "catalysts": [
+        {
+          "label": "Monitoring Agency Report",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
+          "type": "announcement",
           "verified": true
         }
       ],
