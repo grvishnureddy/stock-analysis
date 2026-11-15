@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T20:45:23+00:00",
+  "generatedAt": "2026-11-15T01:57:25+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -11,7 +11,7 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 8.7,
+      "predictionScore": 8.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -57,12 +57,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.1,
+      "predictionScore": 8.1,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 7054.5,
       "catalysts": [
         {
           "label": "ABB India Q3 CY26 profit surges 8% YoY to \u20b9443 crore, order growth led by electrification business - Upstox",
@@ -93,13 +93,54 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Hitachi Energy India Limited",
+      "symbol": "POWERINDIA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 10,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.6,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 31595.0,
+      "catalysts": [
+        {
+          "label": "Hitachi Energy India shares rally 12% after robust Q2 earnings; check what Nomura, Jefferies, other analysts said - Upstox",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSTVUclRHeUw1cGFnVWpTM1BVLWN4ZkpxRGVJNXZ6QWtKLURaZ1I2WXZva1FZd1Awc0tVS3dIWmZaS0hvSWNENWNKeUphWkduZ0xzVURkSjNQOUNUWm10ZVA1dUlKUkhYQkdlcm5sU1MxM3RxMzVaaW9iNE5NeExPaFZ3bk1meUpvUEdVRHM0TV9TSDhVRThxeE9PZ254NHJ6S2QtLTEzTW9MeENNV0d1NHlwdEJzaEp0ZzY2QjJFMmZrdkZEcjFDQ3ZTV2p6TUVLcFBtRjR5bmhJWndsZWwxSVlvcFZiazEzdGNBbWhfeV85cGFiOUl3M2dBemk?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Fusion CX Limited",
       "symbol": "FUSIONCX",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
@@ -111,47 +152,12 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Dhampur Bio Organics Limited",
-      "symbol": "DBOL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 83,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 146.28,
-      "catalysts": [
-        {
           "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Appointment",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
@@ -166,143 +172,85 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Kaynes Technology India Limited",
-      "symbol": "KAYNES",
+      "company": "Amber Enterprises India Limited",
+      "symbol": "AMBER",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
       "predictionScore": 2.2,
-      "confidence": 81,
+      "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 3430.0,
+      "lastClose": 6772.0,
       "catalysts": [
         {
-          "label": "Outcome of Board Meeting",
+          "label": "AMBER ENTERPRISES INDIA Share Price Today Up 8% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQMHRPMldkRW9SbkxjTVFBZ21fSklqYm5Rd0lXN1FJX1J5RFRKX19Id1h3aVhVWnhSdm1STXJ0RTI0RXFmS2RVUWw5LXBwTnEzUHNBOTY3cWxuM0pjY3BWTHNSX0Y3bER2bWpiNWJ0dGNIMzZZVWlFQnozaTBkaGRlWUs2RlB1Rk5nZ3NMR1hhbnBNN2xMR29OZWNDcHl1dWRyNTg2X1pzUlN5RmtlVEttZEdvTWd6ZG1fLXRtOXVlbnFZaFNsRGVuVnVVQkh4Vy02ZW1pZnpfbkY2OUl6STNPODRqci1rQ1IyZEhCaHpQNENseVRtLUY0Zmw0MTItbjJxOXRZVlFsbGNYckJqWWFwbnBXeUkwdk1QZFZTdVo4b1FBc3U3M0hFc2lVeVRXUFRocVpOelloMDBjbGpN?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Arham Technologies Limited",
-      "symbol": "ARHAM",
+      "company": "Ashoka Buildcon Limited",
+      "symbol": "ASHOKA",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
+      "confirmedNewsCount": 3,
+      "gossipCount": 1,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 81,
+      "predictionScore": 6.4,
+      "confidence": 79,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 221.98,
+      "lastClose": 111.82,
       "catalysts": [
         {
-          "label": "Press Release",
+          "label": "Titagarh Rail Systems Q2 FY27 Results | Ashoka Buildcon Wins Major Expressway Construction Contract | Top Buzzing Stocks Today - Equitymaster",
+          "type": "contract",
+          "verified": false
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Resignation of Statutory Auditor",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Dynacons Systems & Solutions Limited",
-      "symbol": "DSSL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 78,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1053.5,
-      "catalysts": [
+      "sources": [
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUkliYVRyeHlDX3VHMUNRMXF6RTRzNEFWV01yNWYza1Fid1FXeW9rVmRrV3R2SUk1bTNlMDF2SU9nZm1JUDZQQm9Oem1fRGZ5dUpxai1QUWtvVHRFeThqY0dOYWltZXpaODhGUzg3eHZ1NWdrbmtubjdBWk5QWkZVVTItemlCLWJjZE9QcHlDd1gxWVN0OVpYUGs0N29jb0JVeHlFTVBmalI3UFlsSEZsY09vRmp1ZU1wUFN5UklCb28wdFdZdlJRUld6NnN2aEpCUU1kZ05QWFR4eWVNNm5HX0FlcUxURWtFLUVxSDE2a3NsVVFTejJqYml2T3c2TnMtTVZTdmw1OGhkcW9IZG4tWGVqTQ?oc=5",
+          "verified": false
         }
       ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Affordable Robotic & Automation Limited",
-      "symbol": "AFFORDABLE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 78,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 219.62,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Fresh news and technical indicators agree."
     },
     {
@@ -376,33 +324,110 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "BGR Energy Systems Limited",
-      "symbol": "BGRENERGY",
+      "company": "Bank of Baroda",
+      "symbol": "BANKBARODA",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 76,
+      "predictionScore": 2.2,
+      "confidence": 74,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 310.7,
+      "technicalConfidence": 67,
+      "lastClose": 273.84,
       "catalysts": [
+        {
+          "label": "Nifty PSU Bank logs biggest weekly surge in 7 months; PNB, Bank of India, Bank of Baroda among top performers - Livemint",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWnBqYXdwTUZrRFViQ1NjdTlFRUZJRDJ2N2Z2eXluY09mQk1qZ0IzOVBsZWEydG5KbndJVjczY3BpbFNUOC1jbnhfSWFOUHN6dTRHSE1qdGoycTFCQWR3d2E4ekkyQnBITzAtajA5Z1ltcm12WFpvbTFud2xSQXVsVDMtaktmZDQwV3VuT0dkNUlEZVROOTR4Zi02TG05akhtckRlZ0pXR0UyRmRsQ2M0UDdhaHV0RlBrSjVNS2swUHViVVFfWWlQNUd2c01XMDV5dVBXVFJuMnBGM2NLdm9ZRklZTlRIcFoyakJsOUhDTG1TbFRNU0M2Wk43ZnJlaG9LdXRZTFhZa0rSAY4CQVVfeXFMUGhkZUtBRG53dmotRWZ2aUhxNlktbnVsaGRtSWEwQ0JpNDgyd2F6dUVsY0JfVEY1RlphWXpUc01kUXQtbFJzWFJHcEJTNW9jOXhXUlhyQTloXzlncDkzTGNCQlRXbUQzMGxhN1NRRG90bEdFTC0xeWJGSGU5dkNncGtyLVFOVnVDR3hXN21aVy1QNEpsa0NyT2Ixd1FobGROYVUzMzFfN19Jbm1yUGlZZ3lnUWZ4RkhPeHJXSnA2Vlpqbmp2UmNzcGF0U3l6Y1RnYk44NGRmNHIyVk9qSkYwSHRudTdtMDZISmZGS3pWMDVFdC1wLUJoTWNFTWw4U1dJdDVBajVPRHdpUlhvbTZ3?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Roto Pumps Limited",
+      "symbol": "ROTO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 67,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 73.93,
+      "catalysts": [
+        {
+          "label": "Today's Market: Sensex Today Ends Flat | Nifty Above 25,250 | Roto Pumps Up 14% - Indian Stock Market News - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
         {
           "label": "Outcome of Board Meeting",
           "type": "announcement",
           "verified": true
-        },
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb1BONnd3VEM5M0UzcWEtZHN1VFdoMWRramV6ejhwWFNzMC1zQjlfTXR3OGJNakxkOXhLS2RqVm9QZ3E2QngyRndlbktqT2ZnRVFyX0ZhTGFXc3ByY0MtQjBYV2pGS09pa1UySTZpV210MHZ0U29kYkl1UU1rcGNLWGxTYnVUTDc3dUFSWlVWYmMtaXliQ1ZGNFR0RnYyVURQXzB2RTA1dERvSURRYWI4UXFGRGVYZ0xNOE1aWA?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Antarctica Limited",
+      "symbol": "ANTGRAPHIC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 62,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 0.84,
+      "catalysts": [
         {
           "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         }
       ],
@@ -411,39 +436,34 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Bonlon Industries Limited",
-      "symbol": "BONLON",
+      "company": "Ansal Properties & Infrastructure Limited",
+      "symbol": "ANSALAPI",
       "exchange": "NSE",
-      "confirmedNewsCount": 6,
+      "confirmedNewsCount": 2,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.4,
-      "confidence": 74,
+      "direction": "Negative watch",
+      "predictionScore": -3.3,
+      "confidence": 62,
       "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 60,
-      "lastClose": 39.56,
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 3.05,
       "catalysts": [
         {
-          "label": "Fund Raising",
+          "label": "Financial Results",
           "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Integrated Filing- Financial",
+          "label": "Reasons for Delayed/Non-submission of Financial Results",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
@@ -455,7 +475,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 10.2,
+      "predictionScore": 9.5,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -501,12 +521,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.1,
+      "predictionScore": 9.1,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 7054.5,
       "catalysts": [
         {
           "label": "ABB India Q3 CY26 profit surges 8% YoY to \u20b9443 crore, order growth led by electrification business - Upstox",
@@ -537,153 +557,95 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Dhampur Bio Organics Limited",
-      "symbol": "DBOL",
+      "company": "Hitachi Energy India Limited",
+      "symbol": "POWERINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 10,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
+      "predictionScore": 4.8,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 146.28,
+      "technicalConfidence": 83,
+      "lastClose": 31595.0,
       "catalysts": [
         {
-          "label": "Investor Presentation",
+          "label": "Hitachi Energy India shares rally 12% after robust Q2 earnings; check what Nomura, Jefferies, other analysts said - Upstox",
+          "type": "results",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Appointment",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "BGR Energy Systems Limited",
-      "symbol": "BGRENERGY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 310.7,
-      "catalysts": [
+      "sources": [
         {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSTVUclRHeUw1cGFnVWpTM1BVLWN4ZkpxRGVJNXZ6QWtKLURaZ1I2WXZva1FZd1Awc0tVS3dIWmZaS0hvSWNENWNKeUphWkduZ0xzVURkSjNQOUNUWm10ZVA1dUlKUkhYQkdlcm5sU1MxM3RxMzVaaW9iNE5NeExPaFZ3bk1meUpvUEdVRHM0TV9TSDhVRThxeE9PZ254NHJ6S2QtLTEzTW9MeENNV0d1NHlwdEJzaEp0ZzY2QjJFMmZrdkZEcjFDQ3ZTV2p6TUVLcFBtRjR5bmhJWndsZWwxSVlvcFZiazEzdGNBbWhfeV85cGFiOUl3M2dBemk?oc=5",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Kaynes Technology India Limited",
-      "symbol": "KAYNES",
+      "company": "Amber Enterprises India Limited",
+      "symbol": "AMBER",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 9,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.7,
+      "predictionScore": 3.2,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 3430.0,
+      "lastClose": 6772.0,
       "catalysts": [
         {
-          "label": "Outcome of Board Meeting",
+          "label": "AMBER ENTERPRISES INDIA Share Price Today Up 8% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Arham Technologies Limited",
-      "symbol": "ARHAM",
-      "exchange": "NSE",
-      "confirmedNewsCount": 7,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.7,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 221.98,
-      "catalysts": [
+      "sources": [
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Resignation of Statutory Auditor",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Change in Auditors",
-          "type": "announcement",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQMHRPMldkRW9SbkxjTVFBZ21fSklqYm5Rd0lXN1FJX1J5RFRKX19Id1h3aVhVWnhSdm1STXJ0RTI0RXFmS2RVUWw5LXBwTnEzUHNBOTY3cWxuM0pjY3BWTHNSX0Y3bER2bWpiNWJ0dGNIMzZZVWlFQnozaTBkaGRlWUs2RlB1Rk5nZ3NMR1hhbnBNN2xMR29OZWNDcHl1dWRyNTg2X1pzUlN5RmtlVEttZEdvTWd6ZG1fLXRtOXVlbnFZaFNsRGVuVnVVQkh4Vy02ZW1pZnpfbkY2OUl6STNPODRqci1rQ1IyZEhCaHpQNENseVRtLUY0Zmw0MTItbjJxOXRZVlFsbGNYckJqWWFwbnBXeUkwdk1QZFZTdVo4b1FBc3U3M0hFc2lVeVRXUFRocVpOelloMDBjbGpN?oc=5",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Fusion CX Limited",
       "symbol": "FUSIONCX",
       "exchange": "NSE",
-      "confirmedNewsCount": 12,
+      "confirmedNewsCount": 14,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
@@ -695,17 +657,17 @@
       "lastClose": null,
       "catalysts": [
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
           "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Dividend",
           "type": "announcement",
           "verified": true
         }
@@ -715,179 +677,257 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Dynacons Systems & Solutions Limited",
-      "symbol": "DSSL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1053.5,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Affordable Robotic & Automation Limited",
-      "symbol": "AFFORDABLE",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 5.2,
-      "confidence": 88,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 219.62,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Outcome of Board Meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Financial Results/Other business matters",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "Skyways Air Services Limited",
-      "symbol": "SKYWAYS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 10,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 2.0,
-      "confidence": 84,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Monitoring Agency Report",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Record Date",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Asian Hotels (West) Limited",
-      "symbol": "AHLWEST",
+      "company": "Ashoka Buildcon Limited",
+      "symbol": "ASHOKA",
       "exchange": "NSE",
       "confirmedNewsCount": 3,
-      "gossipCount": 0,
+      "gossipCount": 1,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 5.3,
-      "confidence": 83,
+      "predictionScore": 7.4,
+      "confidence": 86,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 555.55,
+      "technicalConfidence": 67,
+      "lastClose": 111.82,
       "catalysts": [
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
+          "label": "Titagarh Rail Systems Q2 FY27 Results | Ashoka Buildcon Wins Major Expressway Construction Contract | Top Buzzing Stocks Today - Equitymaster",
+          "type": "contract",
+          "verified": false
         },
         {
-          "label": "Outcome of Board Meeting",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUkliYVRyeHlDX3VHMUNRMXF6RTRzNEFWV01yNWYza1Fid1FXeW9rVmRrV3R2SUk1bTNlMDF2SU9nZm1JUDZQQm9Oem1fRGZ5dUpxai1QUWtvVHRFeThqY0dOYWltZXpaODhGUzg3eHZ1NWdrbmtubjdBWk5QWkZVVTItemlCLWJjZE9QcHlDd1gxWVN0OVpYUGs0N29jb0JVeHlFTVBmalI3UFlsSEZsY09vRmp1ZU1wUFN5UklCb28wdFdZdlJRUld6NnN2aEpCUU1kZ05QWFR4eWVNNm5HX0FlcUxURWtFLUVxSDE2a3NsVVFTejJqYml2T3c2TnMtTVZTdmw1OGhkcW9IZG4tWGVqTQ?oc=5",
+          "verified": false
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Balu Forge Industries Limited",
-      "symbol": "BALUFORGE",
+      "company": "Bank of Baroda",
+      "symbol": "BANKBARODA",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 83,
+      "predictionScore": 3.2,
+      "confidence": 81,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 550.3,
+      "lastClose": 273.84,
       "catalysts": [
+        {
+          "label": "Nifty PSU Bank logs biggest weekly surge in 7 months; PNB, Bank of India, Bank of Baroda among top performers - Livemint",
+          "type": "company news",
+          "verified": true
+        },
         {
           "label": "General Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Issue of Securities",
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWnBqYXdwTUZrRFViQ1NjdTlFRUZJRDJ2N2Z2eXluY09mQk1qZ0IzOVBsZWEydG5KbndJVjczY3BpbFNUOC1jbnhfSWFOUHN6dTRHSE1qdGoycTFCQWR3d2E4ekkyQnBITzAtajA5Z1ltcm12WFpvbTFud2xSQXVsVDMtaktmZDQwV3VuT0dkNUlEZVROOTR4Zi02TG05akhtckRlZ0pXR0UyRmRsQ2M0UDdhaHV0RlBrSjVNS2swUHViVVFfWWlQNUd2c01XMDV5dVBXVFJuMnBGM2NLdm9ZRklZTlRIcFoyakJsOUhDTG1TbFRNU0M2Wk43ZnJlaG9LdXRZTFhZa0rSAY4CQVVfeXFMUGhkZUtBRG53dmotRWZ2aUhxNlktbnVsaGRtSWEwQ0JpNDgyd2F6dUVsY0JfVEY1RlphWXpUc01kUXQtbFJzWFJHcEJTNW9jOXhXUlhyQTloXzlncDkzTGNCQlRXbUQzMGxhN1NRRG90bEdFTC0xeWJGSGU5dkNncGtyLVFOVnVDR3hXN21aVy1QNEpsa0NyT2Ixd1FobGROYVUzMzFfN19Jbm1yUGlZZ3lnUWZ4RkhPeHJXSnA2Vlpqbmp2UmNzcGF0U3l6Y1RnYk44NGRmNHIyVk9qSkYwSHRudTdtMDZISmZGS3pWMDVFdC1wLUJoTWNFTWw4U1dJdDVBajVPRHdpUlhvbTZ3?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Innovision Limited",
+      "symbol": "INNOVISION",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 77,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Awarding of order(s)/contract(s)",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Dilip Buildcon Limited",
+      "symbol": "DBL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.0,
+      "confidence": 77,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Roto Pumps Limited",
+      "symbol": "ROTO",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 74,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 73.93,
+      "catalysts": [
+        {
+          "label": "Today's Market: Sensex Today Ends Flat | Nifty Above 25,250 | Roto Pumps Up 14% - Indian Stock Market News - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb1BONnd3VEM5M0UzcWEtZHN1VFdoMWRramV6ejhwWFNzMC1zQjlfTXR3OGJNakxkOXhLS2RqVm9QZ3E2QngyRndlbktqT2ZnRVFyX0ZhTGFXc3ByY0MtQjBYV2pGS09pa1UySTZpV210MHZ0U29kYkl1UU1rcGNLWGxTYnVUTDc3dUFSWlVWYmMtaXliQ1ZGNFR0RnYyVURQXzB2RTA1dERvSURRYWI4UXFGRGVYZ0xNOE1aWA?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Antarctica Limited",
+      "symbol": "ANTGRAPHIC",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 73,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 0.84,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Ansal Properties & Infrastructure Limited",
+      "symbol": "ANSALAPI",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -4.8,
+      "confidence": 73,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 100,
+      "lastClose": 3.05,
+      "catalysts": [
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Reasons for Delayed/Non-submission of Financial Results",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
 }
