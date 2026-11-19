@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-11-19T00:26:11+00:00",
+  "generatedAt": "2026-11-19T10:24:40+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "Kaynes Technology India Limited",
-      "symbol": "KAYNES",
+      "company": "ABB India Limited",
+      "symbol": "ABB",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 1,
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
+      "direction": "Positive watch",
+      "predictionScore": 7.3,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2858.0,
+      "lastClose": 6951.0,
       "catalysts": [
         {
-          "label": "Kaynes Technology Q2 FY27 Results | Belrise Industries Q2 FY27 Results | Top Buzzing Stocks Today - Equitymaster",
-          "type": "company news",
-          "verified": false
+          "label": "ABB India\u2019s margin recovery in spotlight amid record order inflow - Livemint",
+          "type": "contract",
+          "verified": true
         },
         {
           "label": "Copy of Newspaper Publication",
@@ -29,7 +29,7 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -38,11 +38,52 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSVptTGhleGtHbW1HOFVXV0I2SGdLUE9MSC1VTkZtc2gyMm9kV3IwU0V1VkRubXFKT0ktaVF1Q0k4dDNwWENIaGVSRGNhNDBFenFiR0hmX2t1T1F2Z0pickh2VEM2dHNVMkRFelFyTlljNWlaUjBxV1NxVHpEc1VtbGo0NE1qeklXWUs4ZTh6ZWhScEdPNElVdTBIcEprQWZlQWZGYVNmem4zUE9nTDZtVzdPcm1hd1pLaFlLb1FpQTB0ZUZtTXFzYmVCRzdOWTZ4MDFvSGllSS1lc2lsZ1lZemY1YkNfRnFDbWpBNw?oc=5",
-          "verified": false
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbmRldUppUzg0YTVlM0FSSEx2WkQ3Rm84UzRTSDBLcWNFRmJaSlZUNklxUDlEMV9iNGxWcUFnSktTcWZsVUpzS0IzdXhuS3FYRVhTRWE3c1ZMTWxEQjJTN2dQbEpvcndnM1lWWGlkbWFZajh0NFNmNFJiaXZKcnV2b0tJZ2U4b3ZtMVFhcmlTYXZDSEF3aUw2RmFoZENYWTFIaU4yZ19PSk1WQ29HM243dUJBeTNWZDFEdTdNNWxNbHg3eEhT0gHKAUFVX3lxTFB1OU9NejB3OFpPUmlTTTNnVWVNWC1tSG1TUXN2ckZ4OFBiVVBVUjJHX1N1T0Y5YnJpX3RLQnJDRGRGMXVYNXhuVmlXWXFQNktpZE1YUHd3b19hVGtqYWFUdWVia2M2aGdUM0wxZkU1OU45SkpqYUZnY3hRSmx1U1V2elFRMTRJVFA1dUtmTUZPeVVOLU1FRnR6NmdTMGlaZnhKcVVtckQyS3ZWNzFLSGhENi1QX19iZzdlbEdzVUZVODFRLVZLT2ZhWHc?oc=5",
+          "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Ashok Leyland Limited",
+      "symbol": "ASHOKLEY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 7.0,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 166.15,
+      "catalysts": [
+        {
+          "label": "Dividend record date, Nov 19: Last day to buy today to qualify- Oil India, Ashok Leyland, more - Who pays the highest? - Livemint",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Dividend",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPS2xfRTN2YlltSjVXR1U1U21zWXdLWlF5eTBkblJJM3dJZVVsMGZKanNYcDJUYlNRYjYxNE9hRmlQR2V5OXpLQTBvZGw4bUxITmUtTm1RaXVYQzNJZHhaSE5iS3Z2SmR4dUUtaG0zX2FBMWI2VE9ub2N1eC16elpZZi1tcHBrQ296TVdFMVNVaThqbmNaNHJRbVlqTnJpd2NmcUJ3Y1gyQVp5Mm8yZ3owSVBCdWNLRlNkVlNoZjQyWk1URFZSMnpxcFZ3eHFLWDA0dlFmaGpjTTJ4cE11LU5lSGk0Y29wR0RCX0NwNVpYZEt3bWRnd01yNmVQdG5nUGRqeVlGUXRIZUNpZzh30gGSAkFVX3lxTE5vM2RNcU4yN1Btamwyc0MtVVF4QU1BOVczY19pcGd3eDlzX01McG15dnprVldvMTBHZkp1a2xielRMend5X0hveXJLSWlTZXExVmhraWNXRFNnY0VmT28zUVlXRzRWOTAwT2xEVmNERV9PSGdjZHJNOGNzNlo4RTN6WlhrdWNGOFQwS3pwNEpBZlFuODctSW43QVlrS08teDgtSUFrd0NvX24tRXVoUS11U1RESG9uTkQzeHVuVVJySFltcE5heE5Ub1ExbEJzN1ZvVGdQYkxOLVhEUWV4a0tHOWJ6Zi01bktkMEhJNGlYQ183VTFvdHZNWVRaS1pETGZJTFNERG9QbmdxX1JZTkU2U1E?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Fusion CX Limited",
@@ -80,27 +121,150 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Punjab National Bank",
-      "symbol": "PNB",
+      "company": "Amber Enterprises India Limited",
+      "symbol": "AMBER",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 6697.0,
+      "catalysts": [
+        {
+          "label": "AMBER ENTERPRISES INDIA Share Price Today Up 8% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOMTNmZXdtUXVMWnhhU0c0VXY2eGtHR0lRVW8xLW9hSEotcFdMNGZXZU9rSHZ5MWRXSEd5R21YMngxUVpma1JRaERWYzUwZkNWaUp6blVCLVhiOEVVaXM0OFZ3eVdyTmItNGdXYVhkWHNUam52OUFZUWdWZEY0RWlBRkJxVjZvaGdmblItX3o5dnV3RW9VYjhkUW5oQjdRWkRjZmtDYjhDaXBVV0d4RVh1M0cxZDNDbjVIS0xEbFJnYVVpQTRuX05TRW5ENWpDRTllN0JyUkhIeW53ZGZjOS1yalFseDBJaG53SjRaWW1vSW52M0JCbHYwbkFrMFlLcmR2MXl0Mmg0aEJhX3NLdkxXNGxWcG1QejdTTk5NNmZGR19kYjNnWWxBZm50MUZIdGUwd1VVbG1TNnk1dw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "IIFL Finance Limited",
+      "symbol": "IIFL",
       "exchange": "NSE",
       "confirmedNewsCount": 5,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.8,
-      "confidence": 78,
+      "predictionScore": 3.3,
+      "confidence": 83,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 150.0,
+      "technicalConfidence": 100,
+      "lastClose": 644.45,
       "catalysts": [
         {
-          "label": "Sensex Today | Nifty 50 | Indian Stock Market Live: Bank Nifty Breaks Another Record As PNB Surges 20% And Yes Bank Gains 18%; What Investors Should Watch Before Buying Banking Stocks - The Sunday Guardian",
+          "label": "Fairfax India Announces Sale of Equity Interest in IIFL Finance Limited - www.marketscreener.com",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Action(s) taken or orders passed",
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUE0clJzbVdGOURLMVpEX0ZmdnhRWjJHS24yVEU0S1gxYXZNZ21oUG5Nb1BzNDdnQ0V4eGtyZl9iMFEyMEpkTWZTcTJqc09weS1HMDdyUXNhbzZFQ2l1LU1mV3V6WmhPeThfNkFZN3ZGTjBmaEhydXhYclROOVFzak43bUxyMGxhSkkyUWM2YmRKT2FrNF9LYkFwazQ3QkFTMHNKTzN6dlhsQ2pBc3Q1MFVwcHdva2R5eTVPVGxrUkpaUQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Physicswallah Limited",
+      "symbol": "PWL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 83,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 136.21,
+      "catalysts": [
+        {
+          "label": "Stocks to watch today, Nov 19: Coal India, Physicswallah, Sky Gold & Diamonds, and more - The Financial Express",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmxaRm9SOHJfd1FSQ0ZNcVZCRVlCS3JpSVZsTmwwOTA4eC1abERiYUV3dkNJS2kxcVQ0Ny10M3RMUTJ6WGhnck5XLWtIeTBJNGRfdWlCcG1TSVhSS1M4eFhaSkI3Yjg3M0dHbUVGWDhjZ09FMXZrT3NxcUVRX2Fxd0lSUno4bTYyTWhnaVJNaVd0LVFmWTdpN1dzaFZxSHYyMjNtLTJKclNEc0c1b3dua3lIOGp4ZkVtNndpUU8zdFFYT01xTThQUm9FdWxLUdIB1AFBVV95cUxNRU5ONXFENjF3TWtiVW45Q29VNlFfR0YydVpUcnMyRFltb1VtZ19OaXlXNm1yeWNRbG92UHViYk9mci1WYmIwZVlmOERkQWZUeEZMclJrTkNoNXJVT2Q1OEFjekxwTklycnZ6NDMtY0xZR3k4SmtBNmQxYnozZzJfc2RpelBTdTdaTEh3NGZvQmJhUHgzQXB4UU5lcG1YZTU2dHMydXhLUGQxWDZfM094WVV0blpOeGZTTmFYZUtXd25ia1pNbW1QN3gxelctNml3NWtlMw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 81,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 3509.0,
+      "catalysts": [
+        {
+          "label": "Stock Market Today: Sensex Zooms 500 Points, Nifty Above 25,350; Maruti Suzuki Rallies 6%, M&M 4%",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
@@ -113,12 +277,12 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQQjlIMEs4SW9YZGpic3Z6aEE0SWthR3kyQkxjdWRrZjE4VnNOS0VuTjQ5aVR1a3VuZHBPSEtya0RLaHR4WnRMUDBWeFhkblluTTJzSEJUd3kza192NkdHaGlNNEZ4eVZfYW1yTnM0WEZSM0YzM3JFeEdCemhacElRMVQyTnIwaFJKQlVwUFpXcW9BVVVwTXFqRWczRUJMNWg1czBFUkEzcXo2OFZOcDBnZ1VfQWxLUVVvMktzY2Y1TV9xUlZscmhvTFpuaFU3MDdxeXoxUF8tYl82ZnQzWmt4cVhfcU8tbmF1dW5IS1hKeEJyTWhwN3AtUzdCTHNuNkY1UHgtWU1xNlJlMEd6WEdZUkEycWkyWEl1Vkt5UHBrdk5rd21xTTJpamVJaWxHQ2Q3dU1NSkpfdWhsWWRocEdteUZUUWQ0QdIBywJBVV95cUxNUDQ1OElCQmxtMk53RjhhYVYtY2p1clZIZ2tzYzM5YlVpTExFQk51WU5RUm8wS05sLXA0M3RHZ1RRY3BTZFFsSWdUaHJ1czh2aDNqaWN0VnZSV0JRYnl2Qzh2NzdqV1BtVEZLRnBCMmhaSVR2Z2tnLWVOdU81WW1wS2xRQ3Y3S21KVXlOMmllQW5iT195dTJBNERYRmc5NlJ3d0dJalNaZkp0SWZoeXYxa3dhemJrUE5iWWRXZnh3TXktMEJXT21DUE1fWTJSa0NrVVpjWm1JRm9LZl9yWl80VFhEWEttRnVCRzdxM3ctS1FjVWVQa2hJQmp5ZXJZYUFwQkY0TzVNQUQ4Yl9oaVhQZVU4QnpyMzhCMjdvVUpqSDJHUEFfQnBWRTA4bnJRdVktX0pPektjekhqQXM4UDhrWGVoVTl0QTJ4TWVR?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/stock-market-live-update-november-19-sensex-today-nifty-open-lower-amid-mixed-cues-brent-crude-oil-prices-anthropic-ipo-listing-bse-nse-12347038#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Markolines Pavement Technologies Limited",
@@ -191,27 +355,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Pidilite Industries Limited",
-      "symbol": "PIDILITIND",
+      "company": "Sangam (India) Limited",
+      "symbol": "SANGAMIND",
       "exchange": "NSE",
-      "confirmedNewsCount": 2,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 62,
+      "predictionScore": 2.8,
+      "confidence": 61,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1534.6,
+      "technicalConfidence": 83,
+      "lastClose": 676.95,
       "catalysts": [
         {
-          "label": "Fevicol Is Getting Costlier From Dec 1: Pidilite Hikes Prices By Up To 7%",
+          "label": "Sangam (India) (NSE:SANGAMIND) Addresses Recent Surge in Trading Volume with Official Clarification - Kalkine Media",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Spurt in Volume",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Spurt in Volume",
           "type": "announcement",
           "verified": true
         }
@@ -219,8 +388,8 @@
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/fevicol-is-getting-costlier-from-dec-1-pidilite-hikes-prices-by-up-to-7-12345923#publisher=newsstand",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSFA0NHhoUXpOQTNsSFQ0OGJKVmlJSnpFNlBZQUdxR1RxYWMzN0FNSVZtZHR3RFAxM1E5SVZyS281aWVRQXhGX2VlOFZfZGdIMUNvNFpFNHhzc0lYelJldXV2UlZxYkxfZ012ODVHMkxJSjhDcU1sTVB3UDhoamI3WTNqMm9XanN3MFRGVFE1bElLb1RneGdvY0tIaHJDa0IyUTB2OFNOSkxLSVppTUQyY3hiTG91SDU5TUd4SGo1b21qdW53MlVoUDBYNWRzVkc4R1FtX1RGbHU?oc=5",
           "verified": true
         }
       ],
@@ -262,49 +431,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Adani Power Limited",
-      "symbol": "ADANIPOWER",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 208.07,
-      "catalysts": [
-        {
-          "label": "Five Stocks To Buy Today November 19: Sun TV, GAIL, Adani Power And More",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/five-stocks-to-buy-today-november-19-sun-tv-dr-reddys-gail-adani-power-and-eternal-12346282#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "GAIL (India) Limited",
-      "symbol": "GAIL",
+      "company": "BLS International Services Limited",
+      "symbol": "BLS",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
@@ -315,20 +443,20 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 187.0,
+      "lastClose": 226.8,
       "catalysts": [
         {
-          "label": "PSC policy change can drive upstream investments; ICICI Securities prefers Oil India, GAIL - CNBC TV18",
+          "label": "Stocks To Watch Today: Bharat Forge, Physics Wallah, NLC India, BLS Polymer among key stocks - Zee Business",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Updates",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Press Release",
+          "label": "Resignation of Director/KMP/SMP",
           "type": "announcement",
           "verified": true
         }
@@ -337,138 +465,33 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOHVBUVhVRkN4b0NXVktfeUFlZmRLdS1GRmVUemZvNmZ4c2JrMDVRYmZNbEtOa0pOQjU2Rl9OTEw2ZGVKbHp5a0pERG9Nb19ucUlzWXlMcW8wbFVvVGhtNHpJMm1rRUtibHhzUEE1SnI0SWd3VXFOUjRrY1c5ZWNBbHFCQmRDUFcyOVFQNGt3eU1LZUFOUURVU2FCMXVEYV9CcTNvN3k1OWRsb3lRT3RSRGk4UGpaME5uLU12NGxfeHF0N2ZERnJ2UWRxd3Etd3dDaVk5QkRMRVNNd3R2ODQzNkZmU2lxcVkxOTFUNElUOGhCRWlZXzhFeU1PemlfNEFxYmfSAYcCQVVfeXFMTUY4Z2hTZldfZjhtbER0WXZjcTBxRHJQaU9Za0lmUVRpdG80aGZuN3JReHFOek9wNFdhRTZJT2huX2I0LWhmeE9QeVNmVi03bk4wY3paakE2dlVsanhWV2ljUmZEOHBSNVdOd01zcDhvYWRSdXNzM3AxY0c2RFNRQmRCRnMweXR3SkVqSDZ4QzE0dU91MnVGYkp5bGFXZmctdzJnOHQxNnZCbk0zeHNPdGlwQm9aN2J0QXZ1N2F6bE41RC0yMV9xUmd1UGIxUUxKNGZmbUdmTWV1dG5WdUZZS2Q2TWlTWE9maVh2ZFd3MTh5b0hVcFhTN04xMjNJWUtQMC1DdkYwWlk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzgtc1o0b0xjUU9sRkpna1FHTDNZd01nNndndlVfX3RLSktXdTZrdTdRWVN0VVNkMUdNSS1fdGJYWkdrX0pzb05tT00yZnY3SVJHMlRaLW9lQTJKMFJURl9ZbUk3bmVoYUNTeFhYM1g3elV2VE81VjduTHo2cU5XLVJ1d2N6QUgxVnd2S043cWlzNGxmQk9Lc2JoYmxsS0lSUVFwMWR5RHEzVWM4VUZHZGJ3a2hlOTh5VTRMTFJHNkpIeko1UkYydA?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Seamec Limited",
-      "symbol": "SEAMECLTD",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 56,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Abha Power and Steel Limited",
-      "symbol": "ABHAPOWER",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 56,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Statement of deviation(s) or variation(s) under Reg. 32",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Dev Information Technology Limited",
-      "symbol": "DEVIT",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 56,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
     {
-      "company": "Kaynes Technology India Limited",
-      "symbol": "KAYNES",
+      "company": "ABB India Limited",
+      "symbol": "ABB",
       "exchange": "NSE",
-      "confirmedNewsCount": 9,
-      "gossipCount": 1,
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
+      "direction": "Positive watch",
+      "predictionScore": 8.8,
       "confidence": 90,
       "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 2858.0,
+      "lastClose": 6951.0,
       "catalysts": [
         {
-          "label": "Kaynes Technology Q2 FY27 Results | Belrise Industries Q2 FY27 Results | Top Buzzing Stocks Today - Equitymaster",
-          "type": "company news",
-          "verified": false
+          "label": "ABB India\u2019s margin recovery in spotlight amid record order inflow - Livemint",
+          "type": "contract",
+          "verified": true
         },
         {
           "label": "Copy of Newspaper Publication",
@@ -476,7 +499,7 @@
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "label": "Investor Presentation",
           "type": "announcement",
           "verified": true
         }
@@ -485,8 +508,172 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSVptTGhleGtHbW1HOFVXV0I2SGdLUE9MSC1VTkZtc2gyMm9kV3IwU0V1VkRubXFKT0ktaVF1Q0k4dDNwWENIaGVSRGNhNDBFenFiR0hmX2t1T1F2Z0pickh2VEM2dHNVMkRFelFyTlljNWlaUjBxV1NxVHpEc1VtbGo0NE1qeklXWUs4ZTh6ZWhScEdPNElVdTBIcEprQWZlQWZGYVNmem4zUE9nTDZtVzdPcm1hd1pLaFlLb1FpQTB0ZUZtTXFzYmVCRzdOWTZ4MDFvSGllSS1lc2lsZ1lZemY1YkNfRnFDbWpBNw?oc=5",
-          "verified": false
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbmRldUppUzg0YTVlM0FSSEx2WkQ3Rm84UzRTSDBLcWNFRmJaSlZUNklxUDlEMV9iNGxWcUFnSktTcWZsVUpzS0IzdXhuS3FYRVhTRWE3c1ZMTWxEQjJTN2dQbEpvcndnM1lWWGlkbWFZajh0NFNmNFJiaXZKcnV2b0tJZ2U4b3ZtMVFhcmlTYXZDSEF3aUw2RmFoZENYWTFIaU4yZ19PSk1WQ29HM243dUJBeTNWZDFEdTdNNWxNbHg3eEhT0gHKAUFVX3lxTFB1OU9NejB3OFpPUmlTTTNnVWVNWC1tSG1TUXN2ckZ4OFBiVVBVUjJHX1N1T0Y5YnJpX3RLQnJDRGRGMXVYNXhuVmlXWXFQNktpZE1YUHd3b19hVGtqYWFUdWVia2M2aGdUM0wxZkU1OU45SkpqYUZnY3hRSmx1U1V2elFRMTRJVFA1dUtmTUZPeVVOLU1FRnR6NmdTMGlaZnhKcVVtckQyS3ZWNzFLSGhENi1QX19iZzdlbEdzVUZVODFRLVZLT2ZhWHc?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Ashok Leyland Limited",
+      "symbol": "ASHOKLEY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 7.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 166.15,
+      "catalysts": [
+        {
+          "label": "Dividend record date, Nov 19: Last day to buy today to qualify- Oil India, Ashok Leyland, more - Who pays the highest? - Livemint",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Dividend",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPS2xfRTN2YlltSjVXR1U1U21zWXdLWlF5eTBkblJJM3dJZVVsMGZKanNYcDJUYlNRYjYxNE9hRmlQR2V5OXpLQTBvZGw4bUxITmUtTm1RaXVYQzNJZHhaSE5iS3Z2SmR4dUUtaG0zX2FBMWI2VE9ub2N1eC16elpZZi1tcHBrQ296TVdFMVNVaThqbmNaNHJRbVlqTnJpd2NmcUJ3Y1gyQVp5Mm8yZ3owSVBCdWNLRlNkVlNoZjQyWk1URFZSMnpxcFZ3eHFLWDA0dlFmaGpjTTJ4cE11LU5lSGk0Y29wR0RCX0NwNVpYZEt3bWRnd01yNmVQdG5nUGRqeVlGUXRIZUNpZzh30gGSAkFVX3lxTE5vM2RNcU4yN1Btamwyc0MtVVF4QU1BOVczY19pcGd3eDlzX01McG15dnprVldvMTBHZkp1a2xielRMend5X0hveXJLSWlTZXExVmhraWNXRFNnY0VmT28zUVlXRzRWOTAwT2xEVmNERV9PSGdjZHJNOGNzNlo4RTN6WlhrdWNGOFQwS3pwNEpBZlFuODctSW43QVlrS08teDgtSUFrd0NvX24tRXVoUS11U1RESG9uTkQzeHVuVVJySFltcE5heE5Ub1ExbEJzN1ZvVGdQYkxOLVhEUWV4a0tHOWJ6Zi01bktkMEhJNGlYQ183VTFvdHZNWVRaS1pETGZJTFNERG9QbmdxX1JZTkU2U1E?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "IIFL Finance Limited",
+      "symbol": "IIFL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 644.45,
+      "catalysts": [
+        {
+          "label": "Fairfax India Announces Sale of Equity Interest in IIFL Finance Limited - www.marketscreener.com",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUE0clJzbVdGOURLMVpEX0ZmdnhRWjJHS24yVEU0S1gxYXZNZ21oUG5Nb1BzNDdnQ0V4eGtyZl9iMFEyMEpkTWZTcTJqc09weS1HMDdyUXNhbzZFQ2l1LU1mV3V6WmhPeThfNkFZN3ZGTjBmaEhydXhYclROOVFzak43bUxyMGxhSkkyUWM2YmRKT2FrNF9LYkFwazQ3QkFTMHNKTzN6dlhsQ2pBc3Q1MFVwcHdva2R5eTVPVGxrUkpaUQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Physicswallah Limited",
+      "symbol": "PWL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 5,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 136.21,
+      "catalysts": [
+        {
+          "label": "Stocks to watch today, Nov 19: Coal India, Physicswallah, Sky Gold & Diamonds, and more - The Financial Express",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmxaRm9SOHJfd1FSQ0ZNcVZCRVlCS3JpSVZsTmwwOTA4eC1abERiYUV3dkNJS2kxcVQ0Ny10M3RMUTJ6WGhnck5XLWtIeTBJNGRfdWlCcG1TSVhSS1M4eFhaSkI3Yjg3M0dHbUVGWDhjZ09FMXZrT3NxcUVRX2Fxd0lSUno4bTYyTWhnaVJNaVd0LVFmWTdpN1dzaFZxSHYyMjNtLTJKclNEc0c1b3dua3lIOGp4ZkVtNndpUU8zdFFYT01xTThQUm9FdWxLUdIB1AFBVV95cUxNRU5ONXFENjF3TWtiVW45Q29VNlFfR0YydVpUcnMyRFltb1VtZ19OaXlXNm1yeWNRbG92UHViYk9mci1WYmIwZVlmOERkQWZUeEZMclJrTkNoNXJVT2Q1OEFjekxwTklycnZ6NDMtY0xZR3k4SmtBNmQxYnozZzJfc2RpelBTdTdaTEh3NGZvQmJhUHgzQXB4UU5lcG1YZTU2dHMydXhLUGQxWDZfM094WVV0blpOeGZTTmFYZUtXd25ia1pNbW1QN3gxelctNml3NWtlMw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Amber Enterprises India Limited",
+      "symbol": "AMBER",
+      "exchange": "NSE",
+      "confirmedNewsCount": 9,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 6697.0,
+      "catalysts": [
+        {
+          "label": "AMBER ENTERPRISES INDIA Share Price Today Up 8% - Equitymaster",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOMTNmZXdtUXVMWnhhU0c0VXY2eGtHR0lRVW8xLW9hSEotcFdMNGZXZU9rSHZ5MWRXSEd5R21YMngxUVpma1JRaERWYzUwZkNWaUp6blVCLVhiOEVVaXM0OFZ3eVdyTmItNGdXYVhkWHNUam52OUFZUWdWZEY0RWlBRkJxVjZvaGdmblItX3o5dnV3RW9VYjhkUW5oQjdRWkRjZmtDYjhDaXBVV0d4RVh1M0cxZDNDbjVIS0xEbFJnYVVpQTRuX05TRW5ENWpDRTllN0JyUkhIeW53ZGZjOS1yalFseDBJaG53SjRaWW1vSW52M0JCbHYwbkFrMFlLcmR2MXl0Mmg0aEJhX3NLdkxXNGxWcG1QejdTTk5NNmZGR19kYjNnWWxBZm50MUZIdGUwd1VVbG1TNnk1dw?oc=5",
+          "verified": true
         }
       ],
       "reason": "Mixed news and technical evidence; monitor carefully."
@@ -527,27 +714,27 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Punjab National Bank",
-      "symbol": "PNB",
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 7,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 85,
+      "predictionScore": 3.2,
+      "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 150.0,
+      "lastClose": 3509.0,
       "catalysts": [
         {
-          "label": "Sensex Today | Nifty 50 | Indian Stock Market Live: Bank Nifty Breaks Another Record As PNB Surges 20% And Yes Bank Gains 18%; What Investors Should Watch Before Buying Banking Stocks - The Sunday Guardian",
+          "label": "Stock Market Today: Sensex Zooms 500 Points, Nifty Above 25,350; Maruti Suzuki Rallies 6%, M&M 4%",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Action(s) taken or orders passed",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         },
@@ -560,12 +747,47 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQQjlIMEs4SW9YZGpic3Z6aEE0SWthR3kyQkxjdWRrZjE4VnNOS0VuTjQ5aVR1a3VuZHBPSEtya0RLaHR4WnRMUDBWeFhkblluTTJzSEJUd3kza192NkdHaGlNNEZ4eVZfYW1yTnM0WEZSM0YzM3JFeEdCemhacElRMVQyTnIwaFJKQlVwUFpXcW9BVVVwTXFqRWczRUJMNWg1czBFUkEzcXo2OFZOcDBnZ1VfQWxLUVVvMktzY2Y1TV9xUlZscmhvTFpuaFU3MDdxeXoxUF8tYl82ZnQzWmt4cVhfcU8tbmF1dW5IS1hKeEJyTWhwN3AtUzdCTHNuNkY1UHgtWU1xNlJlMEd6WEdZUkEycWkyWEl1Vkt5UHBrdk5rd21xTTJpamVJaWxHQ2Q3dU1NSkpfdWhsWWRocEdteUZUUWQ0QdIBywJBVV95cUxNUDQ1OElCQmxtMk53RjhhYVYtY2p1clZIZ2tzYzM5YlVpTExFQk51WU5RUm8wS05sLXA0M3RHZ1RRY3BTZFFsSWdUaHJ1czh2aDNqaWN0VnZSV0JRYnl2Qzh2NzdqV1BtVEZLRnBCMmhaSVR2Z2tnLWVOdU81WW1wS2xRQ3Y3S21KVXlOMmllQW5iT195dTJBNERYRmc5NlJ3d0dJalNaZkp0SWZoeXYxa3dhemJrUE5iWWRXZnh3TXktMEJXT21DUE1fWTJSa0NrVVpjWm1JRm9LZl9yWl80VFhEWEttRnVCRzdxM3ctS1FjVWVQa2hJQmp5ZXJZYUFwQkY0TzVNQUQ4Yl9oaVhQZVU4QnpyMzhCMjdvVUpqSDJHUEFfQnBWRTA4bnJRdVktX0pPektjekhqQXM4UDhrWGVoVTl0QTJ4TWVR?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/markets/stock-market-live-update-november-19-sensex-today-nifty-open-lower-amid-mixed-cues-brent-crude-oil-prices-anthropic-ipo-listing-bse-nse-12347038#publisher=newsstand",
           "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Muthoot Microfin Limited",
+      "symbol": "MUTHOOTMF",
+      "exchange": "NSE",
+      "confirmedNewsCount": 8,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.1,
+      "confidence": 79,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 169.8,
+      "catalysts": [
+        {
+          "label": "Outcome of Board Meeting",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Financial Results",
+          "type": "upcoming event",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Bharat Forge Limited",
@@ -580,10 +802,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 50,
-      "lastClose": 1714.7,
+      "lastClose": 1729.2,
       "catalysts": [
         {
-          "label": "Stocks To Watch Today: Genus Power, Sky Gold Diamonds, Phoenix Mills And Bharat Forge",
+          "label": "Top stocks to watch today: Coal India, Jio Financial, NALCO, Bharat Forge, Sky Gold, Dalmia Bharat and 7 others in focus - Livemint",
           "type": "company news",
           "verified": true
         },
@@ -601,8 +823,8 @@
       "risks": [],
       "sources": [
         {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-genus-power-sky-gold-diamonds-phoenix-mills-and-bharat-forge-12346159#publisher=newsstand",
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSS1HQnlNdWJ1MFFvSWNvMlV5eklPUEtkNlppdlQ3bWQxUzhfNTZQSlBxelJ5VmNFQ1FSSElwaVVkbzdlVXVXbXNyU1BNWEl1elVWWVhOTU0zSmtydGZMTnFockpVUTJJVGF3bUxOWmNGUmVrQnYwS1l6Y1o0U2ZOLUdPM2FxdEEwdjFkQ1FUU044VEJlRVlzMkVjRW9CSThyQ1pHSVpEekpQY1ktQzBQTnZzLVdLbEJoa2pyNHZnNDdaSGlyWkhaYVdGeFFxXy1pVi1WR1dSSzBZTFQyTldYOVJDT2RTclVrSmlFVkNlaFRzc3BEeUdoYTVrdGg4YkpfX3hEUDBSeHRpQmZIWXFIZ3Z30gGXAkFVX3lxTE1oZkY5T1ViLWdjQ3dsWGdnd1Z3YXZob3FkWWVaa3NOM2pKTFU2NFdZSzktZXFCOURiMVZ4NjhVaHRxbXg4akw3cEFmLTFWZlF6TnNTbWV0STJQMHQ3alRia3FHQW1PVzQycVhJZXlYaHd2STZzMjk3S2R5NmcxLU9nM0pqX21aUnF5eG5HUEUtQU1wZnQ0X3gwOXFyZU9CVXo2aUtlTFJrMGVXNFQ4RmY4OFlYY2JiV05EaXdsQnNxNVlnSENrb1lJR2h4dXR4aS1TbHdESmJlOGtsb1E3M2g4VDBqSEhzZzZLMDZGdWswbDBSNVlYWWFiNTlLVVE0UFRJYjc5dGtRSWNDQ1czTG5UczVZMnFwaw?oc=5",
           "verified": true
         }
       ],
@@ -644,42 +866,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Pidilite Industries Limited",
-      "symbol": "PIDILITIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 73,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1534.6,
-      "catalysts": [
-        {
-          "label": "Fevicol Is Getting Costlier From Dec 1: Pidilite Hikes Prices By Up To 7%",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/business/fevicol-is-getting-costlier-from-dec-1-pidilite-hikes-prices-by-up-to-7-12345923#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Jullundur Motor Agency (Delhi) Limited",
       "symbol": "JMA",
       "exchange": "NSE",
@@ -715,207 +901,38 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Adani Power Limited",
-      "symbol": "ADANIPOWER",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.2,
-      "confidence": 67,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 208.07,
-      "catalysts": [
-        {
-          "label": "Five Stocks To Buy Today November 19: Sun TV, GAIL, Adani Power And More",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "NDTV Business",
-          "url": "https://www.ndtvprofit.com/markets/five-stocks-to-buy-today-november-19-sun-tv-dr-reddys-gail-adani-power-and-eternal-12346282#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "GAIL (India) Limited",
-      "symbol": "GAIL",
+      "company": "GVP Infotech Limited",
+      "symbol": "GVPTECH",
       "exchange": "NSE",
       "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 67,
+      "predictionScore": 3.7,
+      "confidence": 71,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 187.0,
+      "lastClose": 6.99,
       "catalysts": [
         {
-          "label": "PSC policy change can drive upstream investments; ICICI Securities prefers Oil India, GAIL - CNBC TV18",
-          "type": "company news",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
+          "label": "Financial Results",
+          "type": "upcoming event",
           "verified": true
         },
         {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOHVBUVhVRkN4b0NXVktfeUFlZmRLdS1GRmVUemZvNmZ4c2JrMDVRYmZNbEtOa0pOQjU2Rl9OTEw2ZGVKbHp5a0pERG9Nb19ucUlzWXlMcW8wbFVvVGhtNHpJMm1rRUtibHhzUEE1SnI0SWd3VXFOUjRrY1c5ZWNBbHFCQmRDUFcyOVFQNGt3eU1LZUFOUURVU2FCMXVEYV9CcTNvN3k1OWRsb3lRT3RSRGk4UGpaME5uLU12NGxfeHF0N2ZERnJ2UWRxd3Etd3dDaVk5QkRMRVNNd3R2ODQzNkZmU2lxcVkxOTFUNElUOGhCRWlZXzhFeU1PemlfNEFxYmfSAYcCQVVfeXFMTUY4Z2hTZldfZjhtbER0WXZjcTBxRHJQaU9Za0lmUVRpdG80aGZuN3JReHFOek9wNFdhRTZJT2huX2I0LWhmeE9QeVNmVi03bk4wY3paakE2dlVsanhWV2ljUmZEOHBSNVdOd01zcDhvYWRSdXNzM3AxY0c2RFNRQmRCRnMweXR3SkVqSDZ4QzE0dU91MnVGYkp5bGFXZmctdzJnOHQxNnZCbk0zeHNPdGlwQm9aN2J0QXZ1N2F6bE41RC0yMV9xUmd1UGIxUUxKNGZmbUdmTWV1dG5WdUZZS2Q2TWlTWE9maVh2ZFd3MTh5b0hVcFhTN04xMjNJWUtQMC1DdkYwWlk?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Texmaco Rail & Engineering Limited",
-      "symbol": "TEXRAIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Conversion",
           "type": "announcement",
           "verified": true
         }
       ],
       "risks": [],
       "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Kalyan Jewellers India Limited",
-      "symbol": "KALYANKJIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 682.75,
-      "catalysts": [
-        {
-          "label": "Nifty Consumer Durables index slides 3%; Titan, Kalyan Jewellers crack 5% - Business Standard",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMmpocUZzRUFxdXZaVThORTVtSmtRbVZsMlU3NnFsODdKR25iQjltUHMtRERaTEdYX0MxT2N4SFRCeEsyY2VHZldRbk8zTXAwZ2t3QjVsVjVIcnFOTkUtOC1IM0xGcHlueXNfTlU0a0hIVERudk92dFdXemlhRGNpXzNydVFlR1lSblZ6QVVhbWZTdFVIVFAyV0xidUZBdUVDcGNMbC1NTFRXVV9zcnloYjlEZUUwbm5EZ096czRLRWF5LU1PSldVWTk1OXpXUVAwY1HSAdcBQVVfeXFMTzJneUU3VV91czFqN0Z2WWtWdVdpdms4Q2dXa05hTGRPV1hKSnJaOUxMNkRCVzJRTkIyRGo3bGF4NW85VGlaM3VtSGlSUDlXWnp5TE1WdVhVcThoUTNjZWtuX3IwLW1qR2J5SEYtQlRhTkFyQWoxb2lqZHhkNWZsdk9YQ1NZc1lTdjAzNmZwUUJYUlljRE5HRGIyNlk4ZlZydHNVTWdRYXhBMk5HTVZ2cFF5MU55OEVsZllSNzVldTYxRmFzYVNRbkR5WEM4WVZ6UjJ4OE4tSUk?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Cummins India Limited",
-      "symbol": "CUMMINSIND",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -2.4,
-      "confidence": 58,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 83,
-      "lastClose": 4065.0,
-      "catalysts": [
-        {
-          "label": "Cummins India shares to hit \u20b95,600 or fall to \u20b93,320? Analysts split on stock after Q2 results - CNBC TV18",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Cummins India Share Price Today Down 4% - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMGJkcXRua3FsYTF6UWdqTjNJeVFEeHk3Zm5TUE9sUkRpQWw1MkRYUXRDLTBOMmFQUFpyaTgyTGxlX3BjaUZDVE10ZFMtcDdYdTVZdHdPd0dkel9CY0EwdVpZU015ekpQNDFTa2NfUE1kNnRQOE1fMmJpWGhvaTNfLTJHRTlPQWxra2hfcDBIRVZNaWlCR0VGOHkwNDFCUmo2Q2tyYk5UV2RVMW1XZExJRjZaV2FPczJFeUx3VDBXVWFieEJPbVJjOVR1SExOMkR3bmZQSDhR0gHbAUFVX3lxTE90RmpjZkplSEVzckxPQms5akQ3RnNLQzBDNGpPZjR4NUg4aklSaWxkZlBiZ2lZZ2djRGwtcHlWWlF1R0ZtNkJReGthZnh5aVFBUDZzYjVscDNtNnJQWnBrLVY0ZmZWdzdjZzFzWElNemtJb0VZaXh6RzM1VHlqZUo3OVI1ZDc0Nnd2cGFQTzJLb29MeGZiZ05xaGdzRTZ1bWNnQlF3dzE1dlQxeDVCN0dHS3ZmMFc0U0c5WEhMemh0R2RaVXdFeEFSaEc4alNuVkotRVJxWnNBeE9VUQ?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQZ01LajNUUkJWSE9CcUpfVWFGczVJVjJlTy1Ydmczb1NaYzkwM1JWSTZ1dDQ2eFQwR0ZjZk1US295T0FSblpWcGlBNXd3a1h4dWFQWjNkenNqMmJKTmlwNjFzS2l5cnpTTW96X2owdlNvaHRhVHZkX0VoS2gwZU1LbjNHVE81UktTTExSeWlFZXBBUUtVdEVIZkZJYTRXNzZqRV9fX1VZU0NYenZiSFlrQ3lmMVR0VEpRbFhTYU9kU2VUeVQ0M3NBaGxPN1BHNVkwa0NwRWs0ZEw5MmluWjM3cE1tRHQ5Yy13VVA0QnlYLUFzZ2xpLVBHUWZMR2pKdGRRRjdMTHZPMldFaVNEMkxpOVozRjN2R0RnRzYzN1oyVzJXYno0Rkd0X2NzYWs?oc=5",
-          "verified": true
-        }
-      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
