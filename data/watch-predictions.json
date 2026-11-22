@@ -1,64 +1,94 @@
 {
-  "generatedAt": "2026-11-22T12:38:00+00:00",
+  "generatedAt": "2026-11-22T20:44:38+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
     {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
+      "company": "Punjab National Bank",
+      "symbol": "PNB",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -2.2,
-      "confidence": 74,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
+      "direction": "Positive watch",
+      "predictionScore": 3.9,
+      "confidence": 86,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1098.0,
+      "lastClose": 155.33,
       "catalysts": [
         {
-          "label": "Stock market opens mixed: Sensex gains, Nifty falls; Infosys leads losers - India Today",
+          "label": "PNB MD Says ECL Provision Requirement Is Around Rs 5,000 Crore, With No Impact On Profitability",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Infosys, TCS, HCL Tech: Indian IT stocks buck global AI rout trend; Nifty IT jumps 2% - Key reasons | Top shares to buy - Livemint",
-          "type": "company news",
+          "label": "Credit Rating- Revision",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Action(s) taken or orders passed",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "Indian IT Stocks Rally 1.96% as TCS, Infosys and Tech Mahindra Gain Despite Global Tech Selloff - Kotak Neo",
-          "type": "company news",
-          "verified": true
-        }
-      ],
+      "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLXpIdFdLRUp0aFVtc3lJdUkyS2NlLUthSWZvb01OUkh0bXZUaEo0XzQ0V296SkN4dFd6NzNXaC1LWHhBVHlURXVYVnZXZWk5dy1nV1FvLUxHUnVoNHprZUxoTk1rZDJtbUhKbVJ0cVdfMDVnLV8yaFItYVFRTnFvaFlmRk1iLThFRmRfcWs3S2RrYkFYNjNLM0MwQ3NtV1VpR1VwS0YxcE1yUXUxMlRJVlNMZy1EcWN3eFc5c21PVTYtSmlMaWpzcURR0gHPAUFVX3lxTE1XMG1Lb3ZYV1VCUVRRQWx0anB1NTU5OThvdENyV2NFR05hLW5yRHhiUVBOZWpLelQyNHBIT2dackhXUmY0T291ZVVSV0tFRldla1ZSbFFnT3Azay1raXZmX3J0SzAwZEctRE9TT25DYnRMZDNUYUw2SktUaGQ4aGhwejlYQ0RwRGhFWGxPdzBWbmRHTlZjV08wMXo1T0l0OHhmUTUxUy1DbVhVcWRJR1Q4Y0N2MHJjWFh5N001TURNZ212WWs2ZVhDbUNCY0RTSQ?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWC10Y2dYeTFzaTRKUXBuemhHem1hZGdlZ3pvY3ppM0VUSWlVakRPUjJ5R0RNQ0NaLUpDYmxWUUxGdTAxWXFaTTZaQTBZMG9qS3NpQkxqZEgwWXZ0Vldrc00wbml3X3NaamtKVlU5X1pLM2F4Y1lhOFNidlJfTG1uejlUazNEbXNYMUlxUVcxc2VQZ0dPT3A1eFAyeGNKYkowZF9RakYwX2d5YlZfN0RUTl81Tm0tTHozbnJ1RFF4VEtfNlcwdl9iaTk3RVRNT25abEp0bklhMmZHbDE5QWhwbkhobkxDZ0VHQUxoS2lodURseHVrYkZha3lMUDk1azhHT3NmdDlWQ0ZCZUh30gGSAkFVX3lxTE5TeFU0dTRDQklPT0NXNEhWRTdTSG5tS3cxX1pZSC1JUXdISGF6TzBjOXkzOGtrSnB6NFd2Y1dINGRIblFMNTNIQ01vY1AwS0U1ZnR6UENrTnlMdjdrMTd6Y2M4cUJKYnZ0NVh0bGZzWVZqcy1MU3gtTGxCY0Eyc1p4QzlMZ1dGcUgwWG9FWGVOSjdzdlpkNGc5Y3lJcU1mZnhnX2hCVEZBbDJVXzl3dkZsdlV2QjNoODdqSlZJdUFUUG5tdnlVa1JhZTlJNHlZS2lTQXJnOGZnbXFGLURIUXpXUWZHMV93cU1Ya3p4YllFcGR4alk1ZkhDTUdTaFU3amNvS0lEcDc2REJwM1ZOME43TXc?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDRqMm9KUnNXRi1pUXRYN0VhQl9XbFgwMDRmLXltc3RWZ0xKZHZpYjAyZlhmYnlNYzJORmdUZS14UmtIdWFNS0lUOGRYaHptWG01S21ncWFLZXBxakhlNS1LQlp4VTNxdnNnMk9ZVGxOSkVUcHkyZXJpNzViU3QtUzlUNzdiQmdnVTFNZGFCQVlSQ0IzaHI4UDJDYWVSZjZId0J6ZEhVbUR6OFJUUW1MeWVBUlVlU1NzT0ZsY25GZTc4MWpCZXc?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/pnb-md-says-ecl-provision-requirement-is-around-rs-5-000-crore-with-no-impact-on-profitability-12362961#publisher=newsstand",
           "verified": true
         }
       ],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Tata Steel Limited",
+      "symbol": "TATASTEEL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.4,
+      "confidence": 74,
+      "riskLevel": "Standard",
+      "technicalSignal": "Neutral",
+      "technicalConfidence": 33,
+      "lastClose": 178.0,
+      "catalysts": [
+        {
+          "label": "Tata Steel Reportedly Eyes \u20b931,818 Crore APL Apollo Buyout as ArcelorMittal Joins Acquisition Race - Kotak Neo",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "APL Apollo To Buy Tata Steel's Tubes And Colors Business For Rs 28,000 Crore",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaEtnZWtlb2NDb0JRN0dlNnBQSkVycXY5WUhEZnQ2Q2tNWFFCM29jZ0lvc2Q5ZGhtalpFRkg0cnBiQmZOd1R6SnduQTJwQXEwNWZYQ01wcXctMHlXLTdWSjFTOUN1blV3VzM4QTYyTFBRQWZ4UkhDTjNLZGphRWdIeUJ4OC0yd2JiWExkbm0tT0RzWURBVzBjZndhbnBMb3VkSzRoZGtLcUR0dnhGSkwtLUxqQ3ZKSEpfd0RaUmtIV2lkOVU1LTNULUNSNU8?oc=5",
+          "verified": true
+        },
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/apl-apollo-to-buy-tata-steels-tubes-and-colors-business-for-rs-28-000-crore-12362748#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "Acme Solar Holdings Limited",
@@ -172,6 +202,53 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Negative watch",
+      "predictionScore": -2.9,
+      "confidence": 65,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1098.0,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Indian IT Stocks Rally 1.96% as TCS, Infosys and Tech Mahindra Gain Despite Global Tech Selloff - Kotak Neo",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDRqMm9KUnNXRi1pUXRYN0VhQl9XbFgwMDRmLXltc3RWZ0xKZHZpYjAyZlhmYnlNYzJORmdUZS14UmtIdWFNS0lUOGRYaHptWG01S21ncWFLZXBxakhlNS1LQlp4VTNxdnNnMk9ZVGxOSkVUcHkyZXJpNzViU3QtUzlUNzdiQmdnVTFNZGFCQVlSQ0IzaHI4UDJDYWVSZjZId0J6ZEhVbUR6OFJUUW1MeWVBUlVlU1NzT0ZsY25GZTc4MWpCZXc?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
       "company": "Viviana Power Tech Limited",
       "symbol": "VIVIANA",
       "exchange": "NSE",
@@ -312,6 +389,47 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Lodha Developers Limited",
+      "symbol": "LODHA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.8,
+      "confidence": 61,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 1218.7,
+      "catalysts": [
+        {
+          "label": "Lodha Developers Chairman Mukund Chitale Steps Down; Akhil Gupta To Replace",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Cessation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Allotment of Securities",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/lodha-developers-chairman-mukund-chitale-steps-down-akhil-gupta-to-replace-12362345#publisher=newsstand",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Texmaco Rail & Engineering Limited",
       "symbol": "TEXRAIL",
       "exchange": "NSE",
@@ -345,178 +463,45 @@
       "risks": [],
       "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ashoka Buildcon Limited",
-      "symbol": "ASHOKA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "IDFC First Bank Limited",
-      "symbol": "IDFCFIRSTB",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 87.26,
-      "catalysts": [
-        {
-          "label": "Best 3 stocks to buy under \u20b9100: IDFC First Bank, Jayaswal Neco Industries, Sagility by Sumeet Bagadia | Targets, SL - Livemint",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Rumour Verification - Regulation 30(11)",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZDBCQkZWMkN1U0M5TF9iNWdHRVpVRzhwSElWeEUzMEY3RzZHa1pQMTM0ZU44Z251cjZ4T2NhODZMNEh3bk5aSXN1X3VlaHZvV2hzX0pTQWhnWjRzM01YcWZJMVZ4RUlmWFVZY3dmS2NoNmN0WDd0YXZCNXJvZnd1WlRDQ0E1SFl5ZDdzYkdMMldaZjFIMHplU0hrVkprZnNaVHhZOExkb3dvTnFMckU1SVJWR0c0MnNEVFdzLURWRTNxUE1pci1pVTJibUVQZGRlVkpsTE5mSnVzTTFqSEJIRjgtNGU5djNBZlRXQXdYSWhuZjFiQkdSUWhyOVhySGN2VkFjeXlYWEd5WmtHWmN30gGUAkFVX3lxTFBsaFZNQW92dXY5dEptWGpmT3NxMjFxQXRpRFMzU2E1TVNhR1FxUlFKV1BNRmVZeW9QbjNLQjdhVWdoa1RIWGUxZkhnbHozMlBLNk85NTdLQjEwNWlBNFBSZHlVSmF2VkNSeGJrc1BZR2g2M1dPLThoTXJMVEpLNncxMXB3amR1VmJNcUJwQ1UySG5GVm9GTzg3bkU2SjI4VGN5N3dqUGY2UmhRQktvRTY3ODNBbW95ZUZtaWxienJfRk90cHEyeE5hbEJIaUQyRWIzVWI5d2hWdTdnaFg0WjViU2c2NFJveU1wamxLWEtxTTRoeURLYXRyOXR3YnVlajcwN181YWpTWDA2TC12cmJVME9iTA?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 846.0,
-      "catalysts": [
-        {
-          "label": "Stock Of The Day Buy HDFC Bank Futures on decline: SL 800 Tgt 828, 835, 842 -New MD Anup Bagchi is meeting with Investors in Singapore is very encouraging #StockOfTheDay #HDFCBank #StockMarketToday #AnilSinghvi - Facebook",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Shareholders meeting",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT0lBT3Q0c1hoOGZQb0dCbGJpMTZwVlIwY3F4ZTZVN1plVVk4UkdkVlpiSldDR1dLZUhwVmhXaHN2dVlPXzZteEJ1RGFMUndEQVNNSzdEbTJBUF9lUzcyM3IzMFlocF9uaWJjc3FOOTVhX0RLWUhXMk1GbUx3cHZkT1FMTWpSc3ByY2NPYkZMVGJxTzBnODNjWkc5UWFXWE1pTjJyRHZ5Sm4xNG50T3duVkhzXzVfVzBuOUlhd0ZQc2RURVRGcnBpX1lGZEZCcXVJMEEzeXBLZW5TUU5UOXhvV2tR?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ],
   "tomorrow": [
     {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
+      "company": "Punjab National Bank",
+      "symbol": "PNB",
       "exchange": "NSE",
       "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -3.2,
-      "confidence": 81,
-      "riskLevel": "Medium",
-      "technicalSignal": "Bearish",
+      "direction": "Positive watch",
+      "predictionScore": 4.9,
+      "confidence": 90,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 1098.0,
+      "lastClose": 155.33,
       "catalysts": [
         {
-          "label": "Stock market opens mixed: Sensex gains, Nifty falls; Infosys leads losers - India Today",
+          "label": "PNB MD Says ECL Provision Requirement Is Around Rs 5,000 Crore, With No Impact On Profitability",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "Infosys, TCS, HCL Tech: Indian IT stocks buck global AI rout trend; Nifty IT jumps 2% - Key reasons | Top shares to buy - Livemint",
-          "type": "company news",
+          "label": "Credit Rating- Revision",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Action(s) taken or orders passed",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "Indian IT Stocks Rally 1.96% as TCS, Infosys and Tech Mahindra Gain Despite Global Tech Selloff - Kotak Neo",
-          "type": "company news",
-          "verified": true
-        }
-      ],
+      "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLXpIdFdLRUp0aFVtc3lJdUkyS2NlLUthSWZvb01OUkh0bXZUaEo0XzQ0V296SkN4dFd6NzNXaC1LWHhBVHlURXVYVnZXZWk5dy1nV1FvLUxHUnVoNHprZUxoTk1rZDJtbUhKbVJ0cVdfMDVnLV8yaFItYVFRTnFvaFlmRk1iLThFRmRfcWs3S2RrYkFYNjNLM0MwQ3NtV1VpR1VwS0YxcE1yUXUxMlRJVlNMZy1EcWN3eFc5c21PVTYtSmlMaWpzcURR0gHPAUFVX3lxTE1XMG1Lb3ZYV1VCUVRRQWx0anB1NTU5OThvdENyV2NFR05hLW5yRHhiUVBOZWpLelQyNHBIT2dackhXUmY0T291ZVVSV0tFRldla1ZSbFFnT3Azay1raXZmX3J0SzAwZEctRE9TT25DYnRMZDNUYUw2SktUaGQ4aGhwejlYQ0RwRGhFWGxPdzBWbmRHTlZjV08wMXo1T0l0OHhmUTUxUy1DbVhVcWRJR1Q4Y0N2MHJjWFh5N001TURNZ212WWs2ZVhDbUNCY0RTSQ?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWC10Y2dYeTFzaTRKUXBuemhHem1hZGdlZ3pvY3ppM0VUSWlVakRPUjJ5R0RNQ0NaLUpDYmxWUUxGdTAxWXFaTTZaQTBZMG9qS3NpQkxqZEgwWXZ0Vldrc00wbml3X3NaamtKVlU5X1pLM2F4Y1lhOFNidlJfTG1uejlUazNEbXNYMUlxUVcxc2VQZ0dPT3A1eFAyeGNKYkowZF9RakYwX2d5YlZfN0RUTl81Tm0tTHozbnJ1RFF4VEtfNlcwdl9iaTk3RVRNT25abEp0bklhMmZHbDE5QWhwbkhobkxDZ0VHQUxoS2lodURseHVrYkZha3lMUDk1azhHT3NmdDlWQ0ZCZUh30gGSAkFVX3lxTE5TeFU0dTRDQklPT0NXNEhWRTdTSG5tS3cxX1pZSC1JUXdISGF6TzBjOXkzOGtrSnB6NFd2Y1dINGRIblFMNTNIQ01vY1AwS0U1ZnR6UENrTnlMdjdrMTd6Y2M4cUJKYnZ0NVh0bGZzWVZqcy1MU3gtTGxCY0Eyc1p4QzlMZ1dGcUgwWG9FWGVOSjdzdlpkNGc5Y3lJcU1mZnhnX2hCVEZBbDJVXzl3dkZsdlV2QjNoODdqSlZJdUFUUG5tdnlVa1JhZTlJNHlZS2lTQXJnOGZnbXFGLURIUXpXUWZHMV93cU1Ya3p4YllFcGR4alk1ZkhDTUdTaFU3amNvS0lEcDc2REJwM1ZOME43TXc?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDRqMm9KUnNXRi1pUXRYN0VhQl9XbFgwMDRmLXltc3RWZ0xKZHZpYjAyZlhmYnlNYzJORmdUZS14UmtIdWFNS0lUOGRYaHptWG01S21ncWFLZXBxakhlNS1LQlp4VTNxdnNnMk9ZVGxOSkVUcHkyZXJpNzViU3QtUzlUNzdiQmdnVTFNZGFCQVlSQ0IzaHI4UDJDYWVSZjZId0J6ZEhVbUR6OFJUUW1MeWVBUlVlU1NzT0ZsY25GZTc4MWpCZXc?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/pnb-md-says-ecl-provision-requirement-is-around-rs-5-000-crore-with-no-impact-on-profitability-12362961#publisher=newsstand",
           "verified": true
         }
       ],
@@ -558,6 +543,94 @@
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQdFIzUGZCUkxiLWQ5UFdQQmFSMFNhbF94TTVnQ0didVR4eHloQTFVdjljU281UF9KLWF4bHJ4S3Uzbms5Q0VXdHVQRHFIUmVBb1ZPYWJTd2hzZ2UtLVFDN1dueXhsYkJ3c3kyUEY5QjdZTXRQYXFGNjZtNHFpRWFXNzNzdkJCcjFmMGViMlNoZF9zb1BJOXRPQ2o2OU9Sc2lBUEZselljTGVvRHQzYkN1OUJic0s5WDhSTDNsMWJ3ZjlHZm45Y0VnS3J5NElHbEFEbjRHaExMWVBWVHZRS044enBVUW9mWU5LTVdZLXV6cWpubHNONFFLZXFLNTBuMDBGWU9RV1AzT280eEM0ZFN0c1dR0gGXAkFVX3lxTFBUVkh0NUVnejE0b3JUM2kxbnpNUWtxTGtYNWIzVWpVZ2RveXdpNEFkZllqMF9GclRLQXRBM2pCLXhOWjYwU1hKV1lLdkFuWDZpYVI0ejlXaHk1V1U3ckpxQVd1Qk9PWHVVTW1wcXNhMEdKZ0s5VEJGamdYeXhucndxXzRyelFKbzR1cUMyak02b3VBYWVBU01TcFhwRTFoWEZqaXZBRHJJc0doeDF1eWFxTDFveVNDNVpMRTd2VmhEMEdWQk5VbEpFVVltSnhJZHpaT19jNVJ2dDZUVV93aGQ5MjRtZnowdVFGU3FQOEZHR1pjUHY4ZXZtZUpocVBtcEVFMUZzSFBuWmNtMWVuV2NWVXo1OGhIVQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Negative watch",
+      "predictionScore": -3.9,
+      "confidence": 72,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bearish",
+      "technicalConfidence": 67,
+      "lastClose": 1098.0,
+      "catalysts": [
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [
+        {
+          "label": "Indian IT Stocks Rally 1.96% as TCS, Infosys and Tech Mahindra Gain Despite Global Tech Selloff - Kotak Neo",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDRqMm9KUnNXRi1pUXRYN0VhQl9XbFgwMDRmLXltc3RWZ0xKZHZpYjAyZlhmYnlNYzJORmdUZS14UmtIdWFNS0lUOGRYaHptWG01S21ncWFLZXBxakhlNS1LQlp4VTNxdnNnMk9ZVGxOSkVUcHkyZXJpNzViU3QtUzlUNzdiQmdnVTFNZGFCQVlSQ0IzaHI4UDJDYWVSZjZId0J6ZEhVbUR6OFJUUW1MeWVBUlVlU1NzT0ZsY25GZTc4MWpCZXc?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Lodha Developers Limited",
+      "symbol": "LODHA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 3,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.0,
+      "confidence": 70,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 83,
+      "lastClose": 1218.7,
+      "catalysts": [
+        {
+          "label": "Lodha Developers Chairman Mukund Chitale Steps Down; Akhil Gupta To Replace",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Cessation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Allotment of Securities",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/business/lodha-developers-chairman-mukund-chitale-steps-down-akhil-gupta-to-replace-12362345#publisher=newsstand",
           "verified": true
         }
       ],
@@ -606,7 +679,7 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.2,
+      "predictionScore": 4.1,
       "confidence": 67,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
@@ -638,6 +711,47 @@
         }
       ],
       "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Adani Enterprises Limited",
+      "symbol": "ADANIENT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 67,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 2709.0,
+      "catalysts": [
+        {
+          "label": "Adani Enterprises, BSE and 5 Other Stocks That Delivered Returns of Up to 44% in 2026 Amid Market Uncertainty - Trade Brains",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Credit Rating",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRDA3cXZ0ekotZjMtblpPQ2dUTkE3aFlxMjM2TFNDRTM3X1pzQllZZlhFeVBlTVQ5ZUFlRUJ5b3JNYUprYU9RVE9kbkxsOXg2cURiNFVwV0FkTVhKcnVsMWhsSzk1ZUxqQlBuR3FwUExkTUtrSmZ6aHlCbk90LU4tcFptbUJmN1NiOGxERU1aRVVKMjB0c1J1dVVBNHU0UjJEbjN0U01Rc0VxNnNOcDFMUFhmZnlJM0VSZVhJTVUxMzZlVk5DekViYmlmV3Nrb3FGQ3FPdGVvYjZid2ZPZ2I2TmJJT3pJRW5xbEE?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "HDFC Bank Limited",
@@ -807,111 +921,6 @@
         },
         {
           "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "General Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Markolines Pavement Technologies Limited",
-      "symbol": "MARKOLINES",
-      "exchange": "NSE",
-      "confirmedNewsCount": 6,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.0,
-      "confidence": 63,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Investor Presentation",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Texmaco Rail & Engineering Limited",
-      "symbol": "TEXRAIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Ashoka Buildcon Limited",
-      "symbol": "ASHOKA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 4.5,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         },
