@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T13:56:19+00:00",
+  "generatedAt": "2026-11-26T23:00:34+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -39,8 +39,8 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Siemens Limited",
-      "symbol": "SIEMENS",
+      "company": "Anlon Technology Solutions Limited",
+      "symbol": "ANLON",
       "exchange": "NSE",
       "confirmedNewsCount": 7,
       "gossipCount": 0,
@@ -49,9 +49,44 @@
       "predictionScore": 6.0,
       "confidence": 90,
       "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Siemens Limited",
+      "symbol": "SIEMENS",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 5.8,
+      "confidence": 90,
+      "riskLevel": "Standard",
       "technicalSignal": "Neutral",
       "technicalConfidence": 33,
-      "lastClose": 3576.6,
+      "lastClose": 3581.1,
       "catalysts": [
         {
           "label": "Siemens Energy India shares pare gains post 9% rally as Q4 profit soars 82% YoY; dividend of \u20b912/share recommended - Upstox",
@@ -90,39 +125,66 @@
       "reason": "Fresh news and technical indicators agree."
     },
     {
-      "company": "Anlon Technology Solutions Limited",
-      "symbol": "ANLON",
+      "company": "LG Electronics India Limited",
+      "symbol": "LGEINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 6.0,
+      "predictionScore": 4.2,
       "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
+      "riskLevel": "Medium",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 1818.4,
       "catalysts": [
         {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
+          "label": "LG Electronics India falls 3% as parent launches \u20b92,320-cr stake sale - Business Standard",
+          "type": "corporate action",
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
+          "label": "LG Electronics India shares fall as 2.05% equity changes hands in block deal - CNBC TV18",
+          "type": "company news",
           "verified": true
         },
         {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
+          "label": "LG Electronics India Share Price Drops 3% After \u20b92,464 Crore Block Deal Involving 2.05% Equity - Kotak Neo",
+          "type": "company news",
           "verified": true
         }
       ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "risks": [
+        {
+          "label": "LG Electronics India shares decline 4% as parent firm plans to divest stake; check details - Upstox",
+          "type": "company news",
+          "verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmtDN0wtaHlZTkNSLTRHeERLUU5CSTU4RG13Smc0SVdydGp5bjVob013NHFCS0RLaTJhbklDWE9mUHlfVU9TblJHMlpHRFQtMXpHWXVBRV8xR3FDMGx4cnRvbXRUVjY0X0ZoRUxNM1dlSDd2R2N6REJuVmFEcG0tSEhZc1l4Tkw3Qm1Rc21WR3RicFVqNWF1Mi10UklPcndxX2ViVjZXTGJQaFdjLWgxaXVQVWxrcUpjX3NBSEtHNTctemc0cU4yb0xNMGY3MWPSAdQBQVVfeXFMTmFtU0p1WW5CVUJlemVxVDROSkdhaEdET1hUR0s3TUxvYjd1WmgzMG1LbGhwYVBnal9yRlJ2V0pQQTZCS1RXa014QXNqN2YxcnBUcjdDNVZXc1Jxelc5WDlDbF9NbGVGTXlmdE9qdzkyckN3LWwzb1otV2V4OVRoVURETkl0ajFPdzZwMmpjazhabmY4QlBOdURnLVV5NTRJY2d1cUU3ZHVqYXd6ZzZHZmR3dFhZUWVpdGUtRWdoZzBHN3RuMW1UTzJwWHl4RFgtSUp5RkM?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVUFWVzJWVHluWFZqbzJ1R1RBdzRaVDR3OWlRdzlZMmk1bDNEcUY5TlpmczZWbXQ3ekpaV0FOUTd3S1ZadFdUNGlOWl9WRTlwNGtrcVdZNjNuNkFla1NNQ3VPS0dVeW90U1RXVXk1OVgwZUF6VGxKS0lKVlJCa3k0V2p2ckthRWZlVVBpalFpTzR4YWs4RkVUY0pVQWhZOG1DRDV5T0pBQXl2Yl83cjRheTdmR0FoLVZaNFNZRnhmTkZtaU9WWEtQZ0h5TWxjU015ME4yMER5YkE4UWlKQzZIRQ?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOUFZR1gzYmFtYjZjS0hkbTNtRW9pSXlQM2RkOWVTaUZaSTluc3NUU04wbWt4cEZDdTJRelVHNlp1UlYzYUFBVmlMZUpsWURWNVBiSXA2YndNNUdSTFJGbHViSHBGR0h3bHdLVTdta0VRM2lUS1V6VlZ5Q0Nad0pKemtsU2U3WVBvQW5NeW1RZkEyV1c0V0lVZFR2TkZycUkxdXQ5Nncxa25BcHRYTkVSU3dVV2JLZUdSVlHSAb8BQVVfeXFMT3NXN0x2MkpqQy0yWXlrQzlwU3dJWi1HcVdPbmVwVEVPMnpqM1ZFUmgzUWZZLUZJZjVwRG9wbnNfZzF5MmNnYmU2eHh0a2NNU2J6S2o4akxaSmdMejdtMHh6Q0V0R3JIZmxoX2ZHTHh2M2VKaF8wSjN2ajNWS3IwWTJXTENZdjFKRnJYWHFCRXVST2dhbUV5aEtEWDFxTnhRSW9OeUxUSV9yUGI5UnhUVUF4NjVEbnIxVUVrS0tTbDQ?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlNRZ0Q3Wlg4a2plTFNmNWZpY3VET3cyRjZUaGljbjlyWTFIU3NmVm16QXlkMm56Yy1HM0d5RHMwSV80RFh1dXhxZlZJQ0FDSWlTa2ZWZHB3SnBfdzN2T0NtWUowYlZwY0hPNmNjTFBhVUdxcjNoNDVXOTEwbWJybUdjVkE3dmpHdE9UY2trcUtXc3g3bzBkTGVrM3E3emNkV3ZPcGtUZ2tpd3c0VVp6VHBYNzdTdDJhZHg4enNZeGFOVU5VZzMw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Kfin Technologies Limited",
@@ -132,12 +194,12 @@
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.8,
+      "predictionScore": 5.7,
       "confidence": 79,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 995.0,
+      "lastClose": 934.0,
       "catalysts": [
         {
           "label": "Mahanadi Coalfields IPO allotment finalised: How to check status online on NSE, BSE, KFin Technologies; listing date, time here - Upstox",
@@ -196,61 +258,45 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "LG Electronics India Limited",
-      "symbol": "LGEINDIA",
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.3,
-      "confidence": 76,
-      "riskLevel": "Medium",
+      "predictionScore": 2.6,
+      "confidence": 72,
+      "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1758.1,
+      "technicalConfidence": 50,
+      "lastClose": 2060.0,
       "catalysts": [
         {
-          "label": "LG Electronics India shares fall as 2.05% equity changes hands in block deal - CNBC TV18",
+          "label": "Zee Business. . STOCK OF THE DAY Buy Coforge Futures: SL 2000 SL 2050, 2075, 2100 Strong buy report from Bernstein today Buy Persistent Futures: SL 6100 SL 6250, 6325, 6400 Strong buy report from Bernstein today Buy DMart Futures: SL 3500 Tgt 36 - Facebook",
           "type": "company news",
           "verified": true
         },
         {
-          "label": "LG Electronics India Share Price Drops 3% After \u20b92,464 Crore Block Deal Involving 2.05% Equity - Kotak Neo",
-          "type": "company news",
+          "label": "Press Release",
+          "type": "announcement",
           "verified": true
         },
         {
-          "label": "Updates",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
           "type": "announcement",
           "verified": true
         }
       ],
-      "risks": [
-        {
-          "label": "LG Electronics India shares decline 4% as parent firm plans to divest stake; check details - Upstox",
-          "type": "company news",
-          "verified": true
-        }
-      ],
+      "risks": [],
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVUFWVzJWVHluWFZqbzJ1R1RBdzRaVDR3OWlRdzlZMmk1bDNEcUY5TlpmczZWbXQ3ekpaV0FOUTd3S1ZadFdUNGlOWl9WRTlwNGtrcVdZNjNuNkFla1NNQ3VPS0dVeW90U1RXVXk1OVgwZUF6VGxKS0lKVlJCa3k0V2p2ckthRWZlVVBpalFpTzR4YWs4RkVUY0pVQWhZOG1DRDV5T0pBQXl2Yl83cjRheTdmR0FoLVZaNFNZRnhmTkZtaU9WWEtQZ0h5TWxjU015ME4yMER5YkE4UWlKQzZIRQ?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOUFZR1gzYmFtYjZjS0hkbTNtRW9pSXlQM2RkOWVTaUZaSTluc3NUU04wbWt4cEZDdTJRelVHNlp1UlYzYUFBVmlMZUpsWURWNVBiSXA2YndNNUdSTFJGbHViSHBGR0h3bHdLVTdta0VRM2lUS1V6VlZ5Q0Nad0pKemtsU2U3WVBvQW5NeW1RZkEyV1c0V0lVZFR2TkZycUkxdXQ5Nncxa25BcHRYTkVSU3dVV2JLZUdSVlHSAb8BQVVfeXFMT3NXN0x2MkpqQy0yWXlrQzlwU3dJWi1HcVdPbmVwVEVPMnpqM1ZFUmgzUWZZLUZJZjVwRG9wbnNfZzF5MmNnYmU2eHh0a2NNU2J6S2o4akxaSmdMejdtMHh6Q0V0R3JIZmxoX2ZHTHh2M2VKaF8wSjN2ajNWS3IwWTJXTENZdjFKRnJYWHFCRXVST2dhbUV5aEtEWDFxTnhRSW9OeUxUSV9yUGI5UnhUVUF4NjVEbnIxVUVrS0tTbDQ?oc=5",
-          "verified": true
-        },
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlNRZ0Q3Wlg4a2plTFNmNWZpY3VET3cyRjZUaGljbjlyWTFIU3NmVm16QXlkMm56Yy1HM0d5RHMwSV80RFh1dXhxZlZJQ0FDSWlTa2ZWZHB3SnBfdzN2T0NtWUowYlZwY0hPNmNjTFBhVUdxcjNoNDVXOTEwbWJybUdjVkE3dmpHdE9UY2trcUtXc3g3bzBkTGVrM3E3emNkV3ZPcGtUZ2tpd3c0VVp6VHBYNzdTdDJhZHg4enNZeGFOVU5VZzMw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeHhiQnA5MEhBQVA1a3dNMWdrTEhPeUVmM0I1akVwNTBxOXlFejlmYnVZTGZYemVWYzF5M1E4QTJFS0N1ajgyTDlnNEFNMDZhd0prcE5xeGI3Z2ROS042NTZZYkhoTS1mQXJVN05PTTNvb3pBbHJob00zdlBZZGNuQ01vVXViclhsRGZKaWNHQlF3dE1hNUZWNlRCWlhPaUNmMVMzTnV0clhWckRNYXlkU3FTY1FBbWQyQnJWMHpTN01YeWVtdEh5QS0zYktfNWJ0T2pmbjZRcFhLRkVuVFJXbVlB?oc=5",
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Dynamic Services & Security Limited",
@@ -335,10 +381,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 160.29,
+      "lastClose": 159.89,
       "catalysts": [
         {
-          "label": "Reserve Bank of India requires 50% cash for MTF funding - Multibagg AI",
+          "label": "iPhone 17, iPhone 17e And iPhone 16 Get Price Cuts On Amazon: Check New Prices",
           "type": "company news",
           "verified": true
         },
@@ -356,8 +402,8 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWc5MUpTTDJwNC1FZkhNTmhJbXZtNW53MmlJWk5hT3Y4TWszdE42UU9NcFdlaFRWb050OW84UmotdkJpRWtIY2w4eXpISnhCZkhpbnpHUUQtWGoxTTRrS0J2YnRyRlRvamNaTEwtcWx5VlFyWHZBQURVODhSNUlLYXFOdUxJaDdlZGZyVVdlWDVzUE4tTVI5S250NFdtaVhQQm5j?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/technology/iphone-17-iphone-17e-and-iphone-16-get-price-cuts-on-amazon-check-new-prices-12382072#publisher=newsstand",
           "verified": true
         }
       ],
@@ -376,7 +422,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 737.25,
+      "lastClose": 767.7,
       "catalysts": [
         {
           "label": "Trump Tariff Threat impact on Indian stocks: Gokaldas Exports to Welspun Living - Shares that could face biggest heat - Livemint",
@@ -400,54 +446,33 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "KEI Industries Limited",
-      "symbol": "KEI",
+      "company": "Waterways Leisure Tourism Limited",
+      "symbol": "CORDELIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 1,
+      "confirmedNewsCount": 11,
       "gossipCount": 0,
       "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
+      "direction": "Neutral watch",
+      "predictionScore": 1.5,
       "confidence": 55,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 3646.0,
+      "riskLevel": "High",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
       "catalysts": [
         {
-          "label": "Can Trump's tariffs fast-track India-US trade deal? Jefferies decodes \u2014 KEI, Welspun, Cipla, SRF, other stocks to watch - Livemint",
-          "type": "company news",
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
           "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
+        },
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNelVybThZdHhETTlWMl9hT2xqcWV5cm9zQnlWZXBLR1NncEtiWGU1QW4xZzhnVTNyOXBkbjJoYjJfbk53VG50bEdEbC1PeEhVaWN6YXVhZjlKbGlKYWl4Z3NiTVV5TTExRlJEYkpZTExJdHFNZmw3dHhWamFYZDIxMkpVcmJTZTNieHdqV1hUeFZhRkgxOFhJcHlDdTc3UUN5ZjZfeTRGVWtLLXI2UVNXamY4RGFfMnhoRkpXVUg0c2o5VFMtX093MXYtVXVrVm44RGl6bVV0VHZLMGNmbVM4dXdMN1FraXYwS0x1S3paVzhuX21EdjdNb0lCWEdQOWNFLTQyOVBxYVNUdGdHREHSAZMCQVVfeXFMTkNjRWxOVWZrcDVzNUhnb0lZR254ZDl4dExacjR6SGw3Z2lJckFGd3B0VHNYaF92Z3BsVkphVmg5dkFpWEhyNloyZ3draTVLS05Wa01tSFBUTDZGczdoQlBKR3dvdGhmLVFXZUk0SFZaVDI3MFVyRk5lR3pRXzB2dDZTZUNac1c3WUluS01MbWVpTHYxS3dWX2h4b2xmSHZONnFsTTVzMmZkaFRoeFktcjh5YnlIOFhsTjFmdXN3NG5ZU3gwQWhkMDV1Wm5pa3RneUtGX1BjM215ZHBpN29SRFV2TERYNmwzZHZ5Q1JsMzljZTlRVXVQdEZqeFJreDJSTzd2Q3RYVTJ6ZnVFVUotWUxzWGM?oc=5",
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
           "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Latteys Industries Limited",
-      "symbol": "LATTEYS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 1,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Negative watch",
-      "predictionScore": -3.3,
-      "confidence": 55,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 17.06,
-      "catalysts": [
+        },
         {
-          "label": "Financial Results",
-          "type": "upcoming event",
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -493,42 +518,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Kfin Technologies Limited",
-      "symbol": "KFINTECH",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 7.3,
-      "confidence": 90,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 995.0,
-      "catalysts": [
-        {
-          "label": "Mahanadi Coalfields IPO allotment finalised: How to check status online on NSE, BSE, KFin Technologies; listing date, time here - Upstox",
-          "type": "corporate action",
-          "verified": true
-        },
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaHg3S2kxWFpySzVQYzJFbWZzaHBEdG9NQXU2S2Y0T2t2d05sT0ktbE9EcXVFVVQxOXotdXQtVTJ0b1lGa2l2WURHQjhMUHprUWJPbV9NWk1jaWlQVkNDb1RoOWMwQ2xCeFFWVUJiZFJkdEdnOURHWHJKYnBWbExpWEwwa2hmS3VhZGpTZDduc0djZk5VLXVyMlpWR2ZiM041Q081SF9IWnR4aWxVZnRMSU4xQWViVGs5a2ZvSnlrU0ZhVTdhMXIzOHRVYWpLV3pMVThLeXcwTl9QbXpkNWV2eDk2VnhMSC1icGNJX0lYY0kxN2lwcjhFVEJRWmNhUQ?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Fresh news and technical indicators agree."
-    },
-    {
       "company": "Siemens Limited",
       "symbol": "SIEMENS",
       "exchange": "NSE",
@@ -536,12 +525,12 @@
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 6.5,
+      "predictionScore": 6.3,
       "confidence": 90,
       "riskLevel": "Standard",
       "technicalSignal": "Neutral",
       "technicalConfidence": 33,
-      "lastClose": 3576.6,
+      "lastClose": 3581.1,
       "catalysts": [
         {
           "label": "Siemens Energy India shares pare gains post 9% rally as Q4 profit soars 82% YoY; dividend of \u20b912/share recommended - Upstox",
@@ -618,17 +607,22 @@
       "company": "LG Electronics India Limited",
       "symbol": "LGEINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 5,
+      "confirmedNewsCount": 6,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.8,
-      "confidence": 87,
+      "predictionScore": 5.7,
+      "confidence": 90,
       "riskLevel": "Medium",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 1758.1,
+      "lastClose": 1818.4,
       "catalysts": [
+        {
+          "label": "LG Electronics India falls 3% as parent launches \u20b92,320-cr stake sale - Business Standard",
+          "type": "corporate action",
+          "verified": true
+        },
         {
           "label": "LG Electronics India shares fall as 2.05% equity changes hands in block deal - CNBC TV18",
           "type": "company news",
@@ -637,11 +631,6 @@
         {
           "label": "LG Electronics India Share Price Drops 3% After \u20b92,464 Crore Block Deal Involving 2.05% Equity - Kotak Neo",
           "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
           "verified": true
         }
       ],
@@ -653,6 +642,11 @@
         }
       ],
       "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmtDN0wtaHlZTkNSLTRHeERLUU5CSTU4RG13Smc0SVdydGp5bjVob013NHFCS0RLaTJhbklDWE9mUHlfVU9TblJHMlpHRFQtMXpHWXVBRV8xR3FDMGx4cnRvbXRUVjY0X0ZoRUxNM1dlSDd2R2N6REJuVmFEcG0tSEhZc1l4Tkw3Qm1Rc21WR3RicFVqNWF1Mi10UklPcndxX2ViVjZXTGJQaFdjLWgxaXVQVWxrcUpjX3NBSEtHNTctemc0cU4yb0xNMGY3MWPSAdQBQVVfeXFMTmFtU0p1WW5CVUJlemVxVDROSkdhaEdET1hUR0s3TUxvYjd1WmgzMG1LbGhwYVBnal9yRlJ2V0pQQTZCS1RXa014QXNqN2YxcnBUcjdDNVZXc1Jxelc5WDlDbF9NbGVGTXlmdE9qdzkyckN3LWwzb1otV2V4OVRoVURETkl0ajFPdzZwMmpjazhabmY4QlBOdURnLVV5NTRJY2d1cUU3ZHVqYXd6ZzZHZmR3dFhZUWVpdGUtRWdoZzBHN3RuMW1UTzJwWHl4RFgtSUp5RkM?oc=5",
+          "verified": true
+        },
         {
           "label": "Google News India Markets",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVUFWVzJWVHluWFZqbzJ1R1RBdzRaVDR3OWlRdzlZMmk1bDNEcUY5TlpmczZWbXQ3ekpaV0FOUTd3S1ZadFdUNGlOWl9WRTlwNGtrcVdZNjNuNkFla1NNQ3VPS0dVeW90U1RXVXk1OVgwZUF6VGxKS0lKVlJCa3k0V2p2ckthRWZlVVBpalFpTzR4YWs4RkVUY0pVQWhZOG1DRDV5T0pBQXl2Yl83cjRheTdmR0FoLVZaNFNZRnhmTkZtaU9WWEtQZ0h5TWxjU015ME4yMER5YkE4UWlKQzZIRQ?oc=5",
@@ -669,7 +663,84 @@
           "verified": true
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Kfin Technologies Limited",
+      "symbol": "KFINTECH",
+      "exchange": "NSE",
+      "confirmedNewsCount": 2,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 7.2,
+      "confidence": 89,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 100,
+      "lastClose": 934.0,
+      "catalysts": [
+        {
+          "label": "Mahanadi Coalfields IPO allotment finalised: How to check status online on NSE, BSE, KFin Technologies; listing date, time here - Upstox",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "Action(s) taken or orders passed",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaHg3S2kxWFpySzVQYzJFbWZzaHBEdG9NQXU2S2Y0T2t2d05sT0ktbE9EcXVFVVQxOXotdXQtVTJ0b1lGa2l2WURHQjhMUHprUWJPbV9NWk1jaWlQVkNDb1RoOWMwQ2xCeFFWVUJiZFJkdEdnOURHWHJKYnBWbExpWEwwa2hmS3VhZGpTZDduc0djZk5VLXVyMlpWR2ZiM041Q081SF9IWnR4aWxVZnRMSU4xQWViVGs5a2ZvSnlrU0ZhVTdhMXIzOHRVYWpLV3pMVThLeXcwTl9QbXpkNWV2eDk2VnhMSC1icGNJX0lYY0kxN2lwcjhFVEJRWmNhUQ?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.3,
+      "confidence": 78,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 2060.0,
+      "catalysts": [
+        {
+          "label": "Zee Business. . STOCK OF THE DAY Buy Coforge Futures: SL 2000 SL 2050, 2075, 2100 Strong buy report from Bernstein today Buy Persistent Futures: SL 6100 SL 6250, 6325, 6400 Strong buy report from Bernstein today Buy DMart Futures: SL 3500 Tgt 36 - Facebook",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Press Release",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeHhiQnA5MEhBQVA1a3dNMWdrTEhPeUVmM0I1akVwNTBxOXlFejlmYnVZTGZYemVWYzF5M1E4QTJFS0N1ajgyTDlnNEFNMDZhd0prcE5xeGI3Z2ROS042NTZZYkhoTS1mQXJVN05PTTNvb3pBbHJob00zdlBZZGNuQ01vVXViclhsRGZKaWNHQlF3dE1hNUZWNlRCWlhPaUNmMVMzTnV0clhWckRNYXlkU3FTY1FBbWQyQnJWMHpTN01YeWVtdEh5QS0zYktfNWJ0T2pmbjZRcFhLRkVuVFJXbVlB?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Texmaco Rail & Engineering Limited",
@@ -719,10 +790,10 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 160.29,
+      "lastClose": 159.89,
       "catalysts": [
         {
-          "label": "Reserve Bank of India requires 50% cash for MTF funding - Multibagg AI",
+          "label": "iPhone 17, iPhone 17e And iPhone 16 Get Price Cuts On Amazon: Check New Prices",
           "type": "company news",
           "verified": true
         },
@@ -740,8 +811,8 @@
       "risks": [],
       "sources": [
         {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWc5MUpTTDJwNC1FZkhNTmhJbXZtNW53MmlJWk5hT3Y4TWszdE42UU9NcFdlaFRWb050OW84UmotdkJpRWtIY2w4eXpISnhCZkhpbnpHUUQtWGoxTTRrS0J2YnRyRlRvamNaTEwtcWx5VlFyWHZBQURVODhSNUlLYXFOdUxJaDdlZGZyVVdlWDVzUE4tTVI5S250NFdtaVhQQm5j?oc=5",
+          "label": "NDTV Business",
+          "url": "https://www.ndtvprofit.com/technology/iphone-17-iphone-17e-and-iphone-16-get-price-cuts-on-amazon-check-new-prices-12382072#publisher=newsstand",
           "verified": true
         }
       ],
@@ -760,7 +831,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 100,
-      "lastClose": 737.25,
+      "lastClose": 767.7,
       "catalysts": [
         {
           "label": "Trump Tariff Threat impact on Indian stocks: Gokaldas Exports to Welspun Living - Shares that could face biggest heat - Livemint",
@@ -854,23 +925,28 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "KEI Industries Limited",
-      "symbol": "KEI",
+      "company": "CARYSIL LIMITED",
+      "symbol": "CARYSIL",
       "exchange": "NSE",
       "confirmedNewsCount": 1,
-      "gossipCount": 0,
+      "gossipCount": 1,
       "horizon": "tomorrow",
       "direction": "Negative watch",
       "predictionScore": -4.8,
-      "confidence": 66,
+      "confidence": 62,
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 3646.0,
+      "lastClose": 905.15,
       "catalysts": [
         {
-          "label": "Can Trump's tariffs fast-track India-US trade deal? Jefferies decodes \u2014 KEI, Welspun, Cipla, SRF, other stocks to watch - Livemint",
+          "label": "Carysil Expands European Footprint with New Supply Agreement | Vishnu Chemicals Incorporates 50:50 JV with France's DCX Chrome | Top Buzzing Stocks Today - Equitymaster",
           "type": "company news",
+          "verified": false
+        },
+        {
+          "label": "Agreements",
+          "type": "announcement",
           "verified": true
         }
       ],
@@ -878,35 +954,10 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNelVybThZdHhETTlWMl9hT2xqcWV5cm9zQnlWZXBLR1NncEtiWGU1QW4xZzhnVTNyOXBkbjJoYjJfbk53VG50bEdEbC1PeEhVaWN6YXVhZjlKbGlKYWl4Z3NiTVV5TTExRlJEYkpZTExJdHFNZmw3dHhWamFYZDIxMkpVcmJTZTNieHdqV1hUeFZhRkgxOFhJcHlDdTc3UUN5ZjZfeTRGVWtLLXI2UVNXamY4RGFfMnhoRkpXVUg0c2o5VFMtX093MXYtVXVrVm44RGl6bVV0VHZLMGNmbVM4dXdMN1FraXYwS0x1S3paVzhuX21EdjdNb0lCWEdQOWNFLTQyOVBxYVNUdGdHREHSAZMCQVVfeXFMTkNjRWxOVWZrcDVzNUhnb0lZR254ZDl4dExacjR6SGw3Z2lJckFGd3B0VHNYaF92Z3BsVkphVmg5dkFpWEhyNloyZ3draTVLS05Wa01tSFBUTDZGczdoQlBKR3dvdGhmLVFXZUk0SFZaVDI3MFVyRk5lR3pRXzB2dDZTZUNac1c3WUluS01MbWVpTHYxS3dWX2h4b2xmSHZONnFsTTVzMmZkaFRoeFktcjh5YnlIOFhsTjFmdXN3NG5ZU3gwQWhkMDV1Wm5pa3RneUtGX1BjM215ZHBpN29SRFV2TERYNmwzZHZ5Q1JsMzljZTlRVXVQdEZqeFJreDJSTzd2Q3RYVTJ6ZnVFVUotWUxzWGM?oc=5",
-          "verified": true
+          "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPZ1kxZkw1VThaSTM0cnMtUjVQeDVCeXFkUE12cExPZHljc01vX0kxX29QdVVuM1phOVFRajYyNXB5NmR5a3ZLWWFubWlvMXpKRmxCZEZKOFpVVW1SNDljQVZfT1RxTE0tWXhqNXI2UWc1MVZVZktaeTNESnllNl8yU2o4dl90V3U5MW9rRG1PczRhWXQ0RDlCZHBMNHJvRG5EOU5sNFlVRmNIVkdtMmVMWFpSTF9TdlNMTjBuUFJiNDlOUmZKQkYzV09sLTktUVVOY0dabC0wSjZwaWFUQi1SZjlqMWg2V2tuMXFuTEJlQnBZdFlBYkNObG5NUkpKRmdDeGVVdzVDNEJ6ZjFOSjN4REYtX1RxckpKN0h0eWRsd0pYN0VzOXJtckxDbF9QMFFfcV9LRg?oc=5",
+          "verified": false
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Latteys Industries Limited",
-      "symbol": "LATTEYS",
-      "exchange": "NSE",
-      "confirmedNewsCount": 1,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Negative watch",
-      "predictionScore": -4.8,
-      "confidence": 66,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bearish",
-      "technicalConfidence": 100,
-      "lastClose": 17.06,
-      "catalysts": [
-        {
-          "label": "Financial Results",
-          "type": "upcoming event",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
