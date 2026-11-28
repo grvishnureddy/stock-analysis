@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T19:29:36+00:00",
+  "generatedAt": "2026-11-28T02:44:05+00:00",
   "method": "Heuristic ranking from recent verified news, downweighted social gossip, exchange events, and technical indicator agreement.",
   "disclaimer": "Research shortlist only. Predictions are not guaranteed and are not investment advice.",
   "today": [
@@ -42,7 +42,7 @@
       "company": "Tata Steel Limited",
       "symbol": "TATASTEEL",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Negative watch",
@@ -51,7 +51,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 163.54,
+      "lastClose": 163.94,
       "catalysts": [
         {
           "label": "Tata Steel-Apollo Deal Tests Power of India\u2019s Minority Investors - Bloomberg.com",
@@ -80,19 +80,65 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Asian Paints Limited",
-      "symbol": "ASIANPAINT",
+      "company": "LG Electronics India Limited",
+      "symbol": "LGEINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 90,
+      "predictionScore": 4.4,
+      "confidence": 79,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2543.0,
+      "technicalConfidence": 83,
+      "lastClose": 1770.9,
+      "catalysts": [
+        {
+          "label": "LG Electronics India falls 3% as parent launches \u20b92,320-cr stake sale - Business Standard",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "LG Electronics India Share Price Drops 3% After \u20b92,464 Crore Block Deal Involving 2.05% Equity - Kotak Neo",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmtDN0wtaHlZTkNSLTRHeERLUU5CSTU4RG13Smc0SVdydGp5bjVob013NHFCS0RLaTJhbklDWE9mUHlfVU9TblJHMlpHRFQtMXpHWXVBRV8xR3FDMGx4cnRvbXRUVjY0X0ZoRUxNM1dlSDd2R2N6REJuVmFEcG0tSEhZc1l4Tkw3Qm1Rc21WR3RicFVqNWF1Mi10UklPcndxX2ViVjZXTGJQaFdjLWgxaXVQVWxrcUpjX3NBSEtHNTctemc0cU4yb0xNMGY3MWPSAdQBQVVfeXFMTmFtU0p1WW5CVUJlemVxVDROSkdhaEdET1hUR0s3TUxvYjd1WmgzMG1LbGhwYVBnal9yRlJ2V0pQQTZCS1RXa014QXNqN2YxcnBUcjdDNVZXc1Jxelc5WDlDbF9NbGVGTXlmdE9qdzkyckN3LWwzb1otV2V4OVRoVURETkl0ajFPdzZwMmpjazhabmY4QlBOdURnLVV5NTRJY2d1cUU3ZHVqYXd6ZzZHZmR3dFhZUWVpdGUtRWdoZzBHN3RuMW1UTzJwWHl4RFgtSUp5RkM?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlNRZ0Q3Wlg4a2plTFNmNWZpY3VET3cyRjZUaGljbjlyWTFIU3NmVm16QXlkMm56Yy1HM0d5RHMwSV80RFh1dXhxZlZJQ0FDSWlTa2ZWZHB3SnBfdzN2T0NtWUowYlZwY0hPNmNjTFBhVUdxcjNoNDVXOTEwbWJybUdjVkE3dmpHdE9UY2trcUtXc3g3bzBkTGVrM3E3emNkV3ZPcGtUZ2tpd3c0VVp6VHBYNzdTdDJhZHg4enNZeGFOVU5VZzMw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Asian Paints Limited",
+      "symbol": "ASIANPAINT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 2.2,
+      "confidence": 74,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 2532.6,
       "catalysts": [
         {
           "label": "Asian Paints (India) slips Friday, still outperforms market - MarketWatch",
@@ -121,82 +167,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Texmaco Rail & Engineering Limited",
-      "symbol": "TEXRAIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Copy of Newspaper Publication",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "LG Electronics India Limited",
-      "symbol": "LGEINDIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Positive watch",
-      "predictionScore": 3.3,
-      "confidence": 69,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1758.1,
-      "catalysts": [
-        {
-          "label": "LG Electronics India Share Price Drops 3% After \u20b92,464 Crore Block Deal Involving 2.05% Equity - Kotak Neo",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlNRZ0Q3Wlg4a2plTFNmNWZpY3VET3cyRjZUaGljbjlyWTFIU3NmVm16QXlkMm56Yy1HM0d5RHMwSV80RFh1dXhxZlZJQ0FDSWlTa2ZWZHB3SnBfdzN2T0NtWUowYlZwY0hPNmNjTFBhVUdxcjNoNDVXOTEwbWJybUdjVkE3dmpHdE9UY2trcUtXc3g3bzBkTGVrM3E3emNkV3ZPcGtUZ2tpd3c0VVp6VHBYNzdTdDJhZHg4enNZeGFOVU5VZzMw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Jyoti Structures Limited",
       "symbol": "JYOTISTRUC",
       "exchange": "NSE",
@@ -204,8 +174,8 @@
       "gossipCount": 1,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 5.0,
-      "confidence": 62,
+      "predictionScore": 4.9,
+      "confidence": 61,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
@@ -241,16 +211,16 @@
       "company": "HDFC Bank Limited",
       "symbol": "HDFCBANK",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
+      "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "today",
       "direction": "Positive watch",
-      "predictionScore": 2.2,
-      "confidence": 60,
+      "predictionScore": 2.8,
+      "confidence": 61,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 862.0,
+      "technicalConfidence": 83,
+      "lastClose": 857.25,
       "catalysts": [
         {
           "label": "HDFC Bank Share Price Rallies Nearly 25% in November, Reclaims India's Second-Largest Market Cap Spot - Kotak Neo",
@@ -276,6 +246,41 @@
           "verified": true
         }
       ],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Texmaco Rail & Engineering Limited",
+      "symbol": "TEXRAIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 60,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
@@ -380,41 +385,6 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Waterways Leisure Tourism Limited",
-      "symbol": "CORDELIA",
-      "exchange": "NSE",
-      "confirmedNewsCount": 12,
-      "gossipCount": 0,
-      "horizon": "today",
-      "direction": "Neutral watch",
-      "predictionScore": 1.5,
-      "confidence": 55,
-      "riskLevel": "High",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Clarification - Financial Results",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Action(s) taken or orders passed",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
       "company": "Siemens Energy India Limited",
       "symbol": "ENRIN",
       "exchange": "NSE",
@@ -441,6 +411,41 @@
         },
         {
           "label": "Investor Presentation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "TechEra Engineering (India) Limited",
+      "symbol": "TECHERA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 7,
+      "gossipCount": 0,
+      "horizon": "today",
+      "direction": "Neutral watch",
+      "predictionScore": 1.5,
+      "confidence": 55,
+      "riskLevel": "High",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Cessation",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Appointment",
           "type": "announcement",
           "verified": true
         }
@@ -490,7 +495,7 @@
       "company": "Tata Steel Limited",
       "symbol": "TATASTEEL",
       "exchange": "NSE",
-      "confirmedNewsCount": 14,
+      "confirmedNewsCount": 13,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Negative watch",
@@ -499,7 +504,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bearish",
       "technicalConfidence": 100,
-      "lastClose": 163.54,
+      "lastClose": 163.94,
       "catalysts": [
         {
           "label": "Tata Steel-Apollo Deal Tests Power of India\u2019s Minority Investors - Bloomberg.com",
@@ -528,19 +533,65 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "Asian Paints Limited",
-      "symbol": "ASIANPAINT",
+      "company": "LG Electronics India Limited",
+      "symbol": "LGEINDIA",
       "exchange": "NSE",
-      "confirmedNewsCount": 7,
+      "confirmedNewsCount": 4,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 90,
+      "predictionScore": 5.6,
+      "confidence": 88,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 2543.0,
+      "technicalConfidence": 83,
+      "lastClose": 1770.9,
+      "catalysts": [
+        {
+          "label": "LG Electronics India falls 3% as parent launches \u20b92,320-cr stake sale - Business Standard",
+          "type": "corporate action",
+          "verified": true
+        },
+        {
+          "label": "LG Electronics India Share Price Drops 3% After \u20b92,464 Crore Block Deal Involving 2.05% Equity - Kotak Neo",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "Updates",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmtDN0wtaHlZTkNSLTRHeERLUU5CSTU4RG13Smc0SVdydGp5bjVob013NHFCS0RLaTJhbklDWE9mUHlfVU9TblJHMlpHRFQtMXpHWXVBRV8xR3FDMGx4cnRvbXRUVjY0X0ZoRUxNM1dlSDd2R2N6REJuVmFEcG0tSEhZc1l4Tkw3Qm1Rc21WR3RicFVqNWF1Mi10UklPcndxX2ViVjZXTGJQaFdjLWgxaXVQVWxrcUpjX3NBSEtHNTctemc0cU4yb0xNMGY3MWPSAdQBQVVfeXFMTmFtU0p1WW5CVUJlemVxVDROSkdhaEdET1hUR0s3TUxvYjd1WmgzMG1LbGhwYVBnal9yRlJ2V0pQQTZCS1RXa014QXNqN2YxcnBUcjdDNVZXc1Jxelc5WDlDbF9NbGVGTXlmdE9qdzkyckN3LWwzb1otV2V4OVRoVURETkl0ajFPdzZwMmpjazhabmY4QlBOdURnLVV5NTRJY2d1cUU3ZHVqYXd6ZzZHZmR3dFhZUWVpdGUtRWdoZzBHN3RuMW1UTzJwWHl4RFgtSUp5RkM?oc=5",
+          "verified": true
+        },
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlNRZ0Q3Wlg4a2plTFNmNWZpY3VET3cyRjZUaGljbjlyWTFIU3NmVm16QXlkMm56Yy1HM0d5RHMwSV80RFh1dXhxZlZJQ0FDSWlTa2ZWZHB3SnBfdzN2T0NtWUowYlZwY0hPNmNjTFBhVUdxcjNoNDVXOTEwbWJybUdjVkE3dmpHdE9UY2trcUtXc3g3bzBkTGVrM3E3emNkV3ZPcGtUZ2tpd3c0VVp6VHBYNzdTdDJhZHg4enNZeGFOVU5VZzMw?oc=5",
+          "verified": true
+        }
+      ],
+      "reason": "Fresh news and technical indicators agree."
+    },
+    {
+      "company": "Asian Paints Limited",
+      "symbol": "ASIANPAINT",
+      "exchange": "NSE",
+      "confirmedNewsCount": 6,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 3.2,
+      "confidence": 81,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 67,
+      "lastClose": 2532.6,
       "catalysts": [
         {
           "label": "Asian Paints (India) slips Friday, still outperforms market - MarketWatch",
@@ -569,64 +620,23 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "LG Electronics India Limited",
-      "symbol": "LGEINDIA",
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
       "exchange": "NSE",
       "confirmedNewsCount": 3,
       "gossipCount": 0,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 4.8,
-      "confidence": 80,
+      "predictionScore": 4.0,
+      "confidence": 70,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
-      "technicalConfidence": 100,
-      "lastClose": 1758.1,
+      "technicalConfidence": 83,
+      "lastClose": 857.25,
       "catalysts": [
         {
-          "label": "LG Electronics India Share Price Drops 3% After \u20b92,464 Crore Block Deal Involving 2.05% Equity - Kotak Neo",
+          "label": "HDFC Bank Share Price Rallies Nearly 25% in November, Reclaims India's Second-Largest Market Cap Spot - Kotak Neo",
           "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlNRZ0Q3Wlg4a2plTFNmNWZpY3VET3cyRjZUaGljbjlyWTFIU3NmVm16QXlkMm56Yy1HM0d5RHMwSV80RFh1dXhxZlZJQ0FDSWlTa2ZWZHB3SnBfdzN2T0NtWUowYlZwY0hPNmNjTFBhVUdxcjNoNDVXOTEwbWJybUdjVkE3dmpHdE9UY2trcUtXc3g3bzBkTGVrM3E3emNkV3ZPcGtUZ2tpd3c0VVp6VHBYNzdTdDJhZHg4enNZeGFOVU5VZzMw?oc=5",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Texmaco Rail & Engineering Limited",
-      "symbol": "TEXRAIL",
-      "exchange": "NSE",
-      "confirmedNewsCount": 5,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 77,
-      "riskLevel": "Standard",
-      "technicalSignal": "Unavailable",
-      "technicalConfidence": null,
-      "lastClose": null,
-      "catalysts": [
-        {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
           "verified": true
         },
         {
@@ -635,42 +645,7 @@
           "verified": true
         },
         {
-          "label": "Bagging/Receiving of orders/contracts",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Jyoti Structures Limited",
-      "symbol": "JYOTISTRUC",
-      "exchange": "NSE",
-      "confirmedNewsCount": 2,
-      "gossipCount": 1,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 6.0,
-      "confidence": 69,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 11.75,
-      "catalysts": [
-        {
-          "label": "Atlanta Electricals Strengthens Power Transmission Business | Jyoti Structures Secures Major Sterlite Grid Order | Top Buzzing Stocks Today - Equitymaster",
-          "type": "contract",
-          "verified": false
-        },
-        {
-          "label": "Press Release",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Bagging/Receiving of orders/contracts",
+          "label": "Change in Director(s)",
           "type": "announcement",
           "verified": true
         }
@@ -679,11 +654,11 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdktkYWZDeFhKbWlQV0UyLXZYcXdUUW5FYnNsNzhhSWdUS1Juc3NjcTczVFpjbHhSZHR0REJCU2hqakF3amFBV2tGRkpyT2ZCaWpjZjM2SkpsRUVZc3N4MmVoUnp4Zks4UFpOdU56dGdxZHVwYkMyTlhoRVlMeHowaUdTYWFoSUJTNDRhTlE5MWZjdXRBN0hrdGhIRnlNbEFKSEZEVmlYU0stSU5BRTNaT1k3Ui1ta0ZoelhZY1ZtNWthMFRMQnMtblQybDM5YnFmY29LOHlyOEg1TnpSZjIzNHpKcFBldFlYVG1kOWt2eUNmSUVzWlg3bnRtTjRBWVBlaFluYl9xcHBqVW15S1ZRUTgtOWVKMjRmd3p3ZHh2d3Blak5I?oc=5",
-          "verified": false
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVU2UHZZUXdOVjRVSlZEc2psdzhQX1RtZzd0QmtHSHJJMnZKUWRDU0ctYl82aDZZUVczdlVmSmlKNC05S21qTVlGa2tmd0UxRzRBSWpQaC1UakZMSUhjR2FEWFA1ZUtVc1ZUczcyS1o3Y0ZYV0pRbXhUSGJUZkx6bnpTSUxLWnktT0lTdWFQRVRwZ2c1alNfOW1VSUlNV0RJUWlVdDQxb0daRl9vX3RlMkZQN2c0Ym4zTHQ3cm1OVE9CbTJYZmNwaTBnODc?oc=5",
+          "verified": true
         }
       ],
-      "reason": "Fresh news and technical indicators agree."
+      "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
       "company": "CARYSIL LIMITED",
@@ -727,32 +702,32 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
-      "company": "HDFC Bank Limited",
-      "symbol": "HDFCBANK",
+      "company": "Jyoti Structures Limited",
+      "symbol": "JYOTISTRUC",
       "exchange": "NSE",
-      "confirmedNewsCount": 4,
-      "gossipCount": 0,
+      "confirmedNewsCount": 2,
+      "gossipCount": 1,
       "horizon": "tomorrow",
       "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 67,
+      "predictionScore": 5.9,
+      "confidence": 68,
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 862.0,
+      "lastClose": 11.75,
       "catalysts": [
         {
-          "label": "HDFC Bank Share Price Rallies Nearly 25% in November, Reclaims India's Second-Largest Market Cap Spot - Kotak Neo",
-          "type": "company news",
-          "verified": true
+          "label": "Atlanta Electricals Strengthens Power Transmission Business | Jyoti Structures Secures Major Sterlite Grid Order | Top Buzzing Stocks Today - Equitymaster",
+          "type": "contract",
+          "verified": false
         },
         {
-          "label": "Copy of Newspaper Publication",
+          "label": "Press Release",
           "type": "announcement",
           "verified": true
         },
         {
-          "label": "Change in Director(s)",
+          "label": "Bagging/Receiving of orders/contracts",
           "type": "announcement",
           "verified": true
         }
@@ -761,11 +736,11 @@
       "sources": [
         {
           "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVU2UHZZUXdOVjRVSlZEc2psdzhQX1RtZzd0QmtHSHJJMnZKUWRDU0ctYl82aDZZUVczdlVmSmlKNC05S21qTVlGa2tmd0UxRzRBSWpQaC1UakZMSUhjR2FEWFA1ZUtVc1ZUczcyS1o3Y0ZYV0pRbXhUSGJUZkx6bnpTSUxLWnktT0lTdWFQRVRwZ2c1alNfOW1VSUlNV0RJUWlVdDQxb0daRl9vX3RlMkZQN2c0Ym4zTHQ3cm1OVE9CbTJYZmNwaTBnODc?oc=5",
-          "verified": true
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdktkYWZDeFhKbWlQV0UyLXZYcXdUUW5FYnNsNzhhSWdUS1Juc3NjcTczVFpjbHhSZHR0REJCU2hqakF3amFBV2tGRkpyT2ZCaWpjZjM2SkpsRUVZc3N4MmVoUnp4Zks4UFpOdU56dGdxZHVwYkMyTlhoRVlMeHowaUdTYWFoSUJTNDRhTlE5MWZjdXRBN0hrdGhIRnlNbEFKSEZEVmlYU0stSU5BRTNaT1k3Ui1ta0ZoelhZY1ZtNWthMFRMQnMtblQybDM5YnFmY29LOHlyOEg1TnpSZjIzNHpKcFBldFlYVG1kOWt2eUNmSUVzWlg3bnRtTjRBWVBlaFluYl9xcHBqVW15S1ZRUTgtOWVKMjRmd3p3ZHh2d3Blak5I?oc=5",
+          "verified": false
         }
       ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
+      "reason": "Fresh news and technical indicators agree."
     },
     {
       "company": "Latteys Industries Limited",
@@ -793,6 +768,41 @@
       "reason": "Mixed news and technical evidence; monitor carefully."
     },
     {
+      "company": "Texmaco Rail & Engineering Limited",
+      "symbol": "TEXRAIL",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 4.5,
+      "confidence": 60,
+      "riskLevel": "Standard",
+      "technicalSignal": "Unavailable",
+      "technicalConfidence": null,
+      "lastClose": null,
+      "catalysts": [
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Copy of Newspaper Publication",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Bagging/Receiving of orders/contracts",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
       "company": "Biocon Limited",
       "symbol": "BIOCON",
       "exchange": "NSE",
@@ -805,7 +815,7 @@
       "riskLevel": "Standard",
       "technicalSignal": "Bullish",
       "technicalConfidence": 67,
-      "lastClose": 365.0,
+      "lastClose": 362.0,
       "catalysts": [
         {
           "label": "Kiran Mazumdar-Shaw Praises Serbian Man Who Has Been Cleaning India's Streets For 5 Years",
@@ -828,47 +838,6 @@
         {
           "label": "NDTV Business",
           "url": "https://www.ndtvprofit.com/india/kiran-mazumdar-shaw-praises-serbian-man-who-has-been-cleaning-indias-streets-for-5-years-12386462#publisher=newsstand",
-          "verified": true
-        }
-      ],
-      "reason": "Mixed news and technical evidence; monitor carefully."
-    },
-    {
-      "company": "Infosys Limited",
-      "symbol": "INFY",
-      "exchange": "NSE",
-      "confirmedNewsCount": 3,
-      "gossipCount": 0,
-      "horizon": "tomorrow",
-      "direction": "Positive watch",
-      "predictionScore": 3.2,
-      "confidence": 60,
-      "riskLevel": "Standard",
-      "technicalSignal": "Bullish",
-      "technicalConfidence": 67,
-      "lastClose": 1183.0,
-      "catalysts": [
-        {
-          "label": "Sensex Today Trades Lower | Nifty Below 25,850 | TCS & Infosys Top Losers - Equitymaster",
-          "type": "company news",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        },
-        {
-          "label": "Updates",
-          "type": "announcement",
-          "verified": true
-        }
-      ],
-      "risks": [],
-      "sources": [
-        {
-          "label": "Google News India Markets",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS29qbHZCcmtEQjRjU3R4RjFsVDlybHdHazNGcEZVRW9mazJfOG4zNWJmSzU1a0EwX2l0aGNjdWRVb0NRSllxcll0QlpSekpHTlFHbXlxSEphdHpwdVhodDVaMWlkUVRMWmxLOTVpVFpCemxYeVV6LWwwd0hyTU9RUm1sNVdXRmoyRHNENkNmMmUwZXZhNjFMYUhGSUJzOU9veEJTRzl6VEYzRnR4Ung3dGN4QVRtV3h4RnhEQ0U4UTJuWkIzZXd0b0pB?oc=5",
           "verified": true
         }
       ],
@@ -907,6 +876,47 @@
       ],
       "risks": [],
       "sources": [],
+      "reason": "Mixed news and technical evidence; monitor carefully."
+    },
+    {
+      "company": "Ashiana Housing Limited",
+      "symbol": "ASHIANA",
+      "exchange": "NSE",
+      "confirmedNewsCount": 4,
+      "gossipCount": 0,
+      "horizon": "tomorrow",
+      "direction": "Positive watch",
+      "predictionScore": 2.4,
+      "confidence": 57,
+      "riskLevel": "Standard",
+      "technicalSignal": "Bullish",
+      "technicalConfidence": 50,
+      "lastClose": 360.1,
+      "catalysts": [
+        {
+          "label": "Stocks to watch, Nov 27: Coal India, Omnitech Engg, Urban Company, NSE, Ashiana Housing, Exide Industries - Upstox",
+          "type": "company news",
+          "verified": true
+        },
+        {
+          "label": "General Updates",
+          "type": "announcement",
+          "verified": true
+        },
+        {
+          "label": "Resignation",
+          "type": "announcement",
+          "verified": true
+        }
+      ],
+      "risks": [],
+      "sources": [
+        {
+          "label": "Google News India Markets",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLXNWWGxZenVQZ1prWXhfZkhiUi1uWVhfT1VmSUROVG5adXk2RUhaVzdROFlXN21zdWZNNVNIOXdveV9PU1BOc1l5NHhZN0V1bjI1d3JRdW9MWVlpN2VWakpISjRjcWFidFRxaGxGYjFOM1poWG1DOVlwWXZDdFFjWmZNQzdvYmFFWGZhcWxDbUNzSnZlQURyeDlVTHZMbFVsRE5pTWNxZW4zaTZzNlBDdXlPOF9Tc0ZnOEpZLU9Fb2txdjFXcEMtdG05dy1vVmxISk11RE1INGxybkdGblBWNGVaQ242cEkwNDNORjR3?oc=5",
+          "verified": true
+        }
+      ],
       "reason": "Mixed news and technical evidence; monitor carefully."
     }
   ]
